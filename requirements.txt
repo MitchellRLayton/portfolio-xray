@@ -1,0 +1,6 @@
+# Python dependencies for testing and automation
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+requests>=2.31.0

@@ -1,0 +1,2914 @@
+[
+  {
+    "ticker": "FIX",
+    "name": "COMFORT SYSTEMS USA INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 1.07
+  },
+  {
+    "ticker": "CIEN",
+    "name": "CIENA CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.87
+  },
+  {
+    "ticker": "PSTG",
+    "name": "PURE STORAGE INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.84
+  },
+  {
+    "ticker": "FLEX",
+    "name": "FLEX LTD",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.71
+  },
+  {
+    "ticker": "UTHR",
+    "name": "UNITED THERAPEUTICS CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.71
+  },
+  {
+    "ticker": "COHR",
+    "name": "COHERENT CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.71
+  },
+  {
+    "ticker": "CASY",
+    "name": "CASEYS GENERAL STORES INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.67
+  },
+  {
+    "ticker": "CW",
+    "name": "CURTISS WRIGHT CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.67
+  },
+  {
+    "ticker": "ILMN",
+    "name": "ILLUMINA INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.62
+  },
+  {
+    "ticker": "TWLO",
+    "name": "TWILIO INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.61
+  },
+  {
+    "ticker": "RBA",
+    "name": "RB GLOBAL INC",
+    "sector": "Industrials",
+    "country": "Canada",
+    "weight": 0.6
+  },
+  {
+    "ticker": "GWRE",
+    "name": "GUIDEWIRE SOFTWARE INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.59
+  },
+  {
+    "ticker": "FTI",
+    "name": "TECHNIPFMC PLC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.59
+  },
+  {
+    "ticker": "SGI",
+    "name": "SOMNIGROUP INTERNATIONAL INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.58
+  },
+  {
+    "ticker": "LITE",
+    "name": "LUMENTUM HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.57
+  },
+  {
+    "ticker": "BURL",
+    "name": "BURLINGTON STORES INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.57
+  },
+  {
+    "ticker": "NTNX",
+    "name": "NUTANIX INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.57
+  },
+  {
+    "ticker": "TLN",
+    "name": "TALEN ENERGY CORP",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.56
+  },
+  {
+    "ticker": "THC",
+    "name": "TENET HEALTHCARE CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.56
+  },
+  {
+    "ticker": "ACM",
+    "name": "AECOM",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.55
+  },
+  {
+    "ticker": "NVT",
+    "name": "NVENT ELECTRIC PLC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.55
+  },
+  {
+    "ticker": "BWXT",
+    "name": "BWX TECHNOLOGIES INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.53
+  },
+  {
+    "ticker": "CRS",
+    "name": "CARPENTER TECHNOLOGY CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.53
+  },
+  {
+    "ticker": "USFD",
+    "name": "US FOODS HOLDING CORP",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.53
+  },
+  {
+    "ticker": "TRU",
+    "name": "TRANSUNION",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.51
+  },
+  {
+    "ticker": "WWD",
+    "name": "WOODWARD INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.51
+  },
+  {
+    "ticker": "XPO",
+    "name": "XPO INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.5
+  },
+  {
+    "ticker": "RGLD",
+    "name": "ROYAL GOLD INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.49
+  },
+  {
+    "ticker": "PFGC",
+    "name": "PERFORMANCE FOOD GROUP",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.49
+  },
+  {
+    "ticker": "FNF",
+    "name": "FIDELITY NATIONAL FINANCIAL INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.49
+  },
+  {
+    "ticker": "FN",
+    "name": "FABRINET",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.48
+  },
+  {
+    "ticker": "WPC",
+    "name": "W. P. CAREY REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.48
+  },
+  {
+    "ticker": "ITT",
+    "name": "ITT INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.47
+  },
+  {
+    "ticker": "JLL",
+    "name": "JONES LANG LASALLE INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "DKS",
+    "name": "DICKS SPORTING INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "RS",
+    "name": "RELIANCE STEEL & ALUMINUM",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "DT",
+    "name": "DYNATRACE INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "EWBC",
+    "name": "EAST WEST BANCORP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "NLY",
+    "name": "ANNALY CAPITAL MANAGEMENT REIT INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.46
+  },
+  {
+    "ticker": "NBIX",
+    "name": "NEUROCRINE BIOSCIENCES INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.45
+  },
+  {
+    "ticker": "APG",
+    "name": "API GROUP CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.45
+  },
+  {
+    "ticker": "OKTA",
+    "name": "OKTA INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.45
+  },
+  {
+    "ticker": "ATI",
+    "name": "ATI INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.45
+  },
+  {
+    "ticker": "CG",
+    "name": "CARLYLE GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.44
+  },
+  {
+    "ticker": "NXT",
+    "name": "NEXTPOWER INC CLASS A",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.44
+  },
+  {
+    "ticker": "OHI",
+    "name": "OMEGA HEALTHCARE INVESTORS REIT IN",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.44
+  },
+  {
+    "ticker": "RBC",
+    "name": "RBC BEARINGS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.44
+  },
+  {
+    "ticker": "DOCU",
+    "name": "DOCUSIGN INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.44
+  },
+  {
+    "ticker": "RPM",
+    "name": "RPM INTERNATIONAL INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "CACI",
+    "name": "CACI INTERNATIONAL INC CLASS A",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "GGG",
+    "name": "GRACO INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "MEDP",
+    "name": "MEDPACE HOLDINGS INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "CSL",
+    "name": "CARLISLE COMPANIES INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.42
+  },
+  {
+    "ticker": "RNR",
+    "name": "RENAISSANCERE HOLDING LTD",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.41
+  },
+  {
+    "ticker": "TOL",
+    "name": "TOLL BROTHERS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.41
+  },
+  {
+    "ticker": "GLPI",
+    "name": "GAMING AND LEISURE PROPERTIES REIT",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.41
+  },
+  {
+    "ticker": "RGA",
+    "name": "REINSURANCE GROUP OF AMERICA INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.41
+  },
+  {
+    "ticker": "LECO",
+    "name": "LINCOLN ELECTRIC HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "WCC",
+    "name": "WESCO INTERNATIONAL INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "BJ",
+    "name": "BJS WHOLESALE CLUB HOLDINGS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "UNM",
+    "name": "UNUM",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "ELS",
+    "name": "EQUITY LIFESTYLE PROPERTIES REIT I",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "SF",
+    "name": "STIFEL FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "MTZ",
+    "name": "MASTEC INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "WSO",
+    "name": "WATSCO INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "KTOS",
+    "name": "KRATOS DEFENSE AND SECURITY SOLUTI",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "MLI",
+    "name": "MUELLER INDUSTRIES INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.39
+  },
+  {
+    "ticker": "EVR",
+    "name": "EVERCORE INC CLASS A",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.38
+  },
+  {
+    "ticker": "DTM",
+    "name": "DT MIDSTREAM INC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.38
+  },
+  {
+    "ticker": "BLD",
+    "name": "TOPBUILD CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.38
+  },
+  {
+    "ticker": "EXEL",
+    "name": "EXELIXIS INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.38
+  },
+  {
+    "ticker": "TXRH",
+    "name": "TEXAS ROADHOUSE INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "EHC",
+    "name": "ENCOMPASS HEALTH CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "SNX",
+    "name": "TD SYNNEX CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "LAMR",
+    "name": "LAMAR ADVERTISING COMPANY CLAS",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "SCI",
+    "name": "SERVICE",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "ENTG",
+    "name": "ENTEGRIS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.36
+  },
+  {
+    "ticker": "WTRG",
+    "name": "ESSENTIAL UTILITIES INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.36
+  },
+  {
+    "ticker": "CCK",
+    "name": "CROWN HOLDINGS INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.36
+  },
+  {
+    "ticker": "JAZZ",
+    "name": "JAZZ PHARMACEUTICALS PLC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.36
+  },
+  {
+    "ticker": "PEN",
+    "name": "PENUMBRA INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.36
+  },
+  {
+    "ticker": "EQH",
+    "name": "EQUITABLE HOLDINGS INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "ELAN",
+    "name": "ELANCO ANIMAL HEALTH INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "CLH",
+    "name": "CLEAN HARBORS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "ALLY",
+    "name": "ALLY FINANCIAL INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "FHN",
+    "name": "FIRST HORIZON CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "AYI",
+    "name": "ACUITY INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "MANH",
+    "name": "MANHATTAN ASSOCIATES INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "BMRN",
+    "name": "BIOMARIN PHARMACEUTICAL INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "AMH",
+    "name": "AMERICAN HOMES RENT REIT CLASS A",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "NYT",
+    "name": "NEW YORK TIMES CLASS A",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "ENSG",
+    "name": "ENSIGN GROUP INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "AR",
+    "name": "ANTERO RESOURCES CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "ORI",
+    "name": "OLD REPUBLIC INTERNATIONAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.34
+  },
+  {
+    "ticker": "WMS",
+    "name": "ADVANCED DRAINAGE SYSTEMS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "STRL",
+    "name": "STERLING INFRASTRUCTURE INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "MTSI",
+    "name": "MACOM TECHNOLOGY SOLUTIONS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "OVV",
+    "name": "OVINTIV INC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "DCI",
+    "name": "DONALDSON INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "CMA",
+    "name": "COMERICA INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "COKE",
+    "name": "COCA COLA CONSOLIDATED INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "PR",
+    "name": "PERMIAN RESOURCES CORP CLASS A",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "ARMK",
+    "name": "ARAMARK",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "REXR",
+    "name": "REXFORD INDUSTRIAL REALTY REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "EGP",
+    "name": "EASTGROUP PROPERTIES REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "AFG",
+    "name": "AMERICAN FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "FYBR",
+    "name": "FRONTIER COMMUNICATIONS PARENT INC",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "AA",
+    "name": "ALCOA CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "RMBS",
+    "name": "RAMBUS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "MKSI",
+    "name": "MKS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "HLI",
+    "name": "HOULIHAN LOKEY INC CLASS A",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "GMED",
+    "name": "GLOBUS MEDICAL INC CLASS A",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "SATS",
+    "name": "ECHOSTAR CORP CLASS A",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "TTEK",
+    "name": "TETRA TECH INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "RRC",
+    "name": "RANGE RESOURCES CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "AIT",
+    "name": "APPLIED INDUSTRIAL TECHNOLOGIES IN",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "WBS",
+    "name": "WEBSTER FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "GTLS",
+    "name": "CHART INDUSTRIES INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "AVAV",
+    "name": "AEROVIRONMENT INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "DINO",
+    "name": "HF SINCLAIR CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "OGE",
+    "name": "OGE ENERGY CORP",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "HQY",
+    "name": "HEALTHEQUITY INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "LSCC",
+    "name": "LATTICE SEMICONDUCTOR CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "ROIV",
+    "name": "ROIVANT SCIENCES LTD",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "JEF",
+    "name": "JEFFERIES FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "CR",
+    "name": "CRANE",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "KNSL",
+    "name": "KINSALE CAPITAL GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "SSB",
+    "name": "SOUTHSTATE BANK CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "PLNT",
+    "name": "PLANET FITNESS INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "CNM",
+    "name": "CORE & MAIN INC CLASS A",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "RRX",
+    "name": "REGAL REXNORD CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "FLS",
+    "name": "FLOWSERVE CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "CNH",
+    "name": "CNH INDUSTRIAL N.V. NV",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "GME",
+    "name": "GAMESTOP CORP CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "WTFC",
+    "name": "WINTRUST FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "PRI",
+    "name": "PRIMERICA INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "ALV",
+    "name": "AUTOLIV INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "OC",
+    "name": "OWENS CORNING",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "CUBE",
+    "name": "CUBESMART REIT",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "HALO",
+    "name": "HALOZYME THERAPEUTICS INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "ADC",
+    "name": "AGREE REALTY REIT CORP",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "AAL",
+    "name": "AMERICAN AIRLINES GROUP INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "FIVE",
+    "name": "FIVE BELOW INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "RGEN",
+    "name": "REPLIGEN CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.27
+  },
+  {
+    "ticker": "BRX",
+    "name": "BRIXMOR PROPERTY GROUP REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "SFM",
+    "name": "SPROUTS FARMERS MARKET INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "CYTK",
+    "name": "CYTOKINETICS INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "MP",
+    "name": "MP MATERIALS CORP CLASS A",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "ATR",
+    "name": "APTARGROUP INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "OSK",
+    "name": "OSHKOSH CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "NNN",
+    "name": "NNN REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "CFR",
+    "name": "CULLEN FROST BANKERS INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "COLB",
+    "name": "COLUMBIA BANKING SYSTEM INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "CHWY",
+    "name": "CHEWY INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "WAL",
+    "name": "WESTERN ALLIANCE",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "VMI",
+    "name": "VALMONT INDS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "CART",
+    "name": "MAPLEBEAR INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "AVTR",
+    "name": "AVANTOR INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "LAD",
+    "name": "LITHIA MOTORS INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "UGI",
+    "name": "UGI CORP",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "HIMS",
+    "name": "HIMS HERS HEALTH INC CLASS A",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "OLLI",
+    "name": "OLLIES BARGAIN OUTLET HOLDINGS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "UMBF",
+    "name": "UMB FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "FR",
+    "name": "FIRST INDUSTRIAL REALTY TRUST INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "SEIC",
+    "name": "SEI INVESTMENTS",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "NFG",
+    "name": "NATIONAL FUEL GAS",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "WTS",
+    "name": "WATTS WATER TECHNOLOGIES INC CLASS",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "ACI",
+    "name": "ALBERTSONS COMPANY INC CLASS A",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "ZION",
+    "name": "ZIONS BANCORPORATION",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "STAG",
+    "name": "STAG INDUSTRIAL REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "AMG",
+    "name": "AFFILIATED MANAGERS GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "G",
+    "name": "GENPACT LTD",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "CHDN",
+    "name": "CHURCHILL DOWNS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "SAIA",
+    "name": "SAIA INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "DUOL",
+    "name": "DUOLINGO INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "ONB",
+    "name": "OLD NATIONAL BANCORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "INGR",
+    "name": "INGREDION INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "IDA",
+    "name": "IDACORP INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "TTC",
+    "name": "TORO",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "KNX",
+    "name": "KNIGHT-SWIFT TRANSPORTATION HOLDIN",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "R",
+    "name": "RYDER SYSTEM INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "VOYA",
+    "name": "VOYA FINANCIAL INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "FLR",
+    "name": "FLUOR CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "MASI",
+    "name": "MASIMO CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "PNFP",
+    "name": "PINNACLE FINANCIAL PARTNERS INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "SSD",
+    "name": "SIMPSON MANUFACTURING INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "ORA",
+    "name": "ORMAT TECH INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "EXP",
+    "name": "EAGLE MATERIALS INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CELH",
+    "name": "CELSIUS HOLDINGS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "THG",
+    "name": "HANOVER INSURANCE GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CMC",
+    "name": "COMMERCIAL METALS",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "PCTY",
+    "name": "PAYLOCITY HOLDING CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "MUSA",
+    "name": "MURPHY USA INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "DOCS",
+    "name": "DOXIMITY INC CLASS A",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CBSH",
+    "name": "COMMERCE BANCSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "WING",
+    "name": "WINGSTOP INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "XTSLA",
+    "name": "BLK CSH FND TREASURY SL AGENCY",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "RYAN",
+    "name": "RYAN SPECIALTY HOLDINGS INC CLASS",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "HR",
+    "name": "HEALTHCARE REALTY TRUST INC CLASS",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "MTG",
+    "name": "MGIC INVESTMENT CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "FAF",
+    "name": "FIRST AMERICAN FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CLF",
+    "name": "CLEVELAND CLIFFS INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CHE",
+    "name": "CHEMED CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "AGCO",
+    "name": "AGCO CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "H",
+    "name": "HYATT HOTELS CORP CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "EXLS",
+    "name": "EXLSERVICE HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "SNV",
+    "name": "SYNOVUS FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "FND",
+    "name": "FLOOR DECOR HOLDINGS INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "PB",
+    "name": "PROSPERITY BANCSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "BSY",
+    "name": "BENTLEY SYSTEMS INC CLASS B",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "VNOM",
+    "name": "VIPER ENERGY INC CLASS A",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "AAON",
+    "name": "AAON INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "ESAB",
+    "name": "ESAB CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "STWD",
+    "name": "STARWOOD PROPERTY TRUST REIT INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "ONTO",
+    "name": "ONTO INNOVATION INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "FCFS",
+    "name": "FIRSTCASH HOLDINGS INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "AXTA",
+    "name": "AXALTA COATING SYSTEMS LTD",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "MAT",
+    "name": "MATTEL INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "CGNX",
+    "name": "COGNEX CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "KEX",
+    "name": "KIRBY CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "ESNT",
+    "name": "ESSENT GROUP LTD",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "AM",
+    "name": "ANTERO MIDSTREAM CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "HRB",
+    "name": "H&R BLOCK INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "CRUS",
+    "name": "CIRRUS LOGIC INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "RLI",
+    "name": "RLI CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "NEU",
+    "name": "NEWMARKET CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "LFUS",
+    "name": "LITTELFUSE INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "MSA",
+    "name": "MSA SAFETY INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "TMHC",
+    "name": "TAYLOR MORRISON HOME CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "HXL",
+    "name": "HEXCEL CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "CADE",
+    "name": "CADENCE BANK",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "NOV",
+    "name": "NOV INC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "BIO",
+    "name": "BIO RAD LABORATORIES INC CLASS A",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "SLM",
+    "name": "SLM CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "AN",
+    "name": "AUTONATION INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "DAR",
+    "name": "DARLING INGREDIENTS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "FNB",
+    "name": "FNB CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "GXO",
+    "name": "GXO LOGISTICS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "TXNM",
+    "name": "TXNM ENERGY INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "KD",
+    "name": "KYNDRYL HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "WH",
+    "name": "WYNDHAM HOTELS RESORTS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "LEA",
+    "name": "LEAR CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "DBX",
+    "name": "DROPBOX INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "CVLT",
+    "name": "COMMVAULT SYSTEMS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "GATX",
+    "name": "GATX CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "FBIN",
+    "name": "FORTUNE BRANDS INNOVATIONS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "GAP",
+    "name": "GAP INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "ARW",
+    "name": "ARROW ELECTRONICS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "VNO",
+    "name": "VORNADO REALTY TRUST REIT",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "POR",
+    "name": "PORTLAND GENERAL ELECTRIC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "NXST",
+    "name": "NEXSTAR MEDIA GROUP INC",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "MIDD",
+    "name": "MIDDLEBY CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "M",
+    "name": "MACYS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "JHG",
+    "name": "JANUS HENDERSON GROUP PLC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "CHRD",
+    "name": "CHORD ENERGY CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "CNX",
+    "name": "CNX RESOURCES CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "KBR",
+    "name": "KBR INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "MTN",
+    "name": "VAIL RESORTS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "APPF",
+    "name": "APPFOLIO INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "UFPI",
+    "name": "UFP INDUSTRIES INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "GBCI",
+    "name": "GLACIER BANCORP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "MORN",
+    "name": "MORNINGSTAR INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "WFRD",
+    "name": "WEATHERFORD INTERNATIONAL PLC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "BKH",
+    "name": "BLACK HILLS CORP",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "POST",
+    "name": "POST HOLDINGS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "FCN",
+    "name": "FTI CONSULTING INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "THO",
+    "name": "THOR INDUSTRIES INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "SWX",
+    "name": "SOUTHWEST GAS HOLDINGS INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "VNT",
+    "name": "VONTIER CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "SR",
+    "name": "SPIRE INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "ENS",
+    "name": "ENERSYS",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "HLNE",
+    "name": "HAMILTON LANE INC CLASS A",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "VLY",
+    "name": "VALLEY NATIONAL",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "PEGA",
+    "name": "PEGASYSTEMS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "QLYS",
+    "name": "QUALYS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "UBSI",
+    "name": "UNITED BANKSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "OLED",
+    "name": "UNIVERSAL DISPLAY CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "KRG",
+    "name": "KITE REALTY GROUP TRUST REIT",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "GNTX",
+    "name": "GENTEX CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "OGS",
+    "name": "ONE GAS INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "HOMB",
+    "name": "HOME BANCSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "MTDR",
+    "name": "MATADOR RESOURCES",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "HWC",
+    "name": "HANCOCK WHITNEY CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "SIGI",
+    "name": "SELECTIVE INSURANCE GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "VFC",
+    "name": "VF CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "LPX",
+    "name": "LOUISIANA PACIFIC CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "BRKR",
+    "name": "BRUKER CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "TKR",
+    "name": "TIMKEN",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "BYD",
+    "name": "BOYD GAMING CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "WEX",
+    "name": "WEX INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "NJR",
+    "name": "NEW JERSEY RESOURCES CORP",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "OPCH",
+    "name": "OPTION CARE HEALTH INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "GPK",
+    "name": "GRAPHIC PACKAGING HOLDING",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "OZK",
+    "name": "BANK OZK",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "LOPE",
+    "name": "GRAND CANYON EDUCATION INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BCO",
+    "name": "BRINKS",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "KRC",
+    "name": "KILROY REALTY REIT CORP",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "SBRA",
+    "name": "SABRA HEALTH CARE REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "ALK",
+    "name": "ALASKA AIR GROUP INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "CAVA",
+    "name": "CAVA GROUP INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BBWI",
+    "name": "BATH AND BODY WORKS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "MMS",
+    "name": "MAXIMUS INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "FOUR",
+    "name": "SHIFT4 PAYMENTS INC CLASS A",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BILL",
+    "name": "BILL HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "PSN",
+    "name": "PARSONS CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "WMG",
+    "name": "WARNER MUSIC GROUP CORP CLASS A",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "ELF",
+    "name": "ELF BEAUTY INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "LSTR",
+    "name": "LANDSTAR SYSTEM INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "BDC",
+    "name": "BELDEN INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CUZ",
+    "name": "COUSINS PROPERTIES REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CROX",
+    "name": "CROCS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "ST",
+    "name": "SENSATA TECHNOLOGIES HOLDING PLC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "MUR",
+    "name": "MURPHY OIL CORP",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "SAIC",
+    "name": "SCIENCE APPLICATIONS INTERNATIONAL",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "NWE",
+    "name": "NORTHWESTERN ENERGY GROUP INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "BC",
+    "name": "BRUNSWICK CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "TNL",
+    "name": "TRAVEL LEISURE",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "ASB",
+    "name": "ASSOCIATED BANCORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "VVV",
+    "name": "VALVOLINE INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "DLB",
+    "name": "DOLBY LABORATORIES INC CLASS A",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "KBH",
+    "name": "KB HOME",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "SON",
+    "name": "SONOCO PRODUCTS",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "FFIN",
+    "name": "FIRST FINANCIAL BANKSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "ALE",
+    "name": "ALLETE INC",
+    "sector": "Utilities",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "CNO",
+    "name": "CNO FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "MSM",
+    "name": "MSC INDUSTRIAL INC CLASS A",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "EPR",
+    "name": "EPR PROPERTIES REIT",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "KNF",
+    "name": "KNIFE RIVER CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "TCBI",
+    "name": "TEXAS CAPITAL BANCSHARES INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "WHR",
+    "name": "WHIRLPOOL CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "SLAB",
+    "name": "SILICON LABORATORIES INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "IRT",
+    "name": "INDEPENDENCE REALTY INC TRUST",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "AVT",
+    "name": "AVNET INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "BHF",
+    "name": "BRIGHTHOUSE FINANCIAL INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "VAL",
+    "name": "VALARIS LTD",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "LNTH",
+    "name": "LANTHEUS HOLDINGS INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "GHC",
+    "name": "GRAHAM HOLDINGS COMPANY CLASS B",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "HAE",
+    "name": "HAEMONETICS CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "NOVT",
+    "name": "NOVANTA INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "FHI",
+    "name": "FEDERATED HERMES INC CLASS B",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "PVH",
+    "name": "PVH CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "AMKR",
+    "name": "AMKOR TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "EXPO",
+    "name": "EXPONENT INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "MZTI",
+    "name": "MARZETTI",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "IBOC",
+    "name": "INTERNATIONAL BANCSHARES CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "SLGN",
+    "name": "SILGAN HOLDINGS INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "PII",
+    "name": "POLARIS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "TREX",
+    "name": "TREX INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ANF",
+    "name": "ABERCROMBIE AND FITCH CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "BRBR",
+    "name": "BELLRING BRANDS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "CDP",
+    "name": "COPT DEFENSE PROPERTIES",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "FLG",
+    "name": "FLAGSTAR BANK NATIONAL ASSOCIATION",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "PBF",
+    "name": "PBF ENERGY INC CLASS A",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "CBT",
+    "name": "CABOT CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "NVST",
+    "name": "ENVISTA HOLDINGS CORP",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "SHC",
+    "name": "SOTERA HEALTH COMPANY",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "YETI",
+    "name": "YETI HOLDINGS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "LIVN",
+    "name": "LIVANOVA PLC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "RYN",
+    "name": "RAYONIER REIT INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "TEX",
+    "name": "TEREX CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "PAG",
+    "name": "PENSKE AUTOMOTIVE GROUP VOTING INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "HOG",
+    "name": "HARLEY DAVIDSON INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ALGM",
+    "name": "ALLEGRO MICROSYSTEMS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "EEFT",
+    "name": "EURONET WORLDWIDE INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "VC",
+    "name": "VISTEON CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "CXT",
+    "name": "CRANE NXT",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "PCH",
+    "name": "POTLATCHDELTIC CORP",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "GTM",
+    "name": "ZOOMINFO TECHNOLOGIES INC",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "CPRI",
+    "name": "CAPRI HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "AVNT",
+    "name": "AVIENT CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SMG",
+    "name": "SCOTTS MIRACLE GRO",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "CIVI",
+    "name": "CIVITAS RESOURCES INC",
+    "sector": "Energy",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "FLO",
+    "name": "FLOWERS FOODS INC",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "KMPR",
+    "name": "KEMPER CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "SYNA",
+    "name": "SYNAPTICS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "HGV",
+    "name": "HILTON GRAND VACATIONS INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ASH",
+    "name": "ASHLAND INC",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "GT",
+    "name": "GOODYEAR TIRE & RUBBER",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "OLN",
+    "name": "OLIN CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CAR",
+    "name": "AVIS BUDGET GROUP INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "RH",
+    "name": "RH",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "EQH",
+    "name": "EQUITABLE HOLDINGS INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLKB",
+    "name": "BLACKBAUD INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "NSA",
+    "name": "NATIONAL STORAGE AFFILIATES TRUST",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "XRAY",
+    "name": "DENTSPLY SIRONA INC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "PK",
+    "name": "PARK HOTELS RESORTS INC",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "WLK",
+    "name": "WESTLAKE CORP",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IPGP",
+    "name": "IPG PHOTONICS CORP",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CHH",
+    "name": "CHOICE HOTELS INTERNATIONAL INC",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PRGO",
+    "name": "PERRIGO PLC",
+    "sector": "Health Care",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ASGN",
+    "name": "ASGN INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "POWI",
+    "name": "POWER INTEGRATIONS INC",
+    "sector": "Information Technology",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IRDM",
+    "name": "IRIDIUM COMMUNICATIONS INC",
+    "sector": "Communication",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PPC",
+    "name": "PILGRIMS PRIDE CORP",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GEF",
+    "name": "GREIF INC CLASS A",
+    "sector": "Materials",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SAM",
+    "name": "BOSTON BEER INC CLASS A",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "CNXC",
+    "name": "CONCENTRIX CORP",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "COLM",
+    "name": "COLUMBIA SPORTSWEAR",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CADE",
+    "name": "CADENCE BANK",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAC",
+    "name": "MARRIOTT VACATIONS WORLDWIDE CORP",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "COTY",
+    "name": "COTY INC CLASS A",
+    "sector": "Consumer Staples",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NSP",
+    "name": "INSPERITY INC",
+    "sector": "Industrials",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "UAA",
+    "name": "UNDER ARMOUR INC CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UA",
+    "name": "UNDER ARMOUR INC CLASS C",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UBFUT",
+    "name": "CASH COLLATERAL USD UBFUT",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HSBBK",
+    "name": "CASH COLLATERAL USD HSBSW",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "-",
+    "name": "RAYONIER INC CASH ACCRUAL 2",
+    "sector": "Real Estate",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GSISW",
+    "name": "CASH COLLATERAL USD GSISW",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JPMSW",
+    "name": "CASH COLLATERAL USD JPMSW",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_USD",
+    "name": "ETD USD BALANCE WITH R30382",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALLY",
+    "name": "ALLY FINANCIAL INC",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FAF",
+    "name": "FIRST AMERICAN FINANCIAL CORP",
+    "sector": "Financials",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FAZ5",
+    "name": "S&P MID 400 EMINI DEC 25",
+    "sector": "Cash and/or Derivatives",
+    "country": "-",
+    "weight": 0.0
+  },
+  {
+    "ticker": "USD",
+    "name": "USD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "\u00a0",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  },
+  {
+    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  }
+]

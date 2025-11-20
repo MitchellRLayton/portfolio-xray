@@ -1,0 +1,42087 @@
+if (!window.ETF_HOLDINGS) window.ETF_HOLDINGS = {};
+window.ETF_HOLDINGS['VWO'] = [
+  {
+    "ticker": "2330",
+    "name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 10.69
+  },
+  {
+    "ticker": "700",
+    "name": "Tencent Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 4.58
+  },
+  {
+    "ticker": "9988",
+    "name": "Alibaba Group Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 3.47
+  },
+  {
+    "ticker": "HDFCBANK",
+    "name": "HDFC Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 1.15
+  },
+  {
+    "ticker": "RELIANCE",
+    "name": "Reliance Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 1.04
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.93
+  },
+  {
+    "ticker": "2317",
+    "name": "Hon Hai Precision Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.92
+  },
+  {
+    "ticker": "1810",
+    "name": "Xiaomi Corp. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.87
+  },
+  {
+    "ticker": "939",
+    "name": "China Construction Bank Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.87
+  },
+  {
+    "ticker": "ICICIBANK",
+    "name": "ICICI Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.73
+  },
+  {
+    "ticker": "3690",
+    "name": "Meituan Dianping Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.64
+  },
+  {
+    "ticker": "BHARTIARTL",
+    "name": "Bharti Airtel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.6
+  },
+  {
+    "ticker": "2454",
+    "name": "MediaTek Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.57
+  },
+  {
+    "ticker": "2308",
+    "name": "Delta Electronics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.56
+  },
+  {
+    "ticker": "1398",
+    "name": "Industrial & Commercial Bank of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.56
+  },
+  {
+    "ticker": "INFY",
+    "name": "Infosys Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.53
+  },
+  {
+    "ticker": "NPN",
+    "name": "Naspers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.51
+  },
+  {
+    "ticker": "1120",
+    "name": "Al Rajhi Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.5
+  },
+  {
+    "ticker": "9999",
+    "name": "NetEase Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.47
+  },
+  {
+    "ticker": "1211",
+    "name": "BYD Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "2318",
+    "name": "Ping An Insurance Group Co. of China Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.43
+  },
+  {
+    "ticker": "9961",
+    "name": "Trip.com Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "VALE3",
+    "name": "Vale SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.4
+  },
+  {
+    "ticker": "9618",
+    "name": "JD.com Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.38
+  },
+  {
+    "ticker": "2222",
+    "name": "Saudi Arabian Oil Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.37
+  },
+  {
+    "ticker": "3988",
+    "name": "Bank of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.35
+  },
+  {
+    "ticker": "M&M",
+    "name": "Mahindra & Mahindra Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.33
+  },
+  {
+    "ticker": "TCS",
+    "name": "Tata Consultancy Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.32
+  },
+  {
+    "ticker": "GFI",
+    "name": "Gold Fields Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "ANG",
+    "name": "Anglogold Ashanti plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.31
+  },
+  {
+    "ticker": "9888",
+    "name": "Baidu Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "BAJFINANCE",
+    "name": "Bajaj Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "ITUB4",
+    "name": "Itau Unibanco Holding SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.3
+  },
+  {
+    "ticker": "KFH",
+    "name": "Kuwait Finance House KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "AXISBANK",
+    "name": "Axis Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.29
+  },
+  {
+    "ticker": "1180",
+    "name": "Saudi National Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "LT",
+    "name": "Larsen & Toubro Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.28
+  },
+  {
+    "ticker": "NBK",
+    "name": "National Bank of Kuwait SAKP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.26
+  },
+  {
+    "ticker": "GFNORTEO",
+    "name": "Grupo Financiero Banorte SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.25
+  },
+  {
+    "ticker": "3711",
+    "name": "ASE Technology Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "1024",
+    "name": "Kuaishou Technology",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.24
+  },
+  {
+    "ticker": "2382",
+    "name": "Quanta Computer Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "FSR",
+    "name": "FirstRand Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "BBCA",
+    "name": "Bank Central Asia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "2899",
+    "name": "Zijin Mining Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.23
+  },
+  {
+    "ticker": "GMEXICOB",
+    "name": "Grupo Mexico SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "HINDUNILVR",
+    "name": "Hindustan Unilever Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "2881",
+    "name": "Fubon Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "PETR4",
+    "name": "Petroleo Brasileiro SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "EMAAR",
+    "name": "Emaar Properties PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "2891",
+    "name": "CTBC Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "MARUTI",
+    "name": "Maruti Suzuki India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "3968",
+    "name": "China Merchants Bank Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.22
+  },
+  {
+    "ticker": "2628",
+    "name": "China Life Insurance Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "1288",
+    "name": "Agricultural Bank of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "1211",
+    "name": "Saudi Arabian Mining Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "7010",
+    "name": "Saudi Telecom Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.21
+  },
+  {
+    "ticker": "OTP",
+    "name": "OTP Bank Nyrt",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "QNBK",
+    "name": "Qatar National Bank QPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "PETR3",
+    "name": "Petroleo Brasileiro SA - Petrobras",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "857",
+    "name": "PetroChina Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.2
+  },
+  {
+    "ticker": "FAB",
+    "name": "First Abu Dhabi Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.19
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "name": "Sun Pharmaceutical Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "2882",
+    "name": "Cathay Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "SBK",
+    "name": "Standard Bank Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.18
+  },
+  {
+    "ticker": "DELTA-F",
+    "name": "Delta Electronics Thailand PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "9992",
+    "name": "Pop Mart International Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "6160",
+    "name": "BeOne Medicines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "CPI",
+    "name": "Capitec Bank Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "EAND",
+    "name": "Emirates Telecommunications Group Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "HCLTECH",
+    "name": "HCL Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.17
+  },
+  {
+    "ticker": "NTPC",
+    "name": "NTPC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "AMXB",
+    "name": "America Movil SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "1801",
+    "name": "Innovent Biologics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "MAYBANK",
+    "name": "Malayan Banking Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "1088",
+    "name": "China Shenhua Energy Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "2345",
+    "name": "Accton Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "BEL",
+    "name": "Bharat Electronics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.16
+  },
+  {
+    "ticker": "TATASTEEL",
+    "name": "Tata Steel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "WALMEX*",
+    "name": "Wal-Mart de Mexico SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "FEMSAUBD",
+    "name": "Fomento Economico Mexicano SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "SBIN",
+    "name": "State Bank of India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "VAL",
+    "name": "Valterra Platinum Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "2328",
+    "name": "PICC Property & Casualty Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "9868",
+    "name": "XPeng Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "MTN",
+    "name": "MTN Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "2269",
+    "name": "Wuxi Biologics Cayman Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "ULTRACEMCO",
+    "name": "UltraTech Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "ETERNAL",
+    "name": "Eternal Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BBDC4",
+    "name": "Banco Bradesco SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "BBRI",
+    "name": "Bank Rakyat Indonesia Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "2886",
+    "name": "Mega Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "TITAN",
+    "name": "Titan Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CEMEXCPO",
+    "name": "Cemex SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "2357",
+    "name": "Asustek Computer Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.14
+  },
+  {
+    "ticker": "3017",
+    "name": "Asia Vital Components Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2884",
+    "name": "E.Sun Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "PBBANK",
+    "name": "Public Bank Bhd. (Local)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "POWERGRID",
+    "name": "Power Grid Corp. of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2010",
+    "name": "Saudi Basic Industries Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "3231",
+    "name": "Wistron Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2082",
+    "name": "ACWA Power Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "6669",
+    "name": "Wiwynn Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "CIMB",
+    "name": "CIMB Group Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "ITC",
+    "name": "ITC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "TENAGA",
+    "name": "Tenaga Nasional Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "HINDALCO",
+    "name": "Hindalco Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "EMIRATESNB",
+    "name": "Emirates NBD Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2303",
+    "name": "United Microelectronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.13
+  },
+  {
+    "ticker": "175",
+    "name": "Geely Automobile Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "9987",
+    "name": "Yum China Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "2020",
+    "name": "ANTA Sports Products Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "9866",
+    "name": "NIO Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.12
+  },
+  {
+    "ticker": "2412",
+    "name": "Chunghwa Telecom Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2015",
+    "name": "Li Auto Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "1216",
+    "name": "Uni-President Enterprises Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ITSA4",
+    "name": "Itausa - Investimentos Itau SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2327",
+    "name": "Yageo Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ETE",
+    "name": "National Bank of Greece SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "BMRI",
+    "name": "Bank Mandiri Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "B3SA3",
+    "name": "B3 SA - Brasil Bolsa Balcao",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "QIBK",
+    "name": "Qatar Islamic Bank QPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2885",
+    "name": "Yuanta Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "386",
+    "name": "China Petroleum & Chemical Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2383",
+    "name": "Elite Material Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ADANIPORTS",
+    "name": "Adani Ports & Special Economic Zone Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "INDIGO",
+    "name": "InterGlobe Aviation Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "9633",
+    "name": "Nongfu Spring Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "JSWSTEEL",
+    "name": "JSW Steel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ELET3",
+    "name": "Centrais Eletricas Brasileiras SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "PTT-F",
+    "name": "PTT PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "WEGE3",
+    "name": "WEG SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.11
+  },
+  {
+    "ticker": "GRASIM",
+    "name": "Grasim Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ASIANPAINT",
+    "name": "Asian Paints Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ADCB",
+    "name": "Abu Dhabi Commercial Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2301",
+    "name": "Lite-On Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ONGC",
+    "name": "Oil & Natural Gas Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "BEKE",
+    "name": "KE Holdings Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "TME",
+    "name": "Tencent Music Entertainment Group ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2887",
+    "name": "TS Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "300750",
+    "name": "Contemporary Amperex Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "JIOFIN",
+    "name": "Jio Financial Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "1010",
+    "name": "Riyad Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "BPAC11",
+    "name": "Banco BTG Pactual SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "EICHERMOT",
+    "name": "Eicher Motors Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "SHRIRAMFIN",
+    "name": "Shriram Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2601",
+    "name": "China Pacific Insurance Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "1109",
+    "name": "China Resources Land Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.1
+  },
+  {
+    "ticker": "YMM",
+    "name": "Full Truck Alliance Co. Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ABEV3",
+    "name": "Ambev SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "NESTLEIND",
+    "name": "Nestle India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "1378",
+    "name": "China Hongqiao Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2892",
+    "name": "First Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "TECHM",
+    "name": "Tech Mahindra Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "HAL",
+    "name": "Hindustan Aeronautics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ADVANC-F",
+    "name": "Advanced Info Service PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "COALINDIA",
+    "name": "Coal India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2890",
+    "name": "SinoPac Financial Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "9926",
+    "name": "Akeso Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ICT",
+    "name": "International Container Terminal Services Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "EMBR3",
+    "name": "Embraer SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2360",
+    "name": "Chroma ATE Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "9660",
+    "name": "Horizon Robotics",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "DIVISLAB",
+    "name": "Divi's Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "IMP",
+    "name": "Impala Platinum Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "MAXHEALTH",
+    "name": "Max Healthcare Institute Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "TRENT",
+    "name": "Trent Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "600519",
+    "name": "Kweichow Moutai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "TMPV",
+    "name": "Tata Motors Passenger Vehicles Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SBILIFE",
+    "name": "SBI Life Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "CIPLA",
+    "name": "Cipla Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ALDAR",
+    "name": "Aldar Properties PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "EUROB",
+    "name": "Eurobank Ergasias Services and Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ADANIPOWER",
+    "name": "Adani Power Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TVSMOTOR",
+    "name": "TVS Motor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "9901",
+    "name": "New Oriental Education & Technology Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "HAR",
+    "name": "Harmony Gold Mining Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "SBSP3",
+    "name": "Cia de Saneamento Basico do Estado de Sao Paulo SABESP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "BAJAJFINSV",
+    "name": "Bajaj Finserv Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "VEDL",
+    "name": "Vedanta Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "3661",
+    "name": "Alchip Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1177",
+    "name": "Sino Biopharmaceutical Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "2880",
+    "name": "Hua Nan Financial Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "9626",
+    "name": "Bilibili Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ABG",
+    "name": "Absa Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1060",
+    "name": "Saudi Awwal Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "998",
+    "name": "China CITIC Bank Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "GAPB",
+    "name": "Grupo Aeroportuario del Pacifico SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "CEZ",
+    "name": "Cez As",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "KBANK-F",
+    "name": "Kasikornbank PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1150",
+    "name": "Alinma Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "AC*",
+    "name": "Arca Continental SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TATACONSUM",
+    "name": "Tata Consumer Products Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TLKM",
+    "name": "Telkom Indonesia Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TPEIR",
+    "name": "Piraeus Financial Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "SLM",
+    "name": "Sanlam Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "BID",
+    "name": "Bid Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ALPHA",
+    "name": "Alpha Bank SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "3993",
+    "name": "China Molybdenum Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2057",
+    "name": "ZTO Express Cayman Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "6618",
+    "name": "JD Health International Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2883",
+    "name": "KGI Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "20",
+    "name": "SenseTime Group Inc. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2379",
+    "name": "Realtek Semiconductor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "HEROMOTOCO",
+    "name": "Hero MotoCorp Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "5880",
+    "name": "Taiwan Cooperative Financial Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CHOLAFIN",
+    "name": "Cholamandalam Investment and Finance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2449",
+    "name": "King Yuan Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BPCL",
+    "name": "Bharat Petroleum Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "3665",
+    "name": "Bizlink Holding Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1093",
+    "name": "CSPC Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "RDOR3",
+    "name": "Rede D'Or Sao Luiz SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SHP",
+    "name": "Shoprite Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "PE&OLES*",
+    "name": "Industrias Penoles SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1339",
+    "name": "People's Insurance Co. Group of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CHILE",
+    "name": "Banco de Chile",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "HDFCLIFE",
+    "name": "HDFC Life Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BRITANNIA",
+    "name": "Britannia Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CPALL-F",
+    "name": "CP ALL PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "TATAPOWER",
+    "name": "Tata Power Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "267",
+    "name": "CITIC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2020",
+    "name": "SABIC Agri-Nutrients Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1179",
+    "name": "H World Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "6690",
+    "name": "Haier Smart Home Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1519",
+    "name": "J&T Global Express Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "DIB",
+    "name": "Dubai Islamic Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2059",
+    "name": "King Slide Works Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ASII",
+    "name": "Astra International Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "4013",
+    "name": "Dr Sulaiman Al Habib Medical Services Group Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "600519",
+    "name": "Kweichow Moutai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SSW",
+    "name": "Sibanye Stillwater Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ADANIENT",
+    "name": "Adani Enterprises Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SUZLON",
+    "name": "Suzlon Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.07
+  },
+  {
+    "ticker": "VBL",
+    "name": "Varun Beverages Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "INDHOTEL",
+    "name": "Indian Hotels Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IOC",
+    "name": "Indian Oil Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BBAS3",
+    "name": "Banco do Brasil SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1530",
+    "name": "3SBio Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PERSISTENT",
+    "name": "Persistent Systems Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IQCD",
+    "name": "Industries Qatar QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "EQTL3",
+    "name": "Equatorial Energia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3008",
+    "name": "Largan Precision Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3037",
+    "name": "Unimicron Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "7020",
+    "name": "Etihad Etisalat Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DMART",
+    "name": "Avenue Supermarts Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "POLICYBZR",
+    "name": "PB Fintech Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1658",
+    "name": "Postal Savings Bank of China Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2002",
+    "name": "China Steel Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2603",
+    "name": "Evergreen Marine Corp. Taiwan Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DEWA",
+    "name": "Dubai Electricity & Water Authority PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BS6",
+    "name": "Yangzijiang Shipbuilding Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DSY",
+    "name": "Discovery Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BZ",
+    "name": "Kanzhun Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1347",
+    "name": "Hua Hong Semiconductor Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "788",
+    "name": "China Tower Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "300",
+    "name": "Midea Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CUMMINSIND",
+    "name": "Cummins India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SCB-F",
+    "name": "SCB X PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1303",
+    "name": "Nan Ya Plastics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PFC",
+    "name": "Power Finance Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ADNOCGAS",
+    "name": "Adnoc Gas plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2382",
+    "name": "Sunny Optical Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2280",
+    "name": "Almarai Co. JSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2688",
+    "name": "ENN Energy Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "COFORGE",
+    "name": "Coforge Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "RENT3",
+    "name": "Localiza Rent a Car SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "WIPRO",
+    "name": "Wipro Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3328",
+    "name": "Bank of Communications Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "688",
+    "name": "China Overseas Land & Investment Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "6030",
+    "name": "CITIC Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SQM-B",
+    "name": "Sociedad Quimica y Minera de Chile SA Preference Shares Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1818",
+    "name": "Zhaojin Mining Industry Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DRREDDY",
+    "name": "Dr Reddy's Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "NED",
+    "name": "Nedbank Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SUZB3",
+    "name": "Suzano SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "7203",
+    "name": "Elm Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1336",
+    "name": "New China Life Insurance Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "GAMUDA",
+    "name": "Gamuda Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IHH",
+    "name": "IHH Healthcare Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "601138",
+    "name": "Foxconn Industrial Internet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ITUB",
+    "name": "Itau Unibanco Holding SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GULF-F",
+    "name": "Gulf Development PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BDMS-F",
+    "name": "Bangkok Dusit Medical Services PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "TLV",
+    "name": "Banca Transilvania SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "NPH",
+    "name": "Northam Platinum Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "LTIM",
+    "name": "LTIMindtree Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HDFCAMC",
+    "name": "HDFC Asset Management Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1140",
+    "name": "Bank AlBilad",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "LTM",
+    "name": "Latam Airlines Group SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "8299",
+    "name": "Phison Electronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1050",
+    "name": "Banque Saudi Fransi",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1080",
+    "name": "Arab National Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "DIXON",
+    "name": "Dixon Technologies India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ASELS.E",
+    "name": "Aselsan Elektronik Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3653",
+    "name": "Jentech Precision Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FORTIS",
+    "name": "Fortis Healthcare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BIMAS.E",
+    "name": "BIM Birlesik Magazalar AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BSE",
+    "name": "BSE Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6223",
+    "name": "MPI Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GAIL",
+    "name": "GAIL India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "8069",
+    "name": "E Ink Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2611",
+    "name": "Guotai Junan Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "DLF",
+    "name": "DLF Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2344",
+    "name": "Winbond Electronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2319",
+    "name": "China Mengniu Dairy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "CGPOWER",
+    "name": "CG Power & Industrial Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "NAUKRI",
+    "name": "Info Edge India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "INDUSTOWER",
+    "name": "Indus Towers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "268",
+    "name": "Kingdee International Software Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ICICIGI",
+    "name": "ICICI Lombard General Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PPH",
+    "name": "Pepkor Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "4904",
+    "name": "Far EasTone Telecommunications Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "291",
+    "name": "China Resources Beer Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3606",
+    "name": "Fuyao Glass Industry Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "LUPIN",
+    "name": "Lupin Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "5274",
+    "name": "ASPEED Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "300750",
+    "name": "Contemporary Amperex Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "RECLTD",
+    "name": "REC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "601318",
+    "name": "Ping An Insurance Group Co. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MOTHERSON",
+    "name": "Samvardhana Motherson International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3692",
+    "name": "Hansoh Pharmaceutical Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3034",
+    "name": "Novatek Microelectronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FALABELLA",
+    "name": "Falabella SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PRIO3",
+    "name": "PRIO SA/Brazil",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3293",
+    "name": "International Games System Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BDO",
+    "name": "BDO Unibank Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AMMN",
+    "name": "Amman Mineral Internasional PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1301",
+    "name": "Formosa Plastics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PIDILITIND",
+    "name": "Pidilite Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PMETAL",
+    "name": "Press Metal Aluminium Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "COMI",
+    "name": "Commercial International Bank - Egypt (CIB)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HINDPETRO",
+    "name": "Hindustan Petroleum Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "9863",
+    "name": "Zhejiang Leapmotor Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2207",
+    "name": "Hotai Motor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AMBUJACEM",
+    "name": "Ambuja Cements Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "601288",
+    "name": "Agricultural Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3045",
+    "name": "Taiwan Mobile Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GODREJCP",
+    "name": "Godrej Consumer Products Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6881",
+    "name": "China Galaxy Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PAYTM",
+    "name": "One 97 Communications Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2331",
+    "name": "Li Ning Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2368",
+    "name": "Gold Circuit Electronics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "TAL",
+    "name": "TAL Education Group ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "REM",
+    "name": "Remgro Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "5871",
+    "name": "Chailease Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3044",
+    "name": "Tripod Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NRP",
+    "name": "NEPI Rockcastle NV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "5876",
+    "name": "Shanghai Commercial & Savings Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2600",
+    "name": "Aluminum Corp. of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CLS",
+    "name": "Clicks Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FEDERALBNK",
+    "name": "Federal Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2376",
+    "name": "Gigabyte Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AOT-F",
+    "name": "Airports of Thailand PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SRF",
+    "name": "SRF Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6919",
+    "name": "Caliway Biopharmaceuticals Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2801",
+    "name": "Chang Hwa Commercial Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2408",
+    "name": "Nanya Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1101",
+    "name": "TCC Group Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ASURB",
+    "name": "Grupo Aeroportuario del Sureste SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "DSSA",
+    "name": "Dian Swastatika Sentosa Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CIB",
+    "name": "Grupo Cibest SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "836",
+    "name": "China Resources Power Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "YESBANK",
+    "name": "Yes Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "UNITDSPR",
+    "name": "United Spirits Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VBBR3",
+    "name": "Vibra Energia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2395",
+    "name": "Advantech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4938",
+    "name": "Pegatron Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VIVT3",
+    "name": "Telefonica Brasil SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MFSL",
+    "name": "Max Financial Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6446",
+    "name": "PharmaEssentia Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "KOFUBL",
+    "name": "Coca-Cola Femsa SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SDG",
+    "name": "SD Guthrie Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1919",
+    "name": "COSCO SHIPPING Holdings Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2404",
+    "name": "United Integrated Services Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ASHOKLEY",
+    "name": "Ashok Leyland Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GGBR4",
+    "name": "Gerdau SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2324",
+    "name": "Compal Electronics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "358",
+    "name": "Jiangxi Copper Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3529",
+    "name": "eMemory Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1504",
+    "name": "Teco Electric and Machinery Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AKBNK.E",
+    "name": "Akbank TAS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2333",
+    "name": "Great Wall Motor Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "JINDALSTEL",
+    "name": "Jindal Steel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2359",
+    "name": "WuXi AppTec Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "601398",
+    "name": "Industrial & Commercial Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SWIGGY",
+    "name": "Swiggy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3908",
+    "name": "China International Capital Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3888",
+    "name": "Kingsoft Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GFINBURO",
+    "name": "Grupo Financiero Inbursa SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PTTEP-F",
+    "name": "PTT Exploration & Production PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1816",
+    "name": "CGN Power Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "POLYCAB",
+    "name": "Polycab India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ALPHADHABI",
+    "name": "Alpha Dhabi Holding PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BRPT",
+    "name": "Barito Pacific Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1171",
+    "name": "Yanzhou Coal Mining Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MARICO",
+    "name": "Marico Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TUPRS.E",
+    "name": "Turkiye Petrol Rafinerileri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RNI",
+    "name": "Reinet Investments SCA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BVT",
+    "name": "Bidvest Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BBDC3",
+    "name": "Banco Bradesco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "EMBASSY",
+    "name": "Embassy Office Parks REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GVT&D",
+    "name": "GE Vernova T&D India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RICHTER",
+    "name": "Richter Gedeon Nyrt",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BIMBOA",
+    "name": "Grupo Bimbo SAB de CV Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FIBRAPL14",
+    "name": "Prologis Property Mexico SA de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6488",
+    "name": "Globalwafers Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PETGAS",
+    "name": "Petronas Gas Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BOUBYAN",
+    "name": "Boubyan Bank KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1590",
+    "name": "Airtac International Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "UPL",
+    "name": "UPL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CPN-F",
+    "name": "Central Pattana PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2912",
+    "name": "President Chain Store Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3443",
+    "name": "Global Unichip Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "168",
+    "name": "Tsingtao Brewery Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2338",
+    "name": "Weichai Power Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FUNO11",
+    "name": "Fibra Uno Administracion SA de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2228",
+    "name": "XtalPi Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "600036",
+    "name": "China Merchants Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ADNOCDRILL",
+    "name": "ADNOC Drilling Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SOL",
+    "name": "Sasol Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2099",
+    "name": "China Gold International Resources Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MARK",
+    "name": "Al Rayan Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BCI",
+    "name": "Banco de Credito e Inversiones SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "600036",
+    "name": "China Merchants Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CENCOSUD",
+    "name": "Cencosud SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LAURUSLABS",
+    "name": "Laurus Labs Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "9698",
+    "name": "GDS Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BBSE3",
+    "name": "BB Seguridade Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MOL",
+    "name": "MOL Hungarian Oil & Gas plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VIPS",
+    "name": "Vipshop Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "688256",
+    "name": "Cambricon Technologies Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MRF",
+    "name": "MRF Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "HYUNDAI",
+    "name": "Hyundai Motor India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "002475",
+    "name": "Luxshare Precision Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1787",
+    "name": "Shandong Gold Mining Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3800",
+    "name": "GCL Technology Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ZAIN",
+    "name": "Mobile Telecommunications Co. KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BHARATFORG",
+    "name": "Bharat Forge Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GCARSOA1",
+    "name": "Grupo Carso SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SMPH",
+    "name": "SM Prime Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MUTHOOTFIN",
+    "name": "Muthoot Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6239",
+    "name": "Powertech Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HAVELLS",
+    "name": "Havells India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CBQK",
+    "name": "Commercial Bank PSQC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "136",
+    "name": "China Ruyi Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "THYAO.E",
+    "name": "Turk Hava Yollari AO",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BHEL",
+    "name": "Bharat Heavy Electricals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KOMB",
+    "name": "Komercni Banka AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SOLARINDS",
+    "name": "Solar Industries India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2356",
+    "name": "Inventec Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VOD",
+    "name": "Vodacom Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "241",
+    "name": "Alibaba Health Information Technology Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1357",
+    "name": "Meitu Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LODHA",
+    "name": "Lodha Developers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KTB-F",
+    "name": "Krung Thai Bank PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AMBANK",
+    "name": "AMMB Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MISC",
+    "name": "MISC Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3533",
+    "name": "Lotes Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BAJAJHLDNG",
+    "name": "Bajaj Holdings & Investment Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OMU",
+    "name": "Old Mutual Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TIINDIA",
+    "name": "Tube Investments of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GODREJPROP",
+    "name": "Godrej Properties Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "002594",
+    "name": "BYD Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UMC",
+    "name": "United Microelectronics Corp. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BOSCHLTD",
+    "name": "Bosch Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "RAIL3",
+    "name": "Rumo SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "601899",
+    "name": "Zijin Mining Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OUT",
+    "name": "OUTsurance Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "285",
+    "name": "BYD Electronic International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VOLTAS",
+    "name": "Voltas Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AUBANK",
+    "name": "AU Small Finance Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AUROPHARMA",
+    "name": "Aurobindo Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CHT",
+    "name": "Chunghwa Telecom Co. Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OPAP",
+    "name": "Opap SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2268",
+    "name": "WuXi XDC Cayman Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ADANIGREEN",
+    "name": "Adani Green Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MOTV3",
+    "name": "Motiva Infraestrutura de Mobilidade SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SUNDARMFIN",
+    "name": "Sundaram Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2834",
+    "name": "Taiwan Business Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "914",
+    "name": "Anhui Conch Cement Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "APLAPOLLO",
+    "name": "APL Apollo Tubes Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PHOENIXLTD",
+    "name": "Phoenix Mills Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BELA",
+    "name": "Jumbo SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MPHASIS",
+    "name": "Mphasis Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2474",
+    "name": "Catcher Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "135",
+    "name": "Kunlun Energy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "902",
+    "name": "Huaneng Power International Inc. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "780",
+    "name": "Tongcheng Travel Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4958",
+    "name": "Zhen Ding Technology Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BPI",
+    "name": "Bank of the Philippine Islands",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OMAB",
+    "name": "Grupo Aeroportuario del Centro Norte SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "688041",
+    "name": "Hygon Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "EMAARDEV",
+    "name": "Emaar Development PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8210",
+    "name": "Bupa Arabia for Cooperative Insurance Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "000582",
+    "name": "Beibuwan Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300252",
+    "name": "Kingsignal Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002029",
+    "name": "Fujian Septwolves Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603713",
+    "name": "Milkyway Intelligent Supply Chain Service Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300360",
+    "name": "Hangzhou Sunrise Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALTNY.E",
+    "name": "Altinay Savunma Teknolojileri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002865",
+    "name": "Hainan Drinda New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000544",
+    "name": "Zhongyuan Environment-Protection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688106",
+    "name": "Jinhong Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002901",
+    "name": "Double Medical Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000901",
+    "name": "Aerospace Hi-Tech Holdings Grp Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600748",
+    "name": "Shanghai Industrial Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600511",
+    "name": "China National Medicines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KLSER.E",
+    "name": "Kaleseramik Canakkale Kalebodur Seramik Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1103",
+    "name": "Chia Hsin Cement Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000878",
+    "name": "Yunnan Copper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300618",
+    "name": "Nanjing Hanrui Cobalt Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300352",
+    "name": "Beijing VRV Software Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000937",
+    "name": "Jizhong Energy Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603707",
+    "name": "Nanjing King-Friend Biochemical Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600502",
+    "name": "Anhui Construction Engineering Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603328",
+    "name": "Guangdong Ellington Electronics Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601717",
+    "name": "ZMJ Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603619",
+    "name": "ZhongMan Petroleum and Natural Gas Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603220",
+    "name": "China Bester Group Telecom Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600990",
+    "name": "Sun Create Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600600",
+    "name": "Tsingtao Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000839",
+    "name": "CITIC Guoan Information Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002299",
+    "name": "Fujian Sunner Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002194",
+    "name": "Wuhan Fingu Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300815",
+    "name": "EIT Environmental Development Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002639",
+    "name": "Fujian Snowman Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600604",
+    "name": "Shanghai Shibei Hi-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601108",
+    "name": "Caitong Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LINK.E",
+    "name": "Link Bilgisayar Sistemleri Yazilimi Ve Donanimi Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300792",
+    "name": "Hangzhou Onechance Tech Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000767",
+    "name": "Jinneng Holding Shanxi Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000566",
+    "name": "Hainan Haiyao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603833",
+    "name": "Oppein Home Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688556",
+    "name": "Qingdao Gaoce Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300145",
+    "name": "Nanfang Zhongjin Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603027",
+    "name": "Qianhe Condiment and Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600006",
+    "name": "DongFeng Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600864",
+    "name": "Harbin Hatou Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002233",
+    "name": "Guangdong Tapai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603195",
+    "name": "Goneo Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600548",
+    "name": "Shenzhen Expressway Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601966",
+    "name": "Shandong Linglong Tyre Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600782",
+    "name": "Xinyu Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002737",
+    "name": "Sunflower Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603227",
+    "name": "Xinjiang Xuefeng Sci-Tech Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002284",
+    "name": "Zhejiang Asia-Pacific Mechanical & Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002106",
+    "name": "Shenzhen Laibao Hi-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603366",
+    "name": "Solareast Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000860",
+    "name": "Beijing Shunxin Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603229",
+    "name": "Zhejiang Ausun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601198",
+    "name": "Dongxing Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002127",
+    "name": "NanJi E-Commerce Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600783",
+    "name": "Luxin Venture Capital Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TMSN.E",
+    "name": "Tumosan Motor ve Traktor Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUWEN.E",
+    "name": "Suwen Tekstil Sanayi Pazarlama AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603477",
+    "name": "Leshan Giantstar Farming & Husbandry Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002777",
+    "name": "Sichuan Jiuyuan Yinhai Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002685",
+    "name": "Wuxi Huadong Heavy Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000735",
+    "name": "Luoniushan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PENTA.E",
+    "name": "Penta Teknoloji Urunleri Dagitim Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600369",
+    "name": "Southwest Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000915",
+    "name": "Shandong Shanda WIT Science & Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603308",
+    "name": "Anhui Yingliu Electromechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603712",
+    "name": "Tianjin 712 Communication & Broadcasting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000401",
+    "name": "BBMG Jidong Cement Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600033",
+    "name": "Fujian Expressway Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GWIND.E",
+    "name": "Galata Wind Enerji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300406",
+    "name": "Beijing Strong Biotechnologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KALD",
+    "name": "Kaldalon hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000050",
+    "name": "Tianma Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300663",
+    "name": "Client Service International Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301498",
+    "name": "Gambol Pet Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002416",
+    "name": "Shenzhen Aisidi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002120",
+    "name": "Yunda Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603883",
+    "name": "Laobaixing Pharmacy Chain JSC Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601865",
+    "name": "Flat Glass Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000503",
+    "name": "China Reform Health Management and Services Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002093",
+    "name": "Guomai Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002036",
+    "name": "LianChuang Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000810",
+    "name": "Skyworth Digital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002045",
+    "name": "Guoguang Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000557",
+    "name": "Ningxia Western Venture Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688559",
+    "name": "Hymson Laser Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600556",
+    "name": "Inmyshow Digital Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601005",
+    "name": "Chongqing Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300910",
+    "name": "Xinxiang Richful Lube Additive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300342",
+    "name": "Changshu Tianyin Electromechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000913",
+    "name": "Zhejiang Qianjiang Motorcycle Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688007",
+    "name": "Appotronics Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002334",
+    "name": "Shenzhen Invt Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600017",
+    "name": "Rizhao Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601900",
+    "name": "Southern Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300403",
+    "name": "Hanyu Group Joint-Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EBEBK.E",
+    "name": "Ebebek Magazacilik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601880",
+    "name": "Liaoning Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "YYLGD.E",
+    "name": "Yayla Agro Gida Sanayi VE Nakliyat AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600557",
+    "name": "Jiangsu Kanion Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000758",
+    "name": "China Nonferrous Metal Industry's Foreign Engineering and Construction Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600395",
+    "name": "Guizhou Panjiang Refined Coal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VKGYO.E",
+    "name": "Vakif Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600100",
+    "name": "Tsinghua Tongfang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600116",
+    "name": "Chongqing Three Gorges Water Conservancy & Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002422",
+    "name": "Sichuan Kelun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601126",
+    "name": "Beijing Sifang Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600780",
+    "name": "Top Energy Co. Ltd. Shanxi Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605009",
+    "name": "Hangzhou Haoyue Personal Care Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601001",
+    "name": "Jinneng Holding Shanxi Coal Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603069",
+    "name": "Hainan Haiqi Transportation Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600258",
+    "name": "BTG Hotels Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000090",
+    "name": "Shenzhen Tagen Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002293",
+    "name": "Luolai Lifestyle Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1611",
+    "name": "China Electric Manufacturing Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000501",
+    "name": "Wuhan Department Store Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300443",
+    "name": "Jinlei Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600409",
+    "name": "Tangshan Sanyou Chemical Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000829",
+    "name": "Telling Telecommunication Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002073",
+    "name": "Mesnac Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000429",
+    "name": "Guangdong Provincial Expressway Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300821",
+    "name": "Shandong Dongyue Silicone Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002467",
+    "name": "263 Network Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002707",
+    "name": "UTour Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601949",
+    "name": "China Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002079",
+    "name": "Suzhou Good-Ark Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603906",
+    "name": "Jiangsu Lopal Tech Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300783",
+    "name": "Three Squirrels Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601222",
+    "name": "Jiangsu Linyang Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000581",
+    "name": "Weifu High-Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000950",
+    "name": "CQ Pharmaceutical Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600062",
+    "name": "China Resources Double Crane Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601992",
+    "name": "BBMG Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600996",
+    "name": "Guizhou Broadcasting & TV Information Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300183",
+    "name": "Qingdao Eastsoft Communication Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600517",
+    "name": "State Grid Yingda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600120",
+    "name": "Zhejiang Orient Financial Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600673",
+    "name": "Guangdong HEC Technology Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600331",
+    "name": "Sichuan Hongda Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600642",
+    "name": "Shenergy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000949",
+    "name": "Xinxiang Chemical Fiber Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300263",
+    "name": "Longhua Technology Group Luoyang Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600032",
+    "name": "Zhejiang Provincial New Energy Investment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600499",
+    "name": "Keda Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002237",
+    "name": "Shandong Humon Smelting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600258",
+    "name": "BTG Hotels Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600059",
+    "name": "Zhejiang Guyuelongshan Shaoxing Wine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300910",
+    "name": "Xinxiang Richful Lube Additive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002170",
+    "name": "Shenzhen Batian Ecotypic Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000756",
+    "name": "Shandong Xinhua Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600663",
+    "name": "Shanghai Lujiazui Finance & Trade Zone Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600649",
+    "name": "Shanghai SMI Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002801",
+    "name": "Hangzhou Weiguang Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600020",
+    "name": "Henan Zhongyuan Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600155",
+    "name": "Polaris Bay Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600223",
+    "name": "Lushang Freda Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601011",
+    "name": "Baotailong New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002292",
+    "name": "Alpha Group Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601801",
+    "name": "Anhui Xinhua Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600657",
+    "name": "Cinda Real Estate Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300206",
+    "name": "Edan Instruments Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603338",
+    "name": "Zhejiang Dingli Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600248",
+    "name": "Shaanxi Yanchang Petroleum Chemical Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600389",
+    "name": "Nantong Jiangshan Agrochemical & Chemical LLC Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002643",
+    "name": "Valiant Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000957",
+    "name": "Zhongtong Bus Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688192",
+    "name": "Dizal Jiangsu Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002225",
+    "name": "Puyang Refractories Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301367",
+    "name": "BMC Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000012",
+    "name": "CSG Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601515",
+    "name": "Guangdong DFP New Material Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000498",
+    "name": "Shandong Hi-Speed Road & Bridge Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301071",
+    "name": "Henan Liliang Diamond Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300039",
+    "name": "Shanghai Kaibao Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600894",
+    "name": "Guangzhou Guangri Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601177",
+    "name": "Hangzhou Advance Gearbox Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300957",
+    "name": "Yunnan Botanee Bio-Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600035",
+    "name": "Hubei Chutian Smart Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002067",
+    "name": "Zhejiang Jingxing Paper JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002960",
+    "name": "Jade Bird Fire Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600779",
+    "name": "Sichuan Swellfun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600733",
+    "name": "BAIC BluePark New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603111",
+    "name": "Nanjing Kangni Mechanical & Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600869",
+    "name": "Far East Smarter Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000690",
+    "name": "Guangdong Baolihua New Energy Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600787",
+    "name": "CMST Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600643",
+    "name": "Shanghai AJ Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600563",
+    "name": "Xiamen Faratronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603098",
+    "name": "Center International Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000681",
+    "name": "Visual China Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002242",
+    "name": "Joyoung Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600507",
+    "name": "Fangda Special Steel Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688408",
+    "name": "Arctech Solar Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603899",
+    "name": "Shanghai M&G Stationery Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600271",
+    "name": "Aisino Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002383",
+    "name": "Beijing UniStrong Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600305",
+    "name": "Jiangsu Hengshun Vinegar Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002565",
+    "name": "Shanghai Shunho New Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000561",
+    "name": "Shaanxi Fenghuo Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603985",
+    "name": "Jiangyin Hengrun Heavy Industries Co. ltd Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRISA.E",
+    "name": "Brisa Bridgestone Sabanci Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600761",
+    "name": "Anhui Heli Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300196",
+    "name": "Jiangsu Changhai Composite Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300386",
+    "name": "Feitian Technologies Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002206",
+    "name": "Zhejiang Hailide New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLEBI.E",
+    "name": "Celebi Hava Servisi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601228",
+    "name": "Guangzhou Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000777",
+    "name": "Sufa Technology Industry Co. Ltd. CNNC Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600708",
+    "name": "Bright Real Estate Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000973",
+    "name": "FSPG Hi-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002215",
+    "name": "Shenzhen Noposin Crop Science Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002378",
+    "name": "Chongyi Zhangyuan Tungsten Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600166",
+    "name": "Beiqi Foton Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002975",
+    "name": "Zhuhai Bojay Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600336",
+    "name": "AUCMA Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002378",
+    "name": "Chongyi Zhangyuan Tungsten Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600569",
+    "name": "Anyang Iron & Steel Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KORDS.E",
+    "name": "Kordsa Teknik Tekstil AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUNTK.E",
+    "name": "SUN Tekstil Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002645",
+    "name": "Jiangsu Huahong Technology Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000026",
+    "name": "FIYTA Precision Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3716",
+    "name": "Cenra Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300066",
+    "name": "Sanchuan Wisdom Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002423",
+    "name": "COFCO Capital Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600199",
+    "name": "Anhui Golden Seed Winery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000066",
+    "name": "China Greatwall Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001896",
+    "name": "Henan Yuneng Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601872",
+    "name": "China Merchants Energy Shipping Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002042",
+    "name": "Huafu Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601388",
+    "name": "Yechiu Metal Recycling China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688107",
+    "name": "Shanghai Anlogic Infotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300079",
+    "name": "Sumavision Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000823",
+    "name": "Guangdong Goworld Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300671",
+    "name": "Shenzhen Fine Made Electronics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600770",
+    "name": "Jiangsu Zongyi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002081",
+    "name": "Suzhou Gold Mantis Construction Decoration Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600216",
+    "name": "Zhejiang Medicine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601600",
+    "name": "Aluminum Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IZMDC.E",
+    "name": "Izmir Demir Celik Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000516",
+    "name": "Xian International Medical Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002697",
+    "name": "Chengdu Hongqi Chain Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300043",
+    "name": "Rastar Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600966",
+    "name": "Shandong Bohui Paper Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002970",
+    "name": "Streamax Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002254",
+    "name": "Yantai Tayho Advanced Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900903",
+    "name": "Dazhong Transportation Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002818",
+    "name": "Chengdu Fusen Noble-House Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002859",
+    "name": "Zhejiang Jiemei Electronic & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601607",
+    "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688639",
+    "name": "Anhui Huaheng Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300705",
+    "name": "Hunan Jiudian Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601799",
+    "name": "Changzhou Xingyu Automotive Lighting Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600963",
+    "name": "Yueyang Forest & Paper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000821",
+    "name": "JS Corrugating Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300151",
+    "name": "Shenzhen Changhong Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300180",
+    "name": "Huafon Microfibre Shanghai Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002675",
+    "name": "Yantai Dongcheng Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000998",
+    "name": "Yuan Longping High-tech Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603533",
+    "name": "IReader Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600597",
+    "name": "Bright Dairy & Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600267",
+    "name": "Zhejiang Hisun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300233",
+    "name": "Shandong Jincheng Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600855",
+    "name": "Beijing Aerospace Changfeng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688368",
+    "name": "Shanghai Bright Power Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002831",
+    "name": "Shenzhen YUTO Packaging Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002232",
+    "name": "Qiming Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001696",
+    "name": "Chongqing Zongshen Power Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600279",
+    "name": "Chongqing Gangjiu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600955",
+    "name": "Lihuayi Weiyuan Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688778",
+    "name": "XTC New Energy Materials Xiamen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000881",
+    "name": "CGN Nuclear Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605123",
+    "name": "Wuxi Paike New Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600658",
+    "name": "Beijing Electronic Zone High-tech Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603169",
+    "name": "Lanzhou LS Heavy Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000036",
+    "name": "China Union Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603567",
+    "name": "HeiLongJiang ZBD Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688348",
+    "name": "Yuneng Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002386",
+    "name": "Yibin Tianyuan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300725",
+    "name": "PharmaBlock Sciences Nanjing Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000958",
+    "name": "SPIC Industry-Finance Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002690",
+    "name": "Hefei Meiya Optoelectronic Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600973",
+    "name": "Baosheng Science and Technology Innovation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300393",
+    "name": "Jolywood Suzhou Sunwatt Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603708",
+    "name": "Jiajiayue Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002396",
+    "name": "Fujian Star-net Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600888",
+    "name": "Xinjiang Joinworld Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002782",
+    "name": "Shenzhen Click Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002117",
+    "name": "Tungkong Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002733",
+    "name": "Shenzhen Center Power Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000990",
+    "name": "Chengzhi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002635",
+    "name": "Suzhou Anjie Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000935",
+    "name": "Sichuan Hexie Shuangma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002041",
+    "name": "Shandong Denghai Seeds Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002590",
+    "name": "Zhejiang Vie Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300191",
+    "name": "Sino GeoPhysical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600587",
+    "name": "Shinva Medical Instrument Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600162",
+    "name": "Shenzhen Heungkong Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BJKAS.E",
+    "name": "Besiktas Futbol Yatirimlari Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000877",
+    "name": "TianShan Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301207",
+    "name": "Hualan Biological Vaccine Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601678",
+    "name": "Befar Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600329",
+    "name": "Tianjin Pharmaceutical Da Re Tang Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601866",
+    "name": "COSCO SHIPPING Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688261",
+    "name": "Suzhou Oriental Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600581",
+    "name": "Xinjiang Ba Yi Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VSNMD.E",
+    "name": "Visne Madencilik Uretim Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600267",
+    "name": "Zhejiang Hisun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601990",
+    "name": "Nanjing Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002183",
+    "name": "Eternal Asia Supply Chain Management Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300048",
+    "name": "Hiconics Eco-energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000060",
+    "name": "Shenzhen Zhongjin Lingnan Nonfemet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300292",
+    "name": "Wutong Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002440",
+    "name": "Zhejiang Runtu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002110",
+    "name": "Sansteel Minguang Co. Ltd. Fujian Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601369",
+    "name": "Xi'An Shaangu Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002572",
+    "name": "Suofeiya Home Collection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600971",
+    "name": "Anhui Hengyuan Coal Industry and Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600278",
+    "name": "Orient International Enterprise Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600583",
+    "name": "Offshore Oil Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000758",
+    "name": "China Nonferrous Metal Industry's Foreign Engineering and Construction Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600173",
+    "name": "Wolong New Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002056",
+    "name": "Hengdian Group DMEGC Magnetics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301153",
+    "name": "Beijing CTJ Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601139",
+    "name": "Shenzhen Gas Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600598",
+    "name": "Heilongjiang Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300063",
+    "name": "Guang Dong Tloong Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000681",
+    "name": "Visual China Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000676",
+    "name": "Genimous Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002546",
+    "name": "Nanjing Xinlian Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603979",
+    "name": "JCHX Mining Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000547",
+    "name": "Addsino Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002803",
+    "name": "Xiamen Jihong Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600271",
+    "name": "Aisino Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002483",
+    "name": "Jiangsu Rainbow Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000547",
+    "name": "Addsino Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002542",
+    "name": "China Zhonghua Geotechnical Engineering Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002380",
+    "name": "Nanjing Sciyon Wisdom Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300143",
+    "name": "INKON Life Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000417",
+    "name": "Hefei Department Store Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600177",
+    "name": "Youngor Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000338",
+    "name": "Weichai Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301268",
+    "name": "Shenzhen Minglida Precision Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600987",
+    "name": "Zhejiang Hangmin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601233",
+    "name": "Tongkun Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002203",
+    "name": "Zhejiang Hailiang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000901",
+    "name": "Aerospace Hi-Tech Holdings Grp Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002453",
+    "name": "Great Chinasoft Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002793",
+    "name": "Luoxin Pharmaceuticals Group Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300567",
+    "name": "Wuhan Jingce Electronic Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300377",
+    "name": "Shenzhen Ysstech Info-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600006",
+    "name": "DongFeng Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601116",
+    "name": "Sanjiang Shopping Club Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600562",
+    "name": "Glarun Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002108",
+    "name": "Cangzhou Mingzhu Plastic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAJOR-F",
+    "name": "Major Cineplex Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300123",
+    "name": "YaGuang Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600363",
+    "name": "Jiangxi Lianchuang Optoelectronic Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603868",
+    "name": "Shanghai Flyco Electrical Appliance Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600008",
+    "name": "Beijing Capital Eco-Environment Protection Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600776",
+    "name": "Eastern Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000011",
+    "name": "Shenzhen Properties & Resources Development Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688031",
+    "name": "Transwarp Technology Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002268",
+    "name": "CETC Cyberspace Security Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300008",
+    "name": "Bestway Marine & Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002405",
+    "name": "NavInfo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002458",
+    "name": "Shandong Yisheng Livestock & Poultry Breeding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300327",
+    "name": "Sino Wealth Electronic Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002959",
+    "name": "Bear Electric Appliance Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300618",
+    "name": "Nanjing Hanrui Cobalt Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "POLHO.E",
+    "name": "Polisan Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002390",
+    "name": "Guizhou Xinbang Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600169",
+    "name": "Taiyuan Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600611",
+    "name": "Dazhong Transportation Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300075",
+    "name": "Beijing eGOVA Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603008",
+    "name": "Xilinmen Furniture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603355",
+    "name": "KingClean Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600567",
+    "name": "Shanying International Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600170",
+    "name": "Shanghai Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600975",
+    "name": "Hunan New Wellful Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300248",
+    "name": "Newcapec Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000652",
+    "name": "Tianjin Teda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300369",
+    "name": "NSFOCUS Technologies Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300355",
+    "name": "M-Grass Ecology And Environment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600551",
+    "name": "Time Publishing and Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000558",
+    "name": "Chengdu New Tianfu Culture Tourism Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002302",
+    "name": "China West Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002279",
+    "name": "Beijing Join-Cheer Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000550",
+    "name": "Jiangling Motors Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600586",
+    "name": "Shandong Jinjing Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600230",
+    "name": "Cangzhou Dahua Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300166",
+    "name": "Beijing Orient National Communication Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300401",
+    "name": "Zhejiang Garden Biopharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600313",
+    "name": "China Agriculture Development Seed Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300267",
+    "name": "Hunan Er-Kang Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600498",
+    "name": "Fiberhome Telecommunication Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600993",
+    "name": "Mayinglong Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688023",
+    "name": "DBAPP Security Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300709",
+    "name": "Jiangsu Gian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600801",
+    "name": "Huaxin Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002448",
+    "name": "ZYNP Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600773",
+    "name": "Tibet Urban Development and Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300087",
+    "name": "Winall Hi-Tech Seed Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600758",
+    "name": "Liaoning Energy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200550",
+    "name": "Jiangling Motors Corp. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300523",
+    "name": "Beijing Global Safety Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600071",
+    "name": "Phenix Optical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600510",
+    "name": "Black Peony Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002165",
+    "name": "Hongbaoli Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600053",
+    "name": "Kunwu Jiuding Investment Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600288",
+    "name": "Daheng New Epoch Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000045",
+    "name": "Shenzhen Textile Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002421",
+    "name": "Shenzhen Das Intellitech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300494",
+    "name": "Hubei Century Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688409",
+    "name": "Shenyang Fortune Precision Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000888",
+    "name": "Emei Shan Tourism Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002399",
+    "name": "Shenzhen Hepalink Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600391",
+    "name": "AECC Aero Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002291",
+    "name": "Guangdong Yowant Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000002",
+    "name": "China Vanke Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000521",
+    "name": "Changhong Meiling Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300170",
+    "name": "Hand Enterprise Solutions Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300516",
+    "name": "Hubei Jiuzhiyang Infrared System Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002832",
+    "name": "Biem.L.Fdlkk Garment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600236",
+    "name": "Guangxi Guiguan Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000555",
+    "name": "Digital China Information Service Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600308",
+    "name": "Shandong Huatai Paper Industry Shareholding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000751",
+    "name": "Huludao Zinc Industry Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VALU",
+    "name": "U Consumer Finance",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600859",
+    "name": "Wangfujing Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000597",
+    "name": "Northeast Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600098",
+    "name": "Guangzhou Development Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600207",
+    "name": "Henan Ancai Hi-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600377",
+    "name": "Jiangsu Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002498",
+    "name": "Qingdao Hanhe Cable Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002481",
+    "name": "YanTai Shuangta Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000553",
+    "name": "ADAMA Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002695",
+    "name": "Jiangxi Huangshanghuang Group Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600884",
+    "name": "Ningbo Shanshan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300577",
+    "name": "Anhui Korrun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000650",
+    "name": "Renhe Pharmacy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600315",
+    "name": "Shanghai Jahwa United Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600248",
+    "name": "Shaanxi Construction Engineering Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688187",
+    "name": "Zhuzhou CRRC Times Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000042",
+    "name": "Shenzhen Centralcon Investment Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IMASM.E",
+    "name": "Imas Makina Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000531",
+    "name": "Guangzhou Hengyun Enterprises Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688626",
+    "name": "Xiangyu Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603197",
+    "name": "Shanghai Baolong Automotive Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603712",
+    "name": "Tianjin 712 Communication & Broadcasting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601567",
+    "name": "Ningbo Sanxing Medical Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002101",
+    "name": "Guangdong Hongtu Technology Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VESBE.E",
+    "name": "Vestel Beyaz Esya Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603225",
+    "name": "Xinfengming Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002675",
+    "name": "Yantai Dongcheng Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600155",
+    "name": "Polaris Bay Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002275",
+    "name": "Guilin Sanjin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000810",
+    "name": "Skyworth Digital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600195",
+    "name": "China Animal Husbandry Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601008",
+    "name": "Jiangsu Lianyungang Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300384",
+    "name": "Beijing Sanlian Hope Shin-Gosen Technical Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600825",
+    "name": "Shanghai Xinhua Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000601",
+    "name": "Guangdong Shaoneng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002344",
+    "name": "Haining China Leather Market Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300213",
+    "name": "Beijing Jiaxun Feihong Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000920",
+    "name": "South Huiton Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002320",
+    "name": "Hainan Strait Shipping Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000759",
+    "name": "Zhongbai Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600552",
+    "name": "Triumph Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002364",
+    "name": "Hangzhou Zhongheng Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600125",
+    "name": "China Railway Tielong Container Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600338",
+    "name": "Tibet Summit Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600861",
+    "name": "Beijing Urban-Rural Commercial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600694",
+    "name": "Dashang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600338",
+    "name": "Xizang Zhufeng Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300788",
+    "name": "CITIC Press Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002327",
+    "name": "Shenzhen Fuanna Bedding and Furnishing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600216",
+    "name": "Zhejiang Medicine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300485",
+    "name": "Beijing Science Sun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600340",
+    "name": "China Fortune Land Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600343",
+    "name": "Shaanxi Aerospace Power Hi-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600231",
+    "name": "Lingyuan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASUZU.E",
+    "name": "Anadolu Isuzu Otomotiv Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600616",
+    "name": "Shanghai Jinfeng Wine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002097",
+    "name": "Sunward Intelligent Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002466",
+    "name": "Tianqi Lithium Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300351",
+    "name": "Zhejiang Yonggui Electric Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002376",
+    "name": "Shandong New Beiyang Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300601",
+    "name": "Shenzhen Kangtai Biological Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603568",
+    "name": "Zhejiang Weiming Environment Protection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002727",
+    "name": "Yixintang Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600928",
+    "name": "Bank of Xi'an Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600429",
+    "name": "Beijing Sanyuan Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000532",
+    "name": "Zhuhai Huajin Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002446",
+    "name": "Guangdong Shenglu Telecommunication Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300424",
+    "name": "Guangzhou Hangxin Aviation Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600756",
+    "name": "Inspur Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002534",
+    "name": "Hangzhou Boiler Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300008",
+    "name": "Bestway Marine & Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002419",
+    "name": "Rainbow Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000718",
+    "name": "Suning Universal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603489",
+    "name": "Bafang Electric Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002840",
+    "name": "Zhejiang Huatong Meat Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600635",
+    "name": "Shanghai Dazhong Public Utilities Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600422",
+    "name": "KPC Pharmaceuticals Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600433",
+    "name": "Guangdong Guanhao High-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000665",
+    "name": "Hubei Broadcasting & Television Information Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002132",
+    "name": "Henan Hengxing Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002797",
+    "name": "First Capital Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000685",
+    "name": "Zhongshan Public Utilities Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002658",
+    "name": "Beijing SDL Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603698",
+    "name": "Changzheng Engineering Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300363",
+    "name": "Porton Pharma Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600776",
+    "name": "Eastern Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000778",
+    "name": "Xinxing Ductile Iron Pipes Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600206",
+    "name": "Grinm Advanced Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600713",
+    "name": "Nanjing Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600496",
+    "name": "Changjiang & Jinggong Steel Building Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603368",
+    "name": "Guangxi Liuzhou Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300451",
+    "name": "B-Soft Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002083",
+    "name": "Sunvim Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300724",
+    "name": "Shenzhen SC New Energy Technology Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600693",
+    "name": "Fujian Dongbai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002204",
+    "name": "Dalian Huarui Heavy Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000560",
+    "name": "5I5J Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300215",
+    "name": "Suzhou Electrical Apparatus Science Academy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300166",
+    "name": "Business-intelligence of Oriental Nations Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002111",
+    "name": "Weihai Guangtai Airport Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601005",
+    "name": "Chongqing Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPCG-F",
+    "name": "SPCG PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600985",
+    "name": "Huaibei Mining Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002123",
+    "name": "Montnets Cloud Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002362",
+    "name": "Hanwang Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002918",
+    "name": "Monalisa Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603043",
+    "name": "Guangzhou Restaurant Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002530",
+    "name": "JC Finance & Tax Interconnect Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000776",
+    "name": "GF Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603707",
+    "name": "Nanjing King-Friend Biochemical Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300572",
+    "name": "Shenzhen Anche Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300397",
+    "name": "Xi'an Tian He Defense Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600610",
+    "name": "Guizhou Zhongyida Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601155",
+    "name": "Seazen Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002140",
+    "name": "East China Engineering Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000998",
+    "name": "Yuan Longping High-tech Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601069",
+    "name": "Western Region Gold Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002137",
+    "name": "Shenzhen Sea Star Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002478",
+    "name": "Jiangsu Changbao Steeltube Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002488",
+    "name": "Zhejiang Jingu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600664",
+    "name": "Harbin Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300291",
+    "name": "Beijing Baination Pictures Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000676",
+    "name": "Genimous Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002183",
+    "name": "Eternal Asia Supply Chain Management Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688383",
+    "name": "Shenzhen Xinyichang Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600545",
+    "name": "Saurer Intelligent Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603618",
+    "name": "Hangzhou Cable Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002556",
+    "name": "Anhui Huilong Agricultural Means of Production Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300261",
+    "name": "ABA Chemicals Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300856",
+    "name": "Nanjing Cosmos Chemical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600449",
+    "name": "Ningxia Building Materials Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300770",
+    "name": "Guangdong South New Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BJBR",
+    "name": "Bank Pembangunan Daerah Jawa Barat Dan Banten Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600827",
+    "name": "Shanghai Bailian Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688062",
+    "name": "Mabwell Shanghai Bioscience Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000936",
+    "name": "Jiangsu Huaxicun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002416",
+    "name": "Shenzhen Aisidi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000980",
+    "name": "Zotye Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603938",
+    "name": "Tangshan Sunfar Silicon Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002462",
+    "name": "Cachet Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000852",
+    "name": "Sinopec Oilfield Equipment Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002479",
+    "name": "Zhejiang Fuchunjiang Environmental Thermoelectric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002948",
+    "name": "Bank of Qingdao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002859",
+    "name": "Zhejiang Jiemei Electronic & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAGFS.E",
+    "name": "Bagfas Bandirma Gubre Fabrikalari AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900914",
+    "name": "Shanghai Jin Jiang Online Network Service Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002218",
+    "name": "Shenzhen Topraysolar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600681",
+    "name": "Bestsun Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002391",
+    "name": "Jiangsu Changqing Agrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600839",
+    "name": "Sichuan Changhong Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ESCAR.E",
+    "name": "Escar Turizm Tasimacilik Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603515",
+    "name": "Opple Lighting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002061",
+    "name": "Zhejiang Communications Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600410",
+    "name": "Beijing Teamsun Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000551",
+    "name": "Create Technology & Science Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000719",
+    "name": "Central China Land Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603100",
+    "name": "Chongqing Chuanyi Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300552",
+    "name": "VanJee Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002322",
+    "name": "Ningbo Ligong Environment And Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300349",
+    "name": "Goldcard Smart Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002449",
+    "name": "Foshan Nationstar Optoelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688696",
+    "name": "XGimi Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002091",
+    "name": "Jiangsu Guotai International Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603528",
+    "name": "Duolun Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603983",
+    "name": "Guangdong Marubi Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002761",
+    "name": "Zhejiang Construction Investment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002474",
+    "name": "Fujian Rongji Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600609",
+    "name": "Shenyang Jinbei Automotive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300310",
+    "name": "Eastone Century Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603666",
+    "name": "Yijiahe Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002454",
+    "name": "Songz Automobile Air Conditioning Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002791",
+    "name": "Guangdong Kinlong Hardware Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000402",
+    "name": "Financial Street Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000892",
+    "name": "H&R Century Union Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603989",
+    "name": "Hunan Aihua Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600993",
+    "name": "Mayinglong Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300271",
+    "name": "Beijing Thunisoft Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGROT.E",
+    "name": "Agrotech Yueksek Teknoloji VE Yatirim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300628",
+    "name": "Yealink Network Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688339",
+    "name": "Beijing Sinohytec Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000850",
+    "name": "Anhui Huamao Textile Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600742",
+    "name": "Changchun Faway Automobile Components Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300236",
+    "name": "Shanghai Sinyang Semiconductor Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300332",
+    "name": "Top Resource Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600621",
+    "name": "Shanghai Chinafortune Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002668",
+    "name": "Guangdong TCL Smart Home Appliances Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BESLR.E",
+    "name": "Besler Gida Ve Kimya Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000027",
+    "name": "Shenzhen Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600787",
+    "name": "CMST Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300027",
+    "name": "Huayi Brothers Media Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600507",
+    "name": "Fangda Special Steel Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300318",
+    "name": "Beijing Bohui Innovation Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603348",
+    "name": "Wencan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603588",
+    "name": "Beijing GeoEnviron Engineering & Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002385",
+    "name": "Beijing Dabeinong Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002004",
+    "name": "Huapont Life Sciences Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600088",
+    "name": "China Television Media Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600283",
+    "name": "Qianjiang Water Resources Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002841",
+    "name": "Guangzhou Shiyuan Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601968",
+    "name": "Shanghai Baosteel Packaging Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300287",
+    "name": "Beijing Philisense Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AYDEM.E",
+    "name": "Aydem Yenilenebilir Enerji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002238",
+    "name": "Shenzhen Topway Video Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000078",
+    "name": "Shenzhen Neptunus Bioengineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603345",
+    "name": "Anjoy Foods Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002035",
+    "name": "Vatti Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600172",
+    "name": "Henan Huanghe Whirlwind Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603218",
+    "name": "Riyue Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002441",
+    "name": "ZhongYeDa Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600171",
+    "name": "Shanghai Belling Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601992",
+    "name": "BBMG Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600867",
+    "name": "Tonghua Dongbao Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600033",
+    "name": "Fujian Expressway Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300358",
+    "name": "Truking Technology Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000600",
+    "name": "Jointo Energy Investment Co. Ltd. Hebei Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601003",
+    "name": "Liuzhou Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAK",
+    "name": "Braskem SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000514",
+    "name": "Chongqing Yukaifa Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600261",
+    "name": "Zhejiang Yankon Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000797",
+    "name": "China Wuyi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601375",
+    "name": "Central China Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000599",
+    "name": "Qingdao Doublestar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002554",
+    "name": "China Oil HBP Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600477",
+    "name": "Hangxiao Steel Structure Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600252",
+    "name": "Guangxi Wuzhou Zhongheng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PS-F",
+    "name": "Pruksa Real Estate PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600903",
+    "name": "Guizhou Gas Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000789",
+    "name": "Jiangxi Wannianqing Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000686",
+    "name": "Northeast Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002538",
+    "name": "Anhui Sierte Fertilizer Industry Ltd. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600531",
+    "name": "Henan Yuguang Gold & Lead Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002930",
+    "name": "Guangdong Great River Smarter Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601886",
+    "name": "Jangho Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601500",
+    "name": "Jiangsu General Science Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600116",
+    "name": "Chongqing Three Gorges Water Conservancy & Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600038",
+    "name": "AVICOPTER plc Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600829",
+    "name": "HPGC Renmintongtai Pharmaceutical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002196",
+    "name": "Zhejiang Founder Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002004",
+    "name": "Huapont Life Sciences Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002393",
+    "name": "Tianjin Lisheng Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603579",
+    "name": "Shanghai Rongtai Health Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600073",
+    "name": "Shanghai Bright Meat Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600965",
+    "name": "Fortune Ng Fung Food Hebei Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000799",
+    "name": "JiuGui Liquor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002373",
+    "name": "China TransInfo Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002030",
+    "name": "Da An Gene Co. Ltd. of Sun Yat-Sen University Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002154",
+    "name": "Baoxiniao Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601163",
+    "name": "Triangle Tyre Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002672",
+    "name": "Dongjiang Environmental Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000507",
+    "name": "Zhuhai Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002577",
+    "name": "Shenzhen Rapoo Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600888",
+    "name": "Xinjiang Joinworld Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603068",
+    "name": "Beken Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600820",
+    "name": "Shanghai Tunnel Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605168",
+    "name": "Three's Co Media Group Co Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002185",
+    "name": "Tianshui Huatian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002215",
+    "name": "Shenzhen Noposion Agrochemicals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002037",
+    "name": "Poly Union Chemical Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000970",
+    "name": "Beijing Zhong Ke San Huan High-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002406",
+    "name": "Xuchang Yuandong Drive Shaft Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600864",
+    "name": "Harbin Hatou Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688105",
+    "name": "Nanjing Vazyme Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601038",
+    "name": "First Tractor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000800",
+    "name": "FAW CAR Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603858",
+    "name": "Shandong Buchang Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600284",
+    "name": "Shanghai Pudong Construction Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300296",
+    "name": "Leyard Optoelectronic Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002326",
+    "name": "Zhejiang Yongtai Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601588",
+    "name": "Beijing North Star Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600743",
+    "name": "Beijing Huayuan Xinhang Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601566",
+    "name": "Joeone Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603601",
+    "name": "Chongqing Zaisheng Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601326",
+    "name": "Qinhuangdao Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002146",
+    "name": "RiseSun Real Estate Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300723",
+    "name": "ApicHope Pharmaceutical Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002469",
+    "name": "Shandong Sunway Petrochemical Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600868",
+    "name": "Guangdong Meiyan Jixiang Hydropower Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002349",
+    "name": "Jinghua Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000096",
+    "name": "Shenzhen Guangju Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600081",
+    "name": "Dongfeng Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000407",
+    "name": "Shandong Shengli Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300203",
+    "name": "Focused Photonics Hangzhou Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688232",
+    "name": "Guotai Epoint Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300072",
+    "name": "Beijing Sanju Environmental Protection and New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000859",
+    "name": "Anhui Guofeng New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000008",
+    "name": "China High Speed Railway Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600713",
+    "name": "Nanjing Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600620",
+    "name": "Shanghai Tianchen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KMPUR.E",
+    "name": "Kimteks Poliuretan Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688066",
+    "name": "Piesat Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603960",
+    "name": "Shanghai Kelai Mechatronics Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002912",
+    "name": "Shenzhen Sinovatio Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000719",
+    "name": "Central China Land Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002346",
+    "name": "Shanghai Zhezhong Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603626",
+    "name": "Kunshan Kersen Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603919",
+    "name": "Jinhui Liquor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600639",
+    "name": "Shanghai Jinqiao Export Processing Zone Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300180",
+    "name": "Huafon Microfibre Shanghai Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600446",
+    "name": "Shenzhen Kingdom Sci-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300182",
+    "name": "Beijing Jetsen Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000581",
+    "name": "Weifu High-Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300737",
+    "name": "Keshun Waterproof Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000905",
+    "name": "Xiamen Port Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600684",
+    "name": "Guangzhou Pearl River Development Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002491",
+    "name": "Tongding Interconnection Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600072",
+    "name": "CSSC Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601226",
+    "name": "Huadian Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000520",
+    "name": "Phoenix Shipping Wuhan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001286",
+    "name": "Shaanxi Energy Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603118",
+    "name": "Shenzhen Gongjin Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000403",
+    "name": "Pacific Shuanglin Bio-pharmacy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002019",
+    "name": "Yifan Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300194",
+    "name": "Fuan Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688598",
+    "name": "KBC Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600138",
+    "name": "China CYTS Tours Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600653",
+    "name": "Liaoning Shenhua Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000860",
+    "name": "Beijing Shunxin Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000631",
+    "name": "Shunfa Hengye Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300429",
+    "name": "Changzhou Tronly New Electronic Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002792",
+    "name": "Tongyu Communication Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002204",
+    "name": "Dalian Huarui Heavy Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002170",
+    "name": "Shenzhen Batian Ecotypic Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300219",
+    "name": "Hongli Zhihui Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002522",
+    "name": "Zhejiang Zhongcheng Packing Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002110",
+    "name": "Sansteel Minguang Co. Ltd. Fujian Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002519",
+    "name": "Jiangsu Yinhe Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000650",
+    "name": "Renhe Pharmacy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002572",
+    "name": "Suofeiya Home Collection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603222",
+    "name": "Chimin Health Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688107",
+    "name": "Shanghai Anlogic Infotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601098",
+    "name": "China South Publishing & Media Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000818",
+    "name": "Hangjin Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600736",
+    "name": "Suzhou New District Hi-Tech Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600109",
+    "name": "Sinolink Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002726",
+    "name": "Shandong Longda Meishi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000910",
+    "name": "Dare Power Dekor Home Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300072",
+    "name": "Beijing Haixin Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002023",
+    "name": "Sichuan Haite High-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KAREL.E",
+    "name": "Karel Elektronik Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002339",
+    "name": "Integrated Electronic Systems Lab Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300447",
+    "name": "Nanjing Quanxin Cable Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600827",
+    "name": "Shanghai Bailian Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000708",
+    "name": "Citic Pacific Special Steel Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002375",
+    "name": "Zhejiang Yasha Decoration Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600368",
+    "name": "Guangxi Wuzhou Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002663",
+    "name": "Pubang Landscape Architecture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600383",
+    "name": "Gemdale Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601231",
+    "name": "Universal Scientific Industrial Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000016",
+    "name": "Konka Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300463",
+    "name": "Maccura Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002123",
+    "name": "Montnets Cloud Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000607",
+    "name": "Zhejiang Huamei Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002641",
+    "name": "Yonggao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603128",
+    "name": "CTS International Logistics Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600876",
+    "name": "Triumph New Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603595",
+    "name": "Zhejiang Tony Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002677",
+    "name": "Zhejiang Meida Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600872",
+    "name": "Jonjee Hi-Tech Industrial And Commercial Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600172",
+    "name": "Henan Huanghe Whirlwind Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000529",
+    "name": "Guangdong Guanghong Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600637",
+    "name": "Oriental Pearl Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300307",
+    "name": "Ningbo Cixing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603032",
+    "name": "Delixi New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TATGD.E",
+    "name": "Tat Gida Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002480",
+    "name": "Chengdu Xinzhu Road&Bridge Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002367",
+    "name": "Canny Elevator Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603885",
+    "name": "Juneyao Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603258",
+    "name": "Hangzhou Electronic Soul Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002585",
+    "name": "Jiangsu Shuangxing Color Plastic New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001269",
+    "name": "Inner Mongolia OJing Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000028",
+    "name": "China National Accord Medicines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAKKO.E",
+    "name": "Vakko Tekstil ve Hazir Giyim Sanayi Isletmeleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300035",
+    "name": "Hunan Zhongke Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300866",
+    "name": "Anker Innovations Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600566",
+    "name": "Hubei Jumpcan Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600622",
+    "name": "Everbright Jiabao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600351",
+    "name": "Yabao Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000968",
+    "name": "Shanxi Blue Flame Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002414",
+    "name": "Wuhan Guide Infrared Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300016",
+    "name": "Beijing Beilu Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688789",
+    "name": "Hangzhou Honghua Digital Technology Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600310",
+    "name": "Guangxi Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600373",
+    "name": "Chinese Universe Publishing and Media Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002810",
+    "name": "Shandong Head Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002055",
+    "name": "Shenzhen Deren Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600998",
+    "name": "Jointown Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601339",
+    "name": "Bros Eastern Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002201",
+    "name": "Jiangsu Jiuding New Material Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600512",
+    "name": "Tengda Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600127",
+    "name": "JinJian Cereals Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600984",
+    "name": "Shaanxi Construction Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002646",
+    "name": "Qinghai Huzhu Barley Wine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300011",
+    "name": "Beijing Dinghan Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600468",
+    "name": "Tianjin Benefo Tejing Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601616",
+    "name": "Shanghai Guangdian Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600936",
+    "name": "Guangxi Radio and Television Information Network Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600834",
+    "name": "Shanghai ShenTong Metro Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600996",
+    "name": "Guizhou Broadcasting & TV Information Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000528",
+    "name": "Guangxi Liugong Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000401",
+    "name": "Tangshan Jidong Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600782",
+    "name": "Xinyu Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600676",
+    "name": "Shanghai Jiao Yun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002643",
+    "name": "Valiant Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600790",
+    "name": "Zhejiang China Light & Textile Industrial City Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002488",
+    "name": "Zhejiang Jingu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002264",
+    "name": "New Huadu Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600792",
+    "name": "Yunnan Coal & Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601995",
+    "name": "China International Capital Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000731",
+    "name": "Sichuan Meifeng Chemical IND Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000591",
+    "name": "CECEP Solar Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002756",
+    "name": "YongXing Special Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300747",
+    "name": "Wuhan Raycus Fiber Laser Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601700",
+    "name": "Changshu Fengfan Power Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603556",
+    "name": "Hexing Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601158",
+    "name": "Chongqing Water Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603103",
+    "name": "Hengdian Entertainment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603399",
+    "name": "Jinzhou Yongshan Lithium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DHANI",
+    "name": "Dhani Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000680",
+    "name": "Shantui Construction Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600649",
+    "name": "Shanghai SMI Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002287",
+    "name": "Tibet Cheezheng Tibetan Medicine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002547",
+    "name": "Suzhou Chunxing Precision Mechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600222",
+    "name": "Henan Taloph Pharmaceutical Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000931",
+    "name": "Beijing Centergate Technologies Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002276",
+    "name": "Zhejiang Wanma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002016",
+    "name": "Guangdong Shirongzhaoye Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603877",
+    "name": "Ningbo Peacebird Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000061",
+    "name": "Shenzhen Agricultural Power Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600439",
+    "name": "Henan Rebecca Hair Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603866",
+    "name": "Toly Bread Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002301",
+    "name": "Shenzhen Comix Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600400",
+    "name": "Jiangsu Hongdou Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002614",
+    "name": "Xiamen Comfort Science & Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601018",
+    "name": "Ningbo Zhoushan Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002038",
+    "name": "Beijing SL Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600269",
+    "name": "Jiangxi Ganyue Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002662",
+    "name": "Beijing WKW Automotive Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002678",
+    "name": "Guangzhou Pearl River Piano Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002240",
+    "name": "Chengxin Lithium Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300639",
+    "name": "Guangdong Hybribio Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603517",
+    "name": "Juewei Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601991",
+    "name": "Datang International Power Generation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601222",
+    "name": "Jiangsu Linyang Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600918",
+    "name": "Zhongtai Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600739",
+    "name": "Liaoning Cheng Da Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002030",
+    "name": "Daan Gene Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688185",
+    "name": "CanSino Biologics Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601003",
+    "name": "Liuzhou Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603588",
+    "name": "Beijing GeoEnviron Engineering & Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002489",
+    "name": "Yotrio Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300457",
+    "name": "Shenzhen Yinghe Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300034",
+    "name": "Beijing Cisri-Gaona Materials & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002038",
+    "name": "Beijing SL Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600422",
+    "name": "KPC Pharmaceuticals Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301239",
+    "name": "Bright Eye Hospital Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002023",
+    "name": "Sichuan Haite High-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603005",
+    "name": "China Wafer Level CSP Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600552",
+    "name": "Triumph Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601002",
+    "name": "Gem-Year Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TQM-F",
+    "name": "TQM Alpha PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601886",
+    "name": "Jangho Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000869",
+    "name": "Yantai Changyu Pioneer Wine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688133",
+    "name": "Shanghai Titan Scientific Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002609",
+    "name": "Shenzhen Jieshun Science And Technology Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601999",
+    "name": "Northern United Publishing & Media Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600595",
+    "name": "Henan Zhongfu Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603043",
+    "name": "Guangzhou Restaurant Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300748",
+    "name": "JL Mag Rare-Earth Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600252",
+    "name": "Guangxi Wuzhou Zhongheng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603919",
+    "name": "Jinhui Liquor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600587",
+    "name": "Shinva Medical Instrument Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002095",
+    "name": "Zhejiang NetSun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603718",
+    "name": "Shanghai Hile Bio-Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603609",
+    "name": "Wellhope Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600187",
+    "name": "Heilongjiang Interchina Water Treatment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600020",
+    "name": "Henan Zhongyuan Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300659",
+    "name": "Zhongfu Information Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000883",
+    "name": "Hubei Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000738",
+    "name": "AECC Aero-Engine Control Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688356",
+    "name": "Jenkem Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600153",
+    "name": "Xiamen C & D Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600579",
+    "name": "Sinochem Equipment Technology Qingdao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002666",
+    "name": "Guangdong Delian Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002601",
+    "name": "LB Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002191",
+    "name": "Shenzhen Jinjia Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002792",
+    "name": "Tongyu Communication Inc Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002582",
+    "name": "Haoxiangni Health Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600523",
+    "name": "Guizhou Guihang Automotive Components Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600067",
+    "name": "CITYCHAMP DARTONG ADVANCED MATERIALS Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600337",
+    "name": "Markor International Home Furnishings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000919",
+    "name": "Jinling Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000402",
+    "name": "Financial Street Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000698",
+    "name": "Shenyang Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002088",
+    "name": "Luyang Energy-Saving Materials Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600343",
+    "name": "Shaanxi Aerospace Power Hi-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603128",
+    "name": "CTS International Logistics Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300529",
+    "name": "Jafron Biomedical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000928",
+    "name": "Sinosteel Engineering & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002745",
+    "name": "MLS Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300439",
+    "name": "Medicalsystem Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000541",
+    "name": "Foshan Electrical and Lighting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000636",
+    "name": "Guangdong Fenghua Advanced Technology Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600617",
+    "name": "Shanxi Guoxin Energy Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600814",
+    "name": "Hangzhou Jiebai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688526",
+    "name": "Wuhan Keqian Biology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300055",
+    "name": "Beijing Water Business Doctor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688536",
+    "name": "3peak Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600380",
+    "name": "Joincare Pharmaceutical Group Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600897",
+    "name": "Xiamen International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300676",
+    "name": "BGI Genomics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603517",
+    "name": "Juewei Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603118",
+    "name": "Shenzhen Gongjin Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600138",
+    "name": "China CYTS Tours Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688707",
+    "name": "Guizhou Zhenhua E-chem Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688711",
+    "name": "Macmic Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600467",
+    "name": "Shandong Homey Aquatic Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688699",
+    "name": "Shenzhen Sunmoon Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603379",
+    "name": "Zhejiang Sanmei Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002107",
+    "name": "Shandong Wohua Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600491",
+    "name": "Long Yuan Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601998",
+    "name": "China CITIC Bank Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688777",
+    "name": "SUPCON Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601068",
+    "name": "China Aluminum International Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600488",
+    "name": "Tianjin Tianyao Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000059",
+    "name": "North Huajin Chemical Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300288",
+    "name": "Guiyang Longmaster Information & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600105",
+    "name": "Jiangsu Etern Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000926",
+    "name": "Hubei Fuxing Science And Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002355",
+    "name": "Xingmin Intelligent Transportation Systems Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600007",
+    "name": "China World Trade Center Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600333",
+    "name": "Changchun Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603113",
+    "name": "Jinneng Science&Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002468",
+    "name": "STO Express Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002975",
+    "name": "Zhuhai Bojay Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300088",
+    "name": "Wuhu Token Science Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KARTN.E",
+    "name": "Kartonsan Karton Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600970",
+    "name": "Sinoma International Engineering Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300160",
+    "name": "Jiangsu Xiuqiang Glasswork Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601339",
+    "name": "Bros Eastern Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000537",
+    "name": "China Green Electricity Investment of Tianjin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002382",
+    "name": "Blue Sail Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603520",
+    "name": "Zhejiang Starry Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600057",
+    "name": "Xiamen Xiangyu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900923",
+    "name": "Shanghai Bailian Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300894",
+    "name": "Marssenger Kitchenware Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688248",
+    "name": "China Southern Power Grid Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002303",
+    "name": "MYS Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600732",
+    "name": "Shanghai Aiko Solar Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASM",
+    "name": "AL Seer Marine Supplies & Equipment Co. LLC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600824",
+    "name": "Shanghai Yimin Commerce Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300973",
+    "name": "Ligao Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600229",
+    "name": "Qingdao Citymedia Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000710",
+    "name": "Berry Genomics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000966",
+    "name": "CHN Energy Changyuan Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002558",
+    "name": "Giant Network Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600503",
+    "name": "Deluxe Family Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688298",
+    "name": "Zhejiang Orient Gene Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600626",
+    "name": "Shanghai Shenda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300476",
+    "name": "Victory Giant Technology Huizhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002314",
+    "name": "Shenzhen New Nanshan Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002061",
+    "name": "Zhejiang Communications Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600366",
+    "name": "Ningbo Yunsheng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603116",
+    "name": "Zhejiang Red Dragonfly Footwear Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002292",
+    "name": "Alpha Group Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600773",
+    "name": "Tibet Urban Development and Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600468",
+    "name": "Tianjin Benefo Tejing Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASX",
+    "name": "ASE Technology Holding Co. Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000717",
+    "name": "Guangdong Zhongnan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600650",
+    "name": "Shanghai Jin Jiang Online Network Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002631",
+    "name": "Der Future Science & Technology Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002746",
+    "name": "Shandong Xiantan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688066",
+    "name": "Piesat Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1528",
+    "name": "Red Star Macalline Group Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300232",
+    "name": "Unilumin Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000428",
+    "name": "Huatian Hotel Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200541",
+    "name": "Foshan Electrical and Lighting Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002489",
+    "name": "Yotrio Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600597",
+    "name": "Bright Dairy & Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603077",
+    "name": "Sichuan Hebang Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000788",
+    "name": "PKU Healthcare Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300770",
+    "name": "Guangdong South New Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601368",
+    "name": "Guangxi Nanning Waterworks Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002786",
+    "name": "Shenzhen Silver Basis Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002093",
+    "name": "Guomai Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000830",
+    "name": "Luxi Chemical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600861",
+    "name": "FESCO Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300741",
+    "name": "Huabao Flavours & Fragrances Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002907",
+    "name": "Chongqing Pharscin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000990",
+    "name": "Chengzhi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300075",
+    "name": "Beijing eGOVA Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600516",
+    "name": "Fangda Carbon New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000921",
+    "name": "Hisense Home Appliances Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002866",
+    "name": "Jiangsu Transimage Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002186",
+    "name": "China Quanjude Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600459",
+    "name": "Sino-Platinum Metals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300475",
+    "name": "Shannon Semiconductor Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601218",
+    "name": "Jiangsu SINOJIT Wind Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002567",
+    "name": "Tangrenshen Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600736",
+    "name": "Suzhou New District Hi-Tech Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002839",
+    "name": "Jiangsu Zhangjiagang Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300232",
+    "name": "Unilumin Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600657",
+    "name": "Cinda Real Estate Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002169",
+    "name": "Guangzhou Zhiguang Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600728",
+    "name": "PCI Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001914",
+    "name": "China Merchants Property Operation & Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600874",
+    "name": "Tianjin Capital Environmental Protection Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600167",
+    "name": "Luenmei Quantum Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603658",
+    "name": "Autobio Diagnostics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002169",
+    "name": "Guangzhou Zhiguang Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000025",
+    "name": "Shenzhen Tellus Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688033",
+    "name": "Beijing Tianyishangjia New Material Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601226",
+    "name": "Huadian Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600903",
+    "name": "Guizhou Gas Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600480",
+    "name": "Lingyun Industrial Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600063",
+    "name": "Anhui Wanwei Updated High-Tech Material Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000928",
+    "name": "Sinosteel Engineering & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600881",
+    "name": "Jilin Yatai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300327",
+    "name": "Sino Wealth Electronic Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000639",
+    "name": "Xiwang Foodstuffs Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002815",
+    "name": "Suntak Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300558",
+    "name": "Betta Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603179",
+    "name": "Jiangsu Xinquan Automotive Trim Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JD",
+    "name": "JD.com Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600094",
+    "name": "Greattown Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603999",
+    "name": "Duzhe Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600628",
+    "name": "Shanghai New World Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600108",
+    "name": "Gansu Yasheng Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000552",
+    "name": "Gansu Jingyuan Coal Industry and Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002561",
+    "name": "Shanghai Xujiahui Commercial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300101",
+    "name": "Chengdu CORPRO Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688819",
+    "name": "Tianneng Battery Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000629",
+    "name": "Pangang Group Vanadium Titanium & Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301089",
+    "name": "Tuoxin Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601158",
+    "name": "Chongqing Water Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002020",
+    "name": "Zhejiang Jingxin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002219",
+    "name": "New Journey Health Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002589",
+    "name": "Realcan Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300110",
+    "name": "Huaren Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688276",
+    "name": "Changchun BCHT Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600125",
+    "name": "China Railway Tielong Container Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000016",
+    "name": "Konka Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600201",
+    "name": "Jinyu Bio-Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002224",
+    "name": "Sanlux Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002329",
+    "name": "Royal Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600527",
+    "name": "Jiangsu Jiangnan High Polymer Fiber Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600638",
+    "name": "Shanghai New Huang Pu Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000025",
+    "name": "Shenzhen Tellus Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002219",
+    "name": "New Journey Health Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002936",
+    "name": "Bank of Zhengzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MPNGY",
+    "name": "Meituan ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600720",
+    "name": "CCCC Design & Consulting Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601010",
+    "name": "Wenfeng Great World Chain Development Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600481",
+    "name": "Shuangliang Eco-Energy Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603609",
+    "name": "Wellhope Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601900",
+    "name": "Southern Publishing & Media Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603883",
+    "name": "Laobaixing Pharmacy Chain JSC Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600881",
+    "name": "Jilin Yatai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002530",
+    "name": "JC Finance & Tax Interconnect Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603927",
+    "name": "Sinosoft Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002314",
+    "name": "Shenzhen New Nanshan Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "XIACY",
+    "name": "Xiaomi Corp. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300365",
+    "name": "Beijing Forever Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600064",
+    "name": "Nanjing Gaoke Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600391",
+    "name": "AECC Aero Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301039",
+    "name": "CIMC Vehicles Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000059",
+    "name": "North Huajin Chemical Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002262",
+    "name": "Jiangsu Nhwa Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601326",
+    "name": "Qinhuangdao Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300287",
+    "name": "Beijing Philisense Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603866",
+    "name": "Toly Bread Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601828",
+    "name": "Red Star Macalline Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002626",
+    "name": "Xiamen Kingdomway Group Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688276",
+    "name": "Changchun BCHT Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600582",
+    "name": "Tian Di Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600449",
+    "name": "Ningxia Building Materials Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002303",
+    "name": "MYS Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000733",
+    "name": "China Zhenhua Group Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600664",
+    "name": "Harbin Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601811",
+    "name": "Xinhua Winshare Publishing and Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600479",
+    "name": "Zhuzhou Qianjin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600173",
+    "name": "Wolong New Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603698",
+    "name": "Changzheng Engineering Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600805",
+    "name": "Jiangsu Yueda Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600327",
+    "name": "Wuxi Commercial Mansion Grand Orient Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300709",
+    "name": "Jiangsu Gian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200055",
+    "name": "China Fangda Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600376",
+    "name": "Beijing Capital Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600067",
+    "name": "CITYCHAMP DARTONG ADVANCED MATERIALS Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600400",
+    "name": "Jiangsu Hongdou Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000882",
+    "name": "Beijing Hualian Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300504",
+    "name": "Sichuan Tianyi Comheart Telecom Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000829",
+    "name": "Telling Telecommunication Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300132",
+    "name": "Fujian Green Pine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002285",
+    "name": "Shenzhen World Union Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002387",
+    "name": "Visionox Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300055",
+    "name": "Beijing Water Business Doctor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601636",
+    "name": "Zhuzhou Kibing Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601208",
+    "name": "Sichuan EM Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002583",
+    "name": "Hytera Communications Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000951",
+    "name": "Sinotruk Jinan Truck Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600428",
+    "name": "COSCO SHIPPING Specialized Carriers Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000626",
+    "name": "Grand Industrial Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603877",
+    "name": "Ningbo Peacebird Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600496",
+    "name": "Changjiang & Jinggong Steel Building Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600180",
+    "name": "CCS Supply Chain Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002191",
+    "name": "Shenzhen Jinjia Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600618",
+    "name": "Shanghai Chlor-Alkali Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600618",
+    "name": "Shanghai Chlor-Alkali Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600748",
+    "name": "Shanghai Industrial Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601218",
+    "name": "Jiangsu SINOJIT Wind Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600409",
+    "name": "Tangshan Sanyou Chemical Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002036",
+    "name": "LianChuang Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300314",
+    "name": "Ningbo David Medical Device Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GULF-R",
+    "name": "Gulf Development PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688707",
+    "name": "Guizhou Zhenhua E-chem Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600983",
+    "name": "Whirlpool China Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603882",
+    "name": "Guangzhou Kingmed Diagnostics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000039",
+    "name": "China International Marine Containers Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603212",
+    "name": "Cybrid Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002609",
+    "name": "Shenzhen Jieshun Science And Technology Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000683",
+    "name": "Inner Mongolia Berun Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002567",
+    "name": "Tangrenshen Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002761",
+    "name": "Zhejiang Construction Investment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600783",
+    "name": "Luxin Venture Capital Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601100",
+    "name": "Jiangsu Hengli Hydraulic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002088",
+    "name": "Luyang Energy-Saving Materials Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603533",
+    "name": "IReader Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601238",
+    "name": "Guangzhou Automobile Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603169",
+    "name": "Lanzhou LS Heavy Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600790",
+    "name": "Zhejiang China Light & Textile Industrial City Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600594",
+    "name": "Guizhou Yibai Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300203",
+    "name": "Focused Photonics Hangzhou Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600132",
+    "name": "Chongqing Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603212",
+    "name": "Cybrid Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301071",
+    "name": "Henan Liliang Diamond Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600865",
+    "name": "Baida Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000517",
+    "name": "Rongan Property Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600135",
+    "name": "Lucky Film Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600108",
+    "name": "Gansu Yasheng Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600963",
+    "name": "Yueyang Forest & Paper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603626",
+    "name": "Kunshan Kersen Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000726",
+    "name": "Lu Thai Textile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002506",
+    "name": "GCL System Integration Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605369",
+    "name": "Zhejiang Gongdong Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1668",
+    "name": "China South City Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300850",
+    "name": "Luoyang Xinqianglian Slewing Bearing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "302",
+    "name": "CMGE Technology Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600626",
+    "name": "Shanghai Shenda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300140",
+    "name": "CECEP Environmental Protection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002907",
+    "name": "Chongqing Pharscin Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603096",
+    "name": "Thinkingdom Media Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002285",
+    "name": "World Union Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600805",
+    "name": "Jiangsu Yueda Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002430",
+    "name": "Hangzhou Oxygen Plant Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600845",
+    "name": "Shanghai Baosight Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300087",
+    "name": "Winall Hi-Tech Seed Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600755",
+    "name": "Xiamen ITG Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600500",
+    "name": "Sinochem International Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000008",
+    "name": "China High Speed Railway Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688083",
+    "name": "ZWSOFT Co. Ltd. Guangzhou Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000882",
+    "name": "Beijing Hualian Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600056",
+    "name": "China Meheco Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002683",
+    "name": "Guangdong Hongda Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600537",
+    "name": "EGing Photovoltaic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300429",
+    "name": "Changzhou Tronly New Electronic Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300365",
+    "name": "Beijing Forever Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600716",
+    "name": "Jiangsu Phoenix Property Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600073",
+    "name": "Shanghai Bright Meat Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601997",
+    "name": "Bank of Guiyang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601677",
+    "name": "Henan Mingtai Al Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688105",
+    "name": "Nanjing Vazyme Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002508",
+    "name": "Hangzhou Robam Appliances Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000690",
+    "name": "Guangdong Baolihua New Energy Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002212",
+    "name": "Topsec Technologies Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600989",
+    "name": "Ningxia Baofeng Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300323",
+    "name": "BOE HC SemiTek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000717",
+    "name": "Guangdong Zhongnan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600386",
+    "name": "Beijing Bashi Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600814",
+    "name": "Hangzhou Jiebai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600821",
+    "name": "NYOCOR Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000498",
+    "name": "Shandong Hi-Speed Road & Bridge Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600556",
+    "name": "Inmyshow Digital Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000543",
+    "name": "An Hui Wenergy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002635",
+    "name": "Suzhou Anjie Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601077",
+    "name": "Chongqing Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600567",
+    "name": "Shanying International Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688349",
+    "name": "Sany Renewable Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000902",
+    "name": "Yonfer Agricultural Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600906",
+    "name": "Caida Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002746",
+    "name": "Shandong Xiantan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002534",
+    "name": "Xizi Clean Energy Equipment Manufacturing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601929",
+    "name": "Jishi Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600054",
+    "name": "Huangshan Tourism Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002636",
+    "name": "Goldenmax International Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900910",
+    "name": "Shanghai Highly Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000718",
+    "name": "Suning Universal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002840",
+    "name": "Zhejiang Huatong Meat Products Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000898",
+    "name": "Angang Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600537",
+    "name": "EGing Photovoltaic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9869",
+    "name": "Helens International Holdings Co. ltd",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600053",
+    "name": "Kunwu Jiuding Investment Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ENIC",
+    "name": "Enel Chile SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601918",
+    "name": "China Coal Xinji Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600717",
+    "name": "Tianjin Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688388",
+    "name": "Guangdong Jia Yuan Technology Shares Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000905",
+    "name": "Xiamen Port Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EA-R",
+    "name": "Energy Absolute PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001872",
+    "name": "China Merchants Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601311",
+    "name": "Camel Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603983",
+    "name": "Guangdong Marubi Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600851",
+    "name": "Shanghai Haixin Group Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600596",
+    "name": "Zhejiang Xinan Chemical Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600004",
+    "name": "Guangzhou Baiyun International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000661",
+    "name": "Changchun High-Tech Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603113",
+    "name": "Jinneng Science&Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603888",
+    "name": "Xinhuanet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600617",
+    "name": "Shanxi Guoxin Energy Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002832",
+    "name": "Biem.L.Fdlkk Garment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601678",
+    "name": "Befar Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HTHT",
+    "name": "H World Group Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002458",
+    "name": "Shandong Yisheng Livestock & Poultry Breeding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AUOTY",
+    "name": "AU Optronics Corp. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600648",
+    "name": "Shanghai Waigaoqiao Free Trade Zone Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601136",
+    "name": "Capital Securities Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600309",
+    "name": "Wanhua Chemical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600548",
+    "name": "Shenzhen Expressway Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600676",
+    "name": "Shanghai Jiao Yun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600389",
+    "name": "Nantong Jiangshan Agrochemical & Chemical LLC Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603997",
+    "name": "Ningbo Jifeng Auto Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300725",
+    "name": "PharmaBlock Sciences Nanjing Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600059",
+    "name": "Zhejiang Guyuelongshan Shaoxing Wine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688559",
+    "name": "Hymson Laser Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603612",
+    "name": "Sunstone Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000895",
+    "name": "Henan Shuanghui Investment & Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002791",
+    "name": "Guangdong Kinlong Hardware Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600284",
+    "name": "Shanghai Pudong Construction Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601969",
+    "name": "Hainan Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600388",
+    "name": "Fujian Longking Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300224",
+    "name": "Yantai Zhenghai Magnetic Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUZ",
+    "name": "Suzano SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600351",
+    "name": "Yabao Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301219",
+    "name": "Ganzhou Teng Yuan Cobalt New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600557",
+    "name": "Jiangsu Kanion Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002866",
+    "name": "Jiangsu Transimage Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603392",
+    "name": "Beijing Wantai Biological Pharmacy Enterprise Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600185",
+    "name": "Zhuhai Zhumian Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688363",
+    "name": "Bloomage Biotechnology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600638",
+    "name": "Shanghai New Huang Pu Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002060",
+    "name": "Guangdong Construction Engineering Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600339",
+    "name": "China Petroleum Engineering Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000968",
+    "name": "Shanxi Blue Flame Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688232",
+    "name": "Guotai Epoint Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600737",
+    "name": "COFCO Sugar Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000561",
+    "name": "Shaanxi Fenghuo Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600667",
+    "name": "Wuxi Taiji Industry Ltd. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300319",
+    "name": "Shenzhen Microgate Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002539",
+    "name": "Chengdu Wintrue Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600816",
+    "name": "J-Yuan Trust Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600610",
+    "name": "Guizhou Zhongyida Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003022",
+    "name": "Levima Advanced Materials Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600386",
+    "name": "Beijing Bashi Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600340",
+    "name": "China Fortune Land Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1121",
+    "name": "Golden Solar New Energy Technology Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603236",
+    "name": "Quectel Wireless Solutions Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300726",
+    "name": "Zhuzhou Hongda Electronics Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301015",
+    "name": "Qingdao Baheal Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300821",
+    "name": "Shandong Dongyue Silicone Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001287",
+    "name": "Shenzhen CECport Technologies Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000950",
+    "name": "CQ Pharmaceutical Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688281",
+    "name": "Shaanxi Huaqin Technology Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300357",
+    "name": "Zhejiang Wolwo Bio-Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600210",
+    "name": "Shanghai Zijiang Enterprise Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002270",
+    "name": "Huaming Power Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002653",
+    "name": "Haisco Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688526",
+    "name": "Wuhan Keqian Biology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600169",
+    "name": "Taiyuan Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002563",
+    "name": "Zhejiang Semir Garment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300616",
+    "name": "Guangzhou Shangpin Home Collection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300199",
+    "name": "Hybio Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002041",
+    "name": "Shandong Denghai Seeds Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600716",
+    "name": "Jiangsu Phoenix Property Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601825",
+    "name": "Shanghai Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601577",
+    "name": "Bank of Changsha Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000795",
+    "name": "Innuovo Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002434",
+    "name": "Zhejiang Wanliyang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301095",
+    "name": "Semitronix Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ABEV",
+    "name": "Ambev SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600135",
+    "name": "Lucky Film Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600619",
+    "name": "Shanghai Highly Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300007",
+    "name": "Hanwei Electronics Group Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600479",
+    "name": "Zhuzhou Qianjin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601107",
+    "name": "Sichuan Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBDBY",
+    "name": "Cia Brasileira de Distribuicao ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002645",
+    "name": "Jiangsu Huahong Technology Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300451",
+    "name": "B-Soft Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600708",
+    "name": "Bright Real Estate Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000517",
+    "name": "Rongan Property Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600368",
+    "name": "Guangxi Wuzhou Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002550",
+    "name": "Changzhou Qianhong Biopharma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603220",
+    "name": "China Bester Group Telecom Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1890",
+    "name": "China Kepei Education Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300633",
+    "name": "Sonoscape Medical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000516",
+    "name": "Xian International Medical Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600180",
+    "name": "CCS Supply Chain Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601000",
+    "name": "TangShan Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002409",
+    "name": "Jiangsu Yoke Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600195",
+    "name": "China Animal Husbandry Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603719",
+    "name": "Bestore Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600882",
+    "name": "Shanghai Milkground Food Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600623",
+    "name": "Shanghai Huayi Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601801",
+    "name": "Anhui Xinhua Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002547",
+    "name": "Suzhou Chunxing Precision Mechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000069",
+    "name": "Shenzhen Overseas Chinese Town Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603197",
+    "name": "Shanghai Baolong Automotive Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603690",
+    "name": "PNC Process Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688289",
+    "name": "Sansure Biotech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002138",
+    "name": "Shenzhen Sunlord Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603719",
+    "name": "Bestore Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600586",
+    "name": "Shandong Jinjing Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300973",
+    "name": "Ligao Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002926",
+    "name": "Huaxi Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002782",
+    "name": "Shenzhen Click Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688711",
+    "name": "Macmic Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600131",
+    "name": "State Grid Information & Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688032",
+    "name": "Hoymiles Power Electronics Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002491",
+    "name": "Tongding Interconnection Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600846",
+    "name": "Shanghai Tongji Science & Technology Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688368",
+    "name": "Shanghai Bright Power Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600503",
+    "name": "Deluxe Family Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600327",
+    "name": "Wuxi Commercial Mansion Grand Orient Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002146",
+    "name": "RiseSun Real Estate Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002367",
+    "name": "Canny Elevator Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600325",
+    "name": "Zhuhai Huafa Properties Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002063",
+    "name": "YGSOFT Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000598",
+    "name": "Chengdu Xingrong Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000088",
+    "name": "Shenzhen Yan Tian Port Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000035",
+    "name": "China Tianying Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601778",
+    "name": "Jinko Power Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002042",
+    "name": "Huafu Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300765",
+    "name": "CSPC Innovation Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002335",
+    "name": "Kehua Data Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002245",
+    "name": "Jiangsu Azure Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002484",
+    "name": "Nantong Jianghai Capacitor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600572",
+    "name": "Zhejiang Conba Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601700",
+    "name": "Changshu Fengfan Power Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300595",
+    "name": "Ovctek China Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600310",
+    "name": "Guangxi Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002467",
+    "name": "263 Network Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300110",
+    "name": "Huaren Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003035",
+    "name": "China Southern Power Grid Energy Efficiency&Clean Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000078",
+    "name": "Shenzhen Neptunus Bioengineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601718",
+    "name": "Jihua Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600395",
+    "name": "Guizhou Panjiang Refined Coal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600682",
+    "name": "Nanjing Xinjiekou Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600578",
+    "name": "Beijing Jingneng Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002589",
+    "name": "Realcan Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002079",
+    "name": "Suzhou Good-Ark Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600973",
+    "name": "Baosheng Science and Technology Innovation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002081",
+    "name": "Suzhou Gold Mantis Construction Decoration Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603027",
+    "name": "Qianhe Condiment and Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000626",
+    "name": "Grand Industrial Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603638",
+    "name": "Yantai Eddie Precision Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600742",
+    "name": "Changchun Faway Automobile Components Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300184",
+    "name": "Wuhan P&S Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002221",
+    "name": "Oriental Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688639",
+    "name": "Anhui Huaheng Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603328",
+    "name": "Guangdong Ellington Electronics Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603505",
+    "name": "China Kings Resources Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002461",
+    "name": "Guangzhou Zhujiang Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603290",
+    "name": "StarPower Semiconductor Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000507",
+    "name": "Zhuhai Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601949",
+    "name": "China Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000031",
+    "name": "Grandjoy Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688298",
+    "name": "Zhejiang Orient Gene Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603686",
+    "name": "Fulongma Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300267",
+    "name": "Hunan Er-Kang Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300682",
+    "name": "Longshine Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300358",
+    "name": "Truking Technology Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600527",
+    "name": "Jiangsu Jiangnan High Polymer Fiber Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600987",
+    "name": "Zhejiang Hangmin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300737",
+    "name": "Keshun Waterproof Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002372",
+    "name": "Zhejiang Weixing New Building Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601002",
+    "name": "Gem-Year Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600594",
+    "name": "Guizhou Yibai Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688598",
+    "name": "KBC Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002727",
+    "name": "Yixintang Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600058",
+    "name": "Minmetals Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600162",
+    "name": "Shenzhen Heungkong Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002596",
+    "name": "Hainan Ruize New Building Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002233",
+    "name": "Guangdong Tapai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600491",
+    "name": "Long Yuan Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600675",
+    "name": "China Enterprise Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300194",
+    "name": "Fuan Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600743",
+    "name": "Beijing Huayuan Xinhang Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300219",
+    "name": "Hongli Zhihui Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601016",
+    "name": "CECEP Wind-Power Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002095",
+    "name": "Zhejiang NetSun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300409",
+    "name": "Guangdong Dowstone Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600662",
+    "name": "Shanghai Foreign Service Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688356",
+    "name": "Jenkem Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002646",
+    "name": "Qinghai Huzhu TianYouDe Highland Barley Spirit Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300861",
+    "name": "Yangling Metron New Material Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600477",
+    "name": "Hangxiao Steel Structure Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000881",
+    "name": "CGN Nuclear Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300027",
+    "name": "Huayi Brothers Media Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600763",
+    "name": "Topchoice Medical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603368",
+    "name": "Guangxi LiuYao Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002460",
+    "name": "Ganfeng Lithium Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000710",
+    "name": "Berry Genomics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000049",
+    "name": "Shenzhen Desay Battery Technology Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000631",
+    "name": "Shunfa Hengneng Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002446",
+    "name": "Guangdong Shenglu Telecommunication Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600510",
+    "name": "Black Peony Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300671",
+    "name": "Shenzhen Fine Made Electronics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600997",
+    "name": "Kailuan Energy Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002537",
+    "name": "HyUnion Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603906",
+    "name": "Jiangsu Lopal Tech Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASTRO",
+    "name": "Astro Malaysia Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300079",
+    "name": "Sumavision Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301301",
+    "name": "Yili Chuanning Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300741",
+    "name": "Huabao Flavours & Fragrances Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002459",
+    "name": "JA Solar Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603989",
+    "name": "Hunan Aihua Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000967",
+    "name": "Infore Environment Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001269",
+    "name": "Inner Mongolia OJing Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000936",
+    "name": "Jiangsu Huaxicun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600681",
+    "name": "Bestsun Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300504",
+    "name": "Sichuan Tianyi Comheart Telecom Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300572",
+    "name": "Shenzhen Anche Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600971",
+    "name": "Anhui Hengyuan Coal Industry and Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002341",
+    "name": "Shenzhen Selen Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688390",
+    "name": "GoodWe Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600628",
+    "name": "Shanghai New World Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600829",
+    "name": "HPGC Renmintongtai Pharmaceutical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300616",
+    "name": "Guangzhou Shangpin Home Collection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002511",
+    "name": "C&S Paper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6504",
+    "name": "Nan Liu Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUPER-F",
+    "name": "Super Energy Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002375",
+    "name": "Zhejiang Yasha Decoration Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002399",
+    "name": "Shenzhen Hepalink Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688185",
+    "name": "CanSino Biologics Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300349",
+    "name": "Goldcard Smart Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002481",
+    "name": "YanTai Shuangta Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PSH-F",
+    "name": "Pruksa Holding PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002382",
+    "name": "Blue Sail Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002035",
+    "name": "Vatti Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300401",
+    "name": "Zhejiang Garden Biopharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601588",
+    "name": "Beijing North Star Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300352",
+    "name": "Beijing VRV Software Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300769",
+    "name": "Shenzhen Dynanonic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CIBEST",
+    "name": "Grupo Cibest SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601010",
+    "name": "Wenfeng Great World Chain Development Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002733",
+    "name": "Shenzhen Center Power Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002099",
+    "name": "Zhejiang Hisoar Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3383",
+    "name": "Agile Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000639",
+    "name": "Xiwang Foodstuffs Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603589",
+    "name": "Anhui Kouzi Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000848",
+    "name": "Cheng De Lolo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000735",
+    "name": "Luoniushan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002585",
+    "name": "Jiangsu Shuangxing Color Plastic New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002421",
+    "name": "Shenzhen Das Intellitech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002408",
+    "name": "Zibo Qixiang Tengda Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002677",
+    "name": "Zhejiang Meida Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603898",
+    "name": "Guangzhou Holike Creative Home Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600624",
+    "name": "Shanghai Fudan Forward S & T Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603258",
+    "name": "Hangzhou Electronic Soul Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603103",
+    "name": "Hengdian Entertainment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FORTH-F",
+    "name": "Forth Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002010",
+    "name": "Transfar Zhilian Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2883B",
+    "name": "China Development Financial Holding Corp. Prior Preference Shares.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARTC",
+    "name": "Arabtec Holding PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBOM",
+    "name": "Credit Bank of Moscow PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SBER",
+    "name": "Sberbank of Russia PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601258",
+    "name": "Pang Da Automobile Trade Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002505",
+    "name": "Pengdu Agriculture & Animal Husbandry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300116",
+    "name": "Shaanxi J&R Optimum Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000671",
+    "name": "Yango Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLZL",
+    "name": "Polyus PJSC GDR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFKS",
+    "name": "Sistema AFK PAO",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALRS",
+    "name": "Alrosa PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000667",
+    "name": "Myhome Real Estate Development Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAGN",
+    "name": "Magnitogorsk Iron & Steel Works PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002503",
+    "name": "Sou Yu Te Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000961",
+    "name": "Jiangsu Zhongnan Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000861",
+    "name": "Guangdong Highsun Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600466",
+    "name": "Sichuan Languang Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SGZH",
+    "name": "Segezha Group PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SVST",
+    "name": "Severstal PAO GDR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ROSN",
+    "name": "Rosneft Oil Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VTBR",
+    "name": "VTB Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MTL",
+    "name": "Mechel PJSC ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000836",
+    "name": "Tianjin Futong Xinmao Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SGGD",
+    "name": "Surgutneftegas PJSC ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002435",
+    "name": "ChangjiangRunfa Health Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002288",
+    "name": "Guangdong Chaohua Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002118",
+    "name": "Jilin Zixin Pharmaceutical Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FLOT",
+    "name": "Sovcomflot PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BSPB",
+    "name": "Bank St. Petersburg PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MTLR",
+    "name": "Mechel PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHMF",
+    "name": "Severstal PAO",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6452",
+    "name": "Pharmally International Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2841",
+    "name": "Taiwan Land Development Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLZL",
+    "name": "Polyus PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MTLRP",
+    "name": "Mechel PJSC Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RASP",
+    "name": "Raspadskaya PAO",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NVTK",
+    "name": "Novatek PJSC GDR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RHBBANK",
+    "name": "RHB Bank Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1099",
+    "name": "Sinopharm Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VMM",
+    "name": "Vishal Mega Mart Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IDFCFIRSTB",
+    "name": "IDFC First Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BSANTANDER",
+    "name": "Banco Santander Chile",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "COLPAL",
+    "name": "Colgate-Palmolive India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TIMS3",
+    "name": "TIM SA/Brazil",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1898",
+    "name": "China Coal Energy Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5110",
+    "name": "Saudi Electricity Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1988",
+    "name": "China Minsheng Banking Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1519",
+    "name": "Fortune Electric Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "QGTS",
+    "name": "Qatar Gas Transport Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PIIND",
+    "name": "PI Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "000858",
+    "name": "Wuliangye Yibin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "600900",
+    "name": "China Yangtze Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SNP",
+    "name": "OMV Petrom SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2609",
+    "name": "Yang Ming Marine Transport Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CDB",
+    "name": "CELCOMDIGI Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6770",
+    "name": "Powerchip Semiconductor Manufacturing Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "DABUR",
+    "name": "Dabur India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "763",
+    "name": "ZTE Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5347",
+    "name": "Vanguard International Semiconductor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6886",
+    "name": "Huatai Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ADANIENSOL",
+    "name": "Adani Energy Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PPC",
+    "name": "Public Power Corp. SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "600900",
+    "name": "China Yangtze Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TOTS3",
+    "name": "TOTVS SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "966",
+    "name": "China Taiping Insurance Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ENEV3",
+    "name": "Eneva SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TBS",
+    "name": "Tiger Brands Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "JSWENERGY",
+    "name": "JSW Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BBNI",
+    "name": "Bank Negara Indonesia Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SUNWAY",
+    "name": "Sunway Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MODON",
+    "name": "Modon Holding PSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1326",
+    "name": "Formosa Chemicals & Fibre Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NYKAA",
+    "name": "FSN E-Commerce Ventures Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ITUB3",
+    "name": "Itau Unibanco Holding SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PNB",
+    "name": "Punjab National Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SHREECEM",
+    "name": "Shree Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2618",
+    "name": "Eva Airways Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "425",
+    "name": "Minth Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3481",
+    "name": "Innolux Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WAAREEENER",
+    "name": "WAAREE Energies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BOCHGR",
+    "name": "Bank of Cyprus Holdings plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6969",
+    "name": "Smoore International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SBID",
+    "name": "State Bank of India GDR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1209",
+    "name": "China Resources Mixc Lifestyle Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6990",
+    "name": "Sichuan Kelun-Biotech Biopharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "916",
+    "name": "China Longyuan Power Group Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1766",
+    "name": "CRRC Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ENRIN",
+    "name": "Siemens Energy India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SIEMENS",
+    "name": "Siemens Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PRESTIGE",
+    "name": "Prestige Estates Projects Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SALIK",
+    "name": "Salik Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BH-F",
+    "name": "Bumrungrad Hospital PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ABB",
+    "name": "ABB India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3702",
+    "name": "WPG Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MRP",
+    "name": "Mr Price Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GRT",
+    "name": "Growthpoint Properties Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2618",
+    "name": "JD Logistics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KIMBERA",
+    "name": "Kimberly-Clark de Mexico SAB de CV Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3036",
+    "name": "WT Microelectronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GLENMARK",
+    "name": "Glenmark Pharmaceuticals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NHPC",
+    "name": "NHPC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MANKIND",
+    "name": "Mankind Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HLBANK",
+    "name": "Hong Leong Bank Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "QNNS",
+    "name": "Qatar Navigation QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SBICARD",
+    "name": "SBI Cards & Payment Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "601328",
+    "name": "Bank of Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BRMS",
+    "name": "Bumi Resources Minerals Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "360ONE",
+    "name": "360 ONE WAM Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NMDC",
+    "name": "NMDC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KCHOL.E",
+    "name": "KOC Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HTO",
+    "name": "Hellenic Telecommunications Organization SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UGPA3",
+    "name": "Ultrapar Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TCELL.E",
+    "name": "Turkcell Iletisim Hizmetleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ORDS",
+    "name": "Ooredoo QPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6274",
+    "name": "Taiwan Union Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "DELHIVERY",
+    "name": "Delhivery Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3706",
+    "name": "Mitac Holdings Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ADNOCDIST",
+    "name": "Abu Dhabi National Oil Co. for Distribution PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BLUESTARCO",
+    "name": "Blue Star Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "YTL",
+    "name": "YTL Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GOTO",
+    "name": "GoTo Gojek Tokopedia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "COROMANDEL",
+    "name": "Coromandel International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WHL",
+    "name": "Woolworths Holdings Ltd./South Africa",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TORNTPOWER",
+    "name": "Torrent Power Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "384",
+    "name": "China Gas Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "COPEC",
+    "name": "Empresas Copec SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GRUMAB",
+    "name": "Gruma SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "300308",
+    "name": "Zhongji Innolight Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2313",
+    "name": "Compeq Manufacturing Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2353",
+    "name": "Acer Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CANBK",
+    "name": "Canara Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CMIG4",
+    "name": "Cia Energetica de Minas Gerais Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4325",
+    "name": "Umm Al Qura for Development & Construction Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MBRF3",
+    "name": "MBRF Global Foods Company SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LREN3",
+    "name": "Lojas Renner SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GMRAIRPORT",
+    "name": "GMR Airports Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1772",
+    "name": "Ganfeng Lithium Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KEI",
+    "name": "KEI Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9899",
+    "name": "NetEase Cloud Music Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601166",
+    "name": "Industrial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MULTIPLY",
+    "name": "Multiply Group PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4250",
+    "name": "Jabal Omar Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1102",
+    "name": "Asia Cement Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QIIK",
+    "name": "Qatar International Islamic Bank QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "151",
+    "name": "Want Want China Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3998",
+    "name": "Bosideng International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1605",
+    "name": "Walsin Lihwa Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AXIATA",
+    "name": "Axiata Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PAGEIND",
+    "name": "Page Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENGI11",
+    "name": "Energisa S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2385",
+    "name": "Chicony Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SAHOL.E",
+    "name": "Haci Omer Sabanci Holding AS (Bearer)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8010",
+    "name": "Co for Cooperative Insurance",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IOICORP",
+    "name": "IOI Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OIL",
+    "name": "Oil India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9688",
+    "name": "Zai Lab Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YKBNK.E",
+    "name": "Yapi ve Kredi Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6409",
+    "name": "Voltronic Power Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "VESTA*",
+    "name": "Corp Inmobiliaria Vesta SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MINT-F",
+    "name": "Minor International PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "489",
+    "name": "Dongfeng Motor Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YTLPOWR",
+    "name": "YTL Power International Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ATAT",
+    "name": "Atour Lifestyle Holdings Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2812",
+    "name": "Taichung Commercial Bank Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "270",
+    "name": "Guangdong Investment Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IDEA",
+    "name": "Vodafone Idea Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MAXIS",
+    "name": "Maxis Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MCX",
+    "name": "Multi Commodity Exchange of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INDIANB",
+    "name": "Indian Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "960",
+    "name": "Longfor Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6862",
+    "name": "Haidilao International Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SUPREMEIND",
+    "name": "Supreme Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GENTERA*",
+    "name": "Gentera SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "322",
+    "name": "Tingyi Cayman Islands Holding Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PCHEM",
+    "name": "Petronas Chemicals Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1402",
+    "name": "Far Eastern New Century Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ADNOCLS",
+    "name": "ADNOC Logistics & Services",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1111",
+    "name": "Saudi Tadawul Group Holding Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UNIONBANK",
+    "name": "Union Bank of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QFIN",
+    "name": "Qfin Holdings Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JUBLFOOD",
+    "name": "Jubilant Foodworks Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RADICO",
+    "name": "Radico Khaitan Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600000",
+    "name": "Shanghai Pudong Development Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KLK",
+    "name": "Kuala Lumpur Kepong Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2290",
+    "name": "Yanbu National Petrochemical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JSL",
+    "name": "Jindal Stainless Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "POWERINDIA",
+    "name": "Hitachi Energy India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5536",
+    "name": "Acter Group Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2799",
+    "name": "China Huarong Asset Management Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GBK",
+    "name": "Gulf Bank KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1548",
+    "name": "Genscript Biotech Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KLBN11",
+    "name": "Klabin SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UNOMINDA",
+    "name": "UNO Minda Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ISA",
+    "name": "Interconexion Electrica SA ESP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ISCTR.E",
+    "name": "Turkiye Is Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6139",
+    "name": "L&K Engineering Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3323",
+    "name": "China National Building Material Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JKCEMENT",
+    "name": "JK Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1476",
+    "name": "Eclat Textile Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IRFC",
+    "name": "Indian Railway Finance Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AMRT",
+    "name": "Sumber Alfaria Trijaya Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1193",
+    "name": "China Resources Gas Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300502",
+    "name": "Eoptolink Technology Inc. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9896",
+    "name": "MINISO Group Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2615",
+    "name": "Wan Hai Lines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MER",
+    "name": "Manila Electric Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IRCTC",
+    "name": "Indian Railway Catering & Tourism Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4142",
+    "name": "Riyadh Cables Group Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AIRARABIA",
+    "name": "Air Arabia PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RADL3",
+    "name": "Raia Drogasil SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BIOCON",
+    "name": "Biocon Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LTF",
+    "name": "L&T Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EXX",
+    "name": "Exxaro Resources Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ICICIPRULI",
+    "name": "ICICI Prudential Life Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALKEM",
+    "name": "Alkem Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6805",
+    "name": "Fositek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2377",
+    "name": "Micro-Star International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4300",
+    "name": "Dar Al Arkan Real Estate Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1258",
+    "name": "China Nonferrous Mining Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2400",
+    "name": "XD Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SONACOMS",
+    "name": "Sona Blw Precision Forgings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PETRONET",
+    "name": "Petronet LNG Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "H2O",
+    "name": "Societatea De Producere A Energiei Electrice in Hidrocentrale Hidroelectrica SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9880",
+    "name": "UBTech Robotics Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TATACOMM",
+    "name": "Tata Communications Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QFLS",
+    "name": "Qatar Fuel QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SCC-R",
+    "name": "Siam Cement PCL NVDR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6415",
+    "name": "Silergy Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ELET6",
+    "name": "Centrais Eletricas Brasileiras SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NATIONALUM",
+    "name": "National Aluminium Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "HSAI",
+    "name": "Hesai Group ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OBEROIRLTY",
+    "name": "Oberoi Realty Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300476",
+    "name": "Victory Giant Technology Huizhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AC",
+    "name": "Ayala Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601988",
+    "name": "Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "M&MFIN",
+    "name": "Mahindra & Mahindra Financial Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3898",
+    "name": "Zhuzhou CRRC Times Electric Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UNTR",
+    "name": "United Tractors Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2367",
+    "name": "Giant Biogene Holding Co. ltd",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "144",
+    "name": "China Merchants Port Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "HINDZINC",
+    "name": "Hindustan Zinc Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALI",
+    "name": "Ayala Land Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PINFRA*",
+    "name": "Promotora y Operadora de Infraestructura SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4100",
+    "name": "Makkah Construction & Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601899",
+    "name": "Zijin Mining Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ITCHOTELS",
+    "name": "ITC Hotels Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MTM",
+    "name": "Momentum Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2354",
+    "name": "Foxconn Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ABCAPITAL",
+    "name": "Aditya Birla Capital Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EREGL.E",
+    "name": "Eregli Demir ve Celik Fabrikalari TAS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1776",
+    "name": "GF Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6855",
+    "name": "Ascentage Pharma Group International",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4190",
+    "name": "Jarir Marketing Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600276",
+    "name": "Jiangsu Hengrui Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3360",
+    "name": "Far East Horizon Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2409",
+    "name": "AUO Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2347",
+    "name": "Synnex Technology International Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2027",
+    "name": "TA Chen Stainless Pipe",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1030",
+    "name": "Saudi Investment Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NAVINFLUOR",
+    "name": "Navin Fluorine International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601211",
+    "name": "Guotai Haitong Securities Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MONET",
+    "name": "Moneta Money Bank AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PATANJALI",
+    "name": "Patanjali Foods Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3808",
+    "name": "Sinotruk Hong Kong Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OFSS",
+    "name": "Oracle Financial Services Software Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1044",
+    "name": "Hengan International Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1860",
+    "name": "Mobvista Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPF-F",
+    "name": "Charoen Pokphand Foods PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SAIL",
+    "name": "Steel Authority of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KALYANKJIL",
+    "name": "Kalyan Jewellers India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5483",
+    "name": "Sino-American Silicon Products Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TTB-F",
+    "name": "TMB Bank PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "772",
+    "name": "China Literature Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "257",
+    "name": "China Everbright Environment Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3324",
+    "name": "AURAS Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6060",
+    "name": "ZhongAn Online P&C Insurance Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MEGACPO",
+    "name": "Megacable Holdings SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1020",
+    "name": "Bank Al-Jazira",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2049",
+    "name": "Hiwin Technologies Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SBS",
+    "name": "Cia de Saneamento Basico do Estado de Sao Paulo ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CONCOR",
+    "name": "Container Corp. Of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "148",
+    "name": "Kingboard Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6515",
+    "name": "WinWay Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MBT",
+    "name": "Metropolitan Bank & Trust Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AGILITY",
+    "name": "Agility Global plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CHOLAHLDNG",
+    "name": "Cholamandalam Financial Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9904",
+    "name": "Pou Chen Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TATAELXSI",
+    "name": "Tata Elxsi Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601857",
+    "name": "PetroChina Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CAMS",
+    "name": "Computer Age Management Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "002371",
+    "name": "NAURA Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RVNL",
+    "name": "Rail Vikas Nigam Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CHDRAUIB",
+    "name": "Grupo Comercial Chedraui SA de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "968",
+    "name": "Xinyi Solar Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6186",
+    "name": "China Feihe Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "867",
+    "name": "China Medical System Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300308",
+    "name": "Zhongji Innolight Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MABANEE",
+    "name": "Mabanee Co. KPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "392",
+    "name": "Beijing Enterprises Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RDF",
+    "name": "Redefine Properties Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CUAN",
+    "name": "Petrindo Jaya Kreasi Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "WARBABANK",
+    "name": "Warba Bank KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BBAJIOO",
+    "name": "Banco del Bajio SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BALKRISIND",
+    "name": "Balkrishna Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BOROUGE",
+    "name": "Borouge plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPIN",
+    "name": "Charoen Pokphand Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CROMPTON",
+    "name": "Crompton Greaves Consumer Electricals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "390",
+    "name": "China Railway Group Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1477",
+    "name": "Makalot Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KAYNES",
+    "name": "Kaynes Technology India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6181",
+    "name": "Laopu Gold Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TM",
+    "name": "Telekom Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9995",
+    "name": "Remegen Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "APN",
+    "name": "Aspen Pharmacare Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600030",
+    "name": "CITIC Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SMFT3",
+    "name": "Smartfit Escola de Ginastica e Danca SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4749",
+    "name": "Advanced Echem Materials Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASAI3",
+    "name": "Sendas Distribuidora S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4200",
+    "name": "Aldrees Petroleum and Transport Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QEWS",
+    "name": "Qatar Electricity & Water Co. QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DIALOG",
+    "name": "Dialog Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IPCALAB",
+    "name": "Ipca Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DUBK",
+    "name": "Dukhan Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "002714",
+    "name": "Muyuan Foodstuff Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8464",
+    "name": "Nien Made Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INDF",
+    "name": "Indofood Sukses Makmur Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8046",
+    "name": "Nan Ya Printed Circuit Board Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SIME",
+    "name": "Sime Darby Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RDY",
+    "name": "Dr Reddy's Laboratories Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1138",
+    "name": "COSCO SHIPPING Energy Transportation Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SCC-F",
+    "name": "Siam Cement PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IJM",
+    "name": "IJM Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BBL-R",
+    "name": "Bangkok Bank PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300124",
+    "name": "Shenzhen Inovance Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KPITTECH",
+    "name": "KPIT Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2105",
+    "name": "Cheng Shin Rubber Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6176",
+    "name": "Radiant Opto-Electronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASTRAL",
+    "name": "Astral Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1513",
+    "name": "Chung-Hsin Electric & Machinery Manufacturing Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SAPR11",
+    "name": "Cia De Sanena Do Parana",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GARAN.E",
+    "name": "Turkiye Garanti Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DIC",
+    "name": "Dubai Investments PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EGIE3",
+    "name": "Engie Brasil Energia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2883",
+    "name": "China Oilfield Services Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3896",
+    "name": "Kingsoft Cloud Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6682",
+    "name": "Beijing Fourth Paradigm Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INARI",
+    "name": "Inari Amertron Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6121",
+    "name": "Simplo Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1359",
+    "name": "China Cinda Asset Management Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "189",
+    "name": "Dongyue Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALFAA",
+    "name": "Alfa SAB de CV Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PAN",
+    "name": "Pan African Resources plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5434",
+    "name": "Topco Scientific Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4004",
+    "name": "Dallah Healthcare Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4002",
+    "name": "Mouwasat Medical Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3618",
+    "name": "Chongqing Rural Commercial Bank Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YUMC",
+    "name": "Yum China Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3260",
+    "name": "ADATA Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DHBK",
+    "name": "Doha Bank QPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RA",
+    "name": "Regional SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PNBHOUSING",
+    "name": "PNB Housing Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600809",
+    "name": "Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MOH",
+    "name": "Motor Oil Hellas Corinth Refineries SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PARAUCO",
+    "name": "Parque Arauco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MPHC",
+    "name": "Mesaieed Petrochemical Holding Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LICHSGFIN",
+    "name": "LIC Housing Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GEKTERNA",
+    "name": "GEK TERNA SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALUP11",
+    "name": "Alupar Investimento SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FMTY14",
+    "name": "Fibra MTY SAPI de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600309",
+    "name": "Wanhua Chemical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4263",
+    "name": "SAL Saudi Logistics Services",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ARION",
+    "name": "Arion Banki HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ISB",
+    "name": "Islandsbanki HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CDSL",
+    "name": "Central Depository Services India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "APOLLOTYRE",
+    "name": "Apollo Tyres Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EXIDEIND",
+    "name": "Exide Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "HAPV3",
+    "name": "Hapvida Participacoes e Investimentos S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PETDAG",
+    "name": "Petronas Dagangan Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3311",
+    "name": "China State Construction International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2633",
+    "name": "Taiwan High Speed Rail Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NIND",
+    "name": "National Industries Group Holding SAK",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENELCHILE",
+    "name": "Enel Chile SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "Q*",
+    "name": "Qualitas Controladora SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AVI",
+    "name": "AVI Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1585",
+    "name": "Yadea Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MALLPLAZA",
+    "name": "Plaza SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KIMS",
+    "name": "Krishna Institute of Medical Sciences Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SCHAEFFLER",
+    "name": "Schaeffler India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASTERDM",
+    "name": "Aster DM Healthcare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MDKA",
+    "name": "Merdeka Copper Gold Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YF8",
+    "name": "Yangzijiang Financial Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4210",
+    "name": "Saudi Research & Media Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2310",
+    "name": "Sahara International Petrochemical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9969",
+    "name": "InnoCare Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GFH",
+    "name": "GFH FINANCIAL GROUP BSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TEL",
+    "name": "PLDT Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DALBHARAT",
+    "name": "Dalmia Bharat Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AMBER",
+    "name": "Amber Enterprises India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601766",
+    "name": "CRRC Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3005",
+    "name": "Getac Holdings Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TRUE-F",
+    "name": "True Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2337",
+    "name": "Macronix International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2542",
+    "name": "Highwealth Construction Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENELAM",
+    "name": "Enel Americas SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPLE3",
+    "name": "Cia Paranaense de Energia - Copel",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ANDINA-B",
+    "name": "Embotelladora Andina SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9910",
+    "name": "Feng TAY Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1882",
+    "name": "Haitian International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INDUSINDBK",
+    "name": "IndusInd Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8210",
+    "name": "Chenbro Micom Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5269",
+    "name": "ASMedia Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6505",
+    "name": "Formosa Petrochemical Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601138",
+    "name": "Foxconn Industrial Internet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GLAND",
+    "name": "Gland Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CRC-F",
+    "name": "Central Retail Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PUREHEALTH",
+    "name": "Pure Health Holding PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BIRET",
+    "name": "Brookfield India Real Estate Trust",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "900948",
+    "name": "Inner Mongolia Yitai Coal Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TFG",
+    "name": "Foschini Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ACC",
+    "name": "ACC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IGL",
+    "name": "Indraprastha Gas Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "COCHINSHIP",
+    "name": "Cochin Shipyard Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NAM-INDIA",
+    "name": "Nippon Life India Asset Management Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2380",
+    "name": "China Power International Development Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OPTIMA",
+    "name": "Optima bank SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1066",
+    "name": "Shandong Weigao Group Medical Polymer Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GENTING",
+    "name": "Genting Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6098",
+    "name": "Country Garden Services Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CXSE3",
+    "name": "Caixa Seguridade Participacoes S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FROTO.E",
+    "name": "Ford Otomotiv Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MANAPPURAM",
+    "name": "Manappuram Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NESTLE",
+    "name": "Nestle Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RBLBANK",
+    "name": "RBL Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601088",
+    "name": "China Shenhua Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JFC",
+    "name": "Jollibee Foods Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "586",
+    "name": "China Conch Venture Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENKAI.E",
+    "name": "Enka Insaat ve Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MOTILALOFS",
+    "name": "Motilal Oswal Financial Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PTTGC-F",
+    "name": "PTT Global Chemical PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TITC",
+    "name": "Titan SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "7202",
+    "name": "Arabian Internet & Communications Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "REDINGTON",
+    "name": "Redington Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "354",
+    "name": "Chinasoft International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1303",
+    "name": "Electrical Industries Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APARINDS",
+    "name": "Apar Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601816",
+    "name": "Beijing-Shanghai High Speed Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TAEE11",
+    "name": "Transmissora Alianca de Energia Eletrica S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688012",
+    "name": "Advanced Micro-Fabrication Equipment Inc. China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600050",
+    "name": "China United Network Communications Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RLX",
+    "name": "RLX Technology Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INL",
+    "name": "Investec Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PSSA3",
+    "name": "Porto Seguro SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688041",
+    "name": "Hygon Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GCC*",
+    "name": "GCC SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1503",
+    "name": "Shihlin Electric & Engineering Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAMMAANCAP",
+    "name": "Sammaan Capital Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1385",
+    "name": "Shanghai Fudan Microelectronics Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AMR",
+    "name": "Americana Restaurants International PLC - Foreign Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALOS3",
+    "name": "Allos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JOYY",
+    "name": "JOYY Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MULT3",
+    "name": "Multiplan Empreendimentos Imobiliarios SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "576",
+    "name": "Zhejiang Expressway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8358",
+    "name": "Co-Tech Development Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "QL",
+    "name": "QL Resources Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4966",
+    "name": "Parade Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1833",
+    "name": "Ping An Healthcare and Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRUE-R",
+    "name": "True Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KBANK-R",
+    "name": "Kasikornbank PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CMPC",
+    "name": "Empresas CMPC SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300059",
+    "name": "East Money Information Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIMECOM",
+    "name": "TIME dotCom Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300014",
+    "name": "Eve Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000001",
+    "name": "Ping An Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATACHEM",
+    "name": "Tata Chemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPJ",
+    "name": "KPJ Healthcare Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601127",
+    "name": "Seres Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FFB",
+    "name": "Fortress Real Estate Investments Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600276",
+    "name": "Jiangsu Hengrui Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PPB",
+    "name": "PPB Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPIL",
+    "name": "Kalpataru Projects International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3023",
+    "name": "Sinbon Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATGL",
+    "name": "Adani Total Gas Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2727",
+    "name": "Shanghai Electric Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BHARTIHEXA",
+    "name": "Bharti Hexacom Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002594",
+    "name": "BYD Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BDL",
+    "name": "Bharat Dynamics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1795",
+    "name": "Lotus Pharmaceutical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VKE",
+    "name": "Vukile Property Fund Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CARTRADE",
+    "name": "Cartrade Tech Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "177",
+    "name": "Jiangsu Expressway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UTDPLT",
+    "name": "United Plantations Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688111",
+    "name": "Beijing Kingsoft Office Software Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603993",
+    "name": "CMOC Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2162",
+    "name": "Keymed Biosciences Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BBD",
+    "name": "Banco Bradesco SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZK",
+    "name": "ZEEKR Intelligent Technology Holding Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RPOWER",
+    "name": "Reliance Power Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8996",
+    "name": "Kaori Heat Treatment Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JBCHEPHARM",
+    "name": "JB Chemicals & Pharmaceuticals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8230",
+    "name": "Al Rajhi Co. for Co-operative Insurance",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KNCR11",
+    "name": "Kinea Rendimentos Imobiliarios FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GENM",
+    "name": "Genting Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2382",
+    "name": "Ades Holding Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2498",
+    "name": "RoboSense Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1952",
+    "name": "Everest Medicines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECOPETROL",
+    "name": "Ecopetrol SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6257",
+    "name": "Sigurd Microelectronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTELEKOM",
+    "name": "Magyar Telekom Telecommunications plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "200596",
+    "name": "Anhui Gujing Distillery Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000651",
+    "name": "Gree Electric Appliances Inc. of Zhuhai Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1918",
+    "name": "Sunac China Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "853",
+    "name": "Microport Scientific Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FLUOROCHEM",
+    "name": "Gujarat Fluorochemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4164",
+    "name": "Nahdi Medical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRIGADE",
+    "name": "Brigade Enterprises Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CEMARGOS",
+    "name": "Cementos Argos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NATU3",
+    "name": "Natura Cosmeticos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CYRE3",
+    "name": "Cyrela Brazil Realty SA Empreendimentos e Participacoes",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRES",
+    "name": "Barwa Real Estate Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1229",
+    "name": "Lien Hwa Industrial Holdings Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9945",
+    "name": "Ruentex Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KLBF",
+    "name": "Kalbe Farma Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "152",
+    "name": "Shenzhen International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688256",
+    "name": "Cambricon Technologies Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEULANDLAB",
+    "name": "Neuland Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INOXWIND",
+    "name": "Inox Wind Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATHM",
+    "name": "Autohome Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "552",
+    "name": "China Communications Services Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPLE6",
+    "name": "Cia Paranaense de Energia Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LLOYDSME",
+    "name": "Lloyds Metals & Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BERGEPAINT",
+    "name": "Berger Paints India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688008",
+    "name": "Montage Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1212",
+    "name": "Astra Industrial Group Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PFCIBEST",
+    "name": "Bancolombia SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DIF-F",
+    "name": "Digital Telecommunications Infrastructure Fund",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1114",
+    "name": "Brilliance China Automotive Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6285",
+    "name": "WNC Corp. /Taiwan",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002142",
+    "name": "Bank of Ningbo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601668",
+    "name": "China State Construction Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2250",
+    "name": "Saudi Industrial Investment Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPFE3",
+    "name": "CPFL Energia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600690",
+    "name": "Haier Smart Home Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NMDC",
+    "name": "NMDC Group PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HYPE3",
+    "name": "Hypera SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2196",
+    "name": "Shanghai Fosun Pharmaceutical Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BANKINDIA",
+    "name": "Bank of India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GGPS3",
+    "name": "GPS Participacoes e Empreendimentos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DQ",
+    "name": "Daqo New Energy Corp. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "7030",
+    "name": "Mobile Telecommunications Co. Saudi Arabia",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PREMIERENE",
+    "name": "Premier Energies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GODFRYPHLP",
+    "name": "Godfrey Phillips India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BANDHANBNK",
+    "name": "Bandhan Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1060",
+    "name": "Damai Entertainment Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANTM",
+    "name": "Aneka Tambang Tbk",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6442",
+    "name": "EZconn Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAMCOCEM",
+    "name": "Ramco Cements Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "656",
+    "name": "Fosun International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ERJ",
+    "name": "Embraer SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601288",
+    "name": "Agricultural Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FIVESTAR",
+    "name": "Five-Star Business Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601398",
+    "name": "Industrial & Commercial Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2357",
+    "name": "AviChina Industry & Technology Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABK",
+    "name": "Al Ahli Bank of Kuwait KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000568",
+    "name": "Luzhou Laojiao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WELCORP",
+    "name": "Welspun Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FRONTKN",
+    "name": "Frontken Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BUMI",
+    "name": "Bumi Resources Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POONAWALLA",
+    "name": "Poonawalla Fincorp Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6066",
+    "name": "CSC Financial Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UBL",
+    "name": "United Breweries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2386",
+    "name": "Sinopec Engineering Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BOURSA",
+    "name": "Boursa Kuwait Securities Co. KPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300433",
+    "name": "Lens Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SYNGENE",
+    "name": "Syngene International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1157",
+    "name": "Zoomlion Heavy Industry Science and Technology Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300760",
+    "name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALSEA*",
+    "name": "Alsea SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3211",
+    "name": "Dynapack International Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NH",
+    "name": "Narayana Hrudayalaya Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MSUMI",
+    "name": "Motherson Sumi Wiring India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1888",
+    "name": "Kingboard Laminates Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1508",
+    "name": "China Reinsurance Group Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DANHOS13",
+    "name": "Concentradora Fibra Danhos SA de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CSAN3",
+    "name": "Cosan SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603259",
+    "name": "WuXi AppTec Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IIFL",
+    "name": "IIFL Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601601",
+    "name": "China Pacific Insurance Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PPLPHARMA",
+    "name": "Piramal Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BSBR",
+    "name": "Banco Santander Brasil SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LALPATHLAB",
+    "name": "Dr Lal PathLabs Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6531",
+    "name": "AP Memory Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IREDA",
+    "name": "Indian Renewable Energy Development Agency Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4321",
+    "name": "Arabian Centres Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NBCC",
+    "name": "NBCC India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002916",
+    "name": "Shennan Circuits Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600919",
+    "name": "Bank of Jiangsu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HUDCO",
+    "name": "Housing & Urban Development Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CSMG3",
+    "name": "Cia de Saneamento de Minas Gerais Copasa MG",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603288",
+    "name": "Foshan Haitian Flavouring & Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APTUS",
+    "name": "Aptus Value Housing Finance India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATATECH",
+    "name": "Tata Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPRMILL",
+    "name": "KPR Mill Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3035",
+    "name": "Faraday Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEEPAKNTR",
+    "name": "Deepak Nitrite Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6005",
+    "name": "Capital Securities Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2371",
+    "name": "Tatung Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "546",
+    "name": "Fufeng Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2889",
+    "name": "IBF Financial Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2208",
+    "name": "Xinjiang Goldwind Science & Technology Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "371",
+    "name": "Beijing Enterprises Water Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2223",
+    "name": "Saudi Aramco Base Oil Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KARURVYSYA",
+    "name": "Karur Vysya Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2252",
+    "name": "Shanghai MicroPort MedBot Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601166",
+    "name": "Industrial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601888",
+    "name": "China Tourism Group Duty Free Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MRDIY",
+    "name": "MR DIY Group M Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ISAE4",
+    "name": "Cia de Transmissao de Energia Eletrica Paulista Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6472",
+    "name": "Bora Pharmaceuticals Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GICRE",
+    "name": "General Insurance Corp. of India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3264",
+    "name": "Ardentec Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GOAU4",
+    "name": "Metalurgica Gerdau SA Preference Shares Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HBLENGINE",
+    "name": "HBL Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CESC",
+    "name": "CESC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "STARHEALTH",
+    "name": "Star Health & Allied Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601225",
+    "name": "Shaanxi Coal Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BURSA",
+    "name": "Bursa Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2202",
+    "name": "China Vanke Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LTTS",
+    "name": "L&T Technology Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KNIP11",
+    "name": "Kinea Indice de Precos FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LINDEINDIA",
+    "name": "Linde India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2330",
+    "name": "Advanced Petrochemical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DANA",
+    "name": "Dana Gas PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601658",
+    "name": "Postal Savings Bank of China Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "696",
+    "name": "TravelSky Technology Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BANPU-F",
+    "name": "Banpu PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WPRTS",
+    "name": "Westports Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000792",
+    "name": "Qinghai Salt Lake Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COGN3",
+    "name": "Cogna Educacao SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GESHIP",
+    "name": "Great Eastern Shipping Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GLAXO",
+    "name": "GlaxoSmithKline Pharmaceuticals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600989",
+    "name": "Ningxia Baofeng Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAILIFE",
+    "name": "SAI Life Sciences Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6818",
+    "name": "China Everbright Bank Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "753",
+    "name": "Air China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "220",
+    "name": "Uni-President China Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIMKEN",
+    "name": "Timken India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "QUINENCO",
+    "name": "Quinenco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HINDCOPPER",
+    "name": "Hindustan Copper Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SPP",
+    "name": "SPAR Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TISCO-F",
+    "name": "Tisco Financial Group PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600660",
+    "name": "Fuyao Glass Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KTB-R",
+    "name": "Krung Thai Bank PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANGELONE",
+    "name": "Angel One Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEDANTA",
+    "name": "Global Health Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6869",
+    "name": "Yangtze Optical Fibre and Cable Joint Stock Ltd. Co. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3189",
+    "name": "Kinsus Interconnect Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FIBRAMQ12",
+    "name": "FIBRA Macquarie Mexico",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TALABAT",
+    "name": "Talabat Holding plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WIT",
+    "name": "Wipro Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "598",
+    "name": "Sinotrans Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KEC",
+    "name": "KEC International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4915",
+    "name": "Primax Electronics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ICBP",
+    "name": "Indofood CBP Sukses Makmur Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOP-F",
+    "name": "Thai Oil PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1797",
+    "name": "East Buy Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANANDRATHI",
+    "name": "Anand Rathi Wealth Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FSL",
+    "name": "Firstsource Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1070",
+    "name": "TCL Electronics Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TLEVISACPO",
+    "name": "Grupo Televisa SAB",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMTK",
+    "name": "Elang Mahkota Teknologi Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ELP",
+    "name": "Cia Paranaense de Energia - Copel ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EAST",
+    "name": "Eastern Co. SAE",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARE&M",
+    "name": "Amara Raja Energy & Mobility Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600030",
+    "name": "CITIC Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601100",
+    "name": "Jiangsu Hengli Hydraulic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ESCORTS",
+    "name": "Escorts Kubota Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6147",
+    "name": "Chipbond Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "QAMC",
+    "name": "Qatar Aluminum Manufacturing Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KRE",
+    "name": "Kuwait Real Estate Co. KSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DIRR3",
+    "name": "Direcional Engenharia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATAINVEST",
+    "name": "Tata Investment Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000776",
+    "name": "GF Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JGS",
+    "name": "JG Summit Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3105",
+    "name": "Win Semiconductors Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KKP-F",
+    "name": "Kiatnakin Phatra Bank PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002384",
+    "name": "Suzhou Dongshan Precision Manufacturing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KFINTECH",
+    "name": "Kfin Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BAJAJHFL",
+    "name": "Bajaj Housing Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600111",
+    "name": "China Northern Rare Earth Group High-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INDIGRID",
+    "name": "IndiGrid Infrastructure Trust",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6963",
+    "name": "Sunshine Insurance Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3450",
+    "name": "Elite Advanced Laser Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2270",
+    "name": "Saudia Dairy & Foodstuff Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AJANTPHARM",
+    "name": "Ajanta Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UTIAMC",
+    "name": "UTI Asset Management Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRAV3",
+    "name": "Brava Energia",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TAVHL.E",
+    "name": "TAV Havalimanlari Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300033",
+    "name": "Hithink RoyalFlush Information Network Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGSUS.E",
+    "name": "Pegasus Hava Tasimaciligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1319",
+    "name": "Tong Yang Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2352",
+    "name": "Qisda Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HYP",
+    "name": "Hyprop Investments Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3081",
+    "name": "LandMark Optoelectronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "605499",
+    "name": "Eastroc Beverage Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COHANCE",
+    "name": "Cohance Lifesciences Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2350",
+    "name": "Saudi Kayan Petrochemical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2492",
+    "name": "Walsin Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6781",
+    "name": "Advanced Energy Solution Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WOCKPHARMA",
+    "name": "Wockhardt Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "817",
+    "name": "China Jinmao Holdings Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IQ",
+    "name": "iQIYI Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1908",
+    "name": "C&D International Investment Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2689",
+    "name": "Nine Dragons Paper Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300498",
+    "name": "Wens Foodstuff Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CRISIL",
+    "name": "CRISIL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ONESOURCE",
+    "name": "Onesource Specialty Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CENCOMALLS",
+    "name": "Cencosud Shopping SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMAMILTD",
+    "name": "Emami Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CYIENT",
+    "name": "Cyient Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENDURANCE",
+    "name": "Endurance Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RES",
+    "name": "Resilient REIT Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PARKIN",
+    "name": "Parkin Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4015",
+    "name": "Jamjoom Pharmaceuticals Factory Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3406",
+    "name": "Genius Electronic Optical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KAJARIACER",
+    "name": "Kajaria Ceramics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNDRMFAST",
+    "name": "Sundram Fasteners Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3320",
+    "name": "China Resources Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TERA.E",
+    "name": "Tera Yatirim Menkul Degerler AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NUVAMA",
+    "name": "Nuvama Wealth Management Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2845",
+    "name": "Far Eastern International Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OR-F",
+    "name": "PTT Oil & Retail Business PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4090",
+    "name": "Taiba Investments Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SISE.E",
+    "name": "Turkiye Sise ve Cam Fabrikalari AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2096",
+    "name": "Simcere Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGBREIT",
+    "name": "IGB REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300059",
+    "name": "East Money Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300274",
+    "name": "Sungrow Power Supply Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "XPML11",
+    "name": "XP MALLS FDO INV IMOB FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2610",
+    "name": "China Airlines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601066",
+    "name": "CSC Financial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600028",
+    "name": "China Petroleum & Chemical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CARBORUNIV",
+    "name": "Carborundum Universal Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEEPAKFERT",
+    "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "URC",
+    "name": "Universal Robina Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AIAENG",
+    "name": "AIA Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AFFLE",
+    "name": "Affle 3i Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "165",
+    "name": "China Everbright Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3900",
+    "name": "Greentown China Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EIDPARRY",
+    "name": "EID Parry India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1810",
+    "name": "Seera Group Holding",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300760",
+    "name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ITAUCL",
+    "name": "Banco Itau Chile SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECLERX",
+    "name": "eClerx Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4031",
+    "name": "Saudi Ground Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRU",
+    "name": "Truworths International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6936",
+    "name": "SF Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2458",
+    "name": "Elan Microelectronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JSWINFRA",
+    "name": "JSW Infrastructure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "881",
+    "name": "Zhongsheng Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2915",
+    "name": "Ruentex Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HSCL",
+    "name": "Himadri Speciality Chemical Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADRO",
+    "name": "Alamtri Resources Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "512",
+    "name": "Grand Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BOLSAA",
+    "name": "Bolsa Mexicana de Valores SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5289",
+    "name": "Innodisk Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KIO",
+    "name": "Kumba Iron Ore Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IVL-F",
+    "name": "Indorama Ventures PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "USHAMART",
+    "name": "Usha Martin Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600406",
+    "name": "NARI Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300274",
+    "name": "Sungrow Power Supply Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NTC",
+    "name": "Netcare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SIMEPROP",
+    "name": "Sime Darby Property Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LTM",
+    "name": "Latam Airlines Group SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADPORTS",
+    "name": "Abu Dhabi Ports Co. PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2498",
+    "name": "HTC Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1717",
+    "name": "Eternal Materials Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3019",
+    "name": "Asia Optical Co. Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NTPCGREEN",
+    "name": "NTPC Green Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601939",
+    "name": "China Construction Bank Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DRD",
+    "name": "DRDGOLD Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "99SMART",
+    "name": "99 Speed Mart Retail Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000858",
+    "name": "Wuliangye Yibin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688271",
+    "name": "Shanghai United Imaging Healthcare Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9939",
+    "name": "Taiwan Hon Chuan Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300015",
+    "name": "Aier Eye Hospital Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1133",
+    "name": "Harbin Electric Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "YINSON",
+    "name": "Yinson Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEOE3",
+    "name": "Neoenergia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "697",
+    "name": "Shoucheng Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CASTROLIND",
+    "name": "Castrol India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1368",
+    "name": "Xtep International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "THERMAX",
+    "name": "Thermax Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9690",
+    "name": "Tuhu Car Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABREL",
+    "name": "Aditya Birla Real Estate Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601995",
+    "name": "China International Capital Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601600",
+    "name": "Aluminum Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3376",
+    "name": "Shin Zu Shing Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MINDSPACE",
+    "name": "Mindspace Business Parks REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1318",
+    "name": "Mao Geping Cosmetics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002352",
+    "name": "SF Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VFQS",
+    "name": "Vodafone Qatar PQSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8112",
+    "name": "Supreme Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "F&N",
+    "name": "Fraser & Neave Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CENER",
+    "name": "Cenergy Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PFGRUPSURA",
+    "name": "Grupo de Inversiones Suramericana SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COLBUN",
+    "name": "Colbun SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZETRIX",
+    "name": "Zetrix Ai Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6004",
+    "name": "Catrion Catering Holding Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4005",
+    "name": "National Medical Care Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SANB11",
+    "name": "Banco Santander Brasil SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AEGISLOG",
+    "name": "Aegis Logistics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6191",
+    "name": "Global Brands Manufacture Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGROS.E",
+    "name": "Migros Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AGUAS-A",
+    "name": "Aguas Andinas SA Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INKP",
+    "name": "Indah Kiat Pulp & Paper Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "631",
+    "name": "Sany Heavy Equipment International Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZEEL",
+    "name": "Zee Entertainment Enterprises Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HOMEFIRST",
+    "name": "Home First Finance Co. India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2607",
+    "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TVSHLTD",
+    "name": "TVS Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9921",
+    "name": "Giant Manufacturing Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2421",
+    "name": "Sunonwealth Electric Machine Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MAHABANK",
+    "name": "Bank of Maharashtra",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6510",
+    "name": "Chunghwa Precision Test Tech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002463",
+    "name": "WUS Printed Circuit Kunshan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZENSARTECH",
+    "name": "Zensar Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BSAC",
+    "name": "Banco Santander Chile ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601088",
+    "name": "China Shenhua Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000166",
+    "name": "Shenwan Hongyuan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABMB",
+    "name": "Alliance Bank Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARI",
+    "name": "African Rainbow Minerals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2060",
+    "name": "National Industrialization Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601688",
+    "name": "Huatai Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AWL",
+    "name": "AWL Agri Business Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1055",
+    "name": "China Southern Airlines Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601818",
+    "name": "China Everbright Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DCP",
+    "name": "Dis-Chem Pharmacies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1210",
+    "name": "Great Wall Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1560",
+    "name": "Kinik Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600183",
+    "name": "Shengyi Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600887",
+    "name": "Inner Mongolia Yili Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADNH",
+    "name": "Abu Dhabi National Hotels",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NLCINDIA",
+    "name": "NLC India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "570",
+    "name": "China Traditional Chinese Medicine Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POMO4",
+    "name": "Marcopolo SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRB",
+    "name": "IRB Infrastructure Developers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NCC",
+    "name": "NCC Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1880",
+    "name": "China Tourism Group Duty Free Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3413",
+    "name": "Foxsemicon Integrated Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "921",
+    "name": "Hisense Home Appliances Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2380",
+    "name": "Rabigh Refining & Petrochemical Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603993",
+    "name": "CMOC Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGEL",
+    "name": "PG Electroplast Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3227",
+    "name": "Pixart Imaging Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GSPL",
+    "name": "Gujarat State Petronet Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LHC",
+    "name": "Life Healthcare Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lulu Retail Holdings plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2276",
+    "name": "Shanghai Conant Optical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATUL",
+    "name": "Atul Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "991",
+    "name": "Datang International Power Generation Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1722",
+    "name": "Taiwan Fertilizer Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603259",
+    "name": "WuXi AppTec Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HMPRO-F",
+    "name": "Home Product Center PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1071",
+    "name": "Huadian Power International Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002460",
+    "name": "Ganfeng Lithium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2646",
+    "name": "Starlux Airlines Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PEKGY.E",
+    "name": "Peker Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601229",
+    "name": "Bank of Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HGLG11",
+    "name": "Patria Log Fundo de Investimento Imobiliario Responsabilidade Limitada",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2013",
+    "name": "Weimob Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AADI",
+    "name": "Adaro Andalan Indonesia PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2238",
+    "name": "Guangzhou Automobile Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4763",
+    "name": "Jinan Acetate Chemical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300394",
+    "name": "Suzhou TFC Optical Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WHIRLPOOL",
+    "name": "Whirlpool of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GULFNAV",
+    "name": "Gulf Navigation Holding PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCOLA.E",
+    "name": "Coca-Cola Icecek AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600905",
+    "name": "China Three Gorges Renewables Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6110",
+    "name": "Topsports International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PVRINOX",
+    "name": "PVR Inox Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ACUTAAS",
+    "name": "Acutaas Chemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3759",
+    "name": "Pharmaron Beijing Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZFCVINDIA",
+    "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2050",
+    "name": "Savola Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4291",
+    "name": "National Co. for Learning & Education",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1815",
+    "name": "Fulltech Fiber Glass Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LIVEPOLC-1",
+    "name": "El Puerto de Liverpool SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600150",
+    "name": "China CSSC Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2006",
+    "name": "Tung Ho Steel Enterprise Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LU",
+    "name": "Lufax Holding Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9956",
+    "name": "ANE Cayman Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000063",
+    "name": "ZTE Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TCAP-F",
+    "name": "Thanachart Capital PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600031",
+    "name": "Sany Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TDPOWERSYS",
+    "name": "TD Power Systems Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EKGYO.E",
+    "name": "Emlak Konut Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BEM-F",
+    "name": "Bangkok Expressway & Metro PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3363",
+    "name": "FOCI Fiber Optic Communications Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6282",
+    "name": "AcBel Polytech Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALTIJARIA",
+    "name": "Commercial Real Estate Co. KSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3131",
+    "name": "Grand Process Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "956",
+    "name": "China Suntien Green Energy Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGAS",
+    "name": "Perusahaan Gas Negara Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3596",
+    "name": "Arcadyan Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KIRLOSENG",
+    "name": "Kirloskar Oil Engines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CUB",
+    "name": "City Union Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9898",
+    "name": "Weibo Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INTELLECT",
+    "name": "Intellect Design Arena Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2016",
+    "name": "China Zheshang Bank Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2504",
+    "name": "Goldsun Building Materials Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CEATLTD",
+    "name": "Ceat Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1302",
+    "name": "Lifetech Scientific Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601601",
+    "name": "China Pacific Insurance Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BEML",
+    "name": "BEML Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIDLOR-F",
+    "name": "TIDLOR Holdings PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601689",
+    "name": "Ningbo Tuopu Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPAXT-F",
+    "name": "CP AXTRA PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601009",
+    "name": "Bank of Nanjing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1785",
+    "name": "Solar Applied Materials Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2206",
+    "name": "Sanyang Motor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6055",
+    "name": "China Tobacco International HK Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6099",
+    "name": "China Merchants Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JPPOWER",
+    "name": "Jaiprakash Power Ventures Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1618",
+    "name": "Metallurgical Corp. of China Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1609",
+    "name": "Ta Ya Electric Wire & Cable",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LEMONTREE",
+    "name": "Lemon Tree Hotels Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601012",
+    "name": "LONGi Green Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000338",
+    "name": "Weichai Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5904",
+    "name": "Poya International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6278",
+    "name": "Taiwan Surface Mounting Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2473",
+    "name": "XXF Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3MINDIA",
+    "name": "3M India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GTCAP",
+    "name": "GT Capital Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DSTKF.E",
+    "name": "Destek Finans Faktoring AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4003",
+    "name": "United Electronics Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GISS",
+    "name": "Gulf International Services QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BBL-F",
+    "name": "Bangkok Bank PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NAVA",
+    "name": "Nava Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8313",
+    "name": "Rasan Information Technology Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "670",
+    "name": "China Eastern Airlines Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300408",
+    "name": "Chaozhou Three-Circle Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEXT",
+    "name": "Hexaware Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRANULES",
+    "name": "Granules India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4001",
+    "name": "Abdullah Al Othaim Markets Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1072",
+    "name": "Dongfang Electric Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNREIT",
+    "name": "Sunway REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601985",
+    "name": "China National Nuclear Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PHX",
+    "name": "Phoenix Group plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CML",
+    "name": "Coronation Fund Managers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EH",
+    "name": "EHang Holdings Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TMGH",
+    "name": "Talaat Moustafa Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2548",
+    "name": "Huaku Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FORCEMOT",
+    "name": "Force Motors Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601998",
+    "name": "China CITIC Bank Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GABRIEL",
+    "name": "Gabriel India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UNVR",
+    "name": "Unilever Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1802",
+    "name": "Taiwan Glass Industry Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PTCIL",
+    "name": "PTC Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AREIT",
+    "name": "AREIT Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6414",
+    "name": "Ennoconn Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ELGIEQUIP",
+    "name": "Elgi Equipments Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3939",
+    "name": "Wanguo Gold Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603501",
+    "name": "OmniVision Integrated Circuits Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600019",
+    "name": "Baoshan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HONAUT",
+    "name": "Honeywell Automation India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "855",
+    "name": "China Water Affairs Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HAGA",
+    "name": "Hagar hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1322",
+    "name": "Al Masane Al Kobra Mining Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4772",
+    "name": "Taiwan Speciality Chemicals Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTC-F",
+    "name": "Muangthai Capital PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AARTIIND",
+    "name": "Aarti Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002027",
+    "name": "Focus Media Information Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CRAFTSMAN",
+    "name": "Craftsman Automation Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6187",
+    "name": "All Ring Tech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4150",
+    "name": "Arriyadh Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9958",
+    "name": "Century Iron & Steel Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SNT",
+    "name": "Santam Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TU-F",
+    "name": "Thai Union Frozen Products PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "200625",
+    "name": "Chongqing Changan Automobile Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6691",
+    "name": "Yankey Engineering Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGINVIT",
+    "name": "PowerGrid Infrastructure Investment Trust",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTH",
+    "name": "Motus Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRAP4",
+    "name": "Bradespar SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRINDWELL",
+    "name": "Grindwell Norton Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002600",
+    "name": "Lingyi iTech Guangdong Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3931",
+    "name": "CALB Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1830",
+    "name": "Leejam Sports Co. JSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002352",
+    "name": "SF Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PIK",
+    "name": "Pick n Pay Stores Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "301308",
+    "name": "Shenzhen Longsys Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SASA.E",
+    "name": "Sasa Polyester Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1314",
+    "name": "China Petrochemical Development Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601985",
+    "name": "China National Nuclear Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CREDITACC",
+    "name": "CreditAccess Grameen Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAWAD-F",
+    "name": "Srisawad Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2080",
+    "name": "National Gas & Industrialization Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMPOWER",
+    "name": "Emirates Central Cooling Systems Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHAMBLFERT",
+    "name": "Chambal Fertilisers and Chemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1681",
+    "name": "Consun Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601919",
+    "name": "COSCO SHIPPING Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2312",
+    "name": "Kinpo Electronics",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CURY3",
+    "name": "Cury Construtora e Incorporadora SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COM7-F",
+    "name": "Com7 PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600016",
+    "name": "China Minsheng Banking Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3958",
+    "name": "Orient Securities Co. Ltd./China Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2015",
+    "name": "Feng Hsin Steel Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1199",
+    "name": "COSCO SHIPPING Ports Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8932",
+    "name": "Wiselink Co. Ltd./TW",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2083",
+    "name": "Power & Water Utility Co. for Jubail & Yanbu",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601006",
+    "name": "Daqin Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGTI11",
+    "name": "Iguatemi SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IKS",
+    "name": "Inventurus Knowledge Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1907",
+    "name": "YFY Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AXREIT",
+    "name": "Axis REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603799",
+    "name": "Zhejiang Huayou Cobalt Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UFUK.E",
+    "name": "Ufuk Yatirim Yonetim ve Gayrimenkul AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2637",
+    "name": "Wisdom Marine Lines Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6213",
+    "name": "ITEQ Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6789",
+    "name": "VisEra Technologies Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2669",
+    "name": "China Overseas Property Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603986",
+    "name": "GigaDevice Semiconductor Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9941",
+    "name": "Yulon Finance Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EIHOTEL",
+    "name": "EIH Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002230",
+    "name": "Iflytek Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CANFINHOME",
+    "name": "Can Fin Homes Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRSE",
+    "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9917",
+    "name": "Taiwan Secom Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCU",
+    "name": "Cia Cervecerias Unidas SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "123",
+    "name": "Yuexiu Property Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOASO.E",
+    "name": "Tofas Turk Otomobil Fabrikasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002625",
+    "name": "Kuang-Chi Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9636",
+    "name": "JF SmartInvest Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALVO",
+    "name": "Alvotech SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2186",
+    "name": "Luye Pharma Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PARADEEP",
+    "name": "Paradeep Phosphates Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2455",
+    "name": "Visual Photonics Epitaxy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AIA",
+    "name": "Athens International Airport SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300803",
+    "name": "Beijing Compass Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002304",
+    "name": "Jiangsu Yanghe Brewery Joint-Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1405",
+    "name": "DPC Dash Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6010",
+    "name": "National Agriculture Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5439",
+    "name": "First Hi-Tec Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000895",
+    "name": "Henan Shuanghui Investment & Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KNRI11",
+    "name": "Kinea Renda Imobiliaria FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANANTRAJ",
+    "name": "Anant Raj Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GPSC-F",
+    "name": "Global Power Synergy PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002241",
+    "name": "GoerTek Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ORBIA*",
+    "name": "Orbia Advance Corp. SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HLFG",
+    "name": "Hong Leong Financial Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INDIAMART",
+    "name": "IndiaMart InterMesh Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2256",
+    "name": "Abbisko Cayman Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2230",
+    "name": "Saudi Chemical Co. Holding",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8028",
+    "name": "Phoenix Silicon International Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600104",
+    "name": "SAIC Motor Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601881",
+    "name": "China Galaxy Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688036",
+    "name": "Shenzhen Transsion Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NATCOPHARM",
+    "name": "Natco Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LMW",
+    "name": "LMW Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600031",
+    "name": "Sany Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GLO",
+    "name": "Globe Telecom Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PRESIGHT",
+    "name": "Presight AI Holding plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600999",
+    "name": "China Merchants Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AIRTELPP",
+    "name": "Bharti Airtel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SOBHA",
+    "name": "Sobha Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601225",
+    "name": "Shaanxi Coal Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601919",
+    "name": "COSCO SHIPPING Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2481",
+    "name": "Pan Jit International Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1579",
+    "name": "Yihai International Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "460",
+    "name": "Sihuan Pharmaceutical Holdings Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "900926",
+    "name": "Shanghai Baosight Software Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000425",
+    "name": "XCMG Construction Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688072",
+    "name": "Piotech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601127",
+    "name": "Seres Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TKG",
+    "name": "Telkom SA SOC Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3BBIF-F",
+    "name": "3BB Internet Infrastructure Fund",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABLBL",
+    "name": "Aditya Birla Lifestyle Brands Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KLRHO.E",
+    "name": "Kiler Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KIB",
+    "name": "Kuwait International Bank KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGL",
+    "name": "Mahanagar Gas Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5388",
+    "name": "Sercomm Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BURG",
+    "name": "Burgan Bank SAK",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DTC",
+    "name": "DataTec Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002466",
+    "name": "Tianqi Lithium Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GUJGASLTD",
+    "name": "Gujarat Gas Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EL",
+    "name": "Societatea Energetica Electrica SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TITAGARH",
+    "name": "Titagarh Rail System Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2869",
+    "name": "Greentown Service Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TISCO-R",
+    "name": "Tisco Financial Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FERTIGLB",
+    "name": "Fertiglobe plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ELPE",
+    "name": "HELLENiQ ENERGY Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3491",
+    "name": "Universal Microwave Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2850",
+    "name": "Shinkong Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2451",
+    "name": "Transcend Information Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APEX",
+    "name": "Apex Investment Co. PSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MIKA",
+    "name": "Mitra Keluarga Karyasehat Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3969",
+    "name": "China Railway Signal & Communication Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BTS-F",
+    "name": "BTS Group Holdings PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAP",
+    "name": "Sappi Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600438",
+    "name": "Tongwei Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2439",
+    "name": "Merry Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IOIPG",
+    "name": "IOI Properties Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MOMO",
+    "name": "Momo Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688506",
+    "name": "Sichuan Biokin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1798",
+    "name": "China Datang Corp. Renewable Power Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BPCC",
+    "name": "Boubyan Petrochemicals Co. KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CABLE",
+    "name": "Gulf Cables & Electrical Industries Group Co. KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DATAPATTNS",
+    "name": "Data Patterns India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GPIL",
+    "name": "Godawari Power and Ispat Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6666",
+    "name": "Evergrande Property Services Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600010",
+    "name": "Inner Mongolia BaoTou Steel Union Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9911",
+    "name": "Newborn Town Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HUMANSOFT",
+    "name": "Humansoft Holding Co. KSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CSNA3",
+    "name": "Cia Siderurgica Nacional SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "363",
+    "name": "Shanghai Industrial Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5469",
+    "name": "Hannstar Board Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EGCO-F",
+    "name": "Electricity Generating PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3374",
+    "name": "XinTec Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEVYANI",
+    "name": "Devyani International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EQU",
+    "name": "Equites Property Fund Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3042",
+    "name": "TXC Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BATAINDIA",
+    "name": "Bata India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1478",
+    "name": "Q Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEAL",
+    "name": "Medikaloka Hermina Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PBR.A",
+    "name": "Petroleo Brasileiro SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JUBLPHARMA",
+    "name": "Jubilant Pharmova Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WHA-F",
+    "name": "WHA Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AAVAS",
+    "name": "Aavas Financiers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6670",
+    "name": "Fusheng Precision Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FESTI",
+    "name": "Festi hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AGLTY",
+    "name": "Agility Public Warehousing Co. KSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOPGLOV",
+    "name": "Top Glove Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601825",
+    "name": "Shanghai Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3339",
+    "name": "Lonking Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MXRF11",
+    "name": "Maxi Renda FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2171",
+    "name": "CARsgen Therapeutics Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2666",
+    "name": "Genertec Universal Medical Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SWANCORP",
+    "name": "Swan Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ASAHIINDIA",
+    "name": "Asahi India Glass Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JKS",
+    "name": "JinkoSolar Holding Co. Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POLYMED",
+    "name": "Poly Medicure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2606",
+    "name": "U-Ming Marine Transport Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4260",
+    "name": "United International Transportation Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ERIS",
+    "name": "Eris Lifesciences Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4007",
+    "name": "Al Hammadi Holding",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3030",
+    "name": "Saudi Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "STC",
+    "name": "Kuwait Telecommunications Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHALET",
+    "name": "Chalet Hotels Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TECHNOE",
+    "name": "Techno Electric & Engineering Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600415",
+    "name": "Zhejiang China Commodities City Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "819",
+    "name": "Tianneng Power International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8016",
+    "name": "Sitronix Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1215",
+    "name": "Charoen Pokphand Enterprise",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2867",
+    "name": "Mercuries Life Insurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9696",
+    "name": "Tianqi Lithium Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NETWEB",
+    "name": "Netweb Technologies India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600000",
+    "name": "Shanghai Pudong Development Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3030",
+    "name": "Test Research Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002938",
+    "name": "Avary Holding Shenzhen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2858",
+    "name": "Yixin Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1514",
+    "name": "Allis Electric Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BTLG11",
+    "name": "FII BTLG",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000977",
+    "name": "Inspur Electronic Information Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OMN",
+    "name": "Omnia Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3020",
+    "name": "Yamama Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300502",
+    "name": "Eoptolink Technology Inc. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6214",
+    "name": "Systex Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601336",
+    "name": "New China Life Insurance Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GILLETTE",
+    "name": "Gillette India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300442",
+    "name": "Range Intelligent Computing Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2233",
+    "name": "West China Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAPPHIRE",
+    "name": "Sapphire Foods India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600406",
+    "name": "NARI Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3393",
+    "name": "Wasion Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601328",
+    "name": "Bank of Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6806",
+    "name": "Shenwan Hongyuan Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "639",
+    "name": "Shougang Fushan Resources Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600188",
+    "name": "Yankuang Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4979",
+    "name": "LuxNet Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HFCL",
+    "name": "HFCL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6271",
+    "name": "Tong Hsing Electronic Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BEEF3",
+    "name": "Minerva SA/Brazil",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9966",
+    "name": "Alphamab Oncology",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2363",
+    "name": "Silicon Integrated Systems Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601336",
+    "name": "New China Life Insurance Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3006",
+    "name": "Elite Semiconductor Microelectronics Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PAVREIT",
+    "name": "Pavilion REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601669",
+    "name": "Power Construction Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RELINFRA",
+    "name": "Reliance Infrastructure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EXCL",
+    "name": "XLSMART Telecom Sejahtera Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AURE3",
+    "name": "Auren Energia SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PCBL",
+    "name": "PCBL CHEMICAL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VIVA3",
+    "name": "Vivara Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CGCL",
+    "name": "Capri Global Capital Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AIIL",
+    "name": "Authum Investment & Infrastucture Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EDELWEISS",
+    "name": "Edelweiss Financial Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CNPF",
+    "name": "Century Pacific Food Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001979",
+    "name": "China Merchants Shekou Industrial Zone Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600418",
+    "name": "Anhui Jianghuai Automobile Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603893",
+    "name": "Rockchip Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SITES1A-1",
+    "name": "Operadora De Sites Mexicanos SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600160",
+    "name": "Zhejiang Juhua Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "900905",
+    "name": "Lao Feng Xiang Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3347",
+    "name": "Hangzhou Tigermed Consulting Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAINBOW",
+    "name": "Rainbow Children's Medicare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1951",
+    "name": "Jinxin Fertility Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RCR",
+    "name": "RL Commercial REIT Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SJVN",
+    "name": "SJVN Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002493",
+    "name": "Rongsheng Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601939",
+    "name": "China Construction Bank Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9985",
+    "name": "Weilong Delicious Global Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OLECTRA",
+    "name": "Olectra Greentech Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AGHOL.E",
+    "name": "AG Anadolu Grubu Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SQM",
+    "name": "Sociedad Quimica y Minera de Chile SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AFCONS",
+    "name": "Afcons Infrastructure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GODIGIT",
+    "name": "Go Digit General Insurance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UNIP6",
+    "name": "Unipar Carbocloro SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WABAG",
+    "name": "VA Tech Wabag Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601727",
+    "name": "Shanghai Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2602",
+    "name": "Onewo Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JMFINANCIL",
+    "name": "JM Financial Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8926",
+    "name": "Taiwan Cogeneration Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SANSERA",
+    "name": "Sansera Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AZZA3",
+    "name": "Azzas 2154 SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NAZARA",
+    "name": "Nazara Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2855",
+    "name": "President Securities Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FLRY3",
+    "name": "Fleury SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601318",
+    "name": "Ping An Insurance Group Co. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600015",
+    "name": "Huaxia Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6049",
+    "name": "Poly Property Services Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUMICHEM",
+    "name": "Sumitomo Chemical India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PASEU.E",
+    "name": "Pasifik Eurasia Lojistik Dis Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1030",
+    "name": "Seazen Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SONATSOFTW",
+    "name": "Sonata Software Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WBC",
+    "name": "We Buy Cars Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600547",
+    "name": "Shandong Gold Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4018",
+    "name": "Almoosa Health Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BOX",
+    "name": "Boxer Retail Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1877",
+    "name": "Shanghai Junshi Biosciences Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CIG",
+    "name": "Cia Energetica de Minas Gerais ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8200",
+    "name": "Saudi Reinsurance Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IEX",
+    "name": "Indian Energy Exchange Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688183",
+    "name": "Shengyi Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2038",
+    "name": "FIH Mobile Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AEFES.E",
+    "name": "Anadolu Efes Biracilik Ve Malt Sanayii AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6865",
+    "name": "Flat Glass Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BSOFT",
+    "name": "Birlasoft Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2081",
+    "name": "AlKhorayef Water & Power Technologies Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000963",
+    "name": "Huadong Medicine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EC",
+    "name": "Ecopetrol SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NCKL",
+    "name": "Trimegah Bangun Persada Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BCP-F",
+    "name": "Bangchak Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300033",
+    "name": "Hithink RoyalFlush Information Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4322",
+    "name": "Retal Urban Development Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5371",
+    "name": "Coretronic Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KCE-F",
+    "name": "KCE Electronics PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2329",
+    "name": "Orient Semiconductor Electronics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2328",
+    "name": "Pan-International Industrial Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4340",
+    "name": "Al Rajhi REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3396",
+    "name": "Legend Holdings Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4050",
+    "name": "Saudi Automotive Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "694",
+    "name": "Beijing Capital International Airport Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2374",
+    "name": "Ability Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRITURBINE",
+    "name": "Triveni Turbine Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002311",
+    "name": "Guangdong Haid Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6979",
+    "name": "ZJLD Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KTC-F",
+    "name": "Krungthai Card PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BAYERCROP",
+    "name": "Bayer CropScience Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPNREIT-F",
+    "name": "CPN Retail Growth Leasehold REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LABB",
+    "name": "Genomma Lab Internacional SAB de CV Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000408",
+    "name": "Zangge Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3680",
+    "name": "Gudeng Precision Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6693",
+    "name": "Chifeng Jilong Gold Mining Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600886",
+    "name": "SDIC Power Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3715",
+    "name": "Dynamic Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DFM",
+    "name": "Dubai Financial Market PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LAMDA",
+    "name": "LAMDA Development SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SHYAMMETL",
+    "name": "Shyam Metalics & Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2039",
+    "name": "China International Marine Containers Group Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002837",
+    "name": "Shenzhen Envicool Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1963",
+    "name": "Bank of Chongqing Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000538",
+    "name": "Yunnan Baiyao Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9914",
+    "name": "Merida Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600926",
+    "name": "Bank of Hangzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002371",
+    "name": "NAURA Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZENTEC",
+    "name": "Zen Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ASTOR.E",
+    "name": "Astor Transformator Enerji Turizm Insaat Ve Petrol Sanayi Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VITROX",
+    "name": "ViTrox Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "995",
+    "name": "Anhui Expressway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601668",
+    "name": "China State Construction Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2145",
+    "name": "Shanghai Chicmax Cosmetic Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OSP-F",
+    "name": "Osotspa PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IDBI",
+    "name": "IDBI Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCL",
+    "name": "CCL Products India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MALAKOF",
+    "name": "Malakoff Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CTALPEKA",
+    "name": "Controladora Alpek SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "STAR",
+    "name": "Strides Pharma Science Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000725",
+    "name": "BOE Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATT",
+    "name": "Attacq Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DMC",
+    "name": "DMCI Holdings Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VNET",
+    "name": "Vnet Group Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CMSINFO",
+    "name": "CMS Info Systems Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000617",
+    "name": "CNPC Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601360",
+    "name": "360 Security Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2381",
+    "name": "Arabian Drilling Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2393",
+    "name": "Everlight Electronics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HGRU11",
+    "name": "Patria Renda Urbana Fundo de Investimento Imobiliario Responsabilidade Limitada",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HRHO",
+    "name": "EFG Holding S.A.E.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4766",
+    "name": "Nan Pao Resins Chemical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000063",
+    "name": "ZTE Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENTEL",
+    "name": "Empresa Nacional de Telecomunicaciones SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3563",
+    "name": "Machvision Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3996",
+    "name": "China Energy Engineering Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600547",
+    "name": "Shandong Gold Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601169",
+    "name": "Bank of Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688249",
+    "name": "Nexchip Semiconductor Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEIM",
+    "name": "Heineken Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TLI-F",
+    "name": "Thai Life Insurance PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601872",
+    "name": "China Merchants Energy Shipping Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VGUARD",
+    "name": "V-Guard Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600887",
+    "name": "Inner Mongolia Yili Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ODPV3",
+    "name": "Odontoprev SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600019",
+    "name": "Baoshan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECL",
+    "name": "Engie Energia Chile SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JSE",
+    "name": "JSE Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARTO",
+    "name": "Bank Jago Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3714",
+    "name": "Ennostar Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MDIA3",
+    "name": "M Dias Branco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TI",
+    "name": "Tilaknagar Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "REITIR",
+    "name": "Reitir fasteignafelag hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6606",
+    "name": "New Horizon Health Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LH-R",
+    "name": "Land & Houses PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3040",
+    "name": "Qassim Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2441",
+    "name": "Greatek Electronics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8422",
+    "name": "Cleanaway Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9933",
+    "name": "CTCI Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRBINVIT",
+    "name": "IRB InvIT Fund",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MAVI.E",
+    "name": "Mavi Giyim Sanayi Ve Ticaret AS Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4071",
+    "name": "Arabian Contracting Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4743",
+    "name": "Oneness Biotech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3014",
+    "name": "ITE Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600028",
+    "name": "China Petroleum & Chemical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601390",
+    "name": "China Railway Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688525",
+    "name": "Biwin Storage Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AP",
+    "name": "Aboitiz Power Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABSLAMC",
+    "name": "Aditya Birla Sun Life Asset Management Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600104",
+    "name": "SAIC Motor Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300207",
+    "name": "Sunwoda Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TSFINV",
+    "name": "TSF Investments Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INCO",
+    "name": "Vale Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6188",
+    "name": "Quanta Storage Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENGINERSIN",
+    "name": "Engineers India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KVIKA",
+    "name": "Kvika banki hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LTFOODS",
+    "name": "LT Foods Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2515",
+    "name": "BES Engineering Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KRDMD.E",
+    "name": "Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3899",
+    "name": "CIMC Enric Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOWR",
+    "name": "Sarana Menara Nusantara Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6196",
+    "name": "Marketech International Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "YDUQ3",
+    "name": "YDUQS Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6198",
+    "name": "Qingdao Port International Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6269",
+    "name": "FLEXium Interconnect Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRCON",
+    "name": "IRCON International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGOLD",
+    "name": "Puregold Price Club Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8454",
+    "name": "momo.com Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1321",
+    "name": "East Pipes Integrated Co. for Industry",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603501",
+    "name": "OmniVision Integrated Circuits Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002714",
+    "name": "Muyuan Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VAPORES",
+    "name": "Cia Sud Americana de Vapores SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JYOTICNC",
+    "name": "Jyoti CNC Automation Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000725",
+    "name": "BOE Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "338",
+    "name": "Sinopec Shanghai Petrochemical Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2201",
+    "name": "Yulon Motor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6887",
+    "name": "Sunshine Lake Pharma Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MAPI",
+    "name": "Mitra Adiperkasa Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "METROBRAND",
+    "name": "Metro Brands Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2866",
+    "name": "COSCO SHIPPING Development Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4017",
+    "name": "Dr Soliman Abdel Kader Fakeeh Hospital Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6535",
+    "name": "Lumosa Therapeutics Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CZG",
+    "name": "Colt CZ Group SE",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8150",
+    "name": "ChipMOS Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4123",
+    "name": "Center Laboratories Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEMAKA",
+    "name": "Nemak SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ISAT",
+    "name": "Indosat Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GMAT3",
+    "name": "Grupo Mateus SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "YGGYO.E",
+    "name": "Yeni Gimat Gayrimenkul Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688396",
+    "name": "China Resources Microelectronics Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688347",
+    "name": "Hua Hong Semiconductor Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SPSETIA",
+    "name": "SP Setia Bhd Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MWC",
+    "name": "Manila Water Co. Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNCON",
+    "name": "Sunway Construction Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "297",
+    "name": "Sinofert Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600436",
+    "name": "Zhangzhou Pientzehuang Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "7200",
+    "name": "Al Moammar Information Systems Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002050",
+    "name": "Zhejiang Sanhua Intelligent Controls Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTARTECH",
+    "name": "MTAR Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300999",
+    "name": "Yihai Kerry Arawana Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CIEINDIA",
+    "name": "CIE Automotive India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RALYH.E",
+    "name": "Ral Yatirim Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RATCH-R",
+    "name": "Ratch Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601012",
+    "name": "LONGi Green Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AADHARHFC",
+    "name": "Aadhar Housing Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NY1",
+    "name": "Ninety One Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600580",
+    "name": "Wolong Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GOKEX",
+    "name": "Gokaldas Exports Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300255",
+    "name": "Hebei Changshan Biochemical Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SRE",
+    "name": "Salhia Real Estate Co. KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VOLARA",
+    "name": "Controladora Vuela Cia de Aviacion SAB de CV Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SIRI-F",
+    "name": "Sansiri PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2211",
+    "name": "EVERGREEN Steel Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JPFA",
+    "name": "Japfa Comfeed Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002558",
+    "name": "Giant Network Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUDARSCHEM",
+    "name": "Sudarshan Chemical Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002532",
+    "name": "Tianshan Aluminum Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TTKOM.E",
+    "name": "Turk Telekomunikasyon AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001965",
+    "name": "China Merchants Expressway Network & Technology Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ORVR3",
+    "name": "Orizon Valorizacao de Residuos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1610",
+    "name": "COFCO Joycome Foods Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTEL",
+    "name": "Dayamitra Telekomunikasi PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SCGP-F",
+    "name": "SCG Packaging PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6526",
+    "name": "Airoha Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CUERVO*",
+    "name": "Becle SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "METROPOLIS",
+    "name": "Metropolis Healthcare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603296",
+    "name": "Huaqin Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4220",
+    "name": "Emaar Economic City",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6078",
+    "name": "Hygeia Healthcare Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEWGEN",
+    "name": "Newgen Software Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARCLK.E",
+    "name": "Arcelik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGLU3",
+    "name": "Magazine Luiza SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3026",
+    "name": "Holy Stone Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEDPLUS",
+    "name": "Medplus Health Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JKLAKSHMI",
+    "name": "JK Lakshmi Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GUBRF.E",
+    "name": "Gubre Fabrikalari TAS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6185",
+    "name": "CanSino Biologics Inc. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMBDL",
+    "name": "Embassy Developments Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AEGN",
+    "name": "Aegean Airlines SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AP-F",
+    "name": "Asian Property Development PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APLLTD",
+    "name": "Alembic Pharmaceuticals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SKFINDIA",
+    "name": "SKF India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300475",
+    "name": "Shannon Semiconductor Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CENTEL-F",
+    "name": "Central Plaza Hotel PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UJJIVANSFB",
+    "name": "Ujjivan Small Finance Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600958",
+    "name": "Orient Securities Co. Ltd./China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6017",
+    "name": "Jahez International Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SYRMA",
+    "name": "Syrma SGS Technology Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001309",
+    "name": "Shenzhen Techwinsemi Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VISC11",
+    "name": "Vinci Shopping Centers FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600489",
+    "name": "Zhongjin Gold Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCET-F",
+    "name": "Cal-Comp Electronics Thailand PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002709",
+    "name": "Guangzhou Tinci Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600048",
+    "name": "Poly Developments and Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4009",
+    "name": "Middle East Healthcare Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600111",
+    "name": "China Northern Rare Earth Group High-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300857",
+    "name": "Sharetronic Data Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BASF",
+    "name": "BASF India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GND",
+    "name": "Grindrod Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000100",
+    "name": "TCL Technology Group Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601111",
+    "name": "Air China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600150",
+    "name": "China CSSC Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADMR",
+    "name": "Alamtri Minerals Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600745",
+    "name": "Wingtech Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MPI",
+    "name": "Malaysian Pacific Industries Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FINCABLES",
+    "name": "Finolex Cables Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600221",
+    "name": "Hainan Airlines Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TURSG.E",
+    "name": "Turkiye Sigorta AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6182",
+    "name": "Wafer Works Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BPAN4",
+    "name": "Banco Pan SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KPROJ",
+    "name": "Kuwait Projects Co. Holding KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NSLNISP",
+    "name": "NMDC Steel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OPUS",
+    "name": "Opus Global Nyrt",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MRVE3",
+    "name": "MRV Engenharia e Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1083",
+    "name": "Towngas Smart Energy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISMEN.E",
+    "name": "Is Yatirim Menkul Degerler AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TBOTEK",
+    "name": "Tbo Tek Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1513",
+    "name": "Livzon Pharmaceutical Group Inc. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2273",
+    "name": "Gushengtang Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CNVRG",
+    "name": "Converge Information and Communications Technology Solutions Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CARLSBG",
+    "name": "Carlsberg Brewery Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2367",
+    "name": "Unitech Printed Circuit Board Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLEAN",
+    "name": "Clean Science & Technology Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301269",
+    "name": "Empyrean Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KANSAINER",
+    "name": "Kansai Nerolac Paints Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GODREJIND",
+    "name": "Godrej Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAKPROP",
+    "name": "RAK Properties PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688521",
+    "name": "Verisilicon Microelectronics Shanghai Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1808",
+    "name": "Run Long Construction Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SLCE3",
+    "name": "SLC Agricola SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2460",
+    "name": "China Resources Beverage Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600362",
+    "name": "Jiangxi Copper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FINPIPE",
+    "name": "Finolex Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASTRAMICRO",
+    "name": "Astra Microwave Products Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KPIGREEN",
+    "name": "KPI Green Energy Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603986",
+    "name": "GigaDevice Semiconductor Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TGA",
+    "name": "Thungela Resources Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SARDAEN",
+    "name": "Sarda Energy & Minerals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUNTV",
+    "name": "Sun TV Network Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300866",
+    "name": "Anker Innovations Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ULKER.E",
+    "name": "Ulker Biskuvi Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "XPLG11",
+    "name": "XP Log FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SNN",
+    "name": "Societatea Nationala Nuclearelectrica SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ILC",
+    "name": "Inversiones La Construccion SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002050",
+    "name": "Zhejiang Sanhua Intelligent Controls Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZYDUSWELL",
+    "name": "Zydus Wellness Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ENERY.E",
+    "name": "Enerya Enerji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LTG",
+    "name": "LT Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RATNAMANI",
+    "name": "Ratnamani Metals & Tubes Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SOUTHBANK",
+    "name": "South Indian Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3583",
+    "name": "Scientech Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RLO",
+    "name": "Reunert Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IRBR3",
+    "name": "IRB-Brasil Resseguros SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAFARI",
+    "name": "Safari Industries India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CMRY",
+    "name": "Cisarua Mountain Dairy PT TBK",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHENNPETRO",
+    "name": "Chennai Petroleum Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SBFC",
+    "name": "SBFC Finance Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEHOL.E",
+    "name": "Tera Yatirim Teknoloji Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFE",
+    "name": "AECI Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPALI-F",
+    "name": "Supalai PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRIS",
+    "name": "Bank Syariah Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2903",
+    "name": "Far Eastern Department Stores Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600893",
+    "name": "AECC Aviation Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRAVITA",
+    "name": "Gravita India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LX",
+    "name": "LexinFintech Holdings Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600089",
+    "name": "TBEA Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LACOMERUBC",
+    "name": "La Comer SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600919",
+    "name": "Bank of Jiangsu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PGHL",
+    "name": "Procter & Gamble Health Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601319",
+    "name": "People's Insurance Co. Group of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2645",
+    "name": "Evergreen Aviation Technologies Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPLPETRO",
+    "name": "Supreme Petrochem Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CENTURYPLY",
+    "name": "Century Plyboards India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HEG",
+    "name": "HEG Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KIRLOSBROS",
+    "name": "Kirloskar Brothers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000596",
+    "name": "Anhui Gujing Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600096",
+    "name": "Yunnan Yuntianhua Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARVIND",
+    "name": "Arvind Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETEL",
+    "name": "Telecom Egypt Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000831",
+    "name": "China Rare Earth Resources And Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600219",
+    "name": "Shandong Nanshan Aluminum Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TARIL",
+    "name": "Transformers & Rectifiers India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2128",
+    "name": "China Lesso Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600016",
+    "name": "China Minsheng Banking Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600021",
+    "name": "Shanghai Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600009",
+    "name": "Shanghai International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900932",
+    "name": "Shanghai Lujiazui Finance & Trade Zone Development Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLUS",
+    "name": "DigiPlus Interactive Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RKFORGE",
+    "name": "Ramkrishna Forgings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMGR",
+    "name": "Semen Indonesia Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2101",
+    "name": "Nan Kang Rubber Tire Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KNHY11",
+    "name": "Kinea High Yield CRI - FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002202",
+    "name": "Xinjiang Goldwind Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JKTYRE",
+    "name": "JK Tyre & Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "579",
+    "name": "Beijing Jingneng Clean Energy Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OLAELEC",
+    "name": "Ola Electric Mobility Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2467",
+    "name": "C Sun Manufacturing Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASTRAZEN",
+    "name": "AstraZeneca Pharma India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6138",
+    "name": "Anpec Electronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPACE42",
+    "name": "Space42 plc",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601390",
+    "name": "China Railway Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2392",
+    "name": "Cheng Uei Precision Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000938",
+    "name": "Unisplendour Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PETKM.E",
+    "name": "Petkim Petrokimya Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PENTA",
+    "name": "Pentamaster Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ECOR3",
+    "name": "EcoRodovias Infraestrutura e Logistica SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688472",
+    "name": "CSI Solar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600673",
+    "name": "Guangdong HEC Technology Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "548",
+    "name": "Shenzhen Expressway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4020",
+    "name": "Saudi Real Estate Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601838",
+    "name": "Bank of Chengdu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002049",
+    "name": "Unigroup Guoxin Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1448",
+    "name": "Fu Shou Yuan International Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301358",
+    "name": "Hunan Yuneng New Energy Battery Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CMIN3",
+    "name": "CSN Mineracao SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MONDE",
+    "name": "Monde Nissin Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1773",
+    "name": "Shiny Chemical Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MEDC",
+    "name": "Medco Energi Internasional Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300604",
+    "name": "Hangzhou Chang Chuan Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRSR6",
+    "name": "Banco do Estado do Rio Grande do Sul SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ECOWLD",
+    "name": "Eco World Development Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "USIM5",
+    "name": "Usinas Siderurgicas de Minas Gerais SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300316",
+    "name": "Zhejiang Jingsheng Mechanical & Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TIMETECHNO",
+    "name": "Time Technoplast Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VINATIORGA",
+    "name": "Vinati Organics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002294",
+    "name": "Shenzhen Salubris Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600601",
+    "name": "Founder Technology Group Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BIKAJI",
+    "name": "Bikaji Foods International Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4105",
+    "name": "TTY Biopharm Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "7040",
+    "name": "Etihad Atheeb Telecommunication Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RRKABEL",
+    "name": "RR Kabel Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AWC-F",
+    "name": "Asset World Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3010",
+    "name": "Wah Lee Industrial Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688047",
+    "name": "Loongson Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MFCB",
+    "name": "Mega First Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMU",
+    "name": "SMU SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002595",
+    "name": "Shandong Himile Mechanical Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002001",
+    "name": "Zhejiang NHU Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VIJAYA",
+    "name": "Vijaya Diagnostic Centre Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SHAKTIPUMP",
+    "name": "Shakti Pumps India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3013",
+    "name": "Chenming Electronic Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OYAKC.E",
+    "name": "Oyak Cimento Fabrikalari AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARL",
+    "name": "Astral Foods Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CONCHATORO",
+    "name": "Vina Concha y Toro SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DOMS",
+    "name": "Doms Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "M",
+    "name": "MED Life SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605117",
+    "name": "Ningbo Deye Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601777",
+    "name": "Chongqing Qianli Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TKIM",
+    "name": "Pabrik Kertas Tjiwi Kimia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600025",
+    "name": "Huaneng Lancang River Hydropower Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300347",
+    "name": "Hangzhou Tigermed Consulting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ABFRL",
+    "name": "Aditya Birla Fashion and Retail Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601077",
+    "name": "Chongqing Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1409",
+    "name": "Shinkong Synthetic Fibers Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GPPL",
+    "name": "Gujarat Pipavav Port Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002414",
+    "name": "Wuhan Guide Infrared Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3983",
+    "name": "China BlueChemical Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DCMSHRIRAM",
+    "name": "DCM Shriram Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCI",
+    "name": "Shipping Corp. of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELECON",
+    "name": "Elecon Engineering Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCIENTX",
+    "name": "Scientex Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600029",
+    "name": "China Southern Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600585",
+    "name": "Anhui Conch Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ERES",
+    "name": "Ezdan Holding Group QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9959",
+    "name": "Linklogis Inc. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002517",
+    "name": "Kingnet Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RIPLEY",
+    "name": "Ripley Corp. SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VTL",
+    "name": "Vardhman Textiles Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601868",
+    "name": "China Energy Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GNFC",
+    "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000988",
+    "name": "Huagong Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MINDACORP",
+    "name": "Minda Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCC",
+    "name": "Semirara Mining & Power Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2727",
+    "name": "Wowprime Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6655",
+    "name": "Huaxin Cement Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BUKA",
+    "name": "Bukalapak.com PT Tbk",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3592",
+    "name": "Raydium Semiconductor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000001",
+    "name": "Ping An Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2539",
+    "name": "Sakura Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKTR",
+    "name": "Aktor SA Holding Company Technical And Energy Projects",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2838",
+    "name": "Union Bank Of Taiwan",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601816",
+    "name": "Beijing-Shanghai High Speed Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AZAD",
+    "name": "Azad Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NIACL",
+    "name": "New India Assurance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8081",
+    "name": "Global Mixed Mode Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZRGYO.E",
+    "name": "Ziraat Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5009",
+    "name": "Gloria Material Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000568",
+    "name": "Luzhou Laojiao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IIFLCAPS",
+    "name": "IIFL Capital Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CK-F",
+    "name": "CH Karnchang PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FWRY",
+    "name": "Fawry for Banking & Payment Technology Services SAE",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000002",
+    "name": "China Vanke Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NUVOCO",
+    "name": "Nuvoco Vistas Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CPTS11",
+    "name": "Capitania Securities II FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8086",
+    "name": "Advanced Wireless Semiconductor Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ENJSA.E",
+    "name": "Enerjisa Enerji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600600",
+    "name": "Tsingtao Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2070",
+    "name": "Saudi Pharmaceutical Industries & Medical Appliances Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2480",
+    "name": "Stark Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688303",
+    "name": "Xinjiang Daqo New Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GSFC",
+    "name": "Gujarat State Fertilizers & Chemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "J&KBANK",
+    "name": "Jammu & Kashmir Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4163",
+    "name": "Al-Dawaa Medical Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600795",
+    "name": "GD Power Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2005",
+    "name": "SSY Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FRAS3",
+    "name": "Fras-Le SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600346",
+    "name": "Hengli Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCHNEIDER",
+    "name": "Schneider Electric Infrastructure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301236",
+    "name": "Isoftstone Information Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1712",
+    "name": "Sinon Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AARTIPHARM",
+    "name": "Aarti Pharmalabs Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601169",
+    "name": "Bank of Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VOLTAMP",
+    "name": "Voltamp Transformers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2476",
+    "name": "G Shank Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002236",
+    "name": "Zhejiang Dahua Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8070",
+    "name": "Chang Wah Electromaterials Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PTBA",
+    "name": "Bukit Asam Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6993",
+    "name": "Blue Moon Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IFCI",
+    "name": "IFCI Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SANOFI",
+    "name": "Sanofi India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GASMSIA",
+    "name": "Gas Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VESUVIUS",
+    "name": "Vesuvius India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2469",
+    "name": "Fenbi Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000630",
+    "name": "Tongling Nonferrous Metals Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6808",
+    "name": "Sun Art Retail Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2204",
+    "name": "China Motor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688120",
+    "name": "Hwatsing Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "UDCD",
+    "name": "United Development Co. QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688122",
+    "name": "Western Superconducting Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3090",
+    "name": "Nichidenbo Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1302",
+    "name": "Bawan Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACE",
+    "name": "Action Construction Equipment Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300122",
+    "name": "Chongqing Zhifei Biological Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "826",
+    "name": "Tiangong International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBG-F",
+    "name": "Carabao Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SALFACORP",
+    "name": "Salfacorp SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601117",
+    "name": "China National Chemical Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600115",
+    "name": "China Eastern Airlines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2359",
+    "name": "Solomon Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300251",
+    "name": "Beijing Enlight Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1313",
+    "name": "China Resources Building Materials Technology Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000066",
+    "name": "China Greatwall Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1958",
+    "name": "BAIC Motor Corp. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KSB",
+    "name": "KSB Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IOB",
+    "name": "Indian Overseas Bank",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HGBS11",
+    "name": "Hedge Brasil Shopping FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600066",
+    "name": "Yutong Bus Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600893",
+    "name": "AECC Aviation Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000625",
+    "name": "Chongqing Changan Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INLOT",
+    "name": "Intralot SA-Integrated Information Systems & Gaming Services",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600988",
+    "name": "Chifeng Jilong Gold Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HEIMAR",
+    "name": "Heimar HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KIRLPNU",
+    "name": "Kirloskar Pneumatic Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JINDALSAW",
+    "name": "Jindal Saw Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GHCL",
+    "name": "GHCL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5522",
+    "name": "Farglory Land Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CEMPRO",
+    "name": "Cemindia Projects Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000625",
+    "name": "Chongqing Changan Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "119",
+    "name": "Poly Property Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600183",
+    "name": "Shengyi Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2208",
+    "name": "CSBC Corp. Taiwan",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3515",
+    "name": "ASROCK Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300339",
+    "name": "Jiangsu Hoperun Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PRAJIND",
+    "name": "Praj Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "81",
+    "name": "China Overseas Grand Oceans Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GGRM",
+    "name": "Gudang Garam Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9938",
+    "name": "Taiwan Paiho Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000999",
+    "name": "China Resources Sanjiu Medical & Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TANLA",
+    "name": "Tanla Platforms Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEJASNET",
+    "name": "Tejas Networks Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HAPPSTMNDS",
+    "name": "Happiest Minds Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHSCOOTER",
+    "name": "Maharashtra Scooters Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CAPLIPOINT",
+    "name": "Caplin Point Laboratories Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601818",
+    "name": "China Everbright Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600549",
+    "name": "Xiamen Tungsten Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "934",
+    "name": "Sinopec Kantons Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002653",
+    "name": "Haisco Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1675",
+    "name": "AsiaInfo Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200725",
+    "name": "BOE Technology Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CTRA",
+    "name": "Ciputra Development Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1536",
+    "name": "Hota Industrial Manufacturing Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRAPHITE",
+    "name": "Graphite India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4147",
+    "name": "TaiMed Biologics Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EA-F",
+    "name": "Energy Absolute PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3707",
+    "name": "Episil Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6491",
+    "name": "Pegavision Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000564",
+    "name": "CCOOP Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GREATEC",
+    "name": "Greatech Technology Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3078",
+    "name": "Channel Well Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CARERATING",
+    "name": "Care Ratings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3306",
+    "name": "JNBY Design Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4IG",
+    "name": "4iG Nyrt",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002736",
+    "name": "Guosen Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4961",
+    "name": "Fitipower Integrated Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKRA",
+    "name": "AKR Corporindo Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2607",
+    "name": "Evergreen International Storage & Transport Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HCC",
+    "name": "Hindustan Construction Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VULC3",
+    "name": "Vulcabras SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600489",
+    "name": "Zhongjin Gold Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600143",
+    "name": "Kingfa Sci & Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "327",
+    "name": "PAX Global Technology Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600926",
+    "name": "Bank of Hangzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601688",
+    "name": "Huatai Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4114",
+    "name": "Synmosa Biopharma Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5534",
+    "name": "Chong Hong Construction Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688498",
+    "name": "Yuanjie Semiconductor Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AJMANBANK",
+    "name": "Ajman Bank PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002422",
+    "name": "Sichuan Kelun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CONCORDBIO",
+    "name": "Concord Biotech Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2316",
+    "name": "WUS Printed Circuit Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BECTORFOOD",
+    "name": "Mrs Bectors Food Specialities Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HONASA",
+    "name": "Honasa Consumer Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2158",
+    "name": "Yidu Tech Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BJC-F",
+    "name": "Berli Jucker PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2486",
+    "name": "I-Chiun Precision Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JYOTHYLAB",
+    "name": "Jyothy Labs Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6116",
+    "name": "HannStar Display Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4161",
+    "name": "BinDawood Holding Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KOZAL.E",
+    "name": "Turk Altin Isletmeleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYOR",
+    "name": "Mayora Indah Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688469",
+    "name": "United Nova Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600845",
+    "name": "Shanghai Baosight Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2106",
+    "name": "Kenda Rubber Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CENTRALBK",
+    "name": "Central Bank of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600176",
+    "name": "China Jushi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300413",
+    "name": "Mango Excellent Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300661",
+    "name": "SG Micro Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6605",
+    "name": "Depo Auto Parts Ind Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MANYAVAR",
+    "name": "Vedant Fashions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688578",
+    "name": "Shanghai Allist Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "874",
+    "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601901",
+    "name": "Founder Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600089",
+    "name": "TBEA Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RATEGAIN",
+    "name": "Rategain Travel Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9802",
+    "name": "Fulgent Sun International Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2388",
+    "name": "Via Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000807",
+    "name": "Yunnan Aluminium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603392",
+    "name": "Beijing Wantai Biological Pharmacy Enterprise Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AMANAT",
+    "name": "Amanat Holdings PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IAM",
+    "name": "Inversiones Aguas Metropolitanas SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WELSPUNLIV",
+    "name": "Welspun Living Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MSP",
+    "name": "MAS P.L.C.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CEAB3",
+    "name": "C&A MODAS SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000975",
+    "name": "Yintai Gold Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SECB",
+    "name": "Security Bank Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRSAN.E",
+    "name": "Borusan Birlesik Boru Fabrikalari Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MARKSANS",
+    "name": "Marksans Pharma Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHLIFE",
+    "name": "Mahindra Lifespace Developers Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3059",
+    "name": "Altek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AHGAZ.E",
+    "name": "Ahlatci Dogal Gaz Dagitim Enerji VE Yatirim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603606",
+    "name": "Ningbo Orient Wires & Cables Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6548",
+    "name": "Chang Wah Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603228",
+    "name": "Shenzhen Kinwong Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1707",
+    "name": "Grape King Bio Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HARTA",
+    "name": "Hartalega Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HBSA3",
+    "name": "Hidrovias do Brasil SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3029",
+    "name": "Zero One Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARVINDFASN",
+    "name": "Arvind Fashions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KOZAA.E",
+    "name": "Koza Anadolu Metal Madencilik Isletmeleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002252",
+    "name": "Shanghai RAAS Blood Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1440",
+    "name": "Tainan Spinning Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600436",
+    "name": "Zhangzhou Pientzehuang Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLUEDART",
+    "name": "Blue Dart Express Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRXF11",
+    "name": "Trx Real Estate FII",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "107",
+    "name": "Sichuan Expressway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4536",
+    "name": "Topkey Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MBSB",
+    "name": "MBSB Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688126",
+    "name": "National Silicon Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1904",
+    "name": "Cheng Loong Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HANA-F",
+    "name": "Hana Microelectronics PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "917",
+    "name": "Qunabox Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6699",
+    "name": "Angelalign Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2428",
+    "name": "Thinking Electronic Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "525",
+    "name": "Guangshen Railway Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "667",
+    "name": "China East Education Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6125",
+    "name": "Kenmec Mechanical Engineering Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2501",
+    "name": "Cathay Real Estate Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VIO",
+    "name": "Viohalco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002459",
+    "name": "JA Solar Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1736",
+    "name": "Johnson Health Tech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200429",
+    "name": "Guangdong Provincial Expressway Development Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EUREKAFORB",
+    "name": "Eureka Forbes Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MPARK.E",
+    "name": "MLP Saglik Hizmetleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601456",
+    "name": "Guolian Minsheng Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "506",
+    "name": "China Foods Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "323",
+    "name": "Maanshan Iron & Steel Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKSA.E",
+    "name": "Aksa Akrilik Kimya Sanayii AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688331",
+    "name": "Remegen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601009",
+    "name": "Bank of Nanjing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3050",
+    "name": "Southern Province Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601633",
+    "name": "Great Wall Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1227",
+    "name": "Standard Foods Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600795",
+    "name": "GD Power Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6412",
+    "name": "Chicony Power Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601216",
+    "name": "Inner Mongolia Junzheng Energy & Chemical Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6197",
+    "name": "JPC connectivity Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000426",
+    "name": "Inner Mongolia Xingye Silver&Tin Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9911",
+    "name": "Taiwan Sakura Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACI",
+    "name": "Archean Chemical Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EXAE",
+    "name": "Hellenic Exchanges SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PRUDENT",
+    "name": "Prudent Corporate Advisory Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600487",
+    "name": "Hengtong Optic-electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2314",
+    "name": "Lee & Man Paper Manufacturing Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000708",
+    "name": "Citic Pacific Special Steel Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADMIE",
+    "name": "Holding Co. ADMIE IPTO SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4968",
+    "name": "RichWave Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2014",
+    "name": "Chung Hung Steel Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2362",
+    "name": "Clevo Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WEBELSOLAR",
+    "name": "Websol Energy System Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JLHL",
+    "name": "Jupiter Life Line Hospitals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TFFIF-F",
+    "name": "Thailand Future Fund",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002920",
+    "name": "Huizhou Desay Sv Automotive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PRICOLLTD",
+    "name": "Pricol Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JSWHL",
+    "name": "JSW Holdings Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIGNATURE",
+    "name": "SignatureGlobal India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ABCB4",
+    "name": "Banco ABC Brasil SA Prior Pfd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9997",
+    "name": "Kangji Medical Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2402",
+    "name": "Ichia Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601788",
+    "name": "Everbright Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6146",
+    "name": "Sporton International Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JWL",
+    "name": "Jupiter Wagons Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600585",
+    "name": "Anhui Conch Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9907",
+    "name": "Ton Yi Industrial Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADESE.E",
+    "name": "Adese Alisveris Merkezleri Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RYSAS.E",
+    "name": "Reysas Tasimacilik ve Lojistik Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603129",
+    "name": "Zhejiang Cfmoto Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000661",
+    "name": "Changchun High & New Technology Industry Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BGRIM-F",
+    "name": "B Grimm Power PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688608",
+    "name": "Bestechnic Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "Sarantis SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002938",
+    "name": "Avary Holding Shenzhen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2897",
+    "name": "O-Bank Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TANCO",
+    "name": "Tanco Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300395",
+    "name": "Hubei Feilihua Quartz Glass Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KUYAS.E",
+    "name": "Kuyumcukent Gayrimenkul Yatirimlari AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IRDM11",
+    "name": "FII Iridium",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601377",
+    "name": "Industrial Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "754",
+    "name": "Hopson Development Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000657",
+    "name": "China Tungsten And Hightech Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600839",
+    "name": "Sichuan Changhong Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JHSF3",
+    "name": "JHSF Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MERS",
+    "name": "Al Meera Consumer Goods Co. QSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002080",
+    "name": "Sinoma Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1789",
+    "name": "AK Medical Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688169",
+    "name": "Beijing Roborock Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OTKAR.E",
+    "name": "Otokar Otomotiv Ve Savunma Sanayi A.S.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHSING",
+    "name": "Mah Sing Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2255",
+    "name": "Haichang Ocean Park Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300223",
+    "name": "Ingenic Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WESTLIFE",
+    "name": "Westlife Foodworld Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600999",
+    "name": "China Merchants Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CTOS",
+    "name": "CTOS Digital Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRTHO.E",
+    "name": "Grainturk Tarim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "38",
+    "name": "First Tractor Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8936",
+    "name": "Kuo Toong International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TMB",
+    "name": "Tamilnad Mercantile Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1231",
+    "name": "Lian HWA Food Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600378",
+    "name": "Haohua Chemical Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CIMSA.E",
+    "name": "Cimsa Cimento Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002601",
+    "name": "Lomon Billions Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002074",
+    "name": "Gotion High-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600233",
+    "name": "YTO Express Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300454",
+    "name": "Sangfor Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000981",
+    "name": "Sensteed Hi-tech Group Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRIDENT",
+    "name": "Trident Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DXCO3",
+    "name": "Dexco SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6178",
+    "name": "Everbright Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600674",
+    "name": "Sichuan Chuantou Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600918",
+    "name": "Zhongtai Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INTP",
+    "name": "Indocement Tunggal Prakarsa Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6589",
+    "name": "EirGenix Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RLC",
+    "name": "Robinsons Land Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "839",
+    "name": "China Education Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRYAT.E",
+    "name": "Borusan Yatirim ve Pazarlama AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BBTC",
+    "name": "Bombay Burmah Trading Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6592",
+    "name": "Hotai Finance Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600039",
+    "name": "Sichuan Road and Bridge Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000783",
+    "name": "Changjiang Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2520",
+    "name": "Kindom Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1723",
+    "name": "China Steel Chemical Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002402",
+    "name": "Shenzhen H&T Intelligent Control Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300373",
+    "name": "Yangzhou Yangjie Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1811",
+    "name": "CGN New Energy Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8039",
+    "name": "Taiflex Scientific Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300765",
+    "name": "CSPC Innovation Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601898",
+    "name": "China Coal Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1799",
+    "name": "Xinte Energy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PVBI11",
+    "name": "Fundo De Investimento Imobiliario VBI Prime Properties",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2040",
+    "name": "Saudi Ceramic Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "811",
+    "name": "Xinhua Winshare Publishing and Media Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002475",
+    "name": "Luxshare Precision Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000425",
+    "name": "XCMG Construction Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000157",
+    "name": "Zoomlion Heavy Industry Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2355",
+    "name": "Chin-Poon Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2023",
+    "name": "Yieh Phui Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300748",
+    "name": "JL Mag Rare-Earth Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603087",
+    "name": "Gan & Lee Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1104",
+    "name": "Universal Cement Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9699",
+    "name": "Hangzhou SF Intra-City Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MASTEK",
+    "name": "Mastek Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KOSSAN",
+    "name": "Kossan Rubber Industries Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4919",
+    "name": "Nuvoton Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600018",
+    "name": "Shanghai International Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3033",
+    "name": "Weikeng Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAM-F",
+    "name": "Bangkok Commercial Asset Management PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6890",
+    "name": "Lai Yih Footwear Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300037",
+    "name": "Shenzhen Capchem Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601319",
+    "name": "People's Insurance Co. Group of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "7204",
+    "name": "Perfect Presentation For Commercial Services Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002230",
+    "name": "Iflytek Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600584",
+    "name": "JCET Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TIMB",
+    "name": "TIM SA/Brazil ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1666",
+    "name": "Tong Ren Tang Technologies Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2351",
+    "name": "SDI Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GARFIBRES",
+    "name": "Garware Technical Fibres Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6279",
+    "name": "Hu Lane Associate Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002074",
+    "name": "Gotion High-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3545",
+    "name": "FocalTech Systems Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMTO3",
+    "name": "Sao Martinho S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603288",
+    "name": "Foshan Haitian Flavouring & Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688002",
+    "name": "Raytron Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600803",
+    "name": "ENN Natural Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GOTU",
+    "name": "Gaotu Techedu Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3673",
+    "name": "TPK Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601878",
+    "name": "Zheshang Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300628",
+    "name": "Yealink Network Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GMMPFAUDLR",
+    "name": "GMM Pfaudler Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000893",
+    "name": "Asia - Potash International Investment Guangzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TFG-F",
+    "name": "Thaifoods Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600426",
+    "name": "Shandong Hualu Hengsheng Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6533",
+    "name": "Andes Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RITES",
+    "name": "RITES Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAKBN.E",
+    "name": "Turkiye Vakiflar Bankasi TAO",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEND3",
+    "name": "Construtora Tenda S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1515",
+    "name": "China Resources Medical Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002738",
+    "name": "Sinomine Resource Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "777",
+    "name": "NetDragon Websoft Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600011",
+    "name": "Huaneng Power International Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MBK-F",
+    "name": "Mbk Pcl",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "347",
+    "name": "Angang Steel Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "POWERMECH",
+    "name": "Power Mech Projects Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300782",
+    "name": "Maxscend Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300458",
+    "name": "All Winner Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TSKB.E",
+    "name": "Turkiye Sinai Kalkinma Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600536",
+    "name": "China National Software & Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GODREJAGRO",
+    "name": "Godrej Agrovet Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MRPL",
+    "name": "Mangalore Refinery & Petrochemicals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JUBLINGREA",
+    "name": "Jubilant Ingrevia Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1052",
+    "name": "Yuexiu Transport Infrastructure Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601727",
+    "name": "Shanghai Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1773",
+    "name": "Tianli International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FINEORG",
+    "name": "Fine Organic Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SANOFICONR",
+    "name": "Sanofi Consumer Healthcare India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JAZEERA",
+    "name": "Jazeera Airways Co. KSCP",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600703",
+    "name": "Sanan Optoelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IEYHO.E",
+    "name": "Isiklar Enerji ve Yapi Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3617",
+    "name": "CyberPower Systems Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1117",
+    "name": "China Modern Dairy Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACEN",
+    "name": "ACEN Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NUHCM.E",
+    "name": "Nuh Cimento Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600115",
+    "name": "China Eastern Airlines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2707",
+    "name": "Formosa International Hotels Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688188",
+    "name": "Shanghai BOCHU Electronic Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900925",
+    "name": "Shanghai Mechanical and Electrical Industry Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTW-F",
+    "name": "TTW PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GENUSPOWER",
+    "name": "Genus Power Infrastructures Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600875",
+    "name": "Dongfang Electric Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5425",
+    "name": "Taiwan Semiconductor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BBTN",
+    "name": "Bank Tabungan Negara Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CAP",
+    "name": "CAP SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600733",
+    "name": "BAIC BluePark New Energy Technology Co. Ltd. Class Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8114",
+    "name": "Posiflex Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603298",
+    "name": "Hangcha Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688220",
+    "name": "ASR Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6456",
+    "name": "General Interface Solution GIS Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KTKBANK",
+    "name": "Karnataka Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PWON",
+    "name": "Pakuwon Jati Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "909",
+    "name": "Ming Yuan Cloud Group Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8415",
+    "name": "Brighton-Best International Taiwan Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HALKB.E",
+    "name": "Turkiye Halk Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688777",
+    "name": "SUPCON Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688099",
+    "name": "Amlogic Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601696",
+    "name": "BOC International China Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600196",
+    "name": "Shanghai Fosun Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688361",
+    "name": "Skyverse Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600570",
+    "name": "Hundsun Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BIMB",
+    "name": "Bank Islam Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAILTEL",
+    "name": "Railtel Corp. of India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PNCINFRA",
+    "name": "PNC Infratech Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VMART",
+    "name": "V-Mart Retail Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300418",
+    "name": "Kunlun Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DOAS.E",
+    "name": "Dogus Otomotiv Servis ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RELAXO",
+    "name": "Relaxo Footwears Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAPA",
+    "name": "Map Aktif Adiperkasa PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LIDER.E",
+    "name": "LDR Turizm AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601111",
+    "name": "Air China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688235",
+    "name": "BeOne Medicines Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JSMR",
+    "name": "Jasa Marga Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6873",
+    "name": "HD Renewable Energy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EQUITASBNK",
+    "name": "Equitas Small Finance Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BIRLACORPN",
+    "name": "Birla Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002736",
+    "name": "Guosen Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000301",
+    "name": "Jiangsu Eastern Shenghong Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1477",
+    "name": "Ocumension Therapeutics",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4770",
+    "name": "Allied Supreme Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ANSGR.E",
+    "name": "Anadolu Anonim Turk Sigorta Sirketi",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600886",
+    "name": "SDIC Power Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUI",
+    "name": "Sun International Ltd./South Africa",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6206",
+    "name": "Flytech Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BCH-F",
+    "name": "Bangkok Chain Hospital PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FINV",
+    "name": "FinVolution Group ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002850",
+    "name": "Shenzhen Kedali Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4906",
+    "name": "Gemtek Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLS",
+    "name": "BLS International Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000933",
+    "name": "Henan Shenhuo Coal Industry & Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688318",
+    "name": "Shenzhen Fortune Trend Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300054",
+    "name": "Hubei Dinglong Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EZTC3",
+    "name": "Ez Tec Empreendimentos e Participacoes S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2540",
+    "name": "JSL Construction & Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STLTECH",
+    "name": "Sterlite Technologies Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1434",
+    "name": "Formosa Taffeta Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601607",
+    "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RHIM",
+    "name": "Rhi Magnesita India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600741",
+    "name": "Huayu Automotive Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600418",
+    "name": "Anhui Jianghuai Automobile Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603659",
+    "name": "Shanghai Putailai New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300832",
+    "name": "Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRWRHITECH",
+    "name": "Garware Hi-Tech Films Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BDMS-R",
+    "name": "Bangkok Dusit Medical Services PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6719",
+    "name": "UPI Semiconductor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300073",
+    "name": "Beijing Easpring Material Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GENIL.E",
+    "name": "GEN Ilac VE Saglik Urunleri Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601577",
+    "name": "Bank of Changsha Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IONEXCHANG",
+    "name": "ION Exchange India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002436",
+    "name": "Shenzhen Fastprint Circuit Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5351",
+    "name": "Etron Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RECR11",
+    "name": "Fii UBS Br Receb Imob",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002281",
+    "name": "Accelink Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "UWC",
+    "name": "UWC Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BORORENEW",
+    "name": "Borosil Renewables Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300896",
+    "name": "Imeik Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601162",
+    "name": "Tianfeng Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TGAR11",
+    "name": "Fundo De Investimento Imobiliario Tg Ativo Real",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9668",
+    "name": "China Bohai Bank Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688778",
+    "name": "XTC New Energy Materials Xiamen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6608",
+    "name": "Bairong Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002185",
+    "name": "Tianshui Huatian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LYDYE.E",
+    "name": "Lydia Yesil Enerji Kaynaklari Anonimsirketi",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKZOINDIA",
+    "name": "Akzo Nobel India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6189",
+    "name": "Promate Electronic Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "THAI-F",
+    "name": "Thai Airways International PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600157",
+    "name": "Wintime Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NETWORK18",
+    "name": "Network18 Media & Investments Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1375",
+    "name": "Central China Securities Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600346",
+    "name": "Hengli Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HEKTS.E",
+    "name": "Hektas Ticaret TAS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601618",
+    "name": "Metallurgical Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SHILPAMED",
+    "name": "Shilpa Medicare Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAGEN.E",
+    "name": "Margun Enerji Uretim Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DBREALTY",
+    "name": "Valor Estate Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ECILC.E",
+    "name": "EIS Eczacibasi Ilac ve Sinai ve Finansal Yatirimlar Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KTLEV.E",
+    "name": "Katilimevim Tasarruf Finansman AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600895",
+    "name": "Shanghai Zhangjiang High-Tech Park Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600023",
+    "name": "Zhejiang Zheneng Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6550",
+    "name": "Polaris Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002156",
+    "name": "TongFu Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KONTR.E",
+    "name": "Kontrolmatik Enerji Ve Muhendislik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601059",
+    "name": "Cinda Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1896",
+    "name": "Maoyan Entertainment",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601231",
+    "name": "Universal Scientific Industrial Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688019",
+    "name": "Anji Microelectronics Technology Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002939",
+    "name": "China Great Wall Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1112",
+    "name": "Health & Happiness H&H International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JKPAPER",
+    "name": "JK Paper Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603179",
+    "name": "Jiangsu Xinquan Automotive Trim Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTEN3",
+    "name": "Tres Tentos Agroindustrial S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CELLO",
+    "name": "Cello World Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603486",
+    "name": "Ecovacs Robotics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RTNPOWER",
+    "name": "RattanIndia Power Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RECV3",
+    "name": "Petroreconcavo S/A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600584",
+    "name": "JCET Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600460",
+    "name": "Hangzhou Silan Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELECTCAST",
+    "name": "Electrosteel Castings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LYDHO.E",
+    "name": "LYDIA HOLDING AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TINS",
+    "name": "Timah Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GLOBAL-F",
+    "name": "Siam Global House PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002130",
+    "name": "Shenzhen Woer Heat-Shrinkable Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300759",
+    "name": "Pharmaron Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002409",
+    "name": "Jiangsu Yoke Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GLYHO.E",
+    "name": "Global Yatirim Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VS",
+    "name": "VS Industry Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300003",
+    "name": "Lepu Medical Technology Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601021",
+    "name": "Spring Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EPL",
+    "name": "EPL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688629",
+    "name": "Sichuan Huafeng Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3483",
+    "name": "Forcecon Tech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601988",
+    "name": "Bank of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAREGAMA",
+    "name": "Saregama India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600809",
+    "name": "Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6643",
+    "name": "M31 Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TVO-F",
+    "name": "Thai Vegetable Oil PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRAXIONA",
+    "name": "Grupo Traxion SAB de CV Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3705",
+    "name": "YungShin Global Holding Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3587",
+    "name": "Materials Analysis Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603156",
+    "name": "Hebei Yangyuan Zhihui Beverage Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600699",
+    "name": "Ningbo Joyson Electronic Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002648",
+    "name": "Zhejiang Satellite Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300757",
+    "name": "RoboTechnik Intelligent Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600588",
+    "name": "Yonyou Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688322",
+    "name": "Orbbec Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3060",
+    "name": "Yanbu Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SJOVA",
+    "name": "Sjova-Almennar Tryggingar hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600873",
+    "name": "Meihua Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601211",
+    "name": "Guotai Haitong Securities Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900908",
+    "name": "Shanghai Chlor-Alkali Chemical Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "751",
+    "name": "Skyworth Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTG-F",
+    "name": "Betagro PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600895",
+    "name": "Shanghai Zhangjiang High-Tech Park Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IRPC-F",
+    "name": "IRPC PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INFIBEAM",
+    "name": "Infibeam Avenues Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MILS3",
+    "name": "Mills Locacao Servicos e Logistica SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1907",
+    "name": "China Risun Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CERA",
+    "name": "Cera Sanitaryware Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BFIN",
+    "name": "BFI Finance Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002142",
+    "name": "Bank of Ningbo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2285",
+    "name": "Chervon Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600010",
+    "name": "Inner Mongolia BaoTou Steel Union Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900947",
+    "name": "Shanghai Zhenhua Heavy Industries Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2401",
+    "name": "Sunplus Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2457",
+    "name": "Phihong Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000807",
+    "name": "Yunnan Aluminium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGTHIA",
+    "name": "Agthia Group PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VGI-F",
+    "name": "VGI PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SOKM.E",
+    "name": "Sok Marketler Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTRAK.E",
+    "name": "Turk Traktor ve Ziraat Makineleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002152",
+    "name": "GRG Banking Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601916",
+    "name": "China Zheshang Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002128",
+    "name": "Huolinhe Opencut Coal Industry Corp. Ltd. of Inner Mongolia Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601877",
+    "name": "Zhejiang Chint Electrics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600011",
+    "name": "Huaneng Power International Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKSEN.E",
+    "name": "Aksa Enerji Uretim AS Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "272",
+    "name": "Shui On Land Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AURIONPRO",
+    "name": "AurionPro Solutions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6561",
+    "name": "Chief Telecom Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VIPIND",
+    "name": "VIP Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601868",
+    "name": "China Energy Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601857",
+    "name": "PetroChina Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002851",
+    "name": "Shenzhen Megmeet Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601168",
+    "name": "Western Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002353",
+    "name": "Yantai Jereh Oilfield Services Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601881",
+    "name": "China Galaxy Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600029",
+    "name": "China Southern Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6462",
+    "name": "Egis Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002624",
+    "name": "Perfect World Co. Ltd./China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRINFRA",
+    "name": "G R Infraprojects Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WHART-F",
+    "name": "WHA Premium Growth Freehold & Leasehold Real Estate InvestmentTrust",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3708",
+    "name": "Swancor Holding Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALPA4",
+    "name": "Alpargatas SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2820",
+    "name": "China Bills Finance Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688385",
+    "name": "Shanghai Fudan Microelectronics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601916",
+    "name": "China Zheshang Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EYDAP",
+    "name": "Athens Water Supply & Sewage Co. SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600642",
+    "name": "Shenergy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUPRAJIT",
+    "name": "Suprajit Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002261",
+    "name": "Talkweb Information System Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PPA",
+    "name": "Piraeus Port Authority SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAYMONDLSL",
+    "name": "Raymond Lifestyle Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200012",
+    "name": "CSG Holding Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AMATA-F",
+    "name": "Amata Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WBO",
+    "name": "Wilson Bayly Holmes-Ovcon Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2375",
+    "name": "Kaimei Electronic Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GMRP&UI",
+    "name": "GMR Power and Urban Infra Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600061",
+    "name": "SDIC Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688234",
+    "name": "SICC Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTN",
+    "name": "Burstone Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3868",
+    "name": "Xinyi Energy Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603979",
+    "name": "JCHX Mining Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BCPG-F",
+    "name": "BCPG PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200581",
+    "name": "Weifu High-Technology Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DOHOL.E",
+    "name": "Dogan Sirketler Grubu Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AVANTIFEED",
+    "name": "Avanti Feeds Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTML",
+    "name": "Tata Teleservices Maharashtra Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4128",
+    "name": "Microbio Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPG",
+    "name": "Super Group Ltd./South Africa",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEXRAIL",
+    "name": "Texmaco Rail & Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688692",
+    "name": "Wuhan Dameng Database Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8436",
+    "name": "TCI Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRBL",
+    "name": "KRBL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000034",
+    "name": "Digital China Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603728",
+    "name": "Shanghai Moons' Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300548",
+    "name": "EverProX Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300919",
+    "name": "CNGR Advanced Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3704",
+    "name": "Zyxel Group Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFT",
+    "name": "Afrimat Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688538",
+    "name": "Everdisplay Optronics Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2877",
+    "name": "China Shineway Pharmaceutical Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601519",
+    "name": "Shanghai DZH Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600703",
+    "name": "Sanan Optoelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2530",
+    "name": "Delpha Construction Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JBMA",
+    "name": "JBM Auto Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603301",
+    "name": "Zhende Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2240",
+    "name": "Advanced Building Industries Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5609",
+    "name": "Dimerco Express Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "357",
+    "name": "Hainan Meilan International Airport Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300763",
+    "name": "Ginlong Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002126",
+    "name": "Zhejiang Yinlun Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RBA",
+    "name": "Restaurant Brands Asia Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1312",
+    "name": "Grand Pacific Petrochemical",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601136",
+    "name": "Capital Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688027",
+    "name": "QuantumCTek Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900934",
+    "name": "Shanghai Jinjiang International Hotels Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SWSOLAR",
+    "name": "Sterling and Wilson Renewable",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002244",
+    "name": "Hangzhou Binjiang Real Estate Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EFORC.E",
+    "name": "Efor Yatirim Sanayi Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KNRCON",
+    "name": "KNR Constructions Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300115",
+    "name": "Shenzhen Everwin Precision Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6235",
+    "name": "Waffer Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603939",
+    "name": "Yifeng Pharmacy Chain Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3633",
+    "name": "Zhongyu Energy Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000538",
+    "name": "Yunnan Baiyao Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603369",
+    "name": "Jiangsu King's Luck Brewery JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002138",
+    "name": "Shenzhen Sunlord Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TASCO-F",
+    "name": "Tipco Asphalt PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600674",
+    "name": "Sichuan Chuantou Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SID",
+    "name": "Cia Siderurgica Nacional SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2103",
+    "name": "TSRC Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300024",
+    "name": "Siasun Robot & Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AEONTS-F",
+    "name": "AEON Thana Sinsap Thailand PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600737",
+    "name": "COFCO Tunhe Sugar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1516",
+    "name": "Sunac Services Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SOHU",
+    "name": "Sohu.com Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300001",
+    "name": "Qingdao TGOOD Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603596",
+    "name": "Bethel Automotive Safety Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002683",
+    "name": "Guangdong Hongda Blasting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601229",
+    "name": "Bank of Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688200",
+    "name": "Beijing Huafeng Test & Control Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002028",
+    "name": "Sieyuan Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RYGYO.E",
+    "name": "Reysas Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002156",
+    "name": "TongFu Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601665",
+    "name": "Qilu Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688017",
+    "name": "Leader Harmonious Drive Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1202",
+    "name": "Middle East Paper Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAIN",
+    "name": "Rain Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2323",
+    "name": "CMC Magnetics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300751",
+    "name": "Suzhou Maxwell Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ITC-F",
+    "name": "I-TAIL Corp. PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688615",
+    "name": "Intsig Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6806",
+    "name": "Shinfox Energy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601198",
+    "name": "Dongxing Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603737",
+    "name": "Skshu Paint Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRGYO.E",
+    "name": "Torunlar Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601958",
+    "name": "Jinduicheng Molybdenum Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688180",
+    "name": "Shanghai Junshi Biosciences Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6127",
+    "name": "Joinn Laboratories China Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000737",
+    "name": "North Copper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002487",
+    "name": "Dajin Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALKYLAMINE",
+    "name": "Alkyl Amines Chemicals",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601238",
+    "name": "Guangzhou Automobile Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "THOMASCOOK",
+    "name": "Thomas Cook India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601108",
+    "name": "Caitong Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600515",
+    "name": "Hainan Airport Infrastructure Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INDIACEM",
+    "name": "India Cements Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000876",
+    "name": "New Hope Liuhe Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603195",
+    "name": "Goneo Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHEMPLASTS",
+    "name": "Chemplast Sanmar Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SFL",
+    "name": "Sheela Foam Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000021",
+    "name": "Shenzhen Kaifa Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8255",
+    "name": "Actron Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRND3",
+    "name": "Grendene SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600637",
+    "name": "Oriental Pearl Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AVIA",
+    "name": "Avia Avian Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600126",
+    "name": "Hangzhou Iron & Steel Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688123",
+    "name": "Giantec Semiconductor Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300058",
+    "name": "Bluefocus Intelligent Communications Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688223",
+    "name": "Jinko Solar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688617",
+    "name": "APT Medical Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002773",
+    "name": "Chengdu Kanghong Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601058",
+    "name": "Sailun Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BERA.E",
+    "name": "Bera Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6104",
+    "name": "Genesys Logic Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4162",
+    "name": "Almunajem Foods Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002812",
+    "name": "Yunnan Energy New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTCIM.E",
+    "name": "Baticim Bati Anadolu Cimento Sanayii AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SNGYO.E",
+    "name": "Sinpas Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3576",
+    "name": "United Renewable Energy Co. Ltd./Taiwan",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601788",
+    "name": "Everbright Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LH-F",
+    "name": "Land & Houses PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NRE",
+    "name": "National Real Estate Co. KPSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600021",
+    "name": "Shanghai Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3080",
+    "name": "Eastern Province Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TBIG",
+    "name": "PT Tower Bersama Infrastructure Tbk",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600985",
+    "name": "Huaibei Mining Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STA-F",
+    "name": "Sri Trang Agro-Industry PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603379",
+    "name": "Zhejiang Sanmei Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600977",
+    "name": "China Film Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600177",
+    "name": "Youngor Fashion Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002056",
+    "name": "Hengdian Group DMEGC Magnetics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000728",
+    "name": "Guoyuan Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELPC",
+    "name": "Cia Paranaense de Energia - Copel ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688278",
+    "name": "Xiamen Amoytop Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MEGA-F",
+    "name": "Mega Lifesciences PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600438",
+    "name": "Tongwei Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003021",
+    "name": "Shenzhen Zhaowei Machinery & Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "Z25",
+    "name": "Yanlord Land Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300487",
+    "name": "Sunresin New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688018",
+    "name": "Espressif Systems Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601555",
+    "name": "SooChow Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASHOKA",
+    "name": "Ashoka Buildcon Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603920",
+    "name": "Olympic Circuit Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "405",
+    "name": "Yuexiu REIT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYPK3",
+    "name": "Iochpe Maxion SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NATGATE",
+    "name": "Nationgate Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2436",
+    "name": "Weltrend Semiconductor",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600015",
+    "name": "Huaxia Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SARKY.E",
+    "name": "Sarkuysan Elektrolitik Bakir Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3062",
+    "name": "CyberTAN Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "173",
+    "name": "K Wah International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VELESTO",
+    "name": "Velesto Energy Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900911",
+    "name": "Shanghai Jinqiao Export Processing Zone Development Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRIVENI",
+    "name": "Triveni Engineering & Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600958",
+    "name": "Orient Securities Co. Ltd./China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603160",
+    "name": "Shenzhen Goodix Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688660",
+    "name": "Shanghai Electric Wind Power Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3228",
+    "name": "RDC Semiconductor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688728",
+    "name": "GalaxyCore Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000623",
+    "name": "Jilin Aodong Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LEVE3",
+    "name": "Mahle Metal Leve SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002195",
+    "name": "Shanghai Stonehill Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002007",
+    "name": "Hualan Biological Engineering Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000960",
+    "name": "Yunnan Tin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601689",
+    "name": "Ningbo Tuopu Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603083",
+    "name": "CIG Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600518",
+    "name": "Kangmei Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688027",
+    "name": "QuantumCTek Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6469",
+    "name": "Great Tree Pharmacy Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6547",
+    "name": "Medigen Vaccine Biologics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002463",
+    "name": "WUS Printed Circuit Kunshan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601717",
+    "name": "ZMJ Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601799",
+    "name": "Changzhou Xingyu Automotive Lighting Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ORIENTELEC",
+    "name": "Orient Electric Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603568",
+    "name": "Zhejiang Weiming Environment Protection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601233",
+    "name": "Tongkun Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EGEEN.E",
+    "name": "EGE Endustri VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIMH3",
+    "name": "SIMPAR SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300953",
+    "name": "Ningbo Zhenyu Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TABGD.E",
+    "name": "TAB Gida Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688223",
+    "name": "Jinko Solar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600522",
+    "name": "Jiangsu Zhongtian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3703",
+    "name": "Continental Holdings Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300972",
+    "name": "Fujian Wanchen Biotechnology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DCBBANK",
+    "name": "DCB Bank Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OTOEL",
+    "name": "Autohellas Tourist and Trading SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600562",
+    "name": "Glarun Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003816",
+    "name": "CGN Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZAGGLE",
+    "name": "Zaggle Prepaid Ocean Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ITMG",
+    "name": "Indo Tambangraya Megah Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RENUKA",
+    "name": "Shree Renuka Sugars Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALARK.E",
+    "name": "Alarko Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600109",
+    "name": "Sinolink Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688521",
+    "name": "Verisilicon Microelectronics Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TKFEN.E",
+    "name": "Tekfen Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002241",
+    "name": "GoerTek Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600578",
+    "name": "Beijing Jingneng Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1304",
+    "name": "USI Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688297",
+    "name": "AVIC Chengdu UAS Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300718",
+    "name": "Zhejiang Changsheng Sliding Bearings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTKPRESTIG",
+    "name": "TTK Prestige Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2340",
+    "name": "Taiwan-Asia Semiconductor Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCMA",
+    "name": "Surya Citra Media Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000878",
+    "name": "Yunnan Copper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMRA",
+    "name": "Summarecon Agung Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MSIN",
+    "name": "MNC Digital Entertainment Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600392",
+    "name": "Shenghe Resources Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600522",
+    "name": "Jiangsu Zhongtian Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603260",
+    "name": "Hoshine Silicon Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603198",
+    "name": "Anhui Yingjia Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ANUP",
+    "name": "Anup Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISGEC",
+    "name": "ISGEC Heavy Engineering Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARMADA",
+    "name": "Bumi Armada Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600741",
+    "name": "Huayu Automotive Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LOGO.E",
+    "name": "Logo Yazilim Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1522",
+    "name": "TYC Brother Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688343",
+    "name": "Shenzhen Intellifusion Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000027",
+    "name": "Shenzhen Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688266",
+    "name": "Suzhou Zelgen Biopharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000988",
+    "name": "Huagong Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600048",
+    "name": "Poly Developments and Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002648",
+    "name": "Satellite Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EBR",
+    "name": "Centrais Eletricas Brasileiras SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688082",
+    "name": "ACM Research Shanghai Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300677",
+    "name": "Intco Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1582",
+    "name": "Syncmold Enterprise Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600816",
+    "name": "J-Yuan Trust Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002335",
+    "name": "Ke Hua Heng Sheng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAJAJELEC",
+    "name": "Bajaj Electricals Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601898",
+    "name": "China Coal Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300779",
+    "name": "Qingdao Huicheng Environmental Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688110",
+    "name": "Dosilicon Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200869",
+    "name": "Yantai Changyu Pioneer Wine Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002085",
+    "name": "Zhejiang Wanfeng Auto Wheel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GHITHA",
+    "name": "Ghitha Holding PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002555",
+    "name": "Wuhu Sanqi Interactive Entertainment Network Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALBRK.E",
+    "name": "Albaraka Turk Katilim Bankasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300620",
+    "name": "Advanced Fiber Resources Zhuhai Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NIITMTS",
+    "name": "NIIT Learning Systems Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHSEAMLES",
+    "name": "Maharashtra Seamless Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AYGAZ.E",
+    "name": "Aygaz AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAJAJCON",
+    "name": "Bajaj Consumer Care Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000100",
+    "name": "TCL Technology Group Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688166",
+    "name": "BrightGene Bio-Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2534",
+    "name": "Hung Sheng Construction Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600027",
+    "name": "Huadian Power International Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PADINI",
+    "name": "Padini Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "182",
+    "name": "Concord New Energy Group Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688425",
+    "name": "China Railway Construction Heavy Industry Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6576",
+    "name": "Foresee Pharmaceuticals Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DAO",
+    "name": "Youdao Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000513",
+    "name": "Livzon Pharmaceutical Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3010",
+    "name": "Arabian Cement Co./Saudi Arabia",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6411",
+    "name": "Amazing Microelectronic Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BA-F",
+    "name": "Bangkok Airways PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DAPGM.E",
+    "name": "DAP Gayrimenkul Gelistirme AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300627",
+    "name": "Shanghai Huace Navigation Technology Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600161",
+    "name": "Beijing Tiantan Biological Products Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688114",
+    "name": "MGI Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603699",
+    "name": "Neway Valve Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2489",
+    "name": "AmTRAN Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "710",
+    "name": "BOE Varitronix Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2605",
+    "name": "Sincere Navigation Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600009",
+    "name": "Shanghai International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3362",
+    "name": "Ability Opto-Electronics Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002008",
+    "name": "Han's Laser Technology Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003816",
+    "name": "CGN Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601298",
+    "name": "Qingdao Port International Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601633",
+    "name": "Great Wall Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601128",
+    "name": "Jiangsu Changshu Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2913",
+    "name": "Taiwan TEA Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600801",
+    "name": "Huaxin Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002611",
+    "name": "Guangdong Dongfang Precision Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601118",
+    "name": "China Hainan Rubber Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAMO3",
+    "name": "Vamos Locacao de Caminhoes Maquinas e Equipamentos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3669",
+    "name": "China Yongda Automobiles Services Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GUNKUL-F",
+    "name": "Gunkul Engineering PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2192",
+    "name": "Medlive Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301165",
+    "name": "Ruijie Networks Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "604",
+    "name": "Shenzhen Investment Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601991",
+    "name": "Datang International Power Generation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600038",
+    "name": "AVICOPTER plc Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000158",
+    "name": "Shijiazhuang Changshan BeiMing Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KAP",
+    "name": "KAP Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601179",
+    "name": "China XD Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2332",
+    "name": "D-Link Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2031",
+    "name": "Hsin Kuang Steel Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002568",
+    "name": "Shanghai Bairun Investment Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ESSA",
+    "name": "ESSA Industries Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CAMPUS",
+    "name": "Campus Activewear Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002157",
+    "name": "Jiangxi Zhengbang Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688065",
+    "name": "Cathay Biotech Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CMSB",
+    "name": "Cahya Mata Sarawak Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FESA4",
+    "name": "Cia Ferro Ligas da Bahia - Ferbasa Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600515",
+    "name": "Hainan Airport Infrastructure Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601699",
+    "name": "Shanxi Lu'an Environmental Energy Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPTOTO",
+    "name": "Sports Toto Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603127",
+    "name": "Joinn Laboratories China Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601236",
+    "name": "Hongta Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002797",
+    "name": "First Capital Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603659",
+    "name": "Shanghai Putailai New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BPP-F",
+    "name": "Banpu Power PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601006",
+    "name": "Daqin Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002320",
+    "name": "Hainan Strait Shipping Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300383",
+    "name": "Beijing Sinnet Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1711",
+    "name": "Everlight Chemical Industrial Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCB-R",
+    "name": "SCB X PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LSIP",
+    "name": "Perusahaan Perkebunan London Sumatra Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300724",
+    "name": "Shenzhen SC New Energy Technology Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TVSSCS",
+    "name": "TVS Supply Chain Solutions Ltd./India",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603529",
+    "name": "AIMA Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600732",
+    "name": "Shanghai Aiko Solar Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300002",
+    "name": "Beijing Ultrapower Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001301",
+    "name": "Shijiazhuang Shangtai Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601168",
+    "name": "Western Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300660",
+    "name": "Jiangsu Leili Motor Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1442",
+    "name": "Advancetek Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GATEWAY",
+    "name": "Gateway Distriparks Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688582",
+    "name": "Anhui XDLK Microsystem Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601156",
+    "name": "Eastern Air Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STECON-F",
+    "name": "Stecon Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600085",
+    "name": "Beijing Tong Ren Tang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALOKINDS",
+    "name": "Alok Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EIM",
+    "name": "Eimskipafelag Islands hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3003",
+    "name": "City Cement Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600884",
+    "name": "Ningbo Shanshan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2104",
+    "name": "International CSRC Investment Holdings Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601399",
+    "name": "Sinomach Heavy Equipment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "UEMS",
+    "name": "UEM Sunrise Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688037",
+    "name": "Kingsemi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000729",
+    "name": "Beijing Yanjing Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2009",
+    "name": "BBMG Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000032",
+    "name": "Shenzhen SED Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601990",
+    "name": "Nanjing Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLANB-F",
+    "name": "Plan B Media PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GALAXYSURF",
+    "name": "Galaxy Surfactants Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000825",
+    "name": "Shanxi Taigang Stainless Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKSGY.E",
+    "name": "AKIS Gayrimenkul Yatirimi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DRBHCOM",
+    "name": "DRB-Hicom Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600132",
+    "name": "Chongqing Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8213",
+    "name": "Taiwan PCB Techvest Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SBFG3",
+    "name": "Grupo SBF SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QH-F",
+    "name": "Quality Houses PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000703",
+    "name": "Hengyi Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000766",
+    "name": "Tonghua Golden-Horse Pharmaceutical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WSKT",
+    "name": "Waskita Karya Persero Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688052",
+    "name": "Suzhou Novosense Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002484",
+    "name": "Nantong Jianghai Capacitor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300260",
+    "name": "Kunshan Kinglai Hygienic Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RALLIS",
+    "name": "Rallis India Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000629",
+    "name": "Pangang Group Vanadium Titanium & Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5530",
+    "name": "Lung Yen Life Service Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601567",
+    "name": "Ningbo Sanxing Medical Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300735",
+    "name": "DBG Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MRCB",
+    "name": "Malaysian Resources Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2121",
+    "name": "AInnovation Technology Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601000",
+    "name": "TangShan Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600332",
+    "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LWSA3",
+    "name": "LWSA SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000733",
+    "name": "China Zhenhua Group Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3022",
+    "name": "IEI Integration Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601020",
+    "name": "Tibet Huayu Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600363",
+    "name": "Jiangxi Lianchuang Optoelectronic Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601155",
+    "name": "Seazen Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MIATK.E",
+    "name": "MIA Teknoloji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600968",
+    "name": "CNOOC Energy Technology & Services Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3380",
+    "name": "Alpha Networks Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601658",
+    "name": "Postal Savings Bank of China Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688208",
+    "name": "Autel Intelligent Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002311",
+    "name": "Guangdong Haid Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600282",
+    "name": "Nanjing Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8163",
+    "name": "Darfon Electronics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3015",
+    "name": "FSP Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300390",
+    "name": "Canmax Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600246",
+    "name": "Beijing Vantone Real Estate Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600848",
+    "name": "Shanghai Lingang Holdings Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600095",
+    "name": "Xiangcai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2704",
+    "name": "Ambassador Hotel",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SKAGI",
+    "name": "Skagi Hf",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BSDE",
+    "name": "Bumi Serpong Damai Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6679",
+    "name": "ZillTek Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300811",
+    "name": "POCO Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603885",
+    "name": "Juneyao Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2231",
+    "name": "Cub Elecparts Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601877",
+    "name": "Zhejiang Chint Electrics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000166",
+    "name": "Shenwan Hongyuan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002065",
+    "name": "DHC Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TAKAFUL",
+    "name": "Syarikat Takaful Malaysia Keluarga Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002153",
+    "name": "Beijing Shiji Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MEG",
+    "name": "Megaworld Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QUEST",
+    "name": "Quest Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000921",
+    "name": "Hisense Home Appliances Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002518",
+    "name": "Shenzhen Kstar Science And Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000519",
+    "name": "North Industries Group Red Arrow Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002444",
+    "name": "Hang Zhou Great Star Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002966",
+    "name": "Bank of Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300623",
+    "name": "Jiangsu Jiejie Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605589",
+    "name": "Jinan Shengquan Group Share Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600256",
+    "name": "Guanghui Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ONE",
+    "name": "One United Properties SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603565",
+    "name": "Shanghai Zhonggu Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PAISALO",
+    "name": "Paisalo Digital Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688599",
+    "name": "Trina Solar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KSCL",
+    "name": "Kaveri Seed Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SKBNK.E",
+    "name": "Sekerbank Turk AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002670",
+    "name": "Guosheng Financial Holding Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6202",
+    "name": "Holtek Semiconductor Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002340",
+    "name": "GEM Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3319",
+    "name": "A-Living Services Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600577",
+    "name": "Tongling Jingda Special Magnet Wire Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688082",
+    "name": "ACM Research Shanghai Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688187",
+    "name": "Zhuzhou CRRC Times Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603881",
+    "name": "Shanghai AtHub Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2034",
+    "name": "YC INOX Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLA-R",
+    "name": "Bangkok Life Assurance PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6443",
+    "name": "TSEC Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300570",
+    "name": "T&S Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000723",
+    "name": "Shanxi Meijin Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600546",
+    "name": "Shanxi Coal International Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601933",
+    "name": "Yonghui Superstores Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601106",
+    "name": "China First Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1313",
+    "name": "UPC Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600570",
+    "name": "Hundsun Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688088",
+    "name": "Arcsoft Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000683",
+    "name": "Inner Mongolia Yuan Xing Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603360",
+    "name": "Dalian Bio-Chem Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600331",
+    "name": "Sichuan Hongda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600153",
+    "name": "Xiamen C & D Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600498",
+    "name": "Fiberhome Telecommunication Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000155",
+    "name": "Sichuan New Energy Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "M-F",
+    "name": "MK Restaurants Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605499",
+    "name": "Eastroc Beverage Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002430",
+    "name": "Hangzhou Oxygen Plant Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPRC-F",
+    "name": "Star Petroleum Refining PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688009",
+    "name": "China Railway Signal & Communication Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600595",
+    "name": "Henan Zhongfu Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DBL",
+    "name": "Dilip Buildcon Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1710",
+    "name": "Oriental Union Chemical Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PNBN",
+    "name": "Bank Pan Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2010",
+    "name": "Chun Yuan Steel Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2369",
+    "name": "Lingsen Precision Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2636",
+    "name": "T3EX Global Holdings Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600066",
+    "name": "Yutong Bus Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4736",
+    "name": "TaiDoc Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688363",
+    "name": "Bloomage Biotechnology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601865",
+    "name": "Flat Glass Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002456",
+    "name": "OFILM Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000029",
+    "name": "Shenzhen Special Economic Zone Real Estate & Properties Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002273",
+    "name": "Zhejiang Crystal-Optech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600196",
+    "name": "Shanghai Fosun Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300100",
+    "name": "Shuanglin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1691",
+    "name": "JS Global Lifestyle Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002673",
+    "name": "Western Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688387",
+    "name": "CICT Mobile Communication Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002064",
+    "name": "Huafon Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300679",
+    "name": "Electric Connector Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601901",
+    "name": "Founder Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4532",
+    "name": "Rechi Precision Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002032",
+    "name": "Zhejiang Supor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGRO3",
+    "name": "BrasilAgro - Co. Brasileira de Propriedades Agricolas",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603236",
+    "name": "Quectel Wireless Solutions Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAYMOND",
+    "name": "Raymond Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2587",
+    "name": "HealthyWay Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603290",
+    "name": "StarPower Semiconductor Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002340",
+    "name": "GEM Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600707",
+    "name": "IRICO Display Devices Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300144",
+    "name": "Songcheng Performance Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000958",
+    "name": "SPIC Industry-Finance Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600602",
+    "name": "INESA Intelligent Tech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2905",
+    "name": "Mercuries & Associates Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600490",
+    "name": "Pengxin International Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600141",
+    "name": "Hubei Xingfa Chemicals Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EUREN.E",
+    "name": "Europen Endustri Insaat Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688141",
+    "name": "JoulWatt Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605090",
+    "name": "Jiangxi Jovo Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FOYRK",
+    "name": "Fourlis Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603613",
+    "name": "Beijing United Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NOCIL",
+    "name": "NOCIL Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAIZ4",
+    "name": "Raizen SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600208",
+    "name": "Quzhou Xin'an Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002493",
+    "name": "Rongsheng Petro Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003031",
+    "name": "Hebei Sinopack Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WCT",
+    "name": "WCT Holdings Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000408",
+    "name": "Zangge Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002926",
+    "name": "Huaxi Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603444",
+    "name": "G-bits Network Technology Xiamen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002128",
+    "name": "Inner Mongolia Dian Tou Energy Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELHA",
+    "name": "ElvalHalcor SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688563",
+    "name": "Baimtec Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZH",
+    "name": "Zhihu Inc. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DDL",
+    "name": "DingDong Cayman Ltd. ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1909",
+    "name": "Longchen Paper & Packaging Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002555",
+    "name": "37 Interactive Entertainment Network Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600933",
+    "name": "IKD Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000301",
+    "name": "Jiangsu Eastern Shenghong Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CANTE.E",
+    "name": "Can2 Termik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000415",
+    "name": "Bohai Leasing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603688",
+    "name": "Jiangsu Pacific Quartz Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300638",
+    "name": "Fibocom Wireless Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002223",
+    "name": "Jiangsu Yuyue Medical Equipment & Supply Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002270",
+    "name": "Huaming Power Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900936",
+    "name": "Inner Mongolia Eerduosi Resources Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002756",
+    "name": "YongXing Special Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002920",
+    "name": "Huizhou Desay Sv Automotive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISGYO.E",
+    "name": "Is Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002545",
+    "name": "Qingdao East Steel Tower Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2836",
+    "name": "Bank of Kaohsiung Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TIPH-F",
+    "name": "Dhipaya Group Holdings PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600171",
+    "name": "Shanghai Belling Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603786",
+    "name": "Keboda Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900942",
+    "name": "Huangshan Tourism Development Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600131",
+    "name": "State Grid Information & Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAPT4",
+    "name": "Randon Participacoes SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LOGN3",
+    "name": "Log-in Logistica Intermodal SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601869",
+    "name": "Yangtze Optical Fibre & Cable Joint Stock Ltd. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OLGERD",
+    "name": "Olgerdin Egill Skallagrims HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1565",
+    "name": "St. Shine Optical Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600060",
+    "name": "Hisense Visual Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000967",
+    "name": "Infore Environment Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300146",
+    "name": "By-health Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600808",
+    "name": "Maanshan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9860",
+    "name": "Adicon Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LOGG3",
+    "name": "LOG Commercial Properties e Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STGT-F",
+    "name": "Sri Trang Gloves Thailand PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000786",
+    "name": "Beijing New Building Materials plc Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6153",
+    "name": "Career Technology MFG. Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000830",
+    "name": "Luxi Chemical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600332",
+    "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002841",
+    "name": "Guangzhou Shiyuan Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300738",
+    "name": "Guangdong Aofei Data Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002262",
+    "name": "Jiangsu Nhwa Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8341",
+    "name": "Sunny Friend Environmental Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600085",
+    "name": "Beijing Tong Ren Tang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHG-F",
+    "name": "Chularat Hospital PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TUPY3",
+    "name": "Tupy SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002129",
+    "name": "Tianjin Zhonghuan Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6180",
+    "name": "Gamania Digital Entertainment Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600497",
+    "name": "Yunnan Chihong Zinc&Germanium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688116",
+    "name": "Jiangsu Cnano Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PTG-F",
+    "name": "PTG Energy PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300364",
+    "name": "COL Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002222",
+    "name": "Castech Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688192",
+    "name": "Dizal Jiangsu Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601880",
+    "name": "Dalian Port PDA Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000738",
+    "name": "AECC Aero-Engine Control Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3532",
+    "name": "Formosa Sumco Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601018",
+    "name": "Ningbo Zhoushan Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ODINE.E",
+    "name": "Odine Solutions Teknoloji Ticaret VE Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600380",
+    "name": "Joincare Pharmaceutical Group Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2349",
+    "name": "Ritek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1858",
+    "name": "Beijing Chunlizhengda Medical Instruments Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002747",
+    "name": "Estun Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600329",
+    "name": "Tianjin Pharmaceutical Da Re Tang Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603799",
+    "name": "Zhejiang Huayou Cobalt Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600875",
+    "name": "Dongfang Electric Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000559",
+    "name": "Wanxiang Qianchao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002078",
+    "name": "Shandong Sun Paper Industry JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9923",
+    "name": "Yeahka Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002312",
+    "name": "Sichuan Development Lomon Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002001",
+    "name": "Zhejiang NHU Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300979",
+    "name": "Huali Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688568",
+    "name": "Geovis Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8938",
+    "name": "Advanced International Multitech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002245",
+    "name": "Jiangsu Aucksun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600004",
+    "name": "Guangzhou Baiyun International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002432",
+    "name": "Andon Health Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002895",
+    "name": "Guizhou Chanhen Chemical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603308",
+    "name": "Anhui Yingliu Electromechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600298",
+    "name": "Angel Yeast Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000927",
+    "name": "China Railway Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000938",
+    "name": "Unisplendour Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000983",
+    "name": "Shanxi Xishan Coal & Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002468",
+    "name": "STO Express Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300468",
+    "name": "Shenzhen Forms Syntron Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002155",
+    "name": "Hunan Gold Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLA-F",
+    "name": "Bangkok Life Assurance PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BJCORP",
+    "name": "Berjaya Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603228",
+    "name": "Shenzhen Kinwong Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600369",
+    "name": "Southwest Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRKM5",
+    "name": "Braskem SA Preference Shares",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601965",
+    "name": "China Automotive Engineering Research Institute Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "581",
+    "name": "China Oriental Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300432",
+    "name": "Fulin Precision Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QUAGR.E",
+    "name": "Qua Granite Hayal",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600415",
+    "name": "Zhejiang China Commodities City Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601555",
+    "name": "SooChow Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603806",
+    "name": "Hangzhou First Applied Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600179",
+    "name": "Antong Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1532",
+    "name": "China Metal Products",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000932",
+    "name": "Hunan Valin Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JAIBALAJI",
+    "name": "Jai Balaji Industries Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2478",
+    "name": "TA-I Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2108",
+    "name": "Nantex Industry Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600100",
+    "name": "Tsinghua Tongfang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DSPW",
+    "name": "Doosan Skoda Power as",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600998",
+    "name": "Jointown Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002423",
+    "name": "COFCO Capital Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CVCB3",
+    "name": "CVC Brasil Operadora e Agencia de Viagens SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PCAR3",
+    "name": "Cia Brasileira de Distribuicao",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002171",
+    "name": "Anhui Truchum Advanced Materials & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1604",
+    "name": "Sampo Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300573",
+    "name": "Shenyang Xingqi Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002249",
+    "name": "Zhongshan Broad Ocean Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600301",
+    "name": "Guangxi Huaxi Nonferrous Metal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4162",
+    "name": "PharmaEngine Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DNEX",
+    "name": "Dagang NeXchange Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600516",
+    "name": "Fangda Carbon New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601615",
+    "name": "Ming Yang Smart Energy Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6244",
+    "name": "Motech Industries Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIMINN",
+    "name": "Siminn HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SELEC.E",
+    "name": "Selcuk Ecza Deposu Ticaret ve Sanayi A.S.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601618",
+    "name": "Metallurgical Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INTEK",
+    "name": "Ideal Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IZENR.E",
+    "name": "Izdemir Enerji Elektrik Uretim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RATCH-F",
+    "name": "Ratchaburi Electricity Generating Holding PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000009",
+    "name": "China Baoan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2547",
+    "name": "Radium Life Tech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300204",
+    "name": "Staidson Beijing Biopharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300142",
+    "name": "Walvax Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001696",
+    "name": "Chongqing Zongshen Power Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688301",
+    "name": "iRay Group Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300115",
+    "name": "Shenzhen Everwin Precision Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300723",
+    "name": "ApicHope Pharmaceutical Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300418",
+    "name": "Kunlun Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603337",
+    "name": "Jack Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1458",
+    "name": "Zhou Hei Ya International Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4526",
+    "name": "Tong-Tai Machine & Tool Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600528",
+    "name": "China Railway Hi-tech Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600057",
+    "name": "Xiamen Xiangyu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIDO",
+    "name": "Industri Jamu Dan Farmasi Sido Muncul Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBAV3",
+    "name": "Cia Brasileira de Aluminio",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002176",
+    "name": "Jiangxi Special Electric Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600352",
+    "name": "Zhejiang Longsheng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1714",
+    "name": "Ho Tung Chemical Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASAIY",
+    "name": "Sendas Distribuidora S/A ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601016",
+    "name": "CECEP Wind-Power Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002984",
+    "name": "Qingdao Sentury Tire Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600517",
+    "name": "State Grid Yingda Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002064",
+    "name": "Zhejiang Huafeng Spandex Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300346",
+    "name": "Jiangsu Nata Opto-electronic Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900901",
+    "name": "INESA Intelligent Tech Inc. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3152",
+    "name": "Advanced Ceramic X Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688005",
+    "name": "Ningbo Ronbay New Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603806",
+    "name": "Hangzhou First Applied Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600563",
+    "name": "Xiamen Faratronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600348",
+    "name": "Shan Xi Hua Yang Group New Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688333",
+    "name": "Xi'an Bright Laser Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300558",
+    "name": "Betta Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600027",
+    "name": "Huadian Power International Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688131",
+    "name": "Shanghai Haoyuan Chemexpress Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603358",
+    "name": "Huada Automotive Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600259",
+    "name": "Rising Nonferrous Metals Share Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600079",
+    "name": "Humanwell Healthcare Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5508",
+    "name": "Yungshin Construction & Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1537",
+    "name": "Kung Long Batteries Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9922",
+    "name": "Jiumaojiu International Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600022",
+    "name": "Shandong Iron and Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000563",
+    "name": "Shaanxi International Trust Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688279",
+    "name": "Fortior Technology Shenzhen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600702",
+    "name": "Shede Spirits Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000983",
+    "name": "Shanxi Coking Coal Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601377",
+    "name": "Industrial Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300672",
+    "name": "Goke Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INTB3",
+    "name": "Intelbras SA Industria de Telecomunicacao Eletronica Brasileira",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600026",
+    "name": "COSCO SHIPPING Energy Transportation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEAMLEASE",
+    "name": "TeamLease Services Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002428",
+    "name": "Yunnan Lincang Xinyuan Germanium Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACES",
+    "name": "Aspirasi Hidup Indonesia Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601212",
+    "name": "Baiyin Nonferrous Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688375",
+    "name": "Guobo Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600176",
+    "name": "China Jushi Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002821",
+    "name": "Asymchem Laboratories Tianjin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603833",
+    "name": "Oppein Home Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688702",
+    "name": "Suzhou Centec Communications Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002603",
+    "name": "Shijiazhuang Yiling Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300759",
+    "name": "Pharmaron Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601669",
+    "name": "Power Construction Corp. of China Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001286",
+    "name": "Shaanxi Energy Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600588",
+    "name": "Yonyou Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002987",
+    "name": "Northking Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600641",
+    "name": "Shanghai Vital Microtech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002080",
+    "name": "Sinoma Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WLCON",
+    "name": "Wilcon Depot Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300773",
+    "name": "Lakala Payment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002847",
+    "name": "Yankershop Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLOOM",
+    "name": "Bloomberry Resorts Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300199",
+    "name": "Hybio Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300136",
+    "name": "Shenzhen Sunway Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600959",
+    "name": "Jiangsu Broadcasting Cable Information Network Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601099",
+    "name": "Pacific Securities Co. Ltd. China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2406",
+    "name": "Gigastorage Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALPEKA",
+    "name": "Alpek SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600582",
+    "name": "Tian Di Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600416",
+    "name": "Xiangtan Electric Manufacturing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INTRK",
+    "name": "Intracom Holdings SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688676",
+    "name": "Hainan Jinpan Smart Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688772",
+    "name": "Zhuhai CosMX Battery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002583",
+    "name": "Hytera Communications Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUPERMX",
+    "name": "Supermax Corp. Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1033",
+    "name": "Sinopec Oilfield Service Corp. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8076",
+    "name": "Firich Enterprises Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300253",
+    "name": "Winning Health Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002353",
+    "name": "Yantai Jereh Oilfield Services Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600460",
+    "name": "Hangzhou Silan Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600388",
+    "name": "Fujian Longking Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603662",
+    "name": "Keli Sensing Technology Ningbo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002131",
+    "name": "Leo Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600362",
+    "name": "Jiangxi Copper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000997",
+    "name": "Newland Digital Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300136",
+    "name": "Shenzhen Sunway Communication Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603589",
+    "name": "Anhui Kouzi Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300456",
+    "name": "Sai Micro Electronics Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000099",
+    "name": "Citic Offshore Helicopter Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002240",
+    "name": "Chengxin Lithium Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600970",
+    "name": "Sinoma International Engineering Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603486",
+    "name": "Ecovacs Robotics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688599",
+    "name": "Trina Solar Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3218",
+    "name": "Universal Vision Biotechnology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AALI",
+    "name": "Astra Agro Lestari Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600897",
+    "name": "Xiamen International Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600704",
+    "name": "Wuchan Zhongda Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301219",
+    "name": "Ganzhou Teng Yuan Cobalt New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300009",
+    "name": "Anhui Anke Biotechnology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000739",
+    "name": "Apeloa Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000951",
+    "name": "CNHTC Jinan Truck Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600160",
+    "name": "Zhejiang Juhua Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601061",
+    "name": "CITIC Metal Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002600",
+    "name": "Lingyi iTech Guangdong Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600361",
+    "name": "Innovation New Material Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2331",
+    "name": "Elitegroup Computer Systems Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600633",
+    "name": "Zhejiang Daily Digital Culture Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000883",
+    "name": "Hubei Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4142",
+    "name": "Adimmune Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603766",
+    "name": "Loncin Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3552",
+    "name": "Tung Thih Electronic Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600018",
+    "name": "Shanghai International Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002236",
+    "name": "Zhejiang Dahua Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601997",
+    "name": "Bank of Guiyang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000603",
+    "name": "Shengda Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002027",
+    "name": "Focus Media Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301301",
+    "name": "Yili Chuanning Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1201",
+    "name": "Wei Chuan Foods Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001287",
+    "name": "Shenzhen CECport Technologies Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601162",
+    "name": "Tianfeng Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9940",
+    "name": "Sinyi Realty Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000598",
+    "name": "Chengdu Xingrong Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688520",
+    "name": "Sinocelltech Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601808",
+    "name": "China Oilfield Services Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601058",
+    "name": "Sailun Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601702",
+    "name": "Shanghai Huafon Aluminium Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000069",
+    "name": "Shenzhen Overseas Chinese Town Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300068",
+    "name": "Zhejiang Narada Power Source Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002891",
+    "name": "Yantai China Pet Foods Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300085",
+    "name": "Shenzhen Infogem Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SYMPHONY",
+    "name": "Symphony Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SILO",
+    "name": "Siloam International Hospitals Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DNL",
+    "name": "D&L Industries Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000559",
+    "name": "Wanxiang Qianchao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603871",
+    "name": "Jiayou International Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QUESS",
+    "name": "Quess Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600499",
+    "name": "Keda Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600559",
+    "name": "Hebei Hengshui Laobaigan Liquor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2545",
+    "name": "Huang Hsiang Construction Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600906",
+    "name": "Caida Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600905",
+    "name": "China Three Gorges Renewables Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300049",
+    "name": "Inner Mongolia Furui Medical Science Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002180",
+    "name": "Ninestar Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600850",
+    "name": "CETC Digital Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300682",
+    "name": "Longshine Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCCC-F",
+    "name": "Siam City Cement PCL (Foreign)",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603658",
+    "name": "Autobio Diagnostics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6826",
+    "name": "Shanghai Haohai Biological Technology Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002670",
+    "name": "Guosheng Securities Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5478",
+    "name": "Soft-World International Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600598",
+    "name": "Heilongjiang Agriculture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LPKR",
+    "name": "Lippo Karawaci Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BALAMINES",
+    "name": "Balaji Amines Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000933",
+    "name": "Henan Shenhuo Coal Industry & Electricity Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2536",
+    "name": "Hong Pu Real Estate Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601918",
+    "name": "China Coal Xinji Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601212",
+    "name": "Baiyin Nonferrous Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600120",
+    "name": "Zhejiang Orient Financial Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688349",
+    "name": "Sany Renewable Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002698",
+    "name": "Harbin Boshi Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688110",
+    "name": "Dosilicon Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601137",
+    "name": "Ningbo Boway Alloy Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000685",
+    "name": "Zhongshan Public Utilities Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002139",
+    "name": "Shenzhen Topband Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000628",
+    "name": "Chengdu Hi-tech Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002304",
+    "name": "Jiangsu Yanghe Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301035",
+    "name": "Shandong Weifang Rainbow Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600166",
+    "name": "Beiqi Foton Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9666",
+    "name": "Jinke Smart Services Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300229",
+    "name": "TRS Information Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600690",
+    "name": "Haier Smart Home Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603185",
+    "name": "Hongyuan Green Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600008",
+    "name": "Beijing Capital Eco-Environment Protection Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000786",
+    "name": "Beijing New Building Materials plc Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688484",
+    "name": "Southchip Semiconductor Technology Shanghai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002366",
+    "name": "RongFa Nuclear Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300768",
+    "name": "Hangzhou Dptech Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JUSTDIAL",
+    "name": "Just Dial Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002439",
+    "name": "Venustech Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600901",
+    "name": "Jiangsu Financial Leasing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601869",
+    "name": "Yangtze Optical Fibre & Cable Joint Stock Ltd. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002015",
+    "name": "GCL Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NTHOL.E",
+    "name": "NET Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002544",
+    "name": "CETC Potevio Science&Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AZUL4",
+    "name": "Azul SA Prior Preference Shares.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600583",
+    "name": "Offshore Oil Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601933",
+    "name": "Yonghui Superstores Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002031",
+    "name": "Greatoo Intelligent Equipment Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "POLTK.E",
+    "name": "Politeknik Metal Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601001",
+    "name": "Jinneng Holding Shanxi Coal Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603233",
+    "name": "DaShenLin Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PETZ3",
+    "name": "Pet Center Comercio e Participacoes SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300568",
+    "name": "Shenzhen Senior Technology Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4107",
+    "name": "Bioteque Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1558",
+    "name": "Zeng Hsing Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5457",
+    "name": "Speed Tech Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002456",
+    "name": "OFILM Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2723",
+    "name": "Gourmet Master Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600763",
+    "name": "Topchoice Medical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688798",
+    "name": "Shanghai Awinic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRSEL.E",
+    "name": "GUR-Sel Turizm Tasimacilik VE Servis Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000977",
+    "name": "IEIT Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002407",
+    "name": "Do-Fluoride Chemicals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4137",
+    "name": "Chlitina Holding Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000688",
+    "name": "Guocheng Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600909",
+    "name": "Huaan Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTA-F",
+    "name": "Thoresen Thai Agencies PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MCG",
+    "name": "MultiChoice Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300776",
+    "name": "Wuhan DR Laser Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000636",
+    "name": "Guangdong Fenghua Advanced Technology Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601699",
+    "name": "Shanxi Lu'an Environmental Energy Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301029",
+    "name": "Dongguan Yiheda Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300446",
+    "name": "Aerospace Intelligent Manufacturing Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BSOKE.E",
+    "name": "BatiSoke Soke Cimento Sanayii TAS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300409",
+    "name": "Guangdong Dowstone Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601975",
+    "name": "Nanjing Tanker Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600835",
+    "name": "Shanghai Mechanical and Electrical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1234",
+    "name": "China Lilang Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002265",
+    "name": "Jianshe Industry Group Yunnan Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002226",
+    "name": "Anhui Jiangnan Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600566",
+    "name": "Hubei Jumpcan Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688006",
+    "name": "Zhejiang HangKe Technology Inc. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAJESHEXPO",
+    "name": "Rajesh Exports Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601838",
+    "name": "Bank of Chengdu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ODAS.E",
+    "name": "ODAS Elektrik Uretim ve Sanayi Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600529",
+    "name": "Shandong Pharmaceutical Glass Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000617",
+    "name": "CNPC Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688206",
+    "name": "Primarius Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RGYAS.E",
+    "name": "Ronesans Gayrimenkul Yatirim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600233",
+    "name": "YTO Express Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002709",
+    "name": "Guangzhou Tinci Materials Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300290",
+    "name": "Bringspring Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601187",
+    "name": "Xiamen Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600170",
+    "name": "Shanghai Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000528",
+    "name": "Guangxi Liugong Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300085",
+    "name": "Shenzhen Infogem Technologies Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600105",
+    "name": "Jiangsu Etern Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1718",
+    "name": "China Man-Made Fiber Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688352",
+    "name": "Hefei Chipmore Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601608",
+    "name": "CITIC Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301155",
+    "name": "Jiangsu Haili Wind Power Equipment Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688029",
+    "name": "Micro-Tech Nanjing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1789",
+    "name": "ScinoPharm Taiwan Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300394",
+    "name": "Suzhou TFC Optical Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002500",
+    "name": "Shanxi Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300007",
+    "name": "Hanwei Electronics Group Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600326",
+    "name": "Tibet Tianlu Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603338",
+    "name": "Zhejiang Dingli Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688536",
+    "name": "3peak Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600486",
+    "name": "Jiangsu Yangnong Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300762",
+    "name": "Jushri Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000426",
+    "name": "Inner Mongolia Xingye Silver&Tin Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600667",
+    "name": "Wuxi Taiji Industry Ltd. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000932",
+    "name": "Hunan Valin Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688800",
+    "name": "Suzhou Recodeal Interconnect System Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002317",
+    "name": "Guangdong Zhongsheng Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000630",
+    "name": "Tongling Nonferrous Metals Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603345",
+    "name": "Anjoy Foods Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605111",
+    "name": "Wuxi NCE Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1444",
+    "name": "Lealea Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300850",
+    "name": "Luoyang Xinqianglian Slewing Bearing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000686",
+    "name": "Northeast Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002739",
+    "name": "Wanda Film Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000799",
+    "name": "JiuGui Liquor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TOA-F",
+    "name": "TOA Paint Thailand PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600803",
+    "name": "ENN Natural Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688126",
+    "name": "National Silicon Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002008",
+    "name": "Han's Laser Technology Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300761",
+    "name": "Jiangsu Lihua Foods Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601677",
+    "name": "Henan Mingtai Al Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601021",
+    "name": "Spring Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688281",
+    "name": "Shaanxi Huaqin Technology Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600410",
+    "name": "Beijing Teamsun Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EBR.B",
+    "name": "Centrais Eletricas Brasileiras SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601608",
+    "name": "CITIC Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900917",
+    "name": "Shanghai Haixin Group Co. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300017",
+    "name": "Wangsu Science & Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000750",
+    "name": "Sealand Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2426",
+    "name": "Tyntek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1305",
+    "name": "China General Plastics Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300113",
+    "name": "Hangzhou Shunwang Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JMT-F",
+    "name": "JMT Network Services PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000062",
+    "name": "Shenzhen Huaqiang Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600877",
+    "name": "CETC Chips Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000902",
+    "name": "Xinyangfeng Agricultural Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300257",
+    "name": "Kaishan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600456",
+    "name": "Baoji Titanium Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600221",
+    "name": "Hainan Airlines Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002368",
+    "name": "Taiji Computer Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600511",
+    "name": "China National Medicines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002010",
+    "name": "Transfar Zhilian Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000543",
+    "name": "An Hui Wenergy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601098",
+    "name": "China South Publishing & Media Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6166",
+    "name": "Adlink Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688100",
+    "name": "Willfar Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601126",
+    "name": "Beijing Sifang Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002958",
+    "name": "Qingdao Rural Commercial Bank Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600392",
+    "name": "Shenghe Resources Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601827",
+    "name": "Chongqing Sanfeng Environment Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002078",
+    "name": "Shandong Sun Paper Industry JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAIBHAVGBL",
+    "name": "Vaibhav Global Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600550",
+    "name": "Baoding Tianwei Baobian Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300674",
+    "name": "Yusys Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300827",
+    "name": "Sineng Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002131",
+    "name": "Leo Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000887",
+    "name": "Anhui Zhongding Sealing Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6741",
+    "name": "91APP Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002429",
+    "name": "Shenzhen MTC Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600739",
+    "name": "Liaoning Cheng Da Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6732",
+    "name": "Sensortek Technology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603077",
+    "name": "Sichuan Hebang Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300457",
+    "name": "Shenzhen Yinghe Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002315",
+    "name": "Focus Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000811",
+    "name": "Moon Environment Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688321",
+    "name": "Shenzhen Chipscreen Biosciences Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8942",
+    "name": "Xxentria Technology Materials Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002104",
+    "name": "Hengbao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601888",
+    "name": "China Tourism Group Duty Free Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300070",
+    "name": "Beijing Originwater Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300602",
+    "name": "Shenzhen FRD Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002945",
+    "name": "Chinalin Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5512",
+    "name": "Rich Development Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603456",
+    "name": "Zhejiang Jiuzhou Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603225",
+    "name": "Xinfengming Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600295",
+    "name": "Inner Mongolia ERDOS Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002048",
+    "name": "Ningbo Huaxiang Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4167",
+    "name": "Savior Lifetec Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300035",
+    "name": "Hunan Zhongke Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4164",
+    "name": "CHC Healthcare Group",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301091",
+    "name": "Shenzhen Urban Transport Planning Center Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002407",
+    "name": "Do-Fluoride New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600428",
+    "name": "COSCO SHIPPING Specialized Carriers Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600295",
+    "name": "Inner Mongolia ERDOS Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002017",
+    "name": "Eastcompeace Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300083",
+    "name": "Guangdong Create Century Intelligent Equipment Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600452",
+    "name": "Chongqing Fuling Electric Power Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002607",
+    "name": "Offcn Education Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300459",
+    "name": "Zhejiang Jinke Tom Culture Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688516",
+    "name": "Wuxi Autowell Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002812",
+    "name": "Yunnan Energy New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BBYB",
+    "name": "Bank Neo Commerce Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600475",
+    "name": "Wuxi Huaguang Boiler Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600061",
+    "name": "SDIC Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2518",
+    "name": "Autohome Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000801",
+    "name": "Sichuan Jiuzhou Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603009",
+    "name": "Shanghai Beite Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600744",
+    "name": "Datang Huayin Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900909",
+    "name": "Shanghai Huayi Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002049",
+    "name": "Unigroup Guoxin Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603369",
+    "name": "Jiangsu King's Luck Brewery JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002508",
+    "name": "Hangzhou Robam Appliances Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300357",
+    "name": "Zhejiang Wolwo Bio-Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300676",
+    "name": "BGI Genomics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300378",
+    "name": "Digiwin Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600521",
+    "name": "Zhejiang Huahai Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000682",
+    "name": "Dongfang Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002276",
+    "name": "Zhejiang Wanma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603899",
+    "name": "Shanghai M&G Stationery Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603650",
+    "name": "Red Avenue New Materials Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002400",
+    "name": "Guangdong Advertising Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002755",
+    "name": "Beijing Aosaikang Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002701",
+    "name": "ORG Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300726",
+    "name": "Zhuzhou Hongda Electronics Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002617",
+    "name": "Roshow Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRP",
+    "name": "Teraplast SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1905",
+    "name": "Chung Hwa Pulp Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "POLYPLEX",
+    "name": "Polyplex Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2102",
+    "name": "Federal Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300455",
+    "name": "Beijing Aerospace Shenzhou Intelligent Equipment Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600211",
+    "name": "Tibet Rhodiola Pharmaceutical Holding Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAUTO",
+    "name": "Bermaz Auto Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PSL-F",
+    "name": "Precious Shipping PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601228",
+    "name": "Guangzhou Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300666",
+    "name": "Konfoong Materials International Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300766",
+    "name": "Merit Interactive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600916",
+    "name": "China National Gold Group Gold Jewellery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600426",
+    "name": "Shandong Hualu Hengsheng Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600901",
+    "name": "Jiangsu Financial Leasing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002465",
+    "name": "Guangzhou Haige Communications Group Inc. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600398",
+    "name": "HLA Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300607",
+    "name": "Guangdong Topstar Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000969",
+    "name": "Advanced Technology & Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300624",
+    "name": "Wondershare Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2338",
+    "name": "Taiwan Mask Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600188",
+    "name": "Yankuang Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CKP-F",
+    "name": "CK Power PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000975",
+    "name": "Shanjin International Gold Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688388",
+    "name": "Guangdong Jia Yuan Technology Shares Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688332",
+    "name": "Shenzhen Bluetrum Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2495",
+    "name": "Infortrend Technology Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601208",
+    "name": "Sichuan EM Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600098",
+    "name": "Guangzhou Development Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000157",
+    "name": "Zoomlion Heavy Industry Science and Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000423",
+    "name": "Dong-E-E-Jiao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SONDA",
+    "name": "Sonda SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KZBGY.E",
+    "name": "Kizilbuk Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000156",
+    "name": "Wasu Media Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600079",
+    "name": "Humanwell Healthcare Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002507",
+    "name": "Chongqing Fuling Zhacai Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603300",
+    "name": "Zhejiang Haikong Nanke Huatie Digital Intelligence and Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ANHYT.E",
+    "name": "Anadolu Hayat Emeklilik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1760",
+    "name": "Panion & BF Biotech Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300496",
+    "name": "Thunder Software Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600039",
+    "name": "Sichuan Road and Bridge Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000833",
+    "name": "Guangxi Yuegui Guangye Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GLRMK.E",
+    "name": "Gulermak Agir Sanayi Insaat ve Taahhut AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600871",
+    "name": "Sinopec Oilfield Service Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TUKAS.E",
+    "name": "Tukas Gida Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300130",
+    "name": "XGD Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605358",
+    "name": "Hangzhou Lion Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603733",
+    "name": "Xianhe Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002831",
+    "name": "Shenzhen YUTO Packaging Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600619",
+    "name": "Shanghai Highly Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JTS-F",
+    "name": "Jasmine Technology Solution PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000762",
+    "name": "Tibet Mineral Development Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5306",
+    "name": "KMC Kuei Meng International Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000539",
+    "name": "Guangdong Electric Power Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002158",
+    "name": "Shanghai Hanbell Precise Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4174",
+    "name": "OBI Pharma Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603997",
+    "name": "Ningbo Jifeng Auto Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001391",
+    "name": "Air China Cargo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002266",
+    "name": "Zhefu Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INVES.E",
+    "name": "Investco Holding AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000987",
+    "name": "Guangzhou Yuexiu Capital Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000680",
+    "name": "Shantui Construction Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301171",
+    "name": "Easy Click Worldwide Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300045",
+    "name": "Hwa Create Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGESA.E",
+    "name": "Agesa Hayat ve Emeklilik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002906",
+    "name": "Foryou Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6120",
+    "name": "Darwin Precisions Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200028",
+    "name": "China National Accord Medicines Corp. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HIBISCS",
+    "name": "Hibiscus Petroleum Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "D&O",
+    "name": "D&O Green Technologies Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600621",
+    "name": "Shanghai Chinafortune Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688153",
+    "name": "Vanchip Tianjin Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002372",
+    "name": "Zhejiang Weixing New Building Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTS",
+    "name": "TTS Transport Trade Services SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300315",
+    "name": "Ourpalm Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002324",
+    "name": "Shanghai Pret Composites Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600320",
+    "name": "Shanghai Zhenhua Heavy Industries Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002673",
+    "name": "Western Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002129",
+    "name": "TCL Zhonghuan Renewable Energy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002461",
+    "name": "Guangzhou Zhujiang Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTPS",
+    "name": "Bank BTPN Syariah Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300428",
+    "name": "Lizhong Sitong Light Alloys Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "THG-F",
+    "name": "Thonburi Healthcare Group PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601963",
+    "name": "Bank of Chongqing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2228",
+    "name": "Iron Force Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JAS-F",
+    "name": "JASMINE INTERNATIONAL PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PFIZER",
+    "name": "Pfizer Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5263",
+    "name": "Brogent Technologies Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002654",
+    "name": "Shenzhen Mason Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603005",
+    "name": "China Wafer Level CSP Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002948",
+    "name": "Bank of Qingdao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6706",
+    "name": "Fittech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600755",
+    "name": "Xiamen ITG Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGUA*",
+    "name": "Grupo Rotoplas SAB de CV",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "861",
+    "name": "Digital China Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EUPWR.E",
+    "name": "Europower Enerji VE Otomasyon Teknolojileri Sanayi Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600390",
+    "name": "Minmetals Capital Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002062",
+    "name": "Hongrun Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000422",
+    "name": "Hubei Yihua Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000785",
+    "name": "Easyhome New Retail Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688409",
+    "name": "Shenyang Fortune Precision Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601636",
+    "name": "Zhuzhou Kibing Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TPIPP-F",
+    "name": "TPI Polene Power PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000060",
+    "name": "Shenzhen Zhongjin Lingnan Nonfemet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600500",
+    "name": "Sinochem International Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300496",
+    "name": "Thunder Software Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603638",
+    "name": "Yantai Eddie Precision Machinery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002405",
+    "name": "NavInfo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1310",
+    "name": "Taiwan Styrene Monomer",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603039",
+    "name": "Weaver Network Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300888",
+    "name": "Winner Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4927",
+    "name": "Apex International Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603699",
+    "name": "Neway Valve Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002221",
+    "name": "Oriental Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CWENE.E",
+    "name": "CW Enerji Muhendislik Ticaret VE Sanayi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002020",
+    "name": "Zhejiang Jingxin Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000035",
+    "name": "China Tianying Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002195",
+    "name": "Shanghai 2345 Network Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GESAN.E",
+    "name": "Girsim Elektrik Sanayi Taahut Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000987",
+    "name": "Guangzhou Yuexiu Capital Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ORIENTCEM",
+    "name": "Orient Cement Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRDMA.E",
+    "name": "Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000423",
+    "name": "Dong-E-E-Jiao Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600718",
+    "name": "Neusoft Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300133",
+    "name": "Zhejiang Huace Film & Television Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688561",
+    "name": "Qi An Xin Technology Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5203",
+    "name": "Cyberlink Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601069",
+    "name": "Western Region Gold Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300777",
+    "name": "Sinofibers Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603730",
+    "name": "Shanghai Daimay Automotive Interior Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKFYE.E",
+    "name": "Akfen Yenilenebilir Enerji AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603025",
+    "name": "Beijing Dahao Technology Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600612",
+    "name": "Lao Feng Xiang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300212",
+    "name": "Beijing E-Hualu Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300010",
+    "name": "Doushen Beijing Education & Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600483",
+    "name": "Fujian Funeng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002531",
+    "name": "Titan Wind Energy Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603063",
+    "name": "Shenzhen Hopewind Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603816",
+    "name": "Jason Furniture Hangzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600323",
+    "name": "Grandblue Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000828",
+    "name": "Dongguan Development Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300567",
+    "name": "Wuhan Jingce Electronic Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BASGZ.E",
+    "name": "Baskent Dogalgaz Dagitim Gayrimenkul Yatirim Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BUCIM.E",
+    "name": "Bursa Cimento Fabrikasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600820",
+    "name": "Shanghai Tunnel Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CMIG3",
+    "name": "Cia Energetica de Minas Gerais",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600521",
+    "name": "Zhejiang Huahai Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603927",
+    "name": "Sinosoft Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3041",
+    "name": "ALI Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002925",
+    "name": "Xiamen Intretech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003022",
+    "name": "Levima Advanced Materials Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688548",
+    "name": "Guangzhou Guanggang Gases & Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002044",
+    "name": "Meinian Onehealth Healthcare Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002318",
+    "name": "Zhejiang JIULI Hi-tech Metals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300454",
+    "name": "Sangfor Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600750",
+    "name": "Jiangzhong Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000887",
+    "name": "Anhui Zhongding Sealing Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688503",
+    "name": "Changzhou Fusion New Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ICEAIR",
+    "name": "Icelandair Group HF",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300276",
+    "name": "SanFeng Intelligent Equipment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SKY-F",
+    "name": "SKY ICT PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600056",
+    "name": "China Meheco Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600339",
+    "name": "China Petroleum Engineering Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601718",
+    "name": "Jihua Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600908",
+    "name": "Wuxi Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603505",
+    "name": "China Kings Resources Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688062",
+    "name": "Mabwell Shanghai Bioscience Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601615",
+    "name": "Ming Yang Smart Energy Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002203",
+    "name": "Zhejiang Hailiang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300601",
+    "name": "Shenzhen Kangtai Biological Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300772",
+    "name": "Windey Energy Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600863",
+    "name": "Inner Mongolia MengDian HuaNeng Thermal Power Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600575",
+    "name": "Huaihe Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688198",
+    "name": "Beijing Balance Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5531",
+    "name": "Shining Building Business Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301095",
+    "name": "Semitronix Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ROUTE",
+    "name": "Route Mobile Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688063",
+    "name": "Pylon Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002011",
+    "name": "Zhejiang Dun'An Artificial Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601778",
+    "name": "Jinko Power Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600376",
+    "name": "Beijing Capital Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZOREN.E",
+    "name": "Zorlu Enerji Elektrik Uretim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002096",
+    "name": "Explosive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002182",
+    "name": "Nanjing Yunhai Special Metals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600925",
+    "name": "Jiangsu Xukuang Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600808",
+    "name": "Maanshan Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1308",
+    "name": "Asia Polymer Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5471",
+    "name": "Sonix Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001203",
+    "name": "Dazhong Mining Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "THCOM-F",
+    "name": "Thaicom PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601360",
+    "name": "360 Security Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000960",
+    "name": "Yunnan Tin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301291",
+    "name": "Guangdong Mingyang Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IPEKE.E",
+    "name": "Ipek Dogal Enerji Kaynaklari Arastirma Ve Uretim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001213",
+    "name": "China Railway Special Cargo Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603305",
+    "name": "Ningbo Xusheng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601179",
+    "name": "China XD Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300236",
+    "name": "Shanghai Sinyang Semiconductor Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300432",
+    "name": "Fulin Precision Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300593",
+    "name": "Beijing Relpow Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002705",
+    "name": "Guangdong Xinbao Electrical Appliances Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300595",
+    "name": "Ovctek China Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000783",
+    "name": "Changjiang Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300077",
+    "name": "Nations Technologies Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002120",
+    "name": "YUNDA Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2601",
+    "name": "First Steamship Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2107",
+    "name": "Formosan Rubber Group Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300576",
+    "name": "Shenzhen Rongda Photosensitive & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688475",
+    "name": "Hangzhou EZVIZ Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002155",
+    "name": "Hunan Gold Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000410",
+    "name": "Shenyang Machine Tool Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300775",
+    "name": "Xi'an Triangle Defense Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002299",
+    "name": "Fujian Sunner Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603171",
+    "name": "Servyou Software Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600675",
+    "name": "China Enterprise Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600483",
+    "name": "Fujian Funeng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002867",
+    "name": "Chow Tai Seng Jewellery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300296",
+    "name": "Leyard Optoelectronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301297",
+    "name": "Ferrotec Anhui Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600497",
+    "name": "Yunnan Chihong Zinc&Germanium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001227",
+    "name": "Bank of Lanzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GFPT-F",
+    "name": "Gfpt Pcl",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600420",
+    "name": "Shanghai Shyndec Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603393",
+    "name": "Xinjiang Xintai Natural Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600012",
+    "name": "Anhui Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KCAER.E",
+    "name": "Kocaer Celik Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000591",
+    "name": "CECEP Solar Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002281",
+    "name": "Accelink Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ECZYT.E",
+    "name": "Eczacibasi Yatirim Holding Ortakligi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002223",
+    "name": "Jiangsu Yuyue Medical Equipment & Supply Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002928",
+    "name": "China Express Airlines Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002003",
+    "name": "Zhejiang Weixing Industrial Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688050",
+    "name": "Eyebright Medical Technology Beijing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600151",
+    "name": "Shanghai Aerospace Automobile Electromechanical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002121",
+    "name": "Shenzhen Clou Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLAND-F",
+    "name": "Bangkok Land PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600487",
+    "name": "Hengtong Optic-electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600256",
+    "name": "Guanghui Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600312",
+    "name": "Henan Pinggao Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKCNS.E",
+    "name": "Akcansa Cimento AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "410",
+    "name": "SOHO China Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000709",
+    "name": "Hesteel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600867",
+    "name": "Tonghua Dongbao Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000537",
+    "name": "China Green Electricity Investment of Tianjin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000917",
+    "name": "Hunan TV & Broadcast Intermediary Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688568",
+    "name": "Geovis Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601866",
+    "name": "COSCO SHIPPING Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600062",
+    "name": "China Resources Double Crane Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601568",
+    "name": "Shaanxi Beiyuan Chemical Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002444",
+    "name": "Hangzhou GreatStar Industrial Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000400",
+    "name": "Xuji Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JMART-F",
+    "name": "Jaymart Group Holdings PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603583",
+    "name": "Zhejiang Jiecang Linear Motion Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605376",
+    "name": "Jiangsu Boqian New Materials Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002048",
+    "name": "Ningbo Huaxiang Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000959",
+    "name": "Beijing Shougang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301078",
+    "name": "Kidswant Children Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000876",
+    "name": "New Hope Liuhe Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000400",
+    "name": "Xuji Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1702",
+    "name": "Namchow Holdings Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PATEK.E",
+    "name": "Pasifik Donanim VE Yazilim Bilgi Teknolojileri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300294",
+    "name": "China Resources Boya Bio-pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600458",
+    "name": "Zhuzhou Times New Material Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002408",
+    "name": "Zibo Qixiang Tengda Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300398",
+    "name": "PhiChem Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605117",
+    "name": "Ningbo Deye Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600312",
+    "name": "Henan Pinggao Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600268",
+    "name": "Guodian Nanjing Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000875",
+    "name": "Jilin Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600779",
+    "name": "Sichuan Swellfun Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688326",
+    "name": "Beijing Jingwei Hirain Technologies Co. Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300913",
+    "name": "Zhejiang Zhaolong Interconnect Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600863",
+    "name": "Inner Mongolia MengDian HuaNeng Thermal Power Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000089",
+    "name": "Shenzhen Airport Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002273",
+    "name": "Zhejiang Crystal-Optech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000937",
+    "name": "Jizhong Energy Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002821",
+    "name": "Asymchem Laboratories Tianjin Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300182",
+    "name": "Beijing Jetsen Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300184",
+    "name": "Wuhan P&S Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002181",
+    "name": "Guangdong Guangzhou Daily Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002882",
+    "name": "Jinlongyu Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600754",
+    "name": "Shanghai Jinjiang International Hotels Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301238",
+    "name": "Jiangsu Ruitai New Energy Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600662",
+    "name": "Shanghai Qiangsheng Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688048",
+    "name": "Suzhou Everbright Photonics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000612",
+    "name": "Jiaozuo Wanfang Aluminum Manufacturing Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2538",
+    "name": "KEE TAI Properties Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600206",
+    "name": "Grinm Advanced Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1737",
+    "name": "Taiyen Biotech Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002465",
+    "name": "Guangzhou Haige Communications Group Inc. Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002807",
+    "name": "Jiangsu Jiangyin Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002318",
+    "name": "Zhejiang JIULI Hi-tech Metals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002506",
+    "name": "GCL System Integration Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300438",
+    "name": "Guangzhou Great Power Energy & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605507",
+    "name": "Guobang Pharma Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600285",
+    "name": "Henan Lingrui Pharmaceutical Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603283",
+    "name": "Suzhou Secote Precision Electronic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002651",
+    "name": "Chengdu Leejun Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300699",
+    "name": "Weihai Guangwei Composites Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601333",
+    "name": "Guangshen Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601928",
+    "name": "Jiangsu Phoenix Publishing & Media Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002192",
+    "name": "Youngy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601966",
+    "name": "Shandong Linglong Tyre Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000567",
+    "name": "Hainan Haide Capital Management Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600986",
+    "name": "Zhewen Interactive Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DOHOME-F",
+    "name": "Dohome PCL",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002385",
+    "name": "Beijing Dabeinong Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000837",
+    "name": "Qinchuan Machine Tool & Tool Group Share Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688676",
+    "name": "Hainan Jinpan Smart Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300769",
+    "name": "Shenzhen Dynanonic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002326",
+    "name": "Zhejiang Yongtai Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002075",
+    "name": "Jiangsu Shagang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600208",
+    "name": "Quzhou Xin'an Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001872",
+    "name": "China Merchants Port Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300302",
+    "name": "Toyou Feiji Electronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601019",
+    "name": "Shandong Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPARC",
+    "name": "Sun Pharma Advanced Research Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600185",
+    "name": "Zhuhai Zhumian Group Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600710",
+    "name": "Sumec Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600398",
+    "name": "HLA Group Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600026",
+    "name": "COSCO SHIPPING Energy Transportation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600352",
+    "name": "Zhejiang Longsheng Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600459",
+    "name": "Sino-Platinum Metals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISFIN.E",
+    "name": "Is Finansal Kiralama AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GGB",
+    "name": "Gerdau SA ADR",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000898",
+    "name": "Angang Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002978",
+    "name": "Sichuan Anning Iron and Titanium Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002063",
+    "name": "YGSOFT Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300181",
+    "name": "Zhejiang Jolly Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000980",
+    "name": "Zotye Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300026",
+    "name": "Tianjin Chase Sun Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8044",
+    "name": "PChome Online Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600478",
+    "name": "Hunan Corun New Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600060",
+    "name": "Hisense Visual Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1515",
+    "name": "Rexon Industrial Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAT",
+    "name": "British American Tobacco Malaysia Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600298",
+    "name": "Angel Yeast Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003035",
+    "name": "China Southern Power Grid Energy Efficiency&Clean Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300322",
+    "name": "Huizhou Speed Wireless Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688262",
+    "name": "C*Core Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601952",
+    "name": "Jiangsu Provincial Agricultural Reclamation and Development Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000657",
+    "name": "China Tungsten And Hightech Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002497",
+    "name": "Sichuan Yahua Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603026",
+    "name": "Shida Shinghwa Advanced Material Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "535",
+    "name": "Gemdale Properties & Investment Corp. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603826",
+    "name": "Fujian Kuncai Material Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000970",
+    "name": "Beijing Zhong Ke San Huan High-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2505",
+    "name": "Kuo Yang Construction Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688690",
+    "name": "Suzhou Nanomicro Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688439",
+    "name": "Guizhou Zhenhua Fengguang Semiconductor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BIOEN.E",
+    "name": "Biotrend Cevre VE Enerji Yatirimlari AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688686",
+    "name": "OPT Machine Vision Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600535",
+    "name": "Tasly Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601101",
+    "name": "Beijing Haohua Energy Resource Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601958",
+    "name": "Jinduicheng Molybdenum Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300170",
+    "name": "Hand Enterprise Solutions Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688819",
+    "name": "Tianneng Battery Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000039",
+    "name": "China International Marine Containers Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KAYSE.E",
+    "name": "Kayseri Seker Fabrikasi AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601375",
+    "name": "Central China Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688362",
+    "name": "Forehope Electronic Ningbo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002249",
+    "name": "Zhongshan Broad Ocean Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002664",
+    "name": "Changying Xinzhi Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601619",
+    "name": "Jiaze Renewables Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000778",
+    "name": "Xinxing Ductile Iron Pipes Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600909",
+    "name": "Huaan Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688631",
+    "name": "Nanjing Les Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002941",
+    "name": "Xinjiang Communications Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002541",
+    "name": "Anhui Honglu Steel Construction Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600307",
+    "name": "Gansu Jiu Steel Group Hongxing Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600995",
+    "name": "Yunnan Wenshan Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002936",
+    "name": "Bank of Zhengzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688390",
+    "name": "GoodWe Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000021",
+    "name": "Shenzhen Kaifa Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600645",
+    "name": "Vcanbio Cell & Gene Engineering Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900912",
+    "name": "Shanghai Waigaoqiao Free Trade Zone Group Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2777",
+    "name": "Guangzhou R&F Properties Co. Ltd. Class H",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002180",
+    "name": "Ninestar Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300613",
+    "name": "Shanghai Fullhan Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600655",
+    "name": "Shanghai Yuyuan Tourist Mart Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601038",
+    "name": "First Tractor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600660",
+    "name": "Fuyao Glass Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISDMR.E",
+    "name": "Iskenderun Demir ve Celik AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688083",
+    "name": "ZWSOFT Co. Ltd. Guangzhou Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002294",
+    "name": "Shenzhen Salubris Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300185",
+    "name": "Tongyu Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1268",
+    "name": "China Meidong Auto Holdings Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600797",
+    "name": "Insigma Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600037",
+    "name": "Beijing Gehua CATV Network Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688016",
+    "name": "Shanghai MicroPort Endovascular MedTech Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600635",
+    "name": "Shanghai Dazhong Public Utilities Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1217",
+    "name": "AGV Products Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601099",
+    "name": "Pacific Securities Co. Ltd. China Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600110",
+    "name": "Nuode New Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000930",
+    "name": "COFCO Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600446",
+    "name": "Shenzhen Kingdom Sci-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "YEOTK.E",
+    "name": "YEO Teknoloji Enerji VE Endustri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600699",
+    "name": "Ningbo Joyson Electronic Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002351",
+    "name": "Edifier Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KONYA.E",
+    "name": "Konya Cimento Sanayii AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300598",
+    "name": "Archermind Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301050",
+    "name": "Chengdu RML Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002550",
+    "name": "Changzhou Qianhong Biopharma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300304",
+    "name": "Jiangsu Yunyi Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300492",
+    "name": "Huatu Cendes Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000969",
+    "name": "Advanced Technology & Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000899",
+    "name": "Jiangxi Ganneng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601200",
+    "name": "Shanghai Environment Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603882",
+    "name": "Guangzhou Kingmed Diagnostics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000429",
+    "name": "Guangdong Provincial Expressway Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600535",
+    "name": "Tasly Pharmaceutical Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000062",
+    "name": "Shenzhen Huaqiang Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603876",
+    "name": "Jiangsu Dingsheng New Energy Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002588",
+    "name": "Stanley Agricultural Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688009",
+    "name": "China Railway Signal & Communication Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002243",
+    "name": "Shenzhen Leaguer Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300171",
+    "name": "Tofflon Science & Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LPPF",
+    "name": "Matahari Department Store Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000582",
+    "name": "Beibuwan Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300348",
+    "name": "Shenzhen Sunline Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601929",
+    "name": "Jishi Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601969",
+    "name": "Hainan Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000065",
+    "name": "Norinco International Cooperation Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002966",
+    "name": "Bank of Suzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600141",
+    "name": "Hubei Xingfa Chemicals Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600461",
+    "name": "Jiangxi Hongcheng Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300666",
+    "name": "Konfoong Materials International Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600269",
+    "name": "Jiangxi Ganyue Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600580",
+    "name": "Wolong Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603033",
+    "name": "Sanwei Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600728",
+    "name": "PCI Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300529",
+    "name": "Jafron Biomedical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300482",
+    "name": "Guangzhou Wondfo Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603056",
+    "name": "Deppon Logistics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600072",
+    "name": "CSSC Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300298",
+    "name": "Sinocare Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600508",
+    "name": "Shanghai Datun Energy Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600480",
+    "name": "Lingyun Industrial Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PNLF",
+    "name": "Panin Financial Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ONCO3",
+    "name": "Oncoclinicas do Brasil Servicos Medicos SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600399",
+    "name": "Fushun Special Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600325",
+    "name": "Zhuhai Huafa Properties Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603000",
+    "name": "People.cn Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300641",
+    "name": "Jiangsu Zhengdan Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600383",
+    "name": "Gemdale Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002261",
+    "name": "Talkweb Information System Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601598",
+    "name": "Sinotrans Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600686",
+    "name": "Xiamen King Long Motor Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688248",
+    "name": "China Southern Power Grid Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600729",
+    "name": "Chongqing Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601766",
+    "name": "CRRC Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002151",
+    "name": "Beijing BDStar Navigation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000997",
+    "name": "Newland Digital Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002392",
+    "name": "Beijing Lier High-temperature Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688032",
+    "name": "Hoymiles Power Electronics Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600640",
+    "name": "Besttone Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603816",
+    "name": "Jason Furniture Hangzhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001203",
+    "name": "Dazhong Mining Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600350",
+    "name": "Shandong Hi-speed Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000795",
+    "name": "Innuovo Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000158",
+    "name": "Shijiazhuang Changshan BeiMing Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002167",
+    "name": "Guangdong Orient Zirconic Ind Sci & Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688165",
+    "name": "EFORT Intelligent Robot Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601878",
+    "name": "Zheshang Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301363",
+    "name": "Mehow Innovative Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688561",
+    "name": "Qi An Xin Technology Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002657",
+    "name": "Sinodata Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300438",
+    "name": "Guangzhou Great Power Energy & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002434",
+    "name": "Zhejiang Wanliyang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NIITLTD",
+    "name": "NIIT Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000966",
+    "name": "Guodian Changyuan Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000848",
+    "name": "Hebei Chengde Lolo Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000555",
+    "name": "Digital China Information Service Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601860",
+    "name": "Jiangsu Zijin Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600366",
+    "name": "Ningbo Yunsheng Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603323",
+    "name": "Jiangsu Suzhou Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300284",
+    "name": "JSTI Group Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601928",
+    "name": "Jiangsu Phoenix Publishing & Media Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300088",
+    "name": "Wuhu Token Science Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603766",
+    "name": "Loncin Motor Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000800",
+    "name": "FAW Jiefang Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002250",
+    "name": "Lianhe Chemical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300053",
+    "name": "Zhuhai Aerospace Microchips Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALLCARGO",
+    "name": "Allcargo Logistics Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000877",
+    "name": "TianShan Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000712",
+    "name": "Guangdong Golden Dragon Development Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002939",
+    "name": "China Great Wall Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600129",
+    "name": "Chongqing Taiji Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300979",
+    "name": "Huali Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600055",
+    "name": "Beijing Wandong Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600655",
+    "name": "Shanghai Yuyuan Tourist Mart Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002815",
+    "name": "Suntak Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3176",
+    "name": "Medigen Biotechnology Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002605",
+    "name": "Shanghai Yaoji Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300118",
+    "name": "Risen Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002745",
+    "name": "MLS Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600536",
+    "name": "China National Software & Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002597",
+    "name": "Anhui Jinhe Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000727",
+    "name": "TPV Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200539",
+    "name": "Guangdong Electric Power Development Co. Ltd. Class B",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300832",
+    "name": "Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1447",
+    "name": "Li Peng Enterprise Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600210",
+    "name": "Shanghai Zijiang Enterprise Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600095",
+    "name": "Xiangcai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603297",
+    "name": "Ningbo Yongxin Optics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002051",
+    "name": "China CAMC Engineering Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300633",
+    "name": "Sonoscape Medical Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603686",
+    "name": "Fulongma Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300896",
+    "name": "Imeik Technology Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600377",
+    "name": "Jiangsu Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603267",
+    "name": "Beijing Yuanliu Hongyuan Electronic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002396",
+    "name": "Fujian Star-net Communication Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002091",
+    "name": "Jiangsu Guotai International Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600350",
+    "name": "Shandong Hi-speed Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002429",
+    "name": "Shenzhen MTC Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000935",
+    "name": "Sichuan Hexie Shuangma Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002563",
+    "name": "Zhejiang Semir Garment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000750",
+    "name": "Sealand Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603888",
+    "name": "Xinhuanet Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603556",
+    "name": "Hexing Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OZKGY.E",
+    "name": "Ozak Gayrimenkul Yatirim Ortakligi",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600007",
+    "name": "China World Trade Center Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300098",
+    "name": "Gosuncn Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601528",
+    "name": "Zhejiang Shaoxing RuiFeng Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002497",
+    "name": "Sichuan Yahua Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000596",
+    "name": "Anhui Gujing Distillery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300324",
+    "name": "Beijing Watertek Information Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300017",
+    "name": "Wangsu Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600328",
+    "name": "Inner Mongolia Lantai Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002706",
+    "name": "Shanghai Liangxin Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000885",
+    "name": "City Development Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600771",
+    "name": "GuangYuYuan Chinese Herbal Medicine Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603108",
+    "name": "Shanghai Runda Medical Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002967",
+    "name": "GRG Metrology & Test Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000049",
+    "name": "Shenzhen Desay Battery Technology Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601811",
+    "name": "Xinhua Winshare Publishing and Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OYYAT.E",
+    "name": "Oyak Yatirim Menkul Degerler AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002216",
+    "name": "Sanquan Food Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688700",
+    "name": "Kunshan Dongwei Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002019",
+    "name": "Yifan Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002060",
+    "name": "Guangdong Construction Engineering Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603444",
+    "name": "G-bits Network Technology Xiamen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300224",
+    "name": "Yantai Zhenghai Magnetic Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600161",
+    "name": "Beijing Tiantan Biological Products Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600606",
+    "name": "Greenland Holdings Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600623",
+    "name": "Shanghai Huayi Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301267",
+    "name": "Huaxia Eye Hospital Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600486",
+    "name": "Jiangsu Yangnong Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600859",
+    "name": "Wangfujing Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000552",
+    "name": "Gansu Energy Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301039",
+    "name": "CIMC Vehicles Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603858",
+    "name": "Shandong Buchang Pharmaceuticals Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000592",
+    "name": "Zhongfu Straits Pingtan Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600330",
+    "name": "TDG Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000600",
+    "name": "Jointo Energy Investment Co. Ltd. Hebei Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600997",
+    "name": "Kailuan Energy Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600740",
+    "name": "Shanxi Coking Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600123",
+    "name": "Shanxi Lanhua Sci-Tech Venture Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMRTG.E",
+    "name": "Smart Gunes Enerjisi Teknolojileri ArGE Uretim Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600757",
+    "name": "Changjiang Publishing & Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600023",
+    "name": "Zhejiang Zheneng Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1527",
+    "name": "Basso Industry Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002174",
+    "name": "Youzu Interactive Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600717",
+    "name": "Tianjin Port Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002043",
+    "name": "DeHua TB New Decoration Materials Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688091",
+    "name": "Shanghai Yizhong Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600064",
+    "name": "Nanjing Gaoke Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600292",
+    "name": "SPIC Yuanda Environmental-Protection Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600869",
+    "name": "Far East Smarter Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002911",
+    "name": "Foran Energy Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688139",
+    "name": "Qingdao Haier Biomedical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002373",
+    "name": "China TransInfo Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MNCN",
+    "name": "Media Nusantara Citra Tbk PT",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600882",
+    "name": "Shanghai Milkground Food Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600846",
+    "name": "Shanghai Tongji Science & Technology Industrial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603000",
+    "name": "People.cn Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600335",
+    "name": "Sinomach Automobile Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000403",
+    "name": "Pacific Shuanglin Bio-pharmacy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600812",
+    "name": "North China Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600704",
+    "name": "Wuchan Zhongda Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688443",
+    "name": "Chongqing Genrix Biopharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002239",
+    "name": "Aotecar New Energy Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002277",
+    "name": "Hunan Friendship & Apollo Commercial Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600315",
+    "name": "Shanghai Jahwa United Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600299",
+    "name": "Bluestar Adisseo Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300222",
+    "name": "CSG Smart Science&Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300820",
+    "name": "Sichuan Injet Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688776",
+    "name": "Chengdu Guoguang Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600871",
+    "name": "Sinopec Oilfield Service Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603317",
+    "name": "Sichuan Teway Food Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300226",
+    "name": "Shanghai Ganglian E-Commerce Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002690",
+    "name": "Hefei Meiya Optoelectronic Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600688",
+    "name": "Sinopec Shanghai Petrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300596",
+    "name": "Rianlon Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600390",
+    "name": "Minmetals Capital Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600720",
+    "name": "CCCC Design & Consulting Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300699",
+    "name": "Weihai Guangwei Composites Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000728",
+    "name": "Guoyuan Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002527",
+    "name": "Shanghai STEP Electric Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688366",
+    "name": "Shanghai Haohai Biological Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VESTL.E",
+    "name": "Vestel Elektronik Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688779",
+    "name": "Minmetals New Energy Materials Hunan Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600495",
+    "name": "Jinxi Axle Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600143",
+    "name": "Kingfa Sci & Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002626",
+    "name": "Xiamen Kingdomway Group Co. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600810",
+    "name": "Shenma Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600596",
+    "name": "Zhejiang Xinan Chemical Industrial Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300031",
+    "name": "Wuxi Boton Technology Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603650",
+    "name": "Red Avenue New Materials Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000009",
+    "name": "China Baoan Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002608",
+    "name": "Jiangsu Guoxin Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300861",
+    "name": "Yangling Metron New Material Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300747",
+    "name": "Wuhan Raycus Fiber Laser Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002145",
+    "name": "CNNC Hua Yuan Titanium Dioxide Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601666",
+    "name": "Pingdingshan Tianan Coal Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CEB",
+    "name": "Cebu Air Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000031",
+    "name": "Grandjoy Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FENER.E",
+    "name": "Fenerbahce Futbol AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300377",
+    "name": "Shenzhen Ysstech Info-tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600103",
+    "name": "Fujian Qingshan Paper Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300696",
+    "name": "Chengdu ALD Aviation Manufacturing Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARMX",
+    "name": "Aramex PJSC",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688789",
+    "name": "Hangzhou Honghua Digital Technology Stock Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHINHIN",
+    "name": "Chin Hin Group Bhd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688728",
+    "name": "GalaxyCore Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300493",
+    "name": "Shanghai Fortune Techgroup Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002163",
+    "name": "Hainan Development Holdings Nanhai Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603612",
+    "name": "Sunstone Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002511",
+    "name": "C&S Paper Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002212",
+    "name": "Topsec Technologies Group Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600590",
+    "name": "Tellhow Sci-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603160",
+    "name": "Shenzhen Goodix Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000818",
+    "name": "Hangjin Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600345",
+    "name": "Wuhan Yangtze Communications Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300244",
+    "name": "Dian Diagnostics Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300855",
+    "name": "Jiangsu ToLand Alloy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002053",
+    "name": "Yunnan Energy Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALFAS.E",
+    "name": "Alfa Solar Enerji Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002850",
+    "name": "Shenzhen Kedali Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002516",
+    "name": "Kuangda Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002537",
+    "name": "HyUnion Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688065",
+    "name": "Cathay Biotech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000672",
+    "name": "Gansu Shangfeng Cement Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002151",
+    "name": "Beijing BDStar Navigation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002539",
+    "name": "Chengdu Wintrue Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000050",
+    "name": "Tianma Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600106",
+    "name": "Chongqing Road & Bridge Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688567",
+    "name": "Farasis Energy Gan Zhou Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELLAKTOR",
+    "name": "Ellaktor SA",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688567",
+    "name": "Farasis Energy Gan Zhou Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601369",
+    "name": "Xi'An Shaangu Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000410",
+    "name": "Shenyang Machine Tool Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000061",
+    "name": "Shenzhen Agricultural Products Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002402",
+    "name": "Shenzhen H&T Intelligent Control Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600273",
+    "name": "Zhejiang Jiahua Energy Chemical Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000700",
+    "name": "Jiangnan Mould and Plastic Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600572",
+    "name": "Zhejiang Conba Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "REEDR.E",
+    "name": "Reeder Teknoloji Sanayi VE Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600094",
+    "name": "Greattown Holdings Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300101",
+    "name": "Chengdu CORPRO Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601598",
+    "name": "Sinotrans Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002145",
+    "name": "Tinergy Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300957",
+    "name": "Yunnan Botanee Bio-Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000030",
+    "name": "FAWER Automotive Parts Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600648",
+    "name": "Shanghai Waigaoqiao Free Trade Zone Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002258",
+    "name": "Lier Chemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601139",
+    "name": "Shenzhen Gas Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3141",
+    "name": "Ultra Chip Inc.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ESEN.E",
+    "name": "Esenboga Elektrik Uretim AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688289",
+    "name": "Sansure Biotech Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002006",
+    "name": "Zhejiang Jinggong Integration Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300755",
+    "name": "Vats Liquor Chain Store Management JSC Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002267",
+    "name": "Shaan Xi Provincial Natural Gas Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002838",
+    "name": "Shandong Dawn Polymer Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601311",
+    "name": "Camel Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600163",
+    "name": "Zhongmin Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601096",
+    "name": "Hsino Tower Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600323",
+    "name": "Grandblue Environment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000088",
+    "name": "Shenzhen Yan Tian Port Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002636",
+    "name": "Goldenmax International Group Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KARSN.E",
+    "name": "Karsan Otomotiv Sanayii Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002097",
+    "name": "Sunward Intelligent Equipment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601890",
+    "name": "Asian Star Anchor Chain Co. Ltd. Jiangsu Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603260",
+    "name": "Hoshine Silicon Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301327",
+    "name": "Shenzhen Hello Tech Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600184",
+    "name": "North Electro-Optic Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002014",
+    "name": "Huangshan Novel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601666",
+    "name": "Pingdingshan Tianan Coal Mining Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600872",
+    "name": "Jonjee Hi-Tech Industrial And Commercial Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300034",
+    "name": "Gaona Aero Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603279",
+    "name": "Jingjin Equipment Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601107",
+    "name": "Sichuan Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601858",
+    "name": "China Science Publishing & Media Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600826",
+    "name": "Dlg Exhibitions & Events Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000729",
+    "name": "Beijing Yanjing Brewery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600348",
+    "name": "Shan Xi Hua Yang Group New Energy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002603",
+    "name": "Shijiazhuang Yiling Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000923",
+    "name": "HBIS Resources Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603383",
+    "name": "Fujian Apex Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600531",
+    "name": "Henan Yuguang Gold & Lead Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603599",
+    "name": "Anhui Guangxin Agrochemical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002649",
+    "name": "Beyondsoft Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002540",
+    "name": "Jiangsu Asia-Pacific Light Alloy Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688772",
+    "name": "Zhuhai CosMX Battery Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600789",
+    "name": "Shandong Lukang Pharma Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000886",
+    "name": "Hainan Expressway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002851",
+    "name": "Shenzhen Megmeet Electrical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300702",
+    "name": "Zhejiang Tianyu Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600928",
+    "name": "Bank of Xi'an Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600592",
+    "name": "Fujian Longxi Bearing Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300319",
+    "name": "Shenzhen Microgate Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300888",
+    "name": "Winner Medical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600201",
+    "name": "Jinyu Bio-Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002268",
+    "name": "Westone Information Industry Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001979",
+    "name": "China Merchants Shekou Industrial Zone Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301015",
+    "name": "Qingdao Baheal Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603218",
+    "name": "Riyue Heavy Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300134",
+    "name": "Anhui Tatfook Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603100",
+    "name": "Chongqing Chuanyi Automation Co. Ltd.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300128",
+    "name": "Suzhou Jinfu Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300841",
+    "name": "Chengdu Kanghua Biological Products Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300363",
+    "name": "Porton Pharma Solutions Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "605358",
+    "name": "Hangzhou Lion Microelectronics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300341",
+    "name": "Motic Xiamen Electric Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000028",
+    "name": "China National Accord Medicines Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300587",
+    "name": "Zhejiang Tiantie Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001914",
+    "name": "China Merchants Property Operation & Service Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002332",
+    "name": "Zhejiang Xianju Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600606",
+    "name": "Greenland Holdings Corp. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000875",
+    "name": "Jilin Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300036",
+    "name": "Beijing SuperMap Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300168",
+    "name": "Wonders Information Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002099",
+    "name": "Zhejiang Hisoar Pharmaceutical Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300346",
+    "name": "Jiangsu Nata Opto-electronic Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002612",
+    "name": "Lancy Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688617",
+    "name": "APT Medical Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600266",
+    "name": "Beijing Urban Construction Investment & Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000815",
+    "name": "MCC Meili Cloud Computing Industry Investment Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688575",
+    "name": "Shenzhen YHLO Biotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601163",
+    "name": "Triangle Tyre Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600158",
+    "name": "China Sports Industry Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300413",
+    "name": "Mango Excellent Media Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600995",
+    "name": "China Southern Power Grid Energy Storage Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600058",
+    "name": "Minmetals Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002741",
+    "name": "Guangdong Guanghua Sci-Tech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300323",
+    "name": "BOE HC SemiTek Corp.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600236",
+    "name": "Guangxi Guiguan Electric Power Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600759",
+    "name": "Geo-Jade Petroleum Corp. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600571",
+    "name": "Sunyard Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300685",
+    "name": "Amoy Diagnostics Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002065",
+    "name": "DHC Software Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600282",
+    "name": "Nanjing Iron & Steel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301047",
+    "name": "Sino Biological Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002543",
+    "name": "Guangdong Vanward New Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002985",
+    "name": "Beijing Bei Mo Gao Ke Friction Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600761",
+    "name": "Anhui Heli Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002500",
+    "name": "Shanxi Securities Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000959",
+    "name": "Beijing Shougang Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600874",
+    "name": "Tianjin Capital Environmental Protection Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKGRT.E",
+    "name": "Aksigorta AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688739",
+    "name": "Liaoning Chengda Biotechnology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688499",
+    "name": "Guangdong Lyric Robot Automation Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002739",
+    "name": "Wanda Film Holding Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600549",
+    "name": "Xiamen Tungsten Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603915",
+    "name": "Jiangsu Guomao Reducer Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600481",
+    "name": "Shuangliang Eco-Energy Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HTTBT.E",
+    "name": "Hitit Bilgisayar Hizmetleri AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002387",
+    "name": "Visionox Technology Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002237",
+    "name": "Shandong Humon Smelting Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600682",
+    "name": "Nanjing Xinjiekou Department Store Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300525",
+    "name": "Fujian Boss Software Development Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3049",
+    "name": "HannsTouch Holdings Co.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600821",
+    "name": "NYOCOR Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300005",
+    "name": "Toread Holdings Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002992",
+    "name": "Shenzhen Baoming Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688177",
+    "name": "Bio-Thera Solutions Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601908",
+    "name": "Beijing Jingyuntong Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000589",
+    "name": "Guizhou Tyre Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300465",
+    "name": "Global Infotech Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002364",
+    "name": "Hangzhou Zhongheng Electric Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688202",
+    "name": "Shanghai Medicilon Inc. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000709",
+    "name": "Hesteel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600167",
+    "name": "Luenmei Quantum Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "YATAS.E",
+    "name": "Yatas Yatak ve Yorgan Sanayi ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRVGD.E",
+    "name": "Kervan Gida Sanayi Ve Ticaret AS",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002044",
+    "name": "Meinian Onehealth Healthcare Holdings Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002266",
+    "name": "Zhefu Holding Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603690",
+    "name": "PNC Process Systems Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600063",
+    "name": "Anhui Wanwei Updated High-Tech Material Industry Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002085",
+    "name": "Zhejiang Wanfeng Auto Wheel Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600133",
+    "name": "Wuhan East Lake High Technology Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603299",
+    "name": "Jiang Su Suyan Jingshen Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002298",
+    "name": "Anhui Sinonet & Xonglong Science & Technology Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300919",
+    "name": "CNGR Advanced Material Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600373",
+    "name": "Chinese Universe Publishing and Media Group Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002839",
+    "name": "Jiangsu Zhangjiagang Rural Commercial Bank Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601333",
+    "name": "Guangshen Railway Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GOLTS.E",
+    "name": "Goltas Goller Bolgesi Cimento Sanayi ve Ticaret A.S.",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002625",
+    "name": "Kuang-Chi Technologies Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002229",
+    "name": "Hongbo Co. Ltd. Class A",
+    "sector": "Unknown",
+    "country": "United States",
+    "weight": 0.0
+  }
+];

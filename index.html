@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Analyze your investment portfolio holdings across multiple ETFs and mutual funds">
+  <title>Portfolio X-Ray | Investment Holdings Analyzer</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+
+  <!--Full Holdings Data (v=1763607027 for cache busting) -->
+  <script src="data/holdings_js/EFA.js?v=1763607027"></script>
+  <script src="data/holdings_js/IEMG.js?v=1763607027"></script>
+  <script src="data/holdings_js/IJH.js?v=1763607027"></script>
+  <script src="data/holdings_js/IJR.js?v=1763607027"></script>
+  <script src="data/holdings_js/ITOT.js?v=1763607027"></script>
+  <script src="data/holdings_js/IVV.js?v=1763607027"></script>
+  <script src="data/holdings_js/IWD.js?v=1763607027"></script>
+  <script src="data/holdings_js/IWF.js?v=1763607027"></script>
+  <script src="data/holdings_js/IWM.js?v=1763607027"></script>
+  <script src="data/holdings_js/IXUS.js?v=1763607027"></script>
+  <script src="data/holdings_js/LRGF.js?v=1763607027"></script>
+  <script src="data/holdings_js/MDY.js?v=1763607027"></script>
+  <script src="data/holdings_js/MTUM.js?v=1763607027"></script>
+  <script src="data/holdings_js/QUAL.js?v=1763607027"></script>
+  <script src="data/holdings_js/SPLG.js?v=1763607027"></script>
+  <script src="data/holdings_js/SPY.js?v=1763607027"></script>
+  <script src="data/holdings_js/USMV.js?v=1763607027"></script>
+  <script src="data/holdings_js/VB.js?v=1763607027"></script>
+  <script src="data/holdings_js/VEA.js?v=1763607027"></script>
+  <script src="data/holdings_js/VGT.js?v=1763607027"></script>
+  <script src="data/holdings_js/VIG.js?v=1763607027"></script>
+  <script src="data/holdings_js/VLUE.js?v=1763607027"></script>
+  <script src="data/holdings_js/VNQ.js?v=1763607027"></script>
+  <script src="data/holdings_js/VO.js?v=1763607027"></script>
+  <script src="data/holdings_js/VOO.js?v=1763607027"></script>
+  <script src="data/holdings_js/VSS.js?v=1763607027"></script>
+  <script src="data/holdings_js/VTI.js?v=1763607027"></script>
+  <script src="data/holdings_js/VTV.js?v=1763607027"></script>
+  <script src="data/holdings_js/VUG.js?v=1763607027"></script>
+  <script src="data/holdings_js/VWO.js?v=1763607027"></script>
+  <script src="data/holdings_js/VXUS.js?v=1763607027"></script>
+  <script src="data/holdings_js/VYM.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLB.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLC.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLE.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLF.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLI.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLK.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLP.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLRE.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLU.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLV.js?v=1763607027"></script>
+  <script src="data/holdings_js/XLY.js?v=1763607027"></script>
+
+  <!-- App Logic -->
+  <!-- Favicon -->
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+</head>
+
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-content">
+      <div>
+        <h1 class="logo">
+          <span class="logo-icon">📊</span>
+          Portfolio X-Ray
+        </h1>
+        <p class="tagline">Understand your complete portfolio allocation</p>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="container">
+
+    <!-- Portfolio Input Section -->
+    <section class="input-section">
+      <div class="card">
+        <h2 class="card-title">Add Holdings</h2>
+
+        <div class="form-grid">
+          <div class="form-group">
+            <label class="form-label" for="ticker-input">Ticker Symbol (ETF or Mutual Fund)</label>
+            <input type="text" id="ticker-input" class="form-input" placeholder="e.g., VOO, QQQ, VXUS"
+              list="ticker-list" autocomplete="off">
+            <datalist id="ticker-list"></datalist>
+          </div>
+
+          <div class="form-group">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+              <label class="form-label" for="amount-input" id="amount-label">Amount ($)</label>
+              <div class="toggle-container">
+                <button type="button" class="toggle-btn active" id="mode-dollars"
+                  onclick="app.setInputMode('dollars')">$</button>
+                <button type="button" class="toggle-btn" id="mode-shares"
+                  onclick="app.setInputMode('shares')">Shares</button>
+              </div>
+            </div>
+            <input type="number" id="amount-input" class="form-input" placeholder="10000" min="0.01" step="0.01">
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" for="account-select">Account Type</label>
+            <select id="account-select" class="form-select">
+              <option value="401k">401(k)</option>
+              <option value="Roth IRA">Roth IRA</option>
+              <option value="Traditional IRA">Traditional IRA</option>
+              <option value="Taxable">Taxable Brokerage</option>
+              <option value="HSA">HSA</option>
+              <option value="529">529 Plan</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+
+          <button id="add-holding-btn" class="btn btn-primary">
+            ➕ Add
+          </button>
+        </div>
+
+        <!-- Holdings List -->
+        <div id="holdings-list" class="holdings-list"></div>
+
+        <!-- Action Buttons -->
+        <div style="display: flex; gap: 1rem; margin-top: 1.5rem;">
+          <button id="analyze-btn" class="btn btn-primary">
+            🔍 Analyze Portfolio
+          </button>
+          <button id="clear-all-btn" class="btn btn-secondary">
+            🗑️ Clear All
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Analysis Results Section -->
+    <section id="analysis-section" class="analysis-section" style="display: none;">
+
+      <!-- Summary Statistics -->
+      <div id="summary-stats" class="stats-grid"></div>
+
+      <!-- Allocation Charts -->
+      <div class="analysis-grid">
+
+        <!-- Country Allocation -->
+        <div class="card">
+          <h2 class="card-title">🌍 Country Allocation</h2>
+          <div id="country-allocation" class="allocation-chart"></div>
+        </div>
+
+        <!-- Sector Allocation -->
+        <div class="card">
+          <h2 class="card-title">🏭 Sector Allocation</h2>
+          <div id="sector-allocation" class="allocation-chart"></div>
+        </div>
+      </div>
+
+      <!-- Individual Holdings Table -->
+      <div class="card">
+        <h2 class="card-title">📈 Individual Holdings (Top 50)</h2>
+        <p style="color: var(--color-text-secondary); margin-bottom: 1rem; font-size: 0.875rem;">
+          All underlying securities ranked by portfolio weight. Overlapping holdings are highlighted.
+        </p>
+        <div id="individual-holdings" class="holdings-table-container"></div>
+      </div>
+
+    </section>
+
+    <!-- Information Footer -->
+    <footer
+      style="margin-top: 3rem; padding: 2rem 0; border-top: 1px solid rgba(255, 255, 255, 0.1); text-align: center; color: var(--color-text-muted);">
+      💡 <strong>Supported Funds:</strong> Top 15 ETFs & Mutual Funds from Vanguard, iShares, and State Street (e.g.,
+      VOO, VTI, IVV, SPY, AGG, BND, etc.)
+      </p>
+      <p style="font-size: 0.75rem; margin-top: 0.5rem;">
+        Portfolio values are calculated at $100/share for demonstration purposes.
+        This tool uses representative holdings data and should not be used as the sole basis for investment decisions.
+      </p>
+    </footer>
+
+  </main>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="data/holdings/vanguard.js"></script>
+  <script src="data/holdings/ishares.js"></script>
+  <script src="data/holdings/statestreet.js"></script>
+  <script src="analytics.js"></script>
+  <script src="app.js?v=1763603078"></script>
+</body>
+
+</html>

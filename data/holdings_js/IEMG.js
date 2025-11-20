@@ -1,0 +1,24370 @@
+if (!window.ETF_HOLDINGS) window.ETF_HOLDINGS = {};
+window.ETF_HOLDINGS['IEMG'] = [
+  {
+    "ticker": "2330",
+    "name": "TAIWAN SEMICONDUCTOR MANUFACTURING",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 9.71
+  },
+  {
+    "ticker": "700",
+    "name": "TENCENT HOLDINGS LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 4.5
+  },
+  {
+    "ticker": "9988",
+    "name": "ALIBABA GROUP HOLDING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 2.99
+  },
+  {
+    "ticker": "005930",
+    "name": "SAMSUNG ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 2.77
+  },
+  {
+    "ticker": "000660",
+    "name": "SK HYNIX INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 1.86
+  },
+  {
+    "ticker": "HDFCBANK",
+    "name": "HDFC BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 1.12
+  },
+  {
+    "ticker": "RELIANCE",
+    "name": "RELIANCE INDUSTRIES LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.91
+  },
+  {
+    "ticker": "939",
+    "name": "CHINA CONSTRUCTION BANK CORP H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.88
+  },
+  {
+    "ticker": "2317",
+    "name": "HON HAI PRECISION INDUSTRY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.81
+  },
+  {
+    "ticker": "XTSLA",
+    "name": "BLK CSH FND TREASURY SL AGENCY",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.79
+  },
+  {
+    "ticker": "1810",
+    "name": "XIAOMI CORP",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.79
+  },
+  {
+    "ticker": "PDD",
+    "name": "PDD HOLDINGS ADS INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.74
+  },
+  {
+    "ticker": "ICICIBANK",
+    "name": "ICICI BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.69
+  },
+  {
+    "ticker": "3690",
+    "name": "MEITUAN",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.55
+  },
+  {
+    "ticker": "BHARTIARTL",
+    "name": "BHARTI AIRTEL LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.55
+  },
+  {
+    "ticker": "2454",
+    "name": "MEDIATEK INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.5
+  },
+  {
+    "ticker": "2308",
+    "name": "DELTA ELECTRONICS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.49
+  },
+  {
+    "ticker": "INFY",
+    "name": "INFOSYS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.49
+  },
+  {
+    "ticker": "NPN",
+    "name": "NASPERS LIMITED LTD CLASS N",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.47
+  },
+  {
+    "ticker": "1398",
+    "name": "INDUSTRIAL AND COMMERCIAL BANK OF",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.47
+  },
+  {
+    "ticker": "1120",
+    "name": "AL RAJHI BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.47
+  },
+  {
+    "ticker": "NU",
+    "name": "NU HOLDINGS LTD CLASS A",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.45
+  },
+  {
+    "ticker": "2318",
+    "name": "PING AN INSURANCE (GROUP) CO OF CH",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.44
+  },
+  {
+    "ticker": "9999",
+    "name": "NETEASE INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.42
+  },
+  {
+    "ticker": "1211",
+    "name": "BYD LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.4
+  },
+  {
+    "ticker": "9961",
+    "name": "TRIP.COM GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.39
+  },
+  {
+    "ticker": "VALE3",
+    "name": "CIA VALE DO RIO DOCE SH",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.39
+  },
+  {
+    "ticker": "3988",
+    "name": "BANK OF CHINA LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.37
+  },
+  {
+    "ticker": "2222",
+    "name": "SAUDI ARABIAN OIL",
+    "sector": "Energy",
+    "country": "Saudi Arabia",
+    "weight": 0.36
+  },
+  {
+    "ticker": "005935",
+    "name": "SAMSUNG ELECTRONICS NON VOTING PRE",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.36
+  },
+  {
+    "ticker": "ANG",
+    "name": "ANGLOGOLD ASHANTI PLC",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.35
+  },
+  {
+    "ticker": "ITUB4",
+    "name": "ITAU UNIBANCO HOLDING PREF SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.35
+  },
+  {
+    "ticker": "M&M",
+    "name": "MAHINDRA AND MAHINDRA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.34
+  },
+  {
+    "ticker": "9618",
+    "name": "JD.COM CLASS A INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.31
+  },
+  {
+    "ticker": "GFI",
+    "name": "GOLD FIELDS LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.31
+  },
+  {
+    "ticker": "AXISBANK",
+    "name": "AXIS BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.29
+  },
+  {
+    "ticker": "BAJFINANCE",
+    "name": "BAJAJ FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.28
+  },
+  {
+    "ticker": "TCS",
+    "name": "TATA CONSULTANCY SERVICES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.28
+  },
+  {
+    "ticker": "9888",
+    "name": "BAIDU CLASS A INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.27
+  },
+  {
+    "ticker": "105560",
+    "name": "KB FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.27
+  },
+  {
+    "ticker": "LT",
+    "name": "LARSEN AND TOUBRO LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.27
+  },
+  {
+    "ticker": "1180",
+    "name": "THE SAUDI NATIONAL BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.26
+  },
+  {
+    "ticker": "BBCA",
+    "name": "BANK CENTRAL ASIA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.25
+  },
+  {
+    "ticker": "KFH",
+    "name": "KUWAIT FINANCE HOUSE",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.25
+  },
+  {
+    "ticker": "PETR4",
+    "name": "PETROLEO BRASILEIRO PREF SA",
+    "sector": "Energy",
+    "country": "Brazil",
+    "weight": 0.24
+  },
+  {
+    "ticker": "NBK",
+    "name": "NATIONAL BANK OF KUWAIT",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.24
+  },
+  {
+    "ticker": "3968",
+    "name": "CHINA MERCHANTS BANK LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.23
+  },
+  {
+    "ticker": "KOTAKBANK",
+    "name": "KOTAK MAHINDRA BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.23
+  },
+  {
+    "ticker": "2628",
+    "name": "CHINA LIFE INSURANCE LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.22
+  },
+  {
+    "ticker": "GMEXICOB",
+    "name": "GRUPO MEXICO B",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.22
+  },
+  {
+    "ticker": "PETR3",
+    "name": "PETROLEO BRASILEIRO SA PETROBRAS",
+    "sector": "Energy",
+    "country": "Brazil",
+    "weight": 0.22
+  },
+  {
+    "ticker": "035420",
+    "name": "NAVER CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.21
+  },
+  {
+    "ticker": "EMAAR",
+    "name": "EMAAR PROPERTIES",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
+    "weight": 0.21
+  },
+  {
+    "ticker": "2881",
+    "name": "FUBON FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.21
+  },
+  {
+    "ticker": "6160",
+    "name": "BEONE MEDICINES AG",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.21
+  },
+  {
+    "ticker": "005380",
+    "name": "HYUNDAI MOTOR",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.21
+  },
+  {
+    "ticker": "857",
+    "name": "PETROCHINA LTD H",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.21
+  },
+  {
+    "ticker": "GFNORTEO",
+    "name": "GPO FINANCE BANORTE",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.21
+  },
+  {
+    "ticker": "7010",
+    "name": "SAUDI TELECOM",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.2
+  },
+  {
+    "ticker": "QNBK",
+    "name": "QATAR NATIONAL BANK",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.2
+  },
+  {
+    "ticker": "2382",
+    "name": "QUANTA COMPUTER INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.2
+  },
+  {
+    "ticker": "FSR",
+    "name": "FIRSTRAND LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.2
+  },
+  {
+    "ticker": "034020",
+    "name": "DOOSAN ENERBILITY LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.2
+  },
+  {
+    "ticker": "MARUTI",
+    "name": "MARUTI SUZUKI INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.2
+  },
+  {
+    "ticker": "2891",
+    "name": "CTBC FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.2
+  },
+  {
+    "ticker": "3711",
+    "name": "ASE TECHNOLOGY HOLDING LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.2
+  },
+  {
+    "ticker": "HINDUNILVR",
+    "name": "HINDUSTAN UNILEVER LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.2
+  },
+  {
+    "ticker": "055550",
+    "name": "SHINHAN FINANCIAL GROUP LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.2
+  },
+  {
+    "ticker": "2899",
+    "name": "ZIJIN MINING GROUP LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.2
+  },
+  {
+    "ticker": "1024",
+    "name": "KUAISHOU TECHNOLOGY",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.19
+  },
+  {
+    "ticker": "OTP",
+    "name": "OTP BANK",
+    "sector": "Financials",
+    "country": "Hungary",
+    "weight": 0.19
+  },
+  {
+    "ticker": "1211",
+    "name": "SAUDI ARABIAN MINING",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.19
+  },
+  {
+    "ticker": "1288",
+    "name": "AGRICULTURAL BANK OF CHINA LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.18
+  },
+  {
+    "ticker": "012450",
+    "name": "HANWHA AEROSPACE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.18
+  },
+  {
+    "ticker": "AMXB",
+    "name": "AMERICA MOVIL B",
+    "sector": "Communication",
+    "country": "Mexico",
+    "weight": 0.18
+  },
+  {
+    "ticker": "068270",
+    "name": "CELLTRION INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.18
+  },
+  {
+    "ticker": "SBK",
+    "name": "STANDARD BANK GROUP",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.18
+  },
+  {
+    "ticker": "FAB",
+    "name": "FIRST ABU DHABI BANK",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.18
+  },
+  {
+    "ticker": "CPI",
+    "name": "CAPITEC LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.18
+  },
+  {
+    "ticker": "DELTA.R",
+    "name": "DELTA ELECTRONICS (THAILAND) NON-V",
+    "sector": "Information Technology",
+    "country": "Thailand",
+    "weight": 0.18
+  },
+  {
+    "ticker": "2882",
+    "name": "CATHAY FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.17
+  },
+  {
+    "ticker": "SBIN",
+    "name": "STATE BANK OF INDIA",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.17
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "name": "SUN PHARMACEUTICAL INDUSTRIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.17
+  },
+  {
+    "ticker": "BBDC4",
+    "name": "BANCO BRADESCO PREF SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.17
+  },
+  {
+    "ticker": "000270",
+    "name": "KIA CORPORATION CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.16
+  },
+  {
+    "ticker": "402340",
+    "name": "SK SQUARE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.16
+  },
+  {
+    "ticker": "086790",
+    "name": "HANA FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BEL",
+    "name": "BHARAT ELECTRONICS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.15
+  },
+  {
+    "ticker": "PKO",
+    "name": "POWSZECHNA KASA OSZCZEDNOSCI BANK",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.15
+  },
+  {
+    "ticker": "EAND",
+    "name": "EMIRATES TELECOM",
+    "sector": "Communication",
+    "country": "United Arab Emirates",
+    "weight": 0.15
+  },
+  {
+    "ticker": "1088",
+    "name": "CHINA SHENHUA ENERGY LTD H",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.15
+  },
+  {
+    "ticker": "9987",
+    "name": "YUM CHINA HOLDINGS INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.15
+  },
+  {
+    "ticker": "HCLTECH",
+    "name": "HCL TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BAP",
+    "name": "CREDICORP LTD",
+    "sector": "Financials",
+    "country": "Peru",
+    "weight": 0.15
+  },
+  {
+    "ticker": "WALMEX*",
+    "name": "WALMART DE MEXICO V",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.15
+  },
+  {
+    "ticker": "1801",
+    "name": "INNOVENT BIOLOGICS INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.15
+  },
+  {
+    "ticker": "MTN",
+    "name": "MTN GROUP LTD",
+    "sector": "Communication",
+    "country": "South Africa",
+    "weight": 0.15
+  },
+  {
+    "ticker": "NTPC",
+    "name": "NTPC LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.14
+  },
+  {
+    "ticker": "BBRI",
+    "name": "BANK RAKYAT INDONESIA (PERSERO)",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.14
+  },
+  {
+    "ticker": "FEMSAUBD",
+    "name": "FOMENTO ECONOMICO MEXICANO",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.14
+  },
+  {
+    "ticker": "2328",
+    "name": "PICC PROPERTY AND CASUALTY LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.14
+  },
+  {
+    "ticker": "VAL",
+    "name": "VALTERRA PLATINUM LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.14
+  },
+  {
+    "ticker": "2303",
+    "name": "UNITED MICRO ELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "2412",
+    "name": "CHUNGHWA TELECOM LTD",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "TITAN",
+    "name": "TITAN COMPANY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.14
+  },
+  {
+    "ticker": "PKN",
+    "name": "ORLEN SA",
+    "sector": "Energy",
+    "country": "Poland",
+    "weight": 0.14
+  },
+  {
+    "ticker": "ULTRACEMCO",
+    "name": "ULTRATECH CEMENT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CEMEXCPO",
+    "name": "CEMEX CPO",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.14
+  },
+  {
+    "ticker": "196170",
+    "name": "ALTEOGEN INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.13
+  },
+  {
+    "ticker": "005490",
+    "name": "POSCO",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.13
+  },
+  {
+    "ticker": "600519",
+    "name": "KWEICHOW MOUTAI LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2886",
+    "name": "MEGA FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "9992",
+    "name": "POP MART INTERNATIONAL GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.13
+  },
+  {
+    "ticker": "6669",
+    "name": "WIWYNN CORPORATION CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2345",
+    "name": "ACCTON TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "207940",
+    "name": "SAMSUNG BIOLOGICS LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.13
+  },
+  {
+    "ticker": "TATASTEEL",
+    "name": "TATA STEEL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.13
+  },
+  {
+    "ticker": "3017",
+    "name": "ASIA VITAL COMPONENTS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "MAYBANK",
+    "name": "MALAYAN BANKING",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.13
+  },
+  {
+    "ticker": "CIMB",
+    "name": "CIMB GROUP HOLDINGS",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.13
+  },
+  {
+    "ticker": "2269",
+    "name": "WUXI BIOLOGICS CAYMAN INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.12
+  },
+  {
+    "ticker": "POWERGRID",
+    "name": "POWER GRID CORPORATION OF INDIA LT",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.12
+  },
+  {
+    "ticker": "ITC",
+    "name": "ITC LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.12
+  },
+  {
+    "ticker": "373220",
+    "name": "LG ENERGY SOLUTION LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.12
+  },
+  {
+    "ticker": "B3SA3",
+    "name": "B3 BRASIL BOLSA BALCAO SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.12
+  },
+  {
+    "ticker": "2884",
+    "name": "E.SUN FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "9868",
+    "name": "XPENG CLASS A INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.12
+  },
+  {
+    "ticker": "9633",
+    "name": "NONGFU SPRING LTD H",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.12
+  },
+  {
+    "ticker": "PBBANK",
+    "name": "PUBLIC BANK",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.12
+  },
+  {
+    "ticker": "2010",
+    "name": "SAUDI BASIC INDUSTRIES",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.12
+  },
+  {
+    "ticker": "300750",
+    "name": "CONTEMPORARY AMPEREX TECHNOLOGY LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.12
+  },
+  {
+    "ticker": "WEGE3",
+    "name": "WEG SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.12
+  },
+  {
+    "ticker": "EMIRATESNBD",
+    "name": "EMIRATES NBD",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.12
+  },
+  {
+    "ticker": "AXIA3",
+    "name": "CENTRAIS ELETR BRAS-ELETROBRAS SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.12
+  },
+  {
+    "ticker": "267260",
+    "name": "HD HYUNDAI ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.12
+  },
+  {
+    "ticker": "175",
+    "name": "GEELY AUTOMOBILE HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.12
+  },
+  {
+    "ticker": "SHFL",
+    "name": "SHRIRAM FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.12
+  },
+  {
+    "ticker": "3231",
+    "name": "WISTRON CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "386",
+    "name": "CHINA PETROLEUM AND CHEMICAL CORP",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2020",
+    "name": "ANTA SPORTS PRODUCTS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.11
+  },
+  {
+    "ticker": "051910",
+    "name": "LG CHEM LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "006400",
+    "name": "SAMSUNG SDI LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2383",
+    "name": "ELITE MATERIAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2357",
+    "name": "ASUSTEK COMPUTER INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ETE",
+    "name": "NATIONAL BANK OF GREECE SA",
+    "sector": "Financials",
+    "country": "Greece",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ITSA4",
+    "name": "ITAUSA INVESTIMENTOS ITAU PREF SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.11
+  },
+  {
+    "ticker": "009540",
+    "name": "HD KOREA SHIPBUILDING & OFFSHORE E",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2887",
+    "name": "TS FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "INDIGO",
+    "name": "INTERGLOBE AVIATION LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.11
+  },
+  {
+    "ticker": "SBSP3",
+    "name": "COMPANHIA DE SANEAMENTO BASICO DE",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.11
+  },
+  {
+    "ticker": "028260",
+    "name": "SAMSUNG C&T CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "035720",
+    "name": "KAKAO CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "010140",
+    "name": "SAMSUNG HEAVY INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ABEV3",
+    "name": "AMBEV SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2327",
+    "name": "YAGEO CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "1109",
+    "name": "CHINA RESOURCES LAND LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.11
+  },
+  {
+    "ticker": "HINDALCO",
+    "name": "HINDALCO INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2885",
+    "name": "YUANTA FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2015",
+    "name": "LI AUTO CLASS A INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "012330",
+    "name": "HYUNDAI MOBIS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.1
+  },
+  {
+    "ticker": "QIBK",
+    "name": "QATAR ISLAMIC BANK",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.1
+  },
+  {
+    "ticker": "316140",
+    "name": "WOORI FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.1
+  },
+  {
+    "ticker": "BPAC11",
+    "name": "BCO BTG PACTUAL UNT SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.1
+  },
+  {
+    "ticker": "1216",
+    "name": "UNI-PRESIDENT ENTERPRISES CORP",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2423",
+    "name": "KE HOLDINGS INC",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "9866",
+    "name": "NIO CLASS A INC",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "EMBJ3",
+    "name": "EMBRAER SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ADCB",
+    "name": "ABU DHABI COMMERCIAL BANK",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ASIANPAINT",
+    "name": "ASIAN PAINTS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.1
+  },
+  {
+    "ticker": "2601",
+    "name": "CHINA PACIFIC INSURANCE (GROUP) LT",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "HAL",
+    "name": "HINDUSTAN AERONAUTICS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.1
+  },
+  {
+    "ticker": "1378",
+    "name": "CHINA HONGQIAO GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ADVANC.R",
+    "name": "ADVANCED INFO SERVICE NON-VOTING D",
+    "sector": "Communication",
+    "country": "Thailand",
+    "weight": 0.1
+  },
+  {
+    "ticker": "TME",
+    "name": "TENCENT MUSIC ENTERTAINMENT GROUP",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.1
+  },
+  {
+    "ticker": "BMRI",
+    "name": "BANK MANDIRI (PERSERO)",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.1
+  },
+  {
+    "ticker": "TLKM",
+    "name": "TELEKOMUNIKASI INDONESIA",
+    "sector": "Communication",
+    "country": "Indonesia",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SCCO",
+    "name": "SOUTHERN COPPER CORP",
+    "sector": "Materials",
+    "country": "Peru",
+    "weight": 0.09
+  },
+  {
+    "ticker": "EICHERMOT",
+    "name": "EICHER MOTORS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.09
+  },
+  {
+    "ticker": "042660",
+    "name": "HANWHA OCEAN LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2301",
+    "name": "LITE ON TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2890",
+    "name": "SINOPAC FINANCIAL HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SBILIFE",
+    "name": "SBI LIFE INSURANCE COMPANY LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.09
+  },
+  {
+    "ticker": "1010",
+    "name": "RIYAD BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2892",
+    "name": "FIRST FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ABG",
+    "name": "ABSA GROUP LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.09
+  },
+  {
+    "ticker": "JIOFIN",
+    "name": "JIO FINANCIAL SERVICES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.09
+  },
+  {
+    "ticker": "MAXHEALTH",
+    "name": "MAX HEALTHCARE INSTITUTE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.09
+  },
+  {
+    "ticker": "064350",
+    "name": "HYUNDAI-ROTEM",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.09
+  },
+  {
+    "ticker": "6618",
+    "name": "JD HEALTH INTERNATIONAL INC",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ICT",
+    "name": "INTERNATIONAL CONTAINER TERMINAL S",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.09
+  },
+  {
+    "ticker": "CIPLA",
+    "name": "CIPLA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "000810",
+    "name": "SAMSUNG FIRE & MARINE INSURANCE LT",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.08
+  },
+  {
+    "ticker": "NESTLEIND",
+    "name": "NESTLE INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "IMP",
+    "name": "IMPALA PLATINUM LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.08
+  },
+  {
+    "ticker": "PZU",
+    "name": "PZU SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.08
+  },
+  {
+    "ticker": "EUROB",
+    "name": "EUROBANK HOLDINGS SA",
+    "sector": "Financials",
+    "country": "Greece",
+    "weight": 0.08
+  },
+  {
+    "ticker": "HAR",
+    "name": "HARMONY GOLD MINING COMPANY LIMITE",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TVSMOTOR",
+    "name": "TVS MOTOR COMPANY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "SLM",
+    "name": "SANLAM LIMITED LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.08
+  },
+  {
+    "ticker": "PTT.R",
+    "name": "PTT NON-VOTING DR PCL",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.08
+  },
+  {
+    "ticker": "PEO",
+    "name": "BANK PEKAO SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.08
+  },
+  {
+    "ticker": "033780",
+    "name": "KT&G CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1303",
+    "name": "NAN YA PLASTICS CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ALDAR",
+    "name": "ALDAR PROPERTIES",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
+    "weight": 0.08
+  },
+  {
+    "ticker": "CEZ",
+    "name": "CEZ",
+    "sector": "Utilities",
+    "country": "Czech Republic",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1177",
+    "name": "SINO BIOPHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TRENT",
+    "name": "TRENT LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ADANIPORTS",
+    "name": "ADANI PORTS AND SPECIAL ECONOMIC Z",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "9926",
+    "name": "AKESO INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.08
+  },
+  {
+    "ticker": "BAJAJFINSV",
+    "name": "BAJAJ FINSERV LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "HTHT",
+    "name": "H WORLD GROUP ADR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.08
+  },
+  {
+    "ticker": "329180",
+    "name": "HD HYUNDAI HEAVY INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TENAGA",
+    "name": "TENAGA NASIONAL",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.08
+  },
+  {
+    "ticker": "2360",
+    "name": "CHROMA ATE INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ALPHA",
+    "name": "ALPHA BANK SA",
+    "sector": "Financials",
+    "country": "Greece",
+    "weight": 0.08
+  },
+  {
+    "ticker": "DIVISLAB",
+    "name": "DIVIS LABORATORIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "2082",
+    "name": "ACWA POWER CO",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ETERNAL",
+    "name": "ETERNAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TECHM",
+    "name": "TECH MAHINDRA LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "3665",
+    "name": "BIZLINK HOLDING INC",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "APOLLOHOSP",
+    "name": "APOLLO HOSPITALS ENTERPRISE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ADIB",
+    "name": "ABU DHABI ISLAMIC BANK",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1339",
+    "name": "THE PEOPLES INSURANCE CO (GROUP)",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.08
+  },
+  {
+    "ticker": "GRASIM",
+    "name": "GRASIM INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "015760",
+    "name": "KOREA ELECTRIC POWER CORP",
+    "sector": "Utilities",
+    "country": "Korea (South)",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ONGC",
+    "name": "OIL AND NATURAL GAS LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.08
+  },
+  {
+    "ticker": "GAPB",
+    "name": "GRUPO AEROPORTUARIO DEL PACIFICO",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.08
+  },
+  {
+    "ticker": "EQTL3",
+    "name": "EQUATORIAL SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SQM.B",
+    "name": "SOCIEDAD QUIMICA Y MINERA DE CHILE",
+    "sector": "Materials",
+    "country": "Chile",
+    "weight": 0.07
+  },
+  {
+    "ticker": "992",
+    "name": "LENOVO GROUP LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "TMPV",
+    "name": "TATA MOTORS PASSENGER VEHICLES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CHILE",
+    "name": "BANCO DE CHILE",
+    "sector": "Financials",
+    "country": "Chile",
+    "weight": 0.07
+  },
+  {
+    "ticker": "5880",
+    "name": "TAIWAN COOPERATIVE FINANCIAL HOLDI",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1060",
+    "name": "SAUDI AWWAL BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "HDFCLIFE",
+    "name": "HDFC LIFE INSURANCE COMPANY LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "298040",
+    "name": "HYOSUNG HEAVY INDUSTRIES CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2880",
+    "name": "HUA NAN FINANCIAL HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1150",
+    "name": "ALINMA BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2883",
+    "name": "KGI FINANCIAL HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "JSWSTEEL",
+    "name": "JSW STEEL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CHOLAFIN",
+    "name": "CHOLAMANDALAM INVESTMENT AND FINAN",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "DRREDDY",
+    "name": "DR REDDYS LABORATORIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "TPEIR",
+    "name": "PIRAEUS FINANCIAL HOLDINGS SA",
+    "sector": "Financials",
+    "country": "Greece",
+    "weight": 0.07
+  },
+  {
+    "ticker": "032830",
+    "name": "SAMSUNG LIFE LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1093",
+    "name": "CSPC PHARMACEUTICAL GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "VEDL",
+    "name": "VEDANTA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BID",
+    "name": "BID CORPORATION LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SSW",
+    "name": "SIBANYE STILLWATER LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.07
+  },
+  {
+    "ticker": "HEROMOTOCO",
+    "name": "HERO MOTOCORP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SHP",
+    "name": "SHOPRITE HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.07
+  },
+  {
+    "ticker": "COALINDIA",
+    "name": "COAL INDIA LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "TATACONSUM",
+    "name": "TATA CONSUMER PRODUCTS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ASII",
+    "name": "ASTRA INTERNATIONAL",
+    "sector": "Industrials",
+    "country": "Indonesia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "3328",
+    "name": "BANK OF COMMUNICATIONS LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2057",
+    "name": "ZTO EXPRESS (CAYMAN) INC",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "6690",
+    "name": "HAIER SMART HOME CLASS H LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "3993",
+    "name": "CMOC GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "998",
+    "name": "CHINA CITIC BANK CORP LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "3661",
+    "name": "ALCHIP TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "PERSISTENT",
+    "name": "PERSISTENT SYSTEMS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "PE&OLES*",
+    "name": "INDUST PENOLES",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BZ",
+    "name": "KANZHUN AMERICAN DEPOSITORY SHARES",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.07
+  },
+  {
+    "ticker": "009150",
+    "name": "SAMSUNG ELECTRO MECHANICS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.07
+  },
+  {
+    "ticker": "RENT3",
+    "name": "LOCALIZA RENT A CAR SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CPALL.R",
+    "name": "CP ALL NON-VOTING DR PCL",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2379",
+    "name": "REALTEK SEMICONDUCTOR CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "DMART",
+    "name": "AVENUE SUPERMARTS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1530",
+    "name": "3SBIO INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PFCIBEST",
+    "name": "GRUPO CIBEST PREF SA",
+    "sector": "Financials",
+    "country": "Colombia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DIB",
+    "name": "DB ISLAMIC BANK",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BRITANNIA",
+    "name": "BRITANNIA INDUSTRIES LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2449",
+    "name": "KING YUAN ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1347",
+    "name": "HUA HONG SEMICONDUCTOR LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2020",
+    "name": "SABIC AGRI-NUTRIENTS",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3034",
+    "name": "NOVATEK MICROELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "POLICYBZR",
+    "name": "PB FINTECH LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "TMCV",
+    "name": "TATA MOTORS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "INDHOTEL",
+    "name": "INDIAN HOTELS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "VBL",
+    "name": "VARUN BEVERAGES LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "WIPRO",
+    "name": "WIPRO LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2313",
+    "name": "SHENZHOU INTERNATIONAL GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DSY",
+    "name": "DISCOVERY LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.06
+  },
+  {
+    "ticker": "TATAPOWER",
+    "name": "TATA POWER LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "601138",
+    "name": "FOXCONN INDUSTRIAL INTERNET LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3037",
+    "name": "UNIMICRON TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "600036",
+    "name": "CHINA MERCHANTS BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BAJAJ.AUTO",
+    "name": "BAJAJ AUTO LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CUMMINSIND",
+    "name": "CUMMINS INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2688",
+    "name": "ENN ENERGY HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "RDOR3",
+    "name": "REDE DOR SAO LUIZ SA",
+    "sector": "Health Care",
+    "country": "Brazil",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BBAS3",
+    "name": "BANCO DO BRASIL SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.06
+  },
+  {
+    "ticker": "NED",
+    "name": "NEDBANK GROUP LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2002",
+    "name": "CHINA STEEL CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BDMS.R",
+    "name": "BANGKOK DUSIT MEDICAL SERVICES NON",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.06
+  },
+  {
+    "ticker": "7020",
+    "name": "ETIHAD ETISALAT",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "XP",
+    "name": "XP CLASS A INC",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DIXON",
+    "name": "DIXON TECHNOLOGIES (INDIA) LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "COFORGE",
+    "name": "COFORGE LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3653",
+    "name": "JENTECH PRECISION INDUSTRIAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "138040",
+    "name": "MERITZ FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.06
+  },
+  {
+    "ticker": "KGH",
+    "name": "KGHM POLSKA MIEDZ SA",
+    "sector": "Materials",
+    "country": "Poland",
+    "weight": 0.06
+  },
+  {
+    "ticker": "788",
+    "name": "CHINA TOWER CORP LTD H",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "034730",
+    "name": "SK INC",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ASELS.E",
+    "name": "ASELSAN ELEKTRONIK SANAYI VE TICAR",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.06
+  },
+  {
+    "ticker": "DLF",
+    "name": "DLF LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "3008",
+    "name": "LARGAN PRECISION LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "688",
+    "name": "CHINA OVERSEAS LAND INVESTMENT LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "267250",
+    "name": "HD HYUNDAI LTD",
+    "sector": "Energy",
+    "country": "Korea (South)",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BPCL",
+    "name": "BHARAT PETROLEUM LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "9901",
+    "name": "NEW ORIENTAL EDUCATION & TECHNOLOG",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PFC",
+    "name": "POWER FINANCE CORPORATION LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2408",
+    "name": "NANYA TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2280",
+    "name": "ALMARAI",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "8299",
+    "name": "PHISON ELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "LTM",
+    "name": "LATAM AIRLINES GROUP SA",
+    "sector": "Industrials",
+    "country": "Chile",
+    "weight": 0.05
+  },
+  {
+    "ticker": "VIPS",
+    "name": "VIPSHOP HOLDINGS SPONSORED ADS REP",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PRIO3",
+    "name": "PETRO RIO SA",
+    "sector": "Energy",
+    "country": "Brazil",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2059",
+    "name": "KING SLIDE WORKS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2603",
+    "name": "EVERGREEN MARINE CORP (TAIWAN) LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SUZLON",
+    "name": "SUZLON ENERGY LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1818",
+    "name": "ZHAOJIN MINING INDUSTRY LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1658",
+    "name": "POSTAL SAVINGS BANK OF CHINA LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "4013",
+    "name": "DR SULAIMAN AL HABIB MEDICAL GRP",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "9626",
+    "name": "BILIBILI INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "267",
+    "name": "CITIC LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SUZB3",
+    "name": "SUZANO SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ALE",
+    "name": "ALLEGRO SA",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2207",
+    "name": "HOTAI MOTOR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MOTHERSON",
+    "name": "SAMVARDHANA MOTHERSON INTERNATIONA",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "INDUSTOWER",
+    "name": "INDUS TOWERS LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "066570",
+    "name": "LG ELECTRONICS INC",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1336",
+    "name": "NEW CHINA LIFE INSURANCE COMPANY L",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BIMAS.E",
+    "name": "BIM BIRLESIK MAGAZALAR A",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GAMUDA",
+    "name": "GAMUDA",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2382",
+    "name": "SUNNY OPTICAL TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3045",
+    "name": "TAIWAN MOBILE LTD",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "5274",
+    "name": "ASPEED TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2319",
+    "name": "CHINA MENGNIU DAIRY LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GULF.R",
+    "name": "GULF DEVELOPMENT NON-VOTING DR PCL",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2344",
+    "name": "WINBOND ELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3692",
+    "name": "HANSOH PHARMACEUTICAL GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "DSSA",
+    "name": "DIAN SWASTATIKA SENTOSA",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "NAUKRI",
+    "name": "INFO EDGE INDIA LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PMETAL",
+    "name": "PRESS METAL ALUMINIUM HOLDINGS",
+    "sector": "Materials",
+    "country": "Malaysia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "291",
+    "name": "CHINA RESOURCES BEER HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "CGPOWER",
+    "name": "CG POWER AND INDUSTRIAL SOLUTIONS",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HDFCAMC",
+    "name": "HDFC ASSET MANAGEMENT COMPANY LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6030",
+    "name": "CITIC SECURITIES COMPANY LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "601288",
+    "name": "AGRICULTURAL BANK OF CHINA LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2600",
+    "name": "ALUMINUM CORPORATION OF CHINA LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ICICIGI",
+    "name": "ICICI LOMBARD GENERAL INSURANCE CO",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "268",
+    "name": "KINGDEE INT L SOFTWARE GROUP LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "047810",
+    "name": "KOREA AEROSPACE INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.05
+  },
+  {
+    "ticker": "RADL3",
+    "name": "RAIA DROGASIL",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.05
+  },
+  {
+    "ticker": "086520",
+    "name": "ECOPRO LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2368",
+    "name": "GOLD CIRCUIT ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "NPH",
+    "name": "NORTHAM PLATINUM HLDGS LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.05
+  },
+  {
+    "ticker": "600900",
+    "name": "CHINA YANGTZE POWER LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FORTIS",
+    "name": "FORTIS HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BSE",
+    "name": "BSE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1050",
+    "name": "BANQUE SAUDI FRANSI",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "INDUSINDBK",
+    "name": "INDUSIND BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "DNP",
+    "name": "DINO POLSKA SA",
+    "sector": "Consumer Staples",
+    "country": "Poland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MUTHOOTFIN",
+    "name": "MUTHOOT FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AMMN",
+    "name": "AMMAN MINERAL INTERNASIONAL",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1140",
+    "name": "BANK ALBILAD",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3606",
+    "name": "FUYAO GLASS INDUSTRY GROUP LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AOT.R",
+    "name": "AIRPORTS OF THAILAND NON-VOTING DR",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ADNOCGAS",
+    "name": "ADNOC GAS PLC",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ASURB",
+    "name": "GRUPO AEROPORTUARIO DEL SURESTE B",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.05
+  },
+  {
+    "ticker": "7203",
+    "name": "AL-ELM INFORMATION SECURITY COMPAN",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "IOC",
+    "name": "INDIAN OIL CORP LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MFSL",
+    "name": "MAX FINANCIAL SERVICES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3293",
+    "name": "INTERNATIONAL GAMES SYSTEM LTD",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "096770",
+    "name": "SK INNOVATION LTD",
+    "sector": "Energy",
+    "country": "Korea (South)",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GODREJCP",
+    "name": "GODREJ CONSUMER PRODUCTS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BRPT",
+    "name": "BARITO PACIFIC",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HINDPETRO",
+    "name": "HINDUSTAN PETROLEUM CORP LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BDO",
+    "name": "BDO UNIBANK INC",
+    "sector": "Financials",
+    "country": "Philippines",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1080",
+    "name": "ARAB NATIONAL BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "LUPIN",
+    "name": "LUPIN LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PIDILITIND",
+    "name": "PIDILITE INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PPH",
+    "name": "PEPKOR HOLDINGS SHS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.05
+  },
+  {
+    "ticker": "RECLTD",
+    "name": "REC",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SPL",
+    "name": "SANTANDER BANK POLSKA SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "UNITDSPR",
+    "name": "UNITED SPIRITS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FEDERALBNK",
+    "name": "FEDERAL BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.05
+  },
+  {
+    "ticker": "JBS",
+    "name": "JBS N V NV CLASS A",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3443",
+    "name": "GLOBAL UNICHIP CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "2331",
+    "name": "LI NING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TORNTPHARM",
+    "name": "TORRENT PHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "836",
+    "name": "CHINA RESOURCES POWER LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4904",
+    "name": "FAR EASTONE TELECOMMUNICATIONS LTD",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LTIM",
+    "name": "LTIMINDTREE LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VIVT3",
+    "name": "TELEFONICA BRASIL SA",
+    "sector": "Communication",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VBBR3",
+    "name": "VIBRA ENERGIA SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NRP",
+    "name": "NEPI ROCKCASTLE NV",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1301",
+    "name": "FORMOSA PLASTICS CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "IQCD",
+    "name": "INDUSTRIES QATAR",
+    "sector": "Industrials",
+    "country": "Qatar",
+    "weight": 0.04
+  },
+  {
+    "ticker": "259960",
+    "name": "KRAFTON INC",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3750",
+    "name": "CONTEMPORARY AMPEREX TECHNOLOGY LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LPP",
+    "name": "LPP SA",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1919",
+    "name": "COSCO SHIPPING HOLDINGS LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ASHOKLEY",
+    "name": "ASHOK LEYLAND LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "601318",
+    "name": "PING AN INSURANCE (GROUP) OF CHINA",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CLS",
+    "name": "CLICKS GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BSANTANDER",
+    "name": "BANCO SANTANDER CHILE",
+    "sector": "Financials",
+    "country": "Chile",
+    "weight": 0.04
+  },
+  {
+    "ticker": "VOD",
+    "name": "VODACOM GROUP LTD",
+    "sector": "Communication",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AC*",
+    "name": "ARCA CONTINENTAL",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6881",
+    "name": "CHINA GALAXY SECURITIES LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ADANIPOWER",
+    "name": "ADANI POWER LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "REM",
+    "name": "REMGRO LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2338",
+    "name": "WEICHAI POWER LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "5876",
+    "name": "SHANGHAI COMMERCIAL LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "005387",
+    "name": "HYUNDAI MOTOR S2 PREF",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "087010",
+    "name": "PEPTRON INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TOTS3",
+    "name": "TOTVS SA",
+    "sector": "Information Technology",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BBDC3",
+    "name": "BANCO BRADESCO SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "247540",
+    "name": "ECOPRO BM LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "000150",
+    "name": "DOOSAN CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "5871",
+    "name": "CHAILEASE HOLDING LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TUPRS.E",
+    "name": "TURKIYE PETROL RAFINERILERI A",
+    "sector": "Energy",
+    "country": "Turkey",
+    "weight": 0.04
+  },
+  {
+    "ticker": "003670",
+    "name": "POSCO FUTURE M LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GAIL",
+    "name": "GAIL INDIA LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "010120",
+    "name": "LS ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "003550",
+    "name": "LG CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6223",
+    "name": "MPI CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "8069",
+    "name": "E INK HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FIBRAPL14",
+    "name": "PROLOGIS PROPERTY MEXICO REIT SA",
+    "sector": "Real Estate",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GFINBURO",
+    "name": "GRUPO FINANCIERO INBURSA SRIES O",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "007660",
+    "name": "ISUPETASYS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PAYTM",
+    "name": "ONE COMMUNICATIONS LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ADNOCDRILL",
+    "name": "ADNOC DRILLING COMPANY",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
+    "weight": 0.04
+  },
+  {
+    "ticker": "018260",
+    "name": "SAMSUNG SDS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2333",
+    "name": "GREAT WALL MOTOR COMPANY LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "POLYCAB",
+    "name": "POLYCAB INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1171",
+    "name": "YANKUANG ENERGY GROUP COMPANY LTD",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RNI",
+    "name": "REINET INVESTMENTS S.C.A.",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MARICO",
+    "name": "MARICO LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "300308",
+    "name": "ZHONGJI INNOLIGHT LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "000100",
+    "name": "YUHAN CORP",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2359",
+    "name": "WUXI APPTEC LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TAL",
+    "name": "TAL EDUCATION GROUP ADR REPTG",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "COMI",
+    "name": "COMMERCIAL INTERNATIONAL BANK EGYP",
+    "sector": "Financials",
+    "country": "Egypt",
+    "weight": 0.04
+  },
+  {
+    "ticker": "352820",
+    "name": "HYBE LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "601899",
+    "name": "ZIJIN MINING GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "KOFUBL",
+    "name": "COCA-COLA FEMSA CLASS UBL UNITS",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MBK",
+    "name": "MBANK SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MTLN",
+    "name": "METLEN ENERGY & METALS PLC",
+    "sector": "Industrials",
+    "country": "Greece",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FUNO11",
+    "name": "FIBRA UNO ADMINISTRACION REIT",
+    "sector": "Real Estate",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BAAKOMB",
+    "name": "KOMERCNI BANK",
+    "sector": "Financials",
+    "country": "Czech Republic",
+    "weight": 0.04
+  },
+  {
+    "ticker": "HYUNDAI",
+    "name": "HYUNDAI MOTOR INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "IHH",
+    "name": "IHH HEALTHCARE",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "JINDALSTEL",
+    "name": "JINDAL STEEL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "688256",
+    "name": "CAMBRICON TECHNOLOGIES CORPORATION",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1101",
+    "name": "TAIWAN CEMENT LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BCI",
+    "name": "BANCO DE CREDITO E INVERSION",
+    "sector": "Financials",
+    "country": "Chile",
+    "weight": 0.04
+  },
+  {
+    "ticker": "DEWA",
+    "name": "DUBAI ELECTRICITY AND WATER AUTHOR",
+    "sector": "Utilities",
+    "country": "United Arab Emirates",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AKBNK.E",
+    "name": "AKBANK A",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ADANIENT",
+    "name": "ADANI ENTERPRISES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "168",
+    "name": "TSINGTAO BREWERY LTD H",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SRF",
+    "name": "SRF LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BBSE3",
+    "name": "BB SEGURIDADE SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "6446",
+    "name": "PHARMAESSENTIA CORP",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GGBR4",
+    "name": "GERDAU PREF SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BIMBOA",
+    "name": "GRUPO BIMBO A",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SCC.R",
+    "name": "SIAM CEMENT NON-VOTING DR PCL",
+    "sector": "Materials",
+    "country": "Thailand",
+    "weight": 0.04
+  },
+  {
+    "ticker": "002594",
+    "name": "BYD LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "1816",
+    "name": "CGN POWER LTD H",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GVT&D",
+    "name": "GE VERNOVA T&D INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MRF",
+    "name": "MRF LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4938",
+    "name": "PEGATRON CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "071050",
+    "name": "KOREA INVESTMENT HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BHARATFORG",
+    "name": "BHARAT FORGE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SOLARINDS",
+    "name": "SOLAR INDUSTRIES INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FALABELLA",
+    "name": "FALABELLA SACI SA",
+    "sector": "Consumer Discretionary",
+    "country": "Chile",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PTTEP.R",
+    "name": "PTT EXPLORATION AND PRODUCTION NON",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.04
+  },
+  {
+    "ticker": "241",
+    "name": "ALIBABA HEALTH INFORMATION TECH LT",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CIBEST",
+    "name": "GRUPO CIBEST SA",
+    "sector": "Financials",
+    "country": "Colombia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2099",
+    "name": "CHINA GOLD INTERNATIONAL RESOURCES",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "086280",
+    "name": "HYUNDAI GLOVIS LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LAURUSLABS",
+    "name": "LAURUS LABS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "688041",
+    "name": "HYGON INFORMATION TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2912",
+    "name": "PRESIDENT CHAIN STORE CORP",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CENCOSUD",
+    "name": "CENCOSUD SA",
+    "sector": "Consumer Staples",
+    "country": "Chile",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2611",
+    "name": "GUOTAI HAITONG SECURITIES CO LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "EMAARDEV",
+    "name": "EMAAR DEVELOPMENT",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
+    "weight": 0.04
+  },
+  {
+    "ticker": "601398",
+    "name": "INDUSTRIAL AND COMMERCIAL BANK OF",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "EMBASSY",
+    "name": "EMBASSY OFFICE PARKS REIT UNITS",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "358",
+    "name": "JIANGXI COPPER LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2376",
+    "name": "GIGABYTE TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CDR",
+    "name": "CD PROJEKT SA",
+    "sector": "Communication",
+    "country": "Poland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2395",
+    "name": "ADVANTECH LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SOL",
+    "name": "SASOL LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "298380",
+    "name": "ABL BIO INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LODHA",
+    "name": "LODHA DEVELOPERS LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "9660",
+    "name": "HORIZON ROBOTICS",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BAJAJHLDNG",
+    "name": "BAJAJ HOLDINGS AND INVESTMENT LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3529",
+    "name": "EMEMORY TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2801",
+    "name": "CHANG HWA COMMERCIAL BANK LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BVT",
+    "name": "BIDVEST GROUP LTD",
+    "sector": "Industrials",
+    "country": "South Africa",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3044",
+    "name": "TRIPOD TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PHOENIXLTD",
+    "name": "PHOENIX MILLS LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.04
+  },
+  {
+    "ticker": "010620",
+    "name": "HD HYUNDAI MIPO LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2404",
+    "name": "UNITED INTEGRATED SERVICES LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BBNI",
+    "name": "BANK NEGARA INDONESIA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AMBUJACEM",
+    "name": "AMBUJA CEMENTS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1929",
+    "name": "CHOW TAI FOOK JEWELLERY GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3908",
+    "name": "CHINA INTERNATIONAL CAPITAL CORP L",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9698",
+    "name": "GDS HOLDINGS LTD CLASS A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "003230",
+    "name": "SAM YANG FOODS LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UPL",
+    "name": "UPL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SWIGGY",
+    "name": "SWIGGY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6919",
+    "name": "CALIWAY BIOPHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1209",
+    "name": "CHINA RESOURCES MIXC LIFESTYLE SER",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1787",
+    "name": "SHANDONG GOLD MINING LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AUBANK",
+    "name": "AU SMALL FINANCE BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GCARSOA1",
+    "name": "GRUPO CARSO SERIES A1",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3888",
+    "name": "KINGSOFT LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SMPH",
+    "name": "SM PRIME HOLDINGS INC",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.03
+  },
+  {
+    "ticker": "300",
+    "name": "MIDEA GROUP LTD CLASS H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TPIA",
+    "name": "CHANDRA ASRI PACIFIC",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "028300",
+    "name": "HLB INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BVN",
+    "name": "BUENAVENTURA ADR REPRESENTING",
+    "sector": "Materials",
+    "country": "Peru",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1590",
+    "name": "AIRTAC INTERNATIONAL GROUP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1504",
+    "name": "TECO ELECTRIC & MACHINERY LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TIINDIA",
+    "name": "TUBE INVESTMENTS OF INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2324",
+    "name": "COMPAL ELECTRONICS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GODREJPROP",
+    "name": "GODREJ PROPERTIES LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "RAIL3",
+    "name": "RUMO SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2834",
+    "name": "TAIWAN BUSINESS BANK LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2018",
+    "name": "AAC TECHNOLOGIES HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "RICHTER",
+    "name": "GEDEON RICHTER",
+    "sector": "Health Care",
+    "country": "Hungary",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TRUE.R",
+    "name": "TRUE CORPORATION NON-VOTING DR PCL",
+    "sector": "Communication",
+    "country": "Thailand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CBQK",
+    "name": "COMMERCIAL BANK OF QATAR",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.03
+  },
+  {
+    "ticker": "APLAPOLLO",
+    "name": "APL APOLLO TUBES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CMIG4",
+    "name": "CIA ENERGETICA DE MINAS GERAIS PRE",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "005830",
+    "name": "DB INSURANCE LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NYKAA",
+    "name": "FSN E-COMMERCE VENTURES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "780",
+    "name": "TONGCHENG TRAVEL HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HAVELLS",
+    "name": "HAVELLS INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OPAP",
+    "name": "GREEK ORGANISATION OF FOOTBALL PRO",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OMAB",
+    "name": "GRUPO AEROPORTUARIO DEL CENTRO NOR",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1766",
+    "name": "CRRC CORP LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MARK",
+    "name": "MASRAF AL RAYAN",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VOLTAS",
+    "name": "VOLTAS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OUT",
+    "name": "OUTSURANCE GROUP LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "042700",
+    "name": "HANMI SEMICONDUCTOR LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "079550",
+    "name": "LIG NEX1 LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "THYAO.E",
+    "name": "TURK HAVA YOLLARI AO A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1258",
+    "name": "CHINA NONFERROUS MINING CORPORATIO",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TIMS3",
+    "name": "TIM SA",
+    "sector": "Communication",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AUROPHARMA",
+    "name": "AUROBINDO PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "902",
+    "name": "HUANENG POWER INTERNATIONAL INC H",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "914",
+    "name": "ANHUI CONCH CEMENT LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "YESBANK",
+    "name": "YES BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "STNE",
+    "name": "STONECO LTD CLASS A",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BOUBYAN",
+    "name": "BOUBYAN BANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.03
+  },
+  {
+    "ticker": "278470",
+    "name": "APR LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1357",
+    "name": "MEITU INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3800",
+    "name": "GCL TECHNOLOGY HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BELA",
+    "name": "JUMBO SA",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BPI",
+    "name": "BANK OF THE PHILIPPINE ISLANDS",
+    "sector": "Financials",
+    "country": "Philippines",
+    "weight": 0.03
+  },
+  {
+    "ticker": "601166",
+    "name": "INDUSTRIAL BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SCB.R",
+    "name": "SCB X PUBLIC COMPANY LIMITED NON-V",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "000858",
+    "name": "WULIANGYE YIBIN LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2474",
+    "name": "CATCHER TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1988",
+    "name": "CHINA MINSHENG BANKING CORP LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PRESTIGE",
+    "name": "PRESTIGE ESTATES PROJECTS LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MOL",
+    "name": "MOL HUNGARIAN OIL AND GAS",
+    "sector": "Energy",
+    "country": "Hungary",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PETGAS",
+    "name": "PETRONAS GAS",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "966",
+    "name": "CHINA TAIPING INSURANCE HLDGS LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BHEL",
+    "name": "BHARAT HEAVY ELECTRICALS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9863",
+    "name": "ZHEJIANG LEAPMOTOR TECHNOLOGY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AMBANK",
+    "name": "AMMB HOLDINGS",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2356",
+    "name": "INVENTEC CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1326",
+    "name": "FORMOSA CHEMICALS & FIBRE CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1519",
+    "name": "FORTUNE ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BRMS",
+    "name": "BUMI RESOURCES MINERALS",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6886",
+    "name": "HUATAI SECURITIES LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PPC",
+    "name": "PUBLIC POWER CORPORATION SA",
+    "sector": "Utilities",
+    "country": "Greece",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1208",
+    "name": "MMG LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "OMU",
+    "name": "OLD MUTUAL LIMITED LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "006800",
+    "name": "MIRAE ASSET SECURITIES CO LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MBRF3",
+    "name": "MARFRIG GLOBAL FOODS SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ADNOCDIST",
+    "name": "ABU DHABI NATIONAL OIL COMPANY FOR",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8210",
+    "name": "BUPA ARABIA",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BANKBARODA",
+    "name": "BANK OF BARODA LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "COLPAL",
+    "name": "COLGATE PALMOLIVE INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6770",
+    "name": "POWERCHIP SEMICONDUCTOR MANUFACTUR",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HLBANK",
+    "name": "HONG LEONG BANK",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SWB",
+    "name": "SUNWAY BHD",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GRT",
+    "name": "GROWTHPOINT PROP LTD SHS",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "285",
+    "name": "BYD ELECTRONIC (INTERNATIONAL) LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "135",
+    "name": "KUNLUN ENERGY LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "002475",
+    "name": "LUXSHARE PRECISION INDUSTRY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SIEMENS",
+    "name": "SIEMENS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IDFCFIRSTB",
+    "name": "IDFC FIRST BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SUNDARMFIN",
+    "name": "SUNDARAM FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "011200",
+    "name": "HMM LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IDEA",
+    "name": "VODAFONE IDEA LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1099",
+    "name": "SINOPHARM GROUP LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "000720",
+    "name": "HYUNDAI ENGINEERING & CONSTRUCTION",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BOSCHLTD",
+    "name": "BOSCH LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "QGTS",
+    "name": "QATAR GAS TRANSPORT COMPANY LTD",
+    "sector": "Energy",
+    "country": "Qatar",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GOTO",
+    "name": "GOTO GOJEK TOKOPEDIA",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CPN.R",
+    "name": "CENTRAL PATTANA NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ZAIN",
+    "name": "MOBILE TEL",
+    "sector": "Communication",
+    "country": "Kuwait",
+    "weight": 0.03
+  },
+  {
+    "ticker": "024110",
+    "name": "INDUSTRIAL BANK OF KOREA",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6239",
+    "name": "POWERTECH TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "425",
+    "name": "MINTH GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ACP",
+    "name": "ASSECO POLAND SA",
+    "sector": "Information Technology",
+    "country": "Poland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "RADICO",
+    "name": "RADICO KHAITAN LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MANKIND",
+    "name": "MANKIND PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GMRAIRPORT",
+    "name": "GMR AIRPORTS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "300059",
+    "name": "EAST MONEY INFORMATION LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "QIIK",
+    "name": "QATAR INTERNATIONAL ISLAMIC BANK",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BH.R",
+    "name": "BUMRUNGRAD HOSPITAL NON-VOTING DR",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "DABUR",
+    "name": "DABUR INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "POWERINDIA",
+    "name": "HITACHI ENERGY INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "021240",
+    "name": "COWAY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "141080",
+    "name": "LIGA CHEM BIO INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VMM",
+    "name": "VISHAL MEGA MART LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ISA",
+    "name": "INTERCONEXION ELECTRICA SA",
+    "sector": "Utilities",
+    "country": "Colombia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MPHASIS",
+    "name": "MPHASIS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TBS",
+    "name": "TIGER BRANDS LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "601328",
+    "name": "BANK OF COMMUNICATIONS LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KBANK.R",
+    "name": "KASIKORNBANK PUBLIC NON-VOTING DR",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WAAREEENER",
+    "name": "WAAREE ENERGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MRP",
+    "name": "MR PRICE GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MIL",
+    "name": "BANK MILLENNIUM SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SALIK",
+    "name": "SALIK COMPANY P.J.S.C",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2618",
+    "name": "JD LOGISTICS INC",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "600276",
+    "name": "JIANGSU HENGRUI MEDICINE LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "151",
+    "name": "WANT WANT CHINA HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AIRARABIA",
+    "name": "AIR ARABIA",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PNB",
+    "name": "PUNJAB NATIONAL BANK",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KCHOL.E",
+    "name": "KOC HOLDING A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PIIND",
+    "name": "P.I. INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3702",
+    "name": "WPG HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AXIA6",
+    "name": "CENTRAIS ELETR BRAS-ELETROBRAS PRE",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GLENMARK",
+    "name": "GLENMARK PHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "010130",
+    "name": "KOREA ZINC INC",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "CDB",
+    "name": "CELCOMDIGI",
+    "sector": "Communication",
+    "country": "Malaysia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LREN3",
+    "name": "LOJAS RENNER SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ABB",
+    "name": "ABB INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "763",
+    "name": "ZTE CORP H",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5110",
+    "name": "SAUDI ELECTRICITY",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5347",
+    "name": "VANGUARD INTERNATIONAL SEMICONDUCT",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "COROMANDEL",
+    "name": "COROMANDEL INTERNATIONAL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "300274",
+    "name": "SUNGROW POWER SUPPLY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "322",
+    "name": "TINGYI (CAYMAN ISLANDS) HOLDINGS C",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HTO",
+    "name": "HELLENIC TELECOMMUNICATIONS ORGANI",
+    "sector": "Communication",
+    "country": "Greece",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3998",
+    "name": "BOSIDENG INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UGPA3",
+    "name": "ULTRAPAR PARTICIPOES SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TPE",
+    "name": "TAURON POLSKA ENERGIA SA",
+    "sector": "Utilities",
+    "country": "Poland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3533",
+    "name": "LOTES LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "532483",
+    "name": "CANARA BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "016360",
+    "name": "SAMSUNG SECURITIES LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MOTV3",
+    "name": "MOTIVA INFRAESTRUTURA DE MOBILIDAD",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1519",
+    "name": "J&T GLOBAL EXPRESS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "005385",
+    "name": "HYUNDAI MOTOR S1 PREF",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KEI",
+    "name": "KEI INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WHL",
+    "name": "WOOLWORTHS HOLDING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UNOMINDA",
+    "name": "UNO MINDA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3481",
+    "name": "INNOLUX CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2609",
+    "name": "YANG MING MARINE TRANSPORT CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GRUMAB",
+    "name": "GRUMA",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WARBABANK",
+    "name": "WARBABANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2618",
+    "name": "EVA AIRWAYS CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GENTERA*",
+    "name": "GENTERA SAB DE CV",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4958",
+    "name": "ZHEN DING TECHNOLOGY HOLDING LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "270",
+    "name": "GUANGDONG INVESTMENT LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KIMBERA",
+    "name": "KIMBERLY-CLARK DE MEXICO CLASS A",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6969",
+    "name": "SMOORE INTERNATIONAL HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NHPC",
+    "name": "NHPC LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ORDS",
+    "name": "OOREDOO",
+    "sector": "Communication",
+    "country": "Qatar",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300502",
+    "name": "EOPTOLINK TECHNOLOGY INC LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1605",
+    "name": "WALSIN LIHWA CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JSL",
+    "name": "JINDAL STAINLESS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KTB.R",
+    "name": "KRUNG THAI BANK PUBLIC NON-VOTING",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PAGEIND",
+    "name": "PAGE INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALKEM",
+    "name": "ALKEM LABORATORIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CUAN",
+    "name": "PETRINDO JAYA KREASI",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SBICARD",
+    "name": "SBI CARDS & PAYMENT SERVICES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PINFRA*",
+    "name": "PROMOTORA Y OPERADORA DE INFRAESTR",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "COPEC",
+    "name": "EMPRESAS COPEC SA",
+    "sector": "Consumer Discretionary",
+    "country": "Chile",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SHREECEM",
+    "name": "SHREE CEMENT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3036",
+    "name": "WT MICROELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6862",
+    "name": "HAIDILAO INTERNATIONAL HOLDING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "161390",
+    "name": "HANKOOK TIRE & TECHNOLOGY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENEV3",
+    "name": "ENEVA SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MER",
+    "name": "MANILA ELECTRIC",
+    "sector": "Utilities",
+    "country": "Philippines",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENGI11",
+    "name": "ENERGISA UNITS SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TCELL.E",
+    "name": "TURKCELL ILETISIM HIZMETLERI A",
+    "sector": "Communication",
+    "country": "Turkey",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6488",
+    "name": "GLOBALWAFERS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YTLPOWR",
+    "name": "YTL POWER INTERNATIONAL",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2400",
+    "name": "XD INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BLUESTARCO",
+    "name": "BLUE STAR LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6274",
+    "name": "TAIWAN UNION TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600000",
+    "name": "SHANGHAI PUDONG DEVELOPMENT BANK L",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SDG",
+    "name": "SD GUTHRIE",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3706",
+    "name": "MITAC HOLDINGS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LTF",
+    "name": "L&T FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "326030",
+    "name": "SK BIOPHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3323",
+    "name": "CHINA NATIONAL BUILDING MATERIAL L",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALFAA",
+    "name": "ALFA A",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6990",
+    "name": "SICHUAN KELUN-BIOTECH BIOPHARMACEU",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1898",
+    "name": "CHINA COAL ENERGY LTD H",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JSWENERGY",
+    "name": "JSW ENERGY LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ICICIPRULI",
+    "name": "ICICI PRUDENTIAL LIFE INSURANCE CO",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KLBN11",
+    "name": "KLABIN UNITS SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MABANEE",
+    "name": "MABANEE COMPANY",
+    "sector": "Real Estate",
+    "country": "Kuwait",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2812",
+    "name": "TAICHUNG COMMERCIAL BANK LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UNTR",
+    "name": "UNITED TRACTORS",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NMDC",
+    "name": "NMDC LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "272210",
+    "name": "HANWHA SYSTEMS LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YKBNK.E",
+    "name": "YAPI VE KREDI BANKASI A",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3898",
+    "name": "ZHUZHOU CRRC TIMES ELECTRIC LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "960",
+    "name": "LONGFOR GROUP HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JUBLFOOD",
+    "name": "JUBILANT FOODWORKS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "UNIONBANK",
+    "name": "UNION BANK OF INDIA LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TORNTPOWER",
+    "name": "TORRENT POWER LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RHBBANK",
+    "name": "RHB BANK",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SUPREMEIND",
+    "name": "SUPREME INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8010",
+    "name": "THE COOPERATIVE INSURANCE",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DELHIVERY",
+    "name": "DELHIVERY LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OBEROIRLTY",
+    "name": "OBEROI REALTY LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SM",
+    "name": "SM INVESTMENTS CORP",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KLK",
+    "name": "KUALA LUMPUR KEPONG",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MISC",
+    "name": "MISC",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "384",
+    "name": "CHINA GAS HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ISCTR.E",
+    "name": "TURKIYE IS BANKASI C",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MCX",
+    "name": "MULTI COMMODITY EXCHANGE OF INDIA",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2268",
+    "name": "WUXI XDC CAYMAN INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "028050",
+    "name": "SAMSUNG E&A LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "002371",
+    "name": "NAURA TECHNOLOGY GROUP LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1102",
+    "name": "ASIA CEMENT CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ZYDUSLIFE",
+    "name": "ZYDUS LIFESCIENCES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALR",
+    "name": "ALIOR BANK SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SONACOMS",
+    "name": "SONA BLW PRECISION FORGINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BIOCON",
+    "name": "BIOCON LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1111",
+    "name": "SAUDI TADAWUL GROUP CO",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9896",
+    "name": "MINISO GROUP HOLDING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1548",
+    "name": "GENSCRIPT BIOTECH CORP",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "136",
+    "name": "CHINA RUYI HOLDINGS LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PGE",
+    "name": "PGE POLSKA GRUPA ENERGETYCZNA SA",
+    "sector": "Utilities",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MTM",
+    "name": "MOMENTUM GROUP LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MONET",
+    "name": "MONETA MONEY BNK",
+    "sector": "Financials",
+    "country": "Czech Republic",
+    "weight": 0.02
+  },
+  {
+    "ticker": "003490",
+    "name": "KOREAN AIR LINES LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TATACOMM",
+    "name": "TATA COMMUNICATIONS LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NATIONALUM",
+    "name": "NATIONAL ALUMINIUM CO LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4250",
+    "name": "JABAL OMAR DEVELOPMENT",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IOICORP",
+    "name": "IOI CORPORATION",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OIL",
+    "name": "OIL INDIA LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MAXIS",
+    "name": "MAXIS",
+    "sector": "Communication",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "144",
+    "name": "CHINA MERCHANTS PORT HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1402",
+    "name": "FAR EASTERN NEW CENTURY CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2353",
+    "name": "ACER",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "039490",
+    "name": "KIWOOM SECURITIES LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPF.R",
+    "name": "CHAROEN POKPHAND FOODS NON-VOTING",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EXX",
+    "name": "EXXARO RESOURCES LTD",
+    "sector": "Energy",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "090430",
+    "name": "AMOREPACIFIC CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KALYANKJIL",
+    "name": "KALYAN JEWELLERS INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "323410",
+    "name": "KAKAOBANK CORP",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3808",
+    "name": "SINOTRUK (HONG KONG) LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9899",
+    "name": "NETEASE CLOUD MUSIC INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2385",
+    "name": "CHICONY ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "138930",
+    "name": "BNK FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4300",
+    "name": "DAR AL ARKAN REAL ESTATE DEVELOPME",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2377",
+    "name": "MICRO-STAR INTERNATIONAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "277810",
+    "name": "RAINBOW ROBOTICS",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KPITTECH",
+    "name": "KPIT TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CHOLAHLDNG",
+    "name": "CHOLAMANDALAM FINANCIAL HOLDINGS L",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2313",
+    "name": "COMPEQ MANUFACTURING LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PETRONET",
+    "name": "PETRONET LNG LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPLE5",
+    "name": "CIA PARANAENSE DE ENERGIA COPEL CO",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DIC",
+    "name": "DUBAI INVESTMENT",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KRU",
+    "name": "KRUK SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASAI3",
+    "name": "SENDAS DISTRIBUIDORA SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QFIN",
+    "name": "QFIN HOLDINGS ADR INC",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4100",
+    "name": "MAKKAH CONSTRUCTION AND DEVELOPMEN",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JKCEMENT",
+    "name": "J.K. CEMENT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QNNS",
+    "name": "QATAR NAVIGATION",
+    "sector": "Industrials",
+    "country": "Qatar",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1476",
+    "name": "ECLAT TEXTILE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "867",
+    "name": "CHINA MEDICAL SYSTEM HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "916",
+    "name": "CHINA LONGYUAN POWER GROUP CORP LT",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600030",
+    "name": "CITIC SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2POINTZERO",
+    "name": "TWO POINT ZERO GROUP",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.02
+  },
+  {
+    "ticker": "VESTA*",
+    "name": "CORPORACION INMOBILIARIA VESTA",
+    "sector": "Real Estate",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2347",
+    "name": "SYNNEX TECHNOLOGY INTERNATIONAL CO",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "360ONE",
+    "name": "360 ONE WAM LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "000250",
+    "name": "SAM CHUN DANG PHARM LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2337",
+    "name": "MACRONIX INTERNATIONAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NAVINFLUOR",
+    "name": "NAVIN FLUORINE INTERNATIONAL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "006260",
+    "name": "LS CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IPCALAB",
+    "name": "IPCA LABORATORIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1193",
+    "name": "CHINA RESOURCES GAS GROUP LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "257",
+    "name": "CHINA EVERBRIGHT ENVIRONMENT GROUP",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2027",
+    "name": "TA CHEN STAINLESS PIPE LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RES",
+    "name": "RESILIENT PROP LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RDF",
+    "name": "REDEFINE PROPERTIES LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300476",
+    "name": "VICTORY GIANT TECHNOLOGY HUIZHOU L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601088",
+    "name": "CHINA SHENHUA ENERGY LTD A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "034220",
+    "name": "LG DISPLAY LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALI",
+    "name": "AYALA LAND INC",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6855",
+    "name": "ASCENTAGE PHARMA GROUP INTERNATION",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GBK",
+    "name": "GULF BANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6805",
+    "name": "FOSITEK CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "214450",
+    "name": "PHARMARESEARCH LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6409",
+    "name": "VOLTRONIC POWER TECHNOLOGY CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPIN",
+    "name": "CHAROEN POKPHAND INDONESIA",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "148",
+    "name": "KINGBOARD HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "010950",
+    "name": "S-OIL CORP",
+    "sector": "Energy",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CAMS",
+    "name": "COMPUTER AGE MANAGEMENT SERVICES L",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MINT.R",
+    "name": "MINOR INTERNATIONAL PUBLIC NON-VOT",
+    "sector": "Consumer Discretionary",
+    "country": "Thailand",
+    "weight": 0.02
+  },
+  {
+    "ticker": "032640",
+    "name": "LG UPLUS CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NIND",
+    "name": "NATIONAL INDUSTRIES GROUP HOLDING",
+    "sector": "Industrials",
+    "country": "Kuwait",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MTELEKOM",
+    "name": "MAGYAR TELEKOM",
+    "sector": "Communication",
+    "country": "Hungary",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6181",
+    "name": "LAOPU GOLD LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9904",
+    "name": "POU CHEN CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3260",
+    "name": "ADATA TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PCHEM",
+    "name": "PETRONAS CHEMICALS GROUP",
+    "sector": "Materials",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "066970",
+    "name": "L&F LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ALOS3",
+    "name": "ALLOS SA",
+    "sector": "Real Estate",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INTR",
+    "name": "INTER AND CO INC CLASS A",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "IRCTC",
+    "name": "INDIAN RAILWAY CATERING AND TOURIS",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENELCHILE",
+    "name": "ENEL CHILE SA",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TM",
+    "name": "TELEKOM MALAYSIA",
+    "sector": "Communication",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2451",
+    "name": "TRANSCEND INFORMATION INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2409",
+    "name": "AUO CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "316",
+    "name": "ORIENT OVERSEAS (INTERNATIONAL) LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TATAELXSI",
+    "name": "TATA ELXSI LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CHDRAUIB",
+    "name": "GRUPO COMERCIAL CHEDRAUI",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QEWS",
+    "name": "QATAR ELECTRICITY AND WATER",
+    "sector": "Utilities",
+    "country": "Qatar",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2290",
+    "name": "YANBU NATIONAL PETROCHEMICALS",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "390",
+    "name": "CHINA RAILWAY GROUP LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9688",
+    "name": "ZAI LAB LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CCC",
+    "name": "CCC SA",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "OFSS",
+    "name": "ORACLE FINANCIAL SERVICES SOFTWARE",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SAHOL.E",
+    "name": "HACI OMER SABANCI HOLDING A",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6139",
+    "name": "L & K ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "M&MFIN",
+    "name": "MAHINDRA AND MAHINDRA FINANCIAL SE",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BALKRISIND",
+    "name": "BALKRISHNA INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "REDINGTON",
+    "name": "REDINGTON LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PARAUCO",
+    "name": "PARQUE ARAUCO SA",
+    "sector": "Real Estate",
+    "country": "Chile",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1030",
+    "name": "SAUDI INVESTMENT BANK",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BDX",
+    "name": "BUDIMEX SA",
+    "sector": "Industrials",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9880",
+    "name": "UBTECH ROBOTICS CORP LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASTRAL",
+    "name": "ASTRAL LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AMRT",
+    "name": "PT SUMBER ALFARIA TRIJAYA",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "241560",
+    "name": "DOOSAN BOBCAT INC",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8210",
+    "name": "CHENBRO MICOM LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "009830",
+    "name": "HANWHA SOLUTIONS CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "392",
+    "name": "BEIJING ENTERPRISES HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EREGL.E",
+    "name": "EREGLI DEMIR VE CELIK FABRIKALARI",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SGAFT",
+    "name": "CASH COLLATERAL USD SGAFT",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "011070",
+    "name": "LG INNOTEK LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TITC",
+    "name": "TITAN SA",
+    "sector": "Materials",
+    "country": "Greece",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LEGN",
+    "name": "LEGEND BIOTECH ADR REP CORP",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "175330",
+    "name": "JB FINANCIAL GROUP LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BFT",
+    "name": "BENEFIT SYSTEMS SA",
+    "sector": "Industrials",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FIBRAMQ12",
+    "name": "MACQUARIE MEXICO REAL ESTATE MANAG",
+    "sector": "Real Estate",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QL",
+    "name": "QL RESOURCES",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "YTL",
+    "name": "YTL CORPORATION",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "002714",
+    "name": "MUYUAN FOODS LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CARTRADE",
+    "name": "CARTRADE TECH LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2354",
+    "name": "FOXCONN TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6186",
+    "name": "CHINA FEIHE LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PPB",
+    "name": "PPB GROUP",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NH",
+    "name": "NARAYANA HRUDAYALAYA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KAYNES",
+    "name": "KAYNES TECHNOLOGY INDIA LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MSUMI",
+    "name": "MOTHERSON SUMI WIRING INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KARURVYSYA",
+    "name": "KARUR VYSYA BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "VFQS",
+    "name": "VODAFONE QATAR",
+    "sector": "Communication",
+    "country": "Qatar",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6415",
+    "name": "SILERGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PIRAMALFIN",
+    "name": "PIRAMAL FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MBT",
+    "name": "METROPOLITAN BANK AND TRUST CO",
+    "sector": "Financials",
+    "country": "Philippines",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CYRE3",
+    "name": "CYRELA BRAZIL REALTY SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600150",
+    "name": "CHINA CSSC HOLDINGS LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3324",
+    "name": "AURAS TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CDSL",
+    "name": "CENTRAL DEPOSITORY SERVICES (INDIA",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "036570",
+    "name": "NCSOFT CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AIAENG",
+    "name": "AIA ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4190",
+    "name": "JARIR MARKETING",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PAGS",
+    "name": "PAGSEGURO DIGITAL LTD CLASS A",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "Q*",
+    "name": "QUALITAS CONTROLADORA",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9995",
+    "name": "REMEGEN LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FFB",
+    "name": "FORTRESS REAL EST INV B LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1020",
+    "name": "BANK ALJAZIRA",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ZAB",
+    "name": "ZABKA GROUP SOCIETE ANONYME SA",
+    "sector": "Consumer Staples",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LICHSGFIN",
+    "name": "LIC HOUSING FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "APARINDS",
+    "name": "APAR INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EXIDEIND",
+    "name": "EXIDE INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BBAJIOO",
+    "name": "BANCO DEL BAJIO INSTITUCION DE BAN",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BRL",
+    "name": "BRL CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6060",
+    "name": "ZHONGAN ONLINE P & C INSURANCE COR",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CROMPTON",
+    "name": "CROMPTON GREAVES CONSUMER ELECTRIC",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5536",
+    "name": "ACTER CORP LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "6515",
+    "name": "WINWAY TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1585",
+    "name": "YADEA GROUP HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "968",
+    "name": "XINYI SOLAR HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3360",
+    "name": "FAR EAST HORIZON LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "600809",
+    "name": "SHANXI XINGHUACUN FEN WINE FACTORY",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2615",
+    "name": "WAN HAI LINES LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "000880",
+    "name": "HANWHA CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RVNL",
+    "name": "RAIL VIKAS NIGAM LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "772",
+    "name": "CHINA LITERATURE LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CSMG3",
+    "name": "COMPANHIA DE SANEAMENTO DE MINAS G",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.02
+  },
+  {
+    "ticker": "000333",
+    "name": "MIDEA GROUP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4002",
+    "name": "AL MOUWASAT MEDICAL SERVICES",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1044",
+    "name": "HENGAN INTERNATIONAL GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "APN",
+    "name": "ASPEN PHARMACARE LTD",
+    "sector": "Health Care",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9910",
+    "name": "FENG TAY ENTERPRISES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601211",
+    "name": "GUOTAI HAITONG SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "603259",
+    "name": "WUXI APPTEC LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AXIATA",
+    "name": "AXIATA GROUP",
+    "sector": "Communication",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8464",
+    "name": "NIEN MADE ENTERPRISE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "047050",
+    "name": "POSCO INTERNATIONAL CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1303",
+    "name": "ELECTRICAL INDUSTRIES",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "PNBHOUSING",
+    "name": "PNB HOUSING FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3311",
+    "name": "CHINA STATE CONSTRUCTION INTERNATI",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INL",
+    "name": "INVESTEC LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601988",
+    "name": "BANK OF CHINA LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INDF",
+    "name": "INDOFOOD SUKSES MAKMUR",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1477",
+    "name": "MAKALOT INDUSTRIAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2799",
+    "name": "CHINA CITIC FIN ASSET MGT LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "058470",
+    "name": "LEENO INDUSTRIAL INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RA",
+    "name": "REGIONAL SAB DE CV",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2367",
+    "name": "GIANT BIOGENE HOLDING LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "603993",
+    "name": "CHINA MOLYBDENUM LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GRUPOSURA",
+    "name": "GRUPO DE INVERSIONES SURAMERICANA",
+    "sector": "Financials",
+    "country": "Colombia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AMBER",
+    "name": "AMBER ENTERPRISES INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CEMARGOS",
+    "name": "CEMENTOS ARGOS SA",
+    "sector": "Materials",
+    "country": "Colombia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "586",
+    "name": "CHINA CONCH VENTURE HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3618",
+    "name": "CHONGQING RURAL COMMERCIAL BANK LT",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3896",
+    "name": "KINGSOFT CLOUD HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "APOLLOTYRE",
+    "name": "APOLLO TYRES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1882",
+    "name": "HAITIAN INTERNATIONAL LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "189",
+    "name": "DONGYUE GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1229",
+    "name": "LIEN HWA INDUSTRIAL HOLDINGS CORP",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4200",
+    "name": "ALDREES PETROLEUM AND TRANSPORT SE",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AC",
+    "name": "AYALA CORP",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GENTING",
+    "name": "GENTING",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CONCOR",
+    "name": "CONTAINER CORPORATION OF INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MANAPPURAM",
+    "name": "MANAPPURAM FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "128940",
+    "name": "HANMI PHARM LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2228",
+    "name": "XTALPI HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601127",
+    "name": "SERES GROUP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "VKE",
+    "name": "VUKILE PROPERTY REIT LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601816",
+    "name": "BEIJING-SHANGHAI HIGH SPEED RAILWA",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ASTERDM",
+    "name": "ASTER DM HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1513",
+    "name": "CHUNG-HSIN ELECTRIC & MACHINERY MF",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "546",
+    "name": "FUFENG GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NAM.INDIA",
+    "name": "NIPPON LIFE INDIA ASSET MANAGMNT L",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2105",
+    "name": "CHENG SHIN RUBBER INDUSTRY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RBLBANK",
+    "name": "RBL BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2588",
+    "name": "BOC AVIATION LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "KIMS",
+    "name": "KRISHNA INSTITUTE OF MEDICAL SCIEN",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DRD",
+    "name": "DRDGOLD LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "310210",
+    "name": "VORONOI INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ITAUCL",
+    "name": "BANCO ITAU CHILE",
+    "sector": "Financials",
+    "country": "Chile",
+    "weight": 0.02
+  },
+  {
+    "ticker": "900948",
+    "name": "INNER MONGOLIA YITAI COAL LTD B",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MOTILALOFS",
+    "name": "MOTILAL OSWAL FINANCIAL SERVICES L",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601601",
+    "name": "CHINA PACIFIC INSURANCE (GROUP) LT",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GCC*",
+    "name": "GRUPO CEMENTOS",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.02
+  },
+  {
+    "ticker": "300760",
+    "name": "SHENZHEN MINDRAY BIO-MEDICAL ELECT",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FSL",
+    "name": "FIRSTSOURCE SOLUTIONS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "601225",
+    "name": "SHAANXI COAL INDUSTRY LTD A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "039030",
+    "name": "EO TECHNICS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ANDINA.B",
+    "name": "EMBOTELLADORA ANDINA SERIES B SA",
+    "sector": "Consumer Staples",
+    "country": "Chile",
+    "weight": 0.02
+  },
+  {
+    "ticker": "JOYY",
+    "name": "JOYY ADR INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5483",
+    "name": "SINO-AMERICAN SILICON PRODUCTS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ENA",
+    "name": "ENEA SA",
+    "sector": "Utilities",
+    "country": "Poland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "5289",
+    "name": "INNODISK CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "8046",
+    "name": "NAN YA PRINTED CIRCUIT BOARD CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "NESTLE",
+    "name": "NESTLE MALAYSIA",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AVI",
+    "name": "AVI LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CUB",
+    "name": "CITY UNION BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1908",
+    "name": "C D INTERNATIONAL INVESTMENT GROUP",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MOH",
+    "name": "MOTOR OIL (HELLAS) CORINTH REFINER",
+    "sector": "Energy",
+    "country": "Greece",
+    "weight": 0.02
+  },
+  {
+    "ticker": "13",
+    "name": "HUTCHMED (CHINA) LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2386",
+    "name": "SINOPEC ENGINEERING GROUP LTD H H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DSTKF.E",
+    "name": "DESTEK FINANS FAKTORING",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6098",
+    "name": "COUNTRY GARDEN SERVICES HOLDINGS L",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "354",
+    "name": "CHINASOFT INTERNATIONAL LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4210",
+    "name": "SAUDI RESEARCH AND MEDIA GROUP",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIMECOM",
+    "name": "TIME DOTCOM",
+    "sector": "Communication",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2610",
+    "name": "CHINA AIRLINES LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DIRR3",
+    "name": "DIRECIONAL ENGENHARIA SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2542",
+    "name": "HIGHWEALTH CONSTRUCTION CORP",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1066",
+    "name": "SHANDONG WEIGAO GP MEDICAL POLYMER",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2883",
+    "name": "CHINA OILFIELD SERVICES LTD H",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BUMI",
+    "name": "BUMI RESOURCES",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2162",
+    "name": "KEYMED BIOSCIENCES INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TEL",
+    "name": "PLDT INC",
+    "sector": "Communication",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DQ",
+    "name": "DAQO NEW ENERGY ADR REPRESENTING",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KTY",
+    "name": "GRUPA KETY SA",
+    "sector": "Materials",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UTDPLT",
+    "name": "UNITED PLANTATIONS",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PSSA3",
+    "name": "PORTO SEGURO SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DIALOG",
+    "name": "DIALOG GROUP",
+    "sector": "Energy",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TFG",
+    "name": "THE FOSCHINI GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "082740",
+    "name": "HANWHA ENGINE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ITCHOTELS",
+    "name": "ITC HOTELS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2380",
+    "name": "CHINA POWER INTERNATIONAL DEVELOPM",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANTM",
+    "name": "ANEKA TAMBANG",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001040",
+    "name": "CJ CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688012",
+    "name": "ADVANCED MICRO-FABRICATION EQUIPME",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GEKTERNA",
+    "name": "GEK TERNA SA",
+    "sector": "Industrials",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4749",
+    "name": "ADVANCED ECHEM MATERIALS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GENM",
+    "name": "GENTING MALAYSIA",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CXSE3",
+    "name": "CAIXA SEGURIDADE PARTICIPACOES SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "051900",
+    "name": "LG H & H LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEULANDLAB",
+    "name": "NEULAND LABORATORIES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2845",
+    "name": "FAR EASTERN INTERNATIONAL BANK",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1833",
+    "name": "PING AN HEALTHCARE AND TECHNOLOGY",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6121",
+    "name": "SIMPLO TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INARI",
+    "name": "INARI AMERTRON",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "078930",
+    "name": "GS HOLDINGS",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPIL",
+    "name": "KALPATARU PROJECTS INTERNATIONAL L",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3005",
+    "name": "GETAC HOLDINGS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1212",
+    "name": "ASTRA INDUSTRIAL GROUP",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SMFT3",
+    "name": "SMARTFIT ESCOLA DE GINASTICA E DAN",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300014",
+    "name": "EVE ENERGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "QFLS",
+    "name": "QATAR FUEL",
+    "sector": "Energy",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CESC",
+    "name": "CESC LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "576",
+    "name": "ZHEJIANG EXPRESSWAY LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MPHC",
+    "name": "MESAIEED PETROCHEMICAL HOLDING",
+    "sector": "Materials",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1133",
+    "name": "HARBIN ELECTRIC LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "STARHEALTH",
+    "name": "STAR HEALTH AND ALLIED INSURANCE C",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "656",
+    "name": "FOSUN INTERNATIONAL LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FROTO.E",
+    "name": "FORD OTOMOTIV SANAYI A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRUPOARGOS",
+    "name": "INVERSIONES ARGOS SA",
+    "sector": "Materials",
+    "country": "Colombia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JFC",
+    "name": "JOLLIBEE FOODS CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000001",
+    "name": "PING AN BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FRTKF",
+    "name": "FRONTKEN CORPORATION",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000776",
+    "name": "GF SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "271560",
+    "name": "ORION CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6176",
+    "name": "RADIANT OPTO-ELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OPL",
+    "name": "ORANGE POLSKA SA",
+    "sector": "Communication",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AFFLE",
+    "name": "AFFLE 3I LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2633",
+    "name": "TAIWAN HIGH SPEED RAIL CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600111",
+    "name": "CHINA NORTHERN RARE EARTH (GROUP)",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PETDAG",
+    "name": "PETRONAS DAGANGAN",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GESHIP",
+    "name": "GREAT EASTERN SHIPPING COMPANY LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6005",
+    "name": "CAPITAL SECURITIES CORP",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2310",
+    "name": "SAHARA INTERNATIONAL PETROCHEMICAL",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "017800",
+    "name": "HYUNDAI ELEVATOR LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9969",
+    "name": "INNOCARE PHARMA LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CMPC",
+    "name": "EMPRESAS CMPC SA",
+    "sector": "Materials",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300033",
+    "name": "HITHINK ROYALFLUSH INFORMATION NET",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WELCORP",
+    "name": "WELSPUN CORP LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600919",
+    "name": "BANK OF JIANGSU CORPORATION LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2096",
+    "name": "SIMCERE PHARMACEUTICAL GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004020",
+    "name": "HYUNDAI STEEL",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "177",
+    "name": "JIANGSU EXPRESSWAY LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "512",
+    "name": "GRAND PHARMACEUTICAL GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6781",
+    "name": "ADVANCED ENERGY SOLUTION HOLDING L",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATAT",
+    "name": "ATOUR LIFESTYLE HOLDINGS AMERICAN",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2049",
+    "name": "HIWIN TECHNOLOGIES CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "017670",
+    "name": "SK TELECOM LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601888",
+    "name": "CHINA TOURISM GROUP DUTY FREE CORP",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPRMILL",
+    "name": "KPR MILL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "003690",
+    "name": "KOREAN REINSURANCE",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601939",
+    "name": "CHINA CONSTRUCTION BANK CORP A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601857",
+    "name": "PETROCHINA LTD A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000568",
+    "name": "LUZHOU LAO JIAO LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688008",
+    "name": "MONTAGE TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNREIT",
+    "name": "SUNWAY REITS UNITS TRUST",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002230",
+    "name": "IFLYTEK LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "552",
+    "name": "CHINA COMMUNICATIONS SERVICES CORP",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1215",
+    "name": "CHAROEN POKPHAND ENTERPRISE(TAIWAN",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRIGADE",
+    "name": "BRIGADE ENTERPRISES LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IIFL",
+    "name": "IIFL FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "180640",
+    "name": "HANJIN KAL",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6257",
+    "name": "SIGURD MICROELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4263",
+    "name": "SAL SAUDI LOGISTICS SERVICE CO",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "226950",
+    "name": "OLIX PHARMACEUTICALS INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3MINDIA",
+    "name": "3M INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1810",
+    "name": "SEERA GROUP HOLDING",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TISCO.R",
+    "name": "TISCO FINANCIAL GROUP NON-VOTING D",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGROS.E",
+    "name": "MIGROS TICARET A",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002142",
+    "name": "BANK OF NINGBO LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1952",
+    "name": "EVEREST MEDICINES LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4004",
+    "name": "DALLAH HEALTHCARE",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KLBF",
+    "name": "KALBE FARMA",
+    "sector": "Health Care",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PARKIN",
+    "name": "PARKIN COMPANY",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001440",
+    "name": "TAIHAN C&S LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IJM",
+    "name": "IJM CORPORATION",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MULT3",
+    "name": "MULTIPLAN EMPREENDIMENTOS IMOBILIA",
+    "sector": "Real Estate",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TAVHL.E",
+    "name": "TAV HAVALIMANLARI HOLDING A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CURY3",
+    "name": "CURY CONSTRTUTORA E INCORPORADORA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2382",
+    "name": "ADES HOLDING CO",
+    "sector": "Energy",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1888",
+    "name": "KINGBOARD LAMINATES HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALSEA*",
+    "name": "ALSEA DE CV",
+    "sector": "Consumer Discretionary",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601668",
+    "name": "CHINA STATE CONSTRUCTION ENGINEERI",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATHM",
+    "name": "AUTOHOME ADS REPRESENTING INC CLA",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "240810",
+    "name": "WONIK IPS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NXST",
+    "name": "NEXUS SELECT TRUST REIT UNITS",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1114",
+    "name": "BRILLIANCE CHINA AUTOMOTIVE HOLDIN",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KRE",
+    "name": "KUWAIT REAL EST",
+    "sector": "Real Estate",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4003",
+    "name": "UNITED ELECTRONICS",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANGELONE",
+    "name": "ANGEL ONE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HBLENGINE",
+    "name": "HBL ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601985",
+    "name": "CHINA NATIONAL NUCLEAR POWER LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AEGISLOG",
+    "name": "AEGIS LOGISTICS LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANANDRATHI",
+    "name": "ANAND RATHI WEALTH LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "011790",
+    "name": "SKC LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POONAWALLA",
+    "name": "POONAWALLA FINCORP LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CEATLTD",
+    "name": "CEAT LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AGILITY",
+    "name": "AGILITY GLOB PLC",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6531",
+    "name": "AP MEMORY TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LACOMERUBC",
+    "name": "LA COMER UBC",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGTI11",
+    "name": "IGUATEMI UNIT SA",
+    "sector": "Real Estate",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000990",
+    "name": "DB HITEK LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9945",
+    "name": "RUENTEX DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "005940",
+    "name": "NH INVESTMENT & SECURITIES LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COGN3",
+    "name": "COGNA EDUCACAO SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "014680",
+    "name": "HANSOL CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NUVAMA",
+    "name": "NUVAMA WEALTH MANAGEMENT LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LALPATHLAB",
+    "name": "DR LAL PATHLABS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JBCHEPHARM",
+    "name": "J.B. CHEMICALS AND PHARMACEUTICALS",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1060",
+    "name": "DAMAI ENTERTAINMENT HOLDINGS LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AJANTPHARM",
+    "name": "AJANTA PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NBCC",
+    "name": "NBCC INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600183",
+    "name": "SHENGYI TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "7202",
+    "name": "ARABIAN INTERNET AND COMMUNICATION",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HYPE3",
+    "name": "HYPERMARCAS SA",
+    "sector": "Health Care",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "152",
+    "name": "SHENZHEN INTERNATIONAL HOLDINGS LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAMCOCEM",
+    "name": "THE RAMCO CEMENTS",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MDKA",
+    "name": "MERDEKA COPPER GOLD",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4321",
+    "name": "ARABIAN CENTRES COMPANY",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "371",
+    "name": "BEIJING ENTERPRISES WATER GROUP LT",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "139130",
+    "name": "DGB FINANCIAL GROUP",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000408",
+    "name": "ZANGGE MINING LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "F&N",
+    "name": "FRASER & NEAVE HOLDINGS",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5269",
+    "name": "ASMEDIA TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2689",
+    "name": "NINE DRAGONS PAPER HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1918",
+    "name": "SUNAC CHINA HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002380",
+    "name": "KCC CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PPLPHARMA",
+    "name": "PIRAMAL PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FIVESTAR",
+    "name": "FIVE-STAR BUSINESS FINANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BURSA",
+    "name": "BURSA MALAYSIA",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6055",
+    "name": "CHINA TOBACCO INTERNATIONAL (HK) L",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MXN",
+    "name": "MXN CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1070",
+    "name": "TCL ELECTRONICS HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "353200",
+    "name": "DAEDUCKELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4966",
+    "name": "PARADE TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "200596",
+    "name": "ANHUI GUJING DISTILLERY LTD B",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002352",
+    "name": "S.F. HOLDING LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KEC",
+    "name": "KEC INTERNATIONAL LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "081660",
+    "name": "MISTO HOLDINGS CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DHBK",
+    "name": "DOHA BANK",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600309",
+    "name": "WANHUA CHEMICAL GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EIDPARRY",
+    "name": "EID PARRY INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HYP",
+    "name": "HYPROP INVS LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601688",
+    "name": "HUATAI SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1795",
+    "name": "LOTUS PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5434",
+    "name": "TOPCO SCIENTIFIC LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COLBUN",
+    "name": "COLBUN MACHICURA SA",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BEM.R",
+    "name": "BANGKOK EXPRESSWAY AND METRO PCL N",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENELAM",
+    "name": "ENEL AMERICAS SA",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CNH",
+    "name": "CNH CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGL",
+    "name": "INDRAPRASTHA GAS LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TLEVISACPO",
+    "name": "GRUPO TELEVISA",
+    "sector": "Communication",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SIMEPROP",
+    "name": "SIME DARBY PROPERTY",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600887",
+    "name": "INNER MONGOLIA YILI INDUSTRIAL GRO",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2357",
+    "name": "AVICHINA INDUSTRY & TECHNOLOGY LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688111",
+    "name": "BEIJING KINGSOFT OFFICE SOFTWARE I",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPFE3",
+    "name": "CPFL ENERGIA SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "111770",
+    "name": "YOUNGONE CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3189",
+    "name": "KINSUS INTERCONNECT TECHNOLOGY COR",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BANDHANBNK",
+    "name": "BANDHAN BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OPTIMA",
+    "name": "OPTIMA BANK S.A. SA",
+    "sector": "Financials",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EAST",
+    "name": "EASTERN CO.",
+    "sector": "Consumer Staples",
+    "country": "Egypt",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IFS",
+    "name": "INTERCORP FINANCIAL SERVICES INC",
+    "sector": "Financials",
+    "country": "Peru",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GODFRYPHLP",
+    "name": "GODFREY PHILLIPS INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CSAN3",
+    "name": "COSAN INDUSTRIA E COMERCIO SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPJ",
+    "name": "KPJ HEALTHCARE",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATACHEM",
+    "name": "TATA CHEMICALS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "035900",
+    "name": "JYP ENTERTAINMENT CORPORATION CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "853",
+    "name": "MICROPORT SCIENTIFIC CORP",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601995",
+    "name": "CHINA INTERNATIONAL CAPITAL CORP L",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "THERMAX",
+    "name": "THERMAX",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3023",
+    "name": "SINBON ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "XTB",
+    "name": "XTB SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601012",
+    "name": "LONGI GREEN ENERGY TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2889",
+    "name": "IBF FINANCIAL HOLDINGS LTD SHA",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GGPS3",
+    "name": "GPS PARTICIPACOES E EMPREENDIMENTO",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INKP",
+    "name": "INDAH KIAT PULP & PAPER",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEEPAKFERT",
+    "name": "DEEPAK FERTILISERS AND PETROCHEMIC",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000792",
+    "name": "QINGHAI SALT LAKE INDUSTRY LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300433",
+    "name": "LENS TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENDURANCE",
+    "name": "ENDURANCE TECHNOLOGIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "7030",
+    "name": "MOBILE TELECOMMUNICATIONS",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SYNGENE",
+    "name": "SYNGENE INTERNATIONAL LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOP.R",
+    "name": "THAI OIL NON-VOTING DR PCL",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2270",
+    "name": "SAUDI DAIRY AND FOODSTUFF",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "363",
+    "name": "SHANGHAI INDUSTRIAL HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PTTGC.R",
+    "name": "PTT GLOBAL CHEMICAL NON-VOTING DR",
+    "sector": "Materials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002463",
+    "name": "WUS PRINTED CIRCUIT (KUNSHAN) LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1503",
+    "name": "SHIHLIN ELECTRIC AND ENGINEERING C",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600028",
+    "name": "CHINA PETROLEUM & CHEMICAL CORP A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZETRIX",
+    "name": "ZETRIX AI",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AIIL",
+    "name": "AUTHUM INVESTMENT AND INFRASTRUCTU",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000988",
+    "name": "HUAGONG TECH LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GOAU4",
+    "name": "METALURGICA GERDAU PREF SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600050",
+    "name": "CHINA UNITED NETWORK COMMUNICATION",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "QAMC",
+    "name": "QATAR ALUMINIUM MANUFACTURING",
+    "sector": "Materials",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALUP11",
+    "name": "ALUPAR INVESTIMENTO UNITS SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FLUOROCHEM",
+    "name": "GUJARAT FLUOROCHEMICALS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EKGYO.E",
+    "name": "EMLAK KONUT GAYRIMENKUL YATIRIM OR",
+    "sector": "Real Estate",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600989",
+    "name": "NINGXIA BAOFENG ENERGY GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AMR",
+    "name": "AMERICANA RESTAURANTS INTERNATIONA",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NATU3",
+    "name": "NATURA COSMETICOS SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KFINTECH",
+    "name": "KFIN TECHNOLOGIES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGRD",
+    "name": "ESTITHMAR HOLDING",
+    "sector": "Industrials",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600406",
+    "name": "NARI TECHNOLOGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGAS",
+    "name": "PERUSAHAAN GAS NEGARA",
+    "sector": "Utilities",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4915",
+    "name": "PRIMAX ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3264",
+    "name": "ARDENTEC CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1322",
+    "name": "AL MASANE AL KOBRA MINING",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6510",
+    "name": "CHUNGHWA PRECISION TEST TECH LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000425",
+    "name": "XCMG CONSTRUCTION MACHINERY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGSUS.E",
+    "name": "PEGASUS HAVA TASIMACILIGI A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PCO",
+    "name": "PEPCO GROUP NV",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SIME",
+    "name": "SIME DARBY",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KOZAL.E",
+    "name": "KOZA ALTIN ISLETMELERI A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PLN",
+    "name": "PLN CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRES",
+    "name": "BARWA REAL ESTATE",
+    "sector": "Real Estate",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601658",
+    "name": "POSTAL SAVINGS BANK OF CHINA LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEEPAKNTR",
+    "name": "DEEPAK NITRITE LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADRO",
+    "name": "ALAMTRI RESOURCES INDONESIA",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "042670",
+    "name": "HD HYUNDAI INFRACORE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "605499",
+    "name": "EASTROC BEVERAGE (GROUP) LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "103140",
+    "name": "POONGSANORATION CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RPOWER",
+    "name": "RELIANCE POWER LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8313",
+    "name": "RASAN INFORMATION TECHNOLOGY",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000166",
+    "name": "SHENWAN HONGYUAN GROUP LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DUBK",
+    "name": "DUKHAN BANK",
+    "sector": "Financials",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "012510",
+    "name": "DOUZONBIZON LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "696",
+    "name": "TRAVELSKY TECHNOLOGY LTD H",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601818",
+    "name": "CHINA EVERBRIGHT BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INTELLECT",
+    "name": "INTELLECT DESIGN ARENA LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABK",
+    "name": "AL AHLI BANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATATECH",
+    "name": "TATA TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2371",
+    "name": "TATUNG",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600346",
+    "name": "HENGLI PETROCHEMICAL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARE&M",
+    "name": "AMARA RAJA ENERGY & MOBILITY LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TAEE11",
+    "name": "TRANSMISSORA ALIANCA ENERGIA ELETR",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8112",
+    "name": "SUPREME ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4150",
+    "name": "ARRIYADH DEVELOPMENT",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2421",
+    "name": "SUNONWEALTH ELECTRIC MACHINE INDUS",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMAMILTD",
+    "name": "EMAMI LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002916",
+    "name": "SHENNAN CIRCUITS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9939",
+    "name": "TAIWAN HON CHUAN ENTERPRISE LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002384",
+    "name": "SUZHOU DONGSHAN PRECISION MANUFACT",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2498",
+    "name": "ROBOSENSE TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3105",
+    "name": "WIN SEMICONDUCTORS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POMO4",
+    "name": "MARCOPOLO PREF SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BIRET",
+    "name": "BROOKFIELD INDIA REAL ESTATE TRUST",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAMMAANCAP",
+    "name": "SAMMAAN CAPITAL LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2330",
+    "name": "ADVANCED PETROCHEMICAL",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3900",
+    "name": "GREENTOWN CHINA LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "039200",
+    "name": "OSCOTEC INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GLAXO",
+    "name": "GLAXOSMITHKLINE PHARMACEUTICALS LT",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LEMONTREE",
+    "name": "LEMON TREE HOTELS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3081",
+    "name": "LAND MARK CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2250",
+    "name": "SAUDI INDUSTRIAL INVESTMENT GROUP",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABREL",
+    "name": "ADITYA BIRLA REAL ESTATE LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRU",
+    "name": "TRUWORTHS INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002460",
+    "name": "GANFENG LITHIUM GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CYIENT",
+    "name": "CYIENT LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EGIE3",
+    "name": "ENGIE BRASIL ENERGIA SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4090",
+    "name": "TAIBA INVESTMENTS",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TMGH",
+    "name": "TALAAT MOUSTAFA GROUP",
+    "sector": "Real Estate",
+    "country": "Egypt",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601009",
+    "name": "BANK OF NANJING LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CANFINHOME",
+    "name": "CAN FIN HOMES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000725",
+    "name": "BOE TECHNOLOGY GROUP LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VNET",
+    "name": "VNET GROUP ADR INC",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601868",
+    "name": "CHINA ENERGY ENGINEERING CORP LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8996",
+    "name": "KAORI HEAT TREATMENT LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECLERX",
+    "name": "ECLERX SERVICES",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARI",
+    "name": "AFRICAN RAINBOW MINERAL LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAPR11",
+    "name": "CIA SANEAMENTO DO PARANA UNITS",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603288",
+    "name": "FOSHAN HAI TIAN FLAVOURING & FOOD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2666",
+    "name": "GENERTEC UNIVERSAL MEDICAL GROUP L",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1199",
+    "name": "COSCO SHIPPING PORTS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603986",
+    "name": "GIGADEVICE SEMICONDUCTOR INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIMKEN",
+    "name": "TIMKEN INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600418",
+    "name": "ANHUI JIANGHUAI AUTOMOBILE CORP LT",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2836",
+    "name": "BANK OF KAOHSIUNG LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603501",
+    "name": "OMNIVISION INTEGRATED CIRCUITS GRO",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1319",
+    "name": "TONG YANG INDUSTRY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INOXWIND",
+    "name": "INOX WIND LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3035",
+    "name": "FARADAY TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600010",
+    "name": "INNER MONGOLIA BAOTOU STEEL UNION",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "454910",
+    "name": "DOOSAN ROBOTICS INC",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "165",
+    "name": "CHINA EVERBRIGHT LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2276",
+    "name": "SHANGHAI CONANT OPTICAL CO LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1802",
+    "name": "TAIWAN GLASS INDUSTRY CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "011780",
+    "name": "KUMHO PETRO CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9917",
+    "name": "TAIWAN SECOM LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEDANTA",
+    "name": "GLOBAL HEALTH LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MINDSPACE",
+    "name": "MINDSPACE BUSINESS PARKS REITS UNI",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KAJARIACER",
+    "name": "KAJARIA CERAMICS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3211",
+    "name": "DYNAPACK INTERNATIONAL TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2252",
+    "name": "SHANGHAI MICROPORT MEDBOT CLASS H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IGBREIT",
+    "name": "IGB REITS UNITS TRUST",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ELGIEQUIP",
+    "name": "ELGI EQUIPMENTS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "007390",
+    "name": "NATURECELL LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1717",
+    "name": "ETERNAL MATERIALS LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WOCKPHARMA",
+    "name": "WOCKHARDT LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "140860",
+    "name": "PARKSYSTEMS CORP",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601100",
+    "name": "JIANGSU HENGLI HYDRAULIC LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601229",
+    "name": "BANK OF SHANGHAI LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2202",
+    "name": "CHINA VANKE LTD H",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2080",
+    "name": "NATURAL GAS AND INDUSTRIALIZATION",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTH",
+    "name": "MOTUS HOLD LTD SHS",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LMW",
+    "name": "LMW LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRANULES",
+    "name": "GRANULES INDIA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1164",
+    "name": "CGN MINING COMPANY LTD",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6004",
+    "name": "CATRION CATERING HOLDING CO",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FORCEMOT",
+    "name": "FORCE MOTORS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HMPRO.R",
+    "name": "HOME PRODUCT CENTER NON-VOTING DR",
+    "sector": "Consumer Discretionary",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PAX",
+    "name": "PATRIA INVESTMENTS LTD CLASS A",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600016",
+    "name": "CHINA MINSHENG BANKING CORP LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "089030",
+    "name": "TECHWING INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TATAINVEST",
+    "name": "TATA INVESTMENT CORPORATION LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TU.R",
+    "name": "THAI UNION GROUP NON-VOTING DR PCL",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZENSARTECH",
+    "name": "ZENSAR TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "071970",
+    "name": "HD-HYUNDAI MARINE ENGINE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AUGO",
+    "name": "AURA MINERALS INC",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "631",
+    "name": "SANY HEAVY EQUIPMENT INTERNATIONAL",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHAMBLFERT",
+    "name": "CHAMBAL FERTILISERS AND CHEMICALS",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EIHOTEL",
+    "name": "EIH LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KIB",
+    "name": "KUWAIT INTERNATIONAL BANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2515",
+    "name": "BES ENGINEERING CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GULFNAV",
+    "name": "GULF NAVIGATION HOLDING",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABMB",
+    "name": "ALLIANCE BANK MALAYSIA BHD",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "489790",
+    "name": "HANWHA VISION LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SITES1A.1",
+    "name": "OPERADORA DE SITES MEXICANOSD",
+    "sector": "Communication",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3406",
+    "name": "GENIUS ELECTRONIC OPTICAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "069960",
+    "name": "HYUNDAI DEPARTMENT STORE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DANA",
+    "name": "DANA GAS",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2504",
+    "name": "GOLDSUN BUILDING MATERIALS LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2458",
+    "name": "ELAN MICROELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HINDCOPPER",
+    "name": "HINDUSTAN COPPER LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "097950",
+    "name": "CJ CHEILJEDANG CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4031",
+    "name": "SAUDI GROUND SERVICES",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EQU",
+    "name": "EQUITES PROP FUND LTD",
+    "sector": "Real Estate",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAILIFE",
+    "name": "SAI LIFE SCIENCES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1368",
+    "name": "XTEP INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9956",
+    "name": "ANE CAYMAN INC",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SPP",
+    "name": "SPAR GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TKG",
+    "name": "TELKOM SOC LTD SA",
+    "sector": "Communication",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "257720",
+    "name": "SILICON2 LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "817",
+    "name": "CHINA JINMAO HOLDINGS GROUP LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CARBORUNIV",
+    "name": "CARBORUNDUM UNIVERSAL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AWL",
+    "name": "AWL AGRI BUSINESS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DTC",
+    "name": "DATATEC LTD",
+    "sector": "Information Technology",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SISE.E",
+    "name": "TURKIYE SISE VE CAM FABRIKALARI A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600999",
+    "name": "CHINA MERCHANTS SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601111",
+    "name": "AIR CHINA LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4005",
+    "name": "NATIONAL MEDICAL CARE",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HOMEFIRST",
+    "name": "HOME FIRST FINANCE INDIA LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "533581",
+    "name": "PG ELECTROPLAST LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6869",
+    "name": "YANGTZE OPTICAL FIBRE AND CABLE JO",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JGS",
+    "name": "JG SUMMIT HOLDINGS INC CLASS B",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "139480",
+    "name": "E-MART INC",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "336260",
+    "name": "DOOSAN FUEL CELL LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2838",
+    "name": "UNION BANK OF TAIWAN",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002736",
+    "name": "GUOSEN SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2498",
+    "name": "HTC CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300394",
+    "name": "SUZHOU TFC OPTICAL COMMUNICATION L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GODIGIT",
+    "name": "GO DIGIT GENERAL INSURANCE LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300408",
+    "name": "CHAOZHOU THREE-CIRCLE (GROUP) LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2006",
+    "name": "TUNG HO STEEL ENTERPRISE CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "140410",
+    "name": "MEZZION PHARMA LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2492",
+    "name": "WALSIN TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8230",
+    "name": "AL RAJHI COMPANY FOR COOPERATIVE I",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1210",
+    "name": "GREAT WALL ENTERPRISE LTD",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6472",
+    "name": "BORA PHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2350",
+    "name": "SAUDI KAYAN PETROCHEMICAL",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6147",
+    "name": "CHIPBOND TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JKS",
+    "name": "JINKOSOLAR HOLDING ADR REP LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CRISIL",
+    "name": "CRISIL LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603799",
+    "name": "ZHEJIANG HUAYOU COBALT LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002600",
+    "name": "LINGYI ITECH (GUANGDONG) A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNDRMFAST",
+    "name": "SUNDRAM FASTENERS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NTC",
+    "name": "NETCARE LTD",
+    "sector": "Health Care",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1797",
+    "name": "EAST BUY HOLDING LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6818",
+    "name": "CHINA EVERBRIGHT BANK LTD H",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601919",
+    "name": "COSCO SHIPPING HOLDINGS LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JUBLPHARMA",
+    "name": "JUBILANT PHARMOVA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FLRY3",
+    "name": "FLEURY SA",
+    "sector": "Health Care",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BOURSA",
+    "name": "BOURSA KUWAIT SECURITIES COMPANY",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NCC",
+    "name": "NCC LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "084370",
+    "name": "EUGENE TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3339",
+    "name": "LONKING HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "103590",
+    "name": "ILJIN ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MRDIY",
+    "name": "MR D.I.Y. GROUP (M)",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1785",
+    "name": "SOLAR APPLIED MATERIALS TECHNOLOGY",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "YNS",
+    "name": "YINSON HOLDINGS",
+    "sector": "Energy",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEXW",
+    "name": "HEXAWARE TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BANPU.R",
+    "name": "BANPU NON-VOTING DR PCL",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2646",
+    "name": "STARLUX AIRLINES LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3320",
+    "name": "CHINA RESOURCES PHARMACEUTICAL GRO",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TTB.R",
+    "name": "TMBTHANACHART BANK NON-VOTING DR P",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2050",
+    "name": "SAVOLA GROUP",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "881",
+    "name": "ZHONGSHENG GROUP HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRAV3",
+    "name": "BRAVA ENERGIA SA",
+    "sector": "Energy",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "450080",
+    "name": "ECOPRO MATERIALS LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004170",
+    "name": "SHINSEGAE INC",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APTUS",
+    "name": "APTUS VALUE HOUSING FINANCE INDIA",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600160",
+    "name": "ZHEJIANG JU HUA LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "062040",
+    "name": "SANIL ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INDIAMART",
+    "name": "INDIAMART INTERMESH LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2548",
+    "name": "HUAKU DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KIRLOSENG",
+    "name": "KIRLOSKAR OIL ENGINES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3939",
+    "name": "WANGUO GOLD GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HAPV3",
+    "name": "HAPVIDA PARTICIPACOES E INVESTIMEN",
+    "sector": "Health Care",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4260",
+    "name": "UNITED INTERNATIONAL TRANSPORTATIO",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENTEL",
+    "name": "EMPRESA NACIONAL DE TELECOMUNICACI",
+    "sector": "Communication",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601555",
+    "name": "SOOCHOW SECURITIES CO LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000063",
+    "name": "ZTE CORP A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIGR",
+    "name": "UP FINTECH HOLDING ADR CLASS A LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRB",
+    "name": "IRB INFRASTRUCTURE DEVELOPERS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "500048",
+    "name": "BEML LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HSCL",
+    "name": "HIMADRI SPECIALITY CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000977",
+    "name": "INSPUR ELECTRONIC INFORMATION INDU",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600089",
+    "name": "TBEA LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6191",
+    "name": "GLOBAL BRANDS MANUFACTURE LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZFCVINDIA",
+    "name": "ZF COMMERCIAL VEHICLE CONTROL SYST",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600031",
+    "name": "SANY HEAVY INDUSTRY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601689",
+    "name": "NINGBO TUOPU GROUP CLS LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2223",
+    "name": "SAUDI ARAMCO BASE OIL COMPANY",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000807",
+    "name": "YUNNAN ALUMINIUM LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DCP",
+    "name": "DIS-CHEM PHARMACIES LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2915",
+    "name": "RUENTEX INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2233",
+    "name": "WEST CHINA CEMENT LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "639",
+    "name": "SHOUGANG FUSHAN RESOURCES GROUP LT",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2206",
+    "name": "SANYANG INDUSTRY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1907",
+    "name": "YFY INC",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2481",
+    "name": "PAN JIT INTERNATIONAL INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002027",
+    "name": "FOCUS MEDIA INFORMATION TECHNOLOGY",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600690",
+    "name": "HAIER SMART HOME LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004370",
+    "name": "NONGSHIM LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000728",
+    "name": "GUOYUAN SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AKRA",
+    "name": "AKR CORPORINDO",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AGUAS.A",
+    "name": "AGUAS ANDINAS SA",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "009420",
+    "name": "HANALL BIOPHARMA LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5904",
+    "name": "POYA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CRAFTSMAN",
+    "name": "CRAFTSMAN AUTOMATION LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "192820",
+    "name": "COSMAX INC",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ANANTRAJ",
+    "name": "ANANT RAJ LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "237690",
+    "name": "ST PHARM LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EGCO.R",
+    "name": "ELECTRICITY GENERATING NON-VOTING",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600104",
+    "name": "SAIC MOTOR CORP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2015",
+    "name": "FENG HSIN IRON & STEEL LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PVRINOX",
+    "name": "PVR INOX LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1560",
+    "name": "KINIK",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600547",
+    "name": "SHANDONG GOLD-MINING LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1314",
+    "name": "CHINA PETROCHEMICAL DEVELOPMENT CO",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BPCC",
+    "name": "BOUBYAN PETROCHM",
+    "sector": "Materials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "010060",
+    "name": "OCI HOLDINGS COMPANY LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LHC",
+    "name": "LIFE HEALTH LTD",
+    "sector": "Health Care",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "STAR",
+    "name": "STRIDES PHARMA SCIENCE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "URC",
+    "name": "UNIVERSAL ROBINA CORP",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2352",
+    "name": "QISDA CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6285",
+    "name": "WISTRON NEWEB CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2142",
+    "name": "HBM HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001450",
+    "name": "HYUNDAI MARINE & FIRE INSURANCE LT",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1722",
+    "name": "TAIWAN FERTILIZER LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IQ",
+    "name": "IQIYI ADS REPRESENTING CLASS A IN",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BALRAMCHIN",
+    "name": "BALRAMPUR CHINI MILLS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3450",
+    "name": "ELITE ADVANCED LASER CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CSNA3",
+    "name": "COMPANHIA SIDERURGICA NACIONAL SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NLCINDIA",
+    "name": "NLC INDIA LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GSPL",
+    "name": "GUJARAT STATE PETRONET LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCU",
+    "name": "COMPANIA CERVECERIAS UNIDAS SA",
+    "sector": "Consumer Staples",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "251270",
+    "name": "NETMARBLE CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "460",
+    "name": "SIHUAN PHARMACEUTICAL HOLDINGS GRO",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ATUL",
+    "name": "ATUL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4164",
+    "name": "AL NAHDI MEDICAL",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAGILITY",
+    "name": "SAGILITY LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000651",
+    "name": "GREE ELECTRIC APPLIANCES INC OF ZH",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DATAPATTNS",
+    "name": "DATA PATTERNS INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABCB4",
+    "name": "BANCO ABC BRASIL PREF SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601766",
+    "name": "CRRC CORP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VGUARD",
+    "name": "V GUARD INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JSE",
+    "name": "JOHANNESBURG STOCK EXCHANGE LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "214150",
+    "name": "CLASSYS INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4763",
+    "name": "JINAN ACETATE CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601727",
+    "name": "SHANGHAI ELECTRIC GROUP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002311",
+    "name": "GUANGDONG HAID GROUP LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2820",
+    "name": "CHINA BILLS FINANCE CORP",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3330",
+    "name": "LINGBAO GOLD GROUP LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601336",
+    "name": "NEW CHINA LIFE INSURANCE LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "011170",
+    "name": "LOTTE CHEMICAL CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300015",
+    "name": "AIER EYE HOSPITAL GROUP LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2637",
+    "name": "WISDOM MARINE LINES LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2060",
+    "name": "NATIONAL INDUSTRIALIZATION",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600515",
+    "name": "HAINAN AIRPORT INFRASTRUCTURE LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600019",
+    "name": "BAOSHAN IRON & STEEL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3131",
+    "name": "GRAND PLASTIC TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JMFINANCIL",
+    "name": "JM FINANCIAL LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600926",
+    "name": "BANK OF HANGZHOU LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPAXT.R",
+    "name": "CP AXTRA NON-VOTING DR PCL",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "008770",
+    "name": "HOTEL SHILLA LTDINARY SHARES KOREA",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "051600",
+    "name": "KEPCO PLANT SERVICE & ENGINEERING",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CML",
+    "name": "CORONATION FUND MANAGERS LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AURE3",
+    "name": "AUREN ENERGIA SA",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8422",
+    "name": "CLEANAWAY LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WHA.R",
+    "name": "WHA CORPORATION NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601169",
+    "name": "BANK OF BEIJING LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6691",
+    "name": "YANKEY ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ICBP",
+    "name": "INDOFOOD CBP SUKSES MAKMUR",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ERIS",
+    "name": "ERIS LIFESCIENCES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "052690",
+    "name": "KEPCO ENGINEERING & CONSTRUCTION I",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "145020",
+    "name": "HUGEL INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTARTECH",
+    "name": "MTAR TECHNOLOGIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3596",
+    "name": "ARCADYAN TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRSE",
+    "name": "GARDEN REACH SHIPBUILDERS & ENGINE",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6414",
+    "name": "ENNOCONN CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3413",
+    "name": "FOXSEMICON INTEGRATED TECHNOLOGY I",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GPPL",
+    "name": "GUJARAT PIPAVAV PORT LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SOBHA",
+    "name": "SOBHA LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1830",
+    "name": "LEEJAM SPORTS",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ONESOURCE",
+    "name": "ONESOURCE SPECIALTY PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRITURBINE",
+    "name": "TRIVENI TURBINE LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601066",
+    "name": "CHINA SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ORBIA*",
+    "name": "ORBIA ADVANCE CORP SA DE CV",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2230",
+    "name": "SAUDI CHEMICAL",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1609",
+    "name": "TA YA ELECTRIC WIRE & CABLE LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3010",
+    "name": "WAH LEE INDUSTRIAL CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MOMO",
+    "name": "HELLO GROUP ADR INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "022100",
+    "name": "POSCO DX COMPANY LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MPARK.E",
+    "name": "MLP SAGLIK HIZMETLERI",
+    "sector": "Health Care",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6110",
+    "name": "TOPSPORTS INTERNATIONAL HOLDINGS L",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2013",
+    "name": "WEIMOB INC",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6069",
+    "name": "SY HOLDINGS GROUP LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "003540",
+    "name": "DAISHIN SECURITIES LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300124",
+    "name": "SHENZHEN INOVANCE TECHNOLOGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "035250",
+    "name": "KANGWON LAND INC",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SPALI.R",
+    "name": "SUPALAI NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ASTRAZEN",
+    "name": "ASTRAZENECA PHARMA INDIA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "517",
+    "name": "COSCO SHIPPING INTERNATIONAL (HONG",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300498",
+    "name": "WENS FOODSTUFF GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600905",
+    "name": "CHINA THREE GORGES RENEWABLES(GROU",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CCL",
+    "name": "CCL PRODUCTS INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COM7.R",
+    "name": "COM7 PCL NON-VOTING DR",
+    "sector": "Consumer Discretionary",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3042",
+    "name": "TXC CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CPS",
+    "name": "CYFROWY POLSAT SA",
+    "sector": "Communication",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AADI",
+    "name": "ADARO ANDALAN INDONESIA",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002493",
+    "name": "RONGSHENG PETRO CHEMICAL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8926",
+    "name": "TAIWAN COGENERATION CORP",
+    "sector": "Utilities",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3019",
+    "name": "ASIA OPTICAL INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "COHANCE",
+    "name": "COHANCE LIFESCIENCES LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CREDITACC",
+    "name": "CREDITACCESS GRAMEEN LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "403870",
+    "name": "HPSP LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9925",
+    "name": "TAIWAN SHIN KONG SECURITY LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AKTR",
+    "name": "AKTOR SA HOLDING COMPANY TECHNICAL",
+    "sector": "Industrials",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VIVA3",
+    "name": "VIVARA PARTICIPACOES SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2867",
+    "name": "MASSMUTUAL MERCURIES LIFE INSURANC",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002938",
+    "name": "AVARY HOLDING (SHENZHEN) LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BAYERCROP",
+    "name": "BAYER CROPSCIENCE LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2669",
+    "name": "CHINA OVERSEAS PROPERTY HOLDINGS L",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "009970",
+    "name": "YOUNGONE HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3020",
+    "name": "YAMAMA SAUDI CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600115",
+    "name": "CHINA EASTERN AIRLINES CORP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "012750",
+    "name": "S-1 CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "067310",
+    "name": "HANA MICRON INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZEEL",
+    "name": "ZEE ENTERTAINMENT ENTERPRISES LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600489",
+    "name": "ZHONGJIN GOLD CORP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000895",
+    "name": "HENAN SHUANGHUI INVESTMENT & DEVEL",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GTCAP",
+    "name": "GT CAPITAL HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "082270",
+    "name": "GEMVAX & KAEL LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002001",
+    "name": "ZHEJIANG NHU LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JPFA",
+    "name": "JAPFA COMFEED INDONESIA",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DIA",
+    "name": "DIAGNOSTYKA SA",
+    "sector": "Health Care",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000625",
+    "name": "CHONGQING CHANGAN AUTOMOBILE LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002074",
+    "name": "GOTION HIGH-TECH LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LABB",
+    "name": "GENOMMA LAB INTERNATIONAL",
+    "sector": "Health Care",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TITAGARH",
+    "name": "TITAGARH RAIL SYSTEMS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3899",
+    "name": "CIMC ENRIC HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6196",
+    "name": "MARKETECH INTERNATIONAL CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "263750",
+    "name": "PEARLABYSS CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "357780",
+    "name": "SOULBRAIN LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600438",
+    "name": "TONGWEI LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601360",
+    "name": "360 SECURITY TECHNOLOGY INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGL",
+    "name": "MAHANAGAR GAS LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2606",
+    "name": "U-MING MARINE TRANSPORT CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688271",
+    "name": "SHANGHAI UNITED IMAGING HEALTHCARE",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AEFES.E",
+    "name": "ANADOLU EFES BIRACILIK VE MALT SAN",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RLX",
+    "name": "RLX TECHNOLOGY AMERICAN DEPOSITARY",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2473",
+    "name": "XXF GROUP HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHALET",
+    "name": "CHALET HOTELS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "005290",
+    "name": "DONGJIN SEMICHEM LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600886",
+    "name": "SDIC POWER HOLDINGS LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2903",
+    "name": "FAR EASTERN DEPARTMENT STORES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WABAG",
+    "name": "VA TECH WABAG LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AMANAT",
+    "name": "AMANAT HOLDING",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SYRMA",
+    "name": "SYRMA SGS TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6670",
+    "name": "FUSHENG PRECISION LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "302440",
+    "name": "SK BIOSCIENCE LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMPOWER",
+    "name": "EMIRATES CENTRAL COOLING SYSTEMS C",
+    "sector": "Utilities",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "005070",
+    "name": "COSMOAM&T LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WHIRL",
+    "name": "WHIRLPOOL OF INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "023590",
+    "name": "DAOU TECHNOLOGY INC",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MWC",
+    "name": "MANILA WATER INC",
+    "sector": "Utilities",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "030000",
+    "name": "CHEIL WORLDWIDE INC",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3227",
+    "name": "PIXART IMAGING INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688072",
+    "name": "PIOTECH INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FINV",
+    "name": "FINVOLUTION GROUP ADR CLASS A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2869",
+    "name": "GREENTOWN SERVICE GROUP LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEVYANI",
+    "name": "DEVYANI INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "7200",
+    "name": "AL MOAMMAR INFORMATION SYSTEMS",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEIM",
+    "name": "HEINEKEN MALAYSIA",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004800",
+    "name": "HYOSUNG CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3376",
+    "name": "SHIN ZU SHING LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2186",
+    "name": "LUYE PHARMA GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IEX",
+    "name": "INDIAN ENERGY EXCHANGE LTDINARY",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1405",
+    "name": "DPC DASH LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NATCOPHARM",
+    "name": "NATCO PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MAPI",
+    "name": "MITRA ADIPERKASA",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9921",
+    "name": "GIANT MANUFACTURING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002050",
+    "name": "ZHEJIANG SANHUA INTELLIGENT CONTRO",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601669",
+    "name": "POWER CONSTRUCTION CORPORATION OF",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENJSA.E",
+    "name": "ENERJISA ENERJI",
+    "sector": "Utilities",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TIDLOR.R",
+    "name": "TIDLOR HOLDINGS NON-VOTING DR PCL",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "570",
+    "name": "CHINA TRADITIONAL CHI MEDICINE CO",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CARLSBG",
+    "name": "CARLSBERG BREWERY MALAYSIA",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MTC.R",
+    "name": "MUANGTHAI CAPITAL ORS NON-VOTING D",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002625",
+    "name": "KUANG-CHI TECHNOLOGIES LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PIK",
+    "name": "PICK N PAY STORES LTD",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600660",
+    "name": "FUYAO GLASS INDUSTRY GROUP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TCAP.R",
+    "name": "THANACHART CAPITAL NON-VOTING DR P",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GUJGASLTD",
+    "name": "GUJARAT GAS LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002241",
+    "name": "GOERTEK INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600795",
+    "name": "GD POWER DEVELOPMENT LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BHW",
+    "name": "BANK HANDLOWY W WARSZAWIE SA",
+    "sector": "Financials",
+    "country": "Poland",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRINDWELL",
+    "name": "GRINDWELL NORTON LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601825",
+    "name": "SHANGHAI RURAL COMMERCIAL BANK LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TTW.R",
+    "name": "TTW PUBLIC COMPANY LIMITED NON-VOT",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHENNPETRO",
+    "name": "CHENNAI PETROLEUM CORPORATION LTD",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AZZA3",
+    "name": "AZZAS SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AARTIIND",
+    "name": "AARTI INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600029",
+    "name": "CHINA SOUTHERN AIRLINES LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002414",
+    "name": "WUHAN GUIDE INFRARED LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6187",
+    "name": "ALL RING TECH LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BPAN4",
+    "name": "BANCO PAN PREF SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1579",
+    "name": "YIHAI INTERNATIONAL HOLDING LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4020",
+    "name": "SAUDI REAL ESTATE",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6682",
+    "name": "BEIJING FOURTH PARADIGM TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000100",
+    "name": "TCL TECHNOLOGY GROUP CORP A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SONATSOFTW",
+    "name": "SONATA SOFTWARE LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BCP.R",
+    "name": "BANGCHAK CORPORATION ORS NON-VOTIN",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6010",
+    "name": "NATIONAL AGRICULTURE DEVELOPMENT",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1302",
+    "name": "LIFETECH SCIENTIFIC CORP",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CASTROLIND",
+    "name": "CASTROL INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EDELWEISS",
+    "name": "EDELWEISS FINANCIAL SERVICES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "934",
+    "name": "SINOPEC KANTONS HOLDINGS LTD",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRSR6",
+    "name": "BANCO DO ESTADO DO RIO GRANDE DO S",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OLECTRA",
+    "name": "OLECTRA GREENTECH LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NETWEB",
+    "name": "NETWEB TECHNOLOGIES INDIA LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2455",
+    "name": "VISUAL PHOTONICS EPITAXY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "041510",
+    "name": "SM ENTERTAINMENT LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LTFOODS",
+    "name": "LT FOODS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4015",
+    "name": "JAMJOOM PHARMA",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CABLE",
+    "name": "GULF CABLE AND ELECTRICAL INDUSTRI",
+    "sector": "Industrials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VITROX",
+    "name": "VITROX CORPORATION",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4001",
+    "name": "ABDULLAH AL OTHAIM MARKETS",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600015",
+    "name": "HUA XIA BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688506",
+    "name": "SICHUAN BIOKIN PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HRHO",
+    "name": "EFG-HERMES HLDGS",
+    "sector": "Financials",
+    "country": "Egypt",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SCIENTX",
+    "name": "SCIENTEX",
+    "sector": "Materials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WB",
+    "name": "WEIBO ADR REPRESENTING CLASS A CO",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "006360",
+    "name": "GS ENGINEERING & CONSTRUCTION CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MAVI.E",
+    "name": "MAVI GIYIM SANAYI VE TICARET",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GLAND",
+    "name": "GLAND PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "161890",
+    "name": "KOLMAR KOREA LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BRAP4",
+    "name": "BRADESPAR PREF SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SANSERA",
+    "name": "SANSERA ENGINEERING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4322",
+    "name": "RETAL URBAN DEVELOPMENT",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1361",
+    "name": "361 DEGREES INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JUBLINGREA",
+    "name": "JUBILANT INGREVIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "123",
+    "name": "YUEXIU PROPERTY COMPANY LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002939",
+    "name": "CHINA GREATWALL SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ODPV3",
+    "name": "ODONTOPREV SA",
+    "sector": "Health Care",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601198",
+    "name": "DONGXING SECURITIES CORP LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600958",
+    "name": "ORIENT SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PTBA",
+    "name": "TAMBANG BATUBARA BUKIT ASAM",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APEX",
+    "name": "APEX INVESTMENT",
+    "sector": "Materials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RATCH.R",
+    "name": "RATCH GROUP PCL NON-VOTING DR",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2441",
+    "name": "GREATEK ELECTRONICS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SJVN",
+    "name": "SJVN LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KKP.R",
+    "name": "KIATNAKIN PHATRA BANK NON-VOTING D",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601006",
+    "name": "DAQIN RAILWAY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NAVA",
+    "name": "NAVA",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9636",
+    "name": "JF SMARTINVEST HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1409",
+    "name": "SHINKONG SYNTHETIC FIBERS CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3006",
+    "name": "ELITE SEMICONDUCTOR MICROELECTRONI",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BEEF3",
+    "name": "MINERVA SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "375500",
+    "name": "DL E&C LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "METROPOLIS",
+    "name": "METROPOLIS HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UTIAMC",
+    "name": "UTI ASSET MANAGEM LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002709",
+    "name": "GUANGZHOU TINCI MATERIALS TECHNOLO",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9907",
+    "name": "TON YI INDUSTRIAL CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "POLYMED",
+    "name": "POLY MEDICURE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SRE",
+    "name": "SALHIYA REAL EST",
+    "sector": "Real Estate",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3680",
+    "name": "GUDENG PRECISION INDUSTRIAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6789",
+    "name": "VISERA TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3306",
+    "name": "JNBY DESIGN LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "036460",
+    "name": "KOREA GAS",
+    "sector": "Utilities",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "819",
+    "name": "TIANNENG POWER INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HUMANSOFT",
+    "name": "HUMAN SOFT",
+    "sector": "Consumer Discretionary",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BURG",
+    "name": "BURGAN BANK",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOASO.E",
+    "name": "TOFAS TURK OTOMOBIL FABRIKASI A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENGINERSIN",
+    "name": "ENGINEERS INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002466",
+    "name": "TIANQI LITHIUM INDUSTRIES CORP A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1798",
+    "name": "CHINA DATANG CORPORATION RENEWABLE",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AFE",
+    "name": "AECI LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2855",
+    "name": "PRESIDENT SECURITIES CORP",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TECHNOE",
+    "name": "TECHNO ELECTRIC AND ENGINEERING LT",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600893",
+    "name": "AECC AVIATION POWER LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BTS.R",
+    "name": "BTS GROUP HOLDINGS NON-VOTING DR P",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8150",
+    "name": "CHIPMOS TECHNOLOGIES INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AP.R",
+    "name": "AP THAILAND NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LH.R",
+    "name": "LAND AND HOUSE PUBLIC NON-VOTING D",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6282",
+    "name": "ACBEL POLYTECH INC",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "112610",
+    "name": "CS WIND CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2145",
+    "name": "SHANGHAI CHICMAX COSMETIC CLS H LT",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603296",
+    "name": "HUAQIN TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GUBRF.E",
+    "name": "GUBRE FABRIKALARI A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3030",
+    "name": "SAUDI CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000538",
+    "name": "YUNNAN BAIYAO GROUP LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2486",
+    "name": "I-CHIUN PRECISION INDUSTRY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BSOFT",
+    "name": "BIRLASOFT LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GND",
+    "name": "GRINDROD LTD",
+    "sector": "Industrials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UNIP6",
+    "name": "UNIPAR PARTICIPACOES PREF CLASS B",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TURSG.E",
+    "name": "TURKIYE SIGORTA ANONIM SIRKETI",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GRAPHITE",
+    "name": "GRAPHITE INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "018670",
+    "name": "SK GAS LTD",
+    "sector": "Energy",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600436",
+    "name": "ZHANGZHOU PIENTZEHUANG PHARMACEUTI",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000630",
+    "name": "TONGLING NONFERROUS METALS GROUP L",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DFM",
+    "name": "DUBAI FINANCIAL MARKET",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "267270",
+    "name": "HD HYUNDAI CONSTRUCTION EQUIPMENT",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EXCL",
+    "name": "XLSMART TELECOM SEJAHTERA",
+    "sector": "Communication",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2083",
+    "name": "POWER AND WATER UTILITY COMPANY FO",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ZENTEC",
+    "name": "ZEN TECHNOLOGIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2439",
+    "name": "MERRY ELECTRONICS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3030",
+    "name": "TEST RESEARCH INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "204320",
+    "name": "HL MANDO CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CIEINDIA",
+    "name": "CIE AUTOMOTIVE INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MKHZN",
+    "name": "THE PUBLIC WAREHOUSING (AGILITY)",
+    "sector": "Industrials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "605117",
+    "name": "NINGBO DEYE TECHNOLOGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUNTV",
+    "name": "SUN TV NETWORK LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AFCONS",
+    "name": "AFCONS INFRASTRUCTURE LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9958",
+    "name": "CENTURY IRON AND STEEL INDUSTRIAL",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JPPOWER",
+    "name": "JAIPRAKASH POWER VENTURES LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300418",
+    "name": "KUNLUN TECH LTD A",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAWAD.R",
+    "name": "SRISAWAD CORPORATION PCL NON-VOTIN",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BOLSAA",
+    "name": "BOLSA MEXICANA DE VALORES",
+    "sector": "Financials",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NY1",
+    "name": "NINETY ONE LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "068760",
+    "name": "CELLTRION PHARM INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004990",
+    "name": "LOTTE CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "USHAMART",
+    "name": "USHA MARTIN LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VTL",
+    "name": "VARDHMAN TEXTILES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MPI",
+    "name": "MALAYSIAN PACIFIC INDUSTRIES",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INLOT",
+    "name": "INTRALOT INTEGRATED LOTTERY SYSTEM",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NAZARA",
+    "name": "NAZARA TECHNOLOGIES LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "026960",
+    "name": "DONG SUH INC",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAINBOW",
+    "name": "RAINBOW CHILDRENS MEDICARE LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CNPF",
+    "name": "CENTURY PACIFIC FOOD INC",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "383220",
+    "name": "F&F LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5388",
+    "name": "SERCOMM CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FINCABLES",
+    "name": "FINOLEX CABLES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6078",
+    "name": "HYGEIA HEALTHCARE HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NMDCENR",
+    "name": "NMDC ENERGY PJSC",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MFCB",
+    "name": "MEGA FIRST CORPORATION",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOWR",
+    "name": "SARANA MENARA NUSANTARA",
+    "sector": "Communication",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002920",
+    "name": "HUIZHOU DESAY SV AUTOMOTIVE LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEGACPO",
+    "name": "MEGACABLE HOLDINGS CPO",
+    "sector": "Communication",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PARADEEP",
+    "name": "PARADEEP PHOSPHATES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RLO",
+    "name": "REUNERT LTD",
+    "sector": "Industrials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600415",
+    "name": "ZHEJIANG CHINA COMMODITIES CITY GR",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OMN",
+    "name": "OMNIA HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GISS",
+    "name": "GULF INTERNATIONAL SERVICES",
+    "sector": "Energy",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688122",
+    "name": "WESTERN SUPERCONDUCTING TECHNOLOGI",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SNT",
+    "name": "SANTAM LTD",
+    "sector": "Financials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEWGEN",
+    "name": "NEWGEN SOFTWARE TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601881",
+    "name": "CHINA GALAXY SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SLCE3",
+    "name": "SLC AGRICOLA SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "697",
+    "name": "SHOUCHENG HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002064",
+    "name": "HUAFON CHEMICAL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "098460",
+    "name": "KOH YOUNG TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601872",
+    "name": "CHINA MERCHANTS ENERGY SHIPPING LT",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BATAINDIA",
+    "name": "BATA INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601901",
+    "name": "FOUNDER SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3491",
+    "name": "UNIVERSAL MICROWAVE TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1052",
+    "name": "YUEXIU TRANSPORT INFRASTRUCTURE LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SOUTHBANK",
+    "name": "SOUTH INDIAN BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TVSHLTD",
+    "name": "TVS HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "694",
+    "name": "BEIJING CAPITAL INTERNATIONAL AIRP",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600109",
+    "name": "SINOLINK SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JYOTHYLAB",
+    "name": "JYOTHY LABS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4979",
+    "name": "LUXNET CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARZAN",
+    "name": "ARZAN INVESTMENT AND FINANCIAL",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GABRIEL",
+    "name": "GABRIEL INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000831",
+    "name": "CHINA RARE EARTH RESOURCES AND TEC",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ASTOR.E",
+    "name": "ASTOR ENERJI A.S.",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1316",
+    "name": "NEXTEER AUTOMOTIVE GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HFCL",
+    "name": "HFCL LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PGOLD",
+    "name": "PURE GOLD PRICE CLUB INC",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADNH",
+    "name": "ABU DHABI NATIONAL HOTELS",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DOHOL.E",
+    "name": "DOGAN SIRKETLER GRUBU HOLDING A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IOIPG",
+    "name": "IOI PROPERTIES GROUP",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2329",
+    "name": "ORIENT SEMICONDUCTOR ELECTRONICS L",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002673",
+    "name": "WESTERN SECURITIES CO LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "855",
+    "name": "CHINA WATER AFFAIRS GROUP LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "011210",
+    "name": "HYUNDAI WIA CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4772",
+    "name": "TAIWAN SPECIALITY CHEMICALS CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2328",
+    "name": "PAN-INTERNATIONAL INDUSTRIAL CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6278",
+    "name": "TAIWAN SURFACE MOUNTING TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9606",
+    "name": "DUALITY BIOTHERAPEUTICS INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6214",
+    "name": "SYSTEX CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9933",
+    "name": "CTCI CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002304",
+    "name": "JIANGSU YANGHE BREWERY JOINT-STOCK",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601998",
+    "name": "CHINA CITIC BANK CORP LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601838",
+    "name": "BANK OF CHENGDU LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BA.R",
+    "name": "BANGKOK AIRWAYS PCL NON-VOTING D",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BASF",
+    "name": "BASF INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2312",
+    "name": "KINPO ELECTRONICS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2273",
+    "name": "GUSHENGTANG HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001979",
+    "name": "CHINA MERCHANTS SHEKOU INDUSTRIAL",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601916",
+    "name": "CHINA ZHESHANG BANK LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CONCHATORO",
+    "name": "VINA CONCHA Y TORO INC",
+    "sector": "Consumer Staples",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FINPIPE",
+    "name": "FINOLEX INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DMC",
+    "name": "DMCI HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2320",
+    "name": "AL BABTAIN POWER AND TELECOMMUNICA",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "088350",
+    "name": "HANWHA LIFE INSURANCE LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TOPGLOV",
+    "name": "TOP GLOVE CORPORATION",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "457190",
+    "name": "ISU SPECIALTY CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GPIL",
+    "name": "GODAWARI POWER AND ISPAT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRCON",
+    "name": "IRCON INTERNATIONAL LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VINATIORGA",
+    "name": "VINATI ORGANICS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KRDMD.E",
+    "name": "KARDEMIR KARABUK DEMIR CELIK SANAY",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000617",
+    "name": "CNPC CAPITAL LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TKIM",
+    "name": "PABRIK KERTAS TJIWI KIMIA",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALTIJARIA",
+    "name": "COMMERCIAL REAL ESTATE",
+    "sector": "Real Estate",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603260",
+    "name": "HOSHINE SILICON INDUSTRY LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601628",
+    "name": "CHINA LIFE INSURANCE LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "069620",
+    "name": "DAEWOONG PHARMACEUTICAL",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KANSAINER",
+    "name": "KANSAI NEROLAC PAINTS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "-",
+    "name": "SKF INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GILLETTE",
+    "name": "GILLETTE INDIA LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2393",
+    "name": "EVERLIGHT ELECTRONICS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CLP",
+    "name": "CLP CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2616",
+    "name": "CSTONE PHARMACEUTICALS",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2128",
+    "name": "CHINA LESSO GROUP HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600048",
+    "name": "POLY DEVELOPMENTS AND HOLDINGS GRO",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000783",
+    "name": "CHANGJIANG SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600221",
+    "name": "HAINAN AIRLINES HOLDING LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "095340",
+    "name": "ISC TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PCBL",
+    "name": "PCBL CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAP",
+    "name": "SAPPI LTD",
+    "sector": "Materials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SUMICHEM",
+    "name": "SUMITOMO CHEMICAL INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ULKER.E",
+    "name": "ULKER BISKUVI SANAYI A",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2533",
+    "name": "BLACK SESAME INTERNATIONAL HOLDING",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AVANTIFEED",
+    "name": "AVANTI FEEDS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600176",
+    "name": "CHINA JUSHI LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002353",
+    "name": "YANTAI JEREH OILFIELD SERVICES GRO",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5469",
+    "name": "HANNSTAR BOARD CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3374",
+    "name": "XINTEC INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SIRI.R",
+    "name": "SANSIRI NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600674",
+    "name": "SICHUAN CHUANTOU ENERGY LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MBSB",
+    "name": "MBSB",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000938",
+    "name": "UNISPLENDOUR CORP LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9911",
+    "name": "NEWBORN TOWN INC",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "APLLTD",
+    "name": "ALEMBIC PHARMACEUTICALS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OSP.R",
+    "name": "OSOTSPA PCL NON-VOTING DR",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HEAL",
+    "name": "MEDIKALOKA HERMINA",
+    "sector": "Health Care",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601600",
+    "name": "ALUMINUM CORPORATION OF CHINA LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300207",
+    "name": "SUNWODA ELECTRONIC LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8200",
+    "name": "SAUDI REINSURANCE",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300919",
+    "name": "CNGR ADVANCED MATERIAL LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600066",
+    "name": "YUTONG BUS LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABLBL",
+    "name": "ADITYA BIRLA LIFESTYLE BRANDS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2157",
+    "name": "LEPU BIOPHARMA LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601877",
+    "name": "ZHEJIANG CHINT ELECTRICS LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BLS",
+    "name": "BLS INTERNATIONAL SERVICES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "096530",
+    "name": "SEEGENE INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601788",
+    "name": "EVERBRIGHT SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9941",
+    "name": "YULON FINANCE CORP",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CIMSA.E",
+    "name": "CIMSA CIMENTO SANAYII VE TICARET A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4007",
+    "name": "AL HAMMADI HOLDING",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3040",
+    "name": "QASSIM CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WBC",
+    "name": "WE BUY CARS HLDS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600039",
+    "name": "SICHUAN ROAD & BRIDGE LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6188",
+    "name": "QUANTA STORAGE INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601377",
+    "name": "INDUSTRIAL SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8028",
+    "name": "PHOENIX SILICON INTERNATIONAL CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECL",
+    "name": "ENGIE ENERGIA CHILE SA",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MBK.R",
+    "name": "MBK NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "001120",
+    "name": "LX INTERNATIONAL CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1610",
+    "name": "COFCO JOYCOME FOODS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2201",
+    "name": "YULON MOTOR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RLC",
+    "name": "ROBINSONS LAND CORP",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6213",
+    "name": "ITEQ CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "506",
+    "name": "CHINA FOODS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OYAKC.E",
+    "name": "OYAK CIMENTO FABRIKALARI A.S.",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000963",
+    "name": "HUADONG MEDICINE LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600219",
+    "name": "SHANDONG NANSHAN ALUMINIUM LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1030",
+    "name": "SEAZEN GROUP LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300442",
+    "name": "RANGE INTELLIGENT COMPUTING TECHNO",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LAMDA",
+    "name": "LAMDA DEVELOPMENT SA",
+    "sector": "Real Estate",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1951",
+    "name": "JINXIN FERTILITY GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IAM",
+    "name": "INVERSIONES AGUAS METROPOLITANAS S",
+    "sector": "Utilities",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600570",
+    "name": "HUNDSUN TECHNOLOGIES INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPIG",
+    "name": "MNC TOURISM INDONESIA",
+    "sector": "Real Estate",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TI",
+    "name": "TILAKNAGAR INDUSTRIES LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4220",
+    "name": "EMAAR THE ECONOMIC CITY",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BUKA",
+    "name": "BUKALAPAK.COM",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1478",
+    "name": "Q TECHNOLOGY (GROUP) LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "028670",
+    "name": "PAN OCEAN LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GNFC",
+    "name": "GUJARAT NARMADA VALLEY FERTILIZERS",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3393",
+    "name": "WASION HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GHCL",
+    "name": "GHCL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600096",
+    "name": "YUNNAN YUNTIANHUA LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GOKEX",
+    "name": "GOKALDAS EXPORTS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JKTYRE",
+    "name": "JK TYRE AND INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INTP",
+    "name": "INDOCEMENT TUNGGAL PRAKARSA",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600584",
+    "name": "JCET GROUP LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002202",
+    "name": "GOLDWIND SCIENCE&TECHNOLOGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JAZEERA",
+    "name": "JAZEERA AIRWAYS",
+    "sector": "Industrials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HAPPSTMNDS",
+    "name": "HAPPIEST MINDS TECHNOLOGIES PVT LT",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HUF",
+    "name": "HUF CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Hungary",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CK.R",
+    "name": "CH KARNCHANG NON-VOTING DR PCL",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "330590",
+    "name": "LOTTE REIT LTD",
+    "sector": "Real Estate",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PRAJIND",
+    "name": "PRAJ INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "285130",
+    "name": "SK CHEMICALS LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MASTEK",
+    "name": "MASTEK LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WBO",
+    "name": "WBH OVCON LTD",
+    "sector": "Industrials",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TVO.R",
+    "name": "THAI VEGETABLE OIL NON-VOTING DR P",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ECOR3",
+    "name": "ECORODOVIAS INFRAESTRUTURA E LOGIS",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "826",
+    "name": "TIANGONG INTERNATIONAL LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KPROJ",
+    "name": "KUWAIT PROJECTS",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600741",
+    "name": "HUAYU AUTOMOTIVE SYSTEMS LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RATNAMANI",
+    "name": "RATNAMANI METALS AND TUBES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5371",
+    "name": "CORETRONIC CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MRVE3",
+    "name": "MRV ENGENHARIA E PARTICIPACOES SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ADMIE",
+    "name": "ADMIE HOLDING COMPANY SA SHRS",
+    "sector": "Utilities",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2381",
+    "name": "ARABIAN DRILLING CO",
+    "sector": "Energy",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ASTRAMICRO",
+    "name": "ASTRA MICROWAVE PRODUCTS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1514",
+    "name": "ALLIS ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ENERY.E",
+    "name": "ENERYA ENERJI A.S.",
+    "sector": "Utilities",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2081",
+    "name": "ALKHORAYEF WATER & POWER TECHNOLOG",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4123",
+    "name": "CENTER LABORATORIES INC",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GMAT3",
+    "name": "GRUPO MATEUS SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SWANCORP",
+    "name": "SWAN CORP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AMATA.R",
+    "name": "AMATA CORPORATION NON-VOTING DR PC",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "120110",
+    "name": "KOLON INDUSTRY INC",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GMDCLTD",
+    "name": "GUJARAT MINERAL DEVELOPMENT CORPOR",
+    "sector": "Energy",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "004000",
+    "name": "LOTTE FINE CHEMICALS LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "OLAELEC",
+    "name": "OLA ELECTRIC MOBILITY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "085660",
+    "name": "CHABIOTECH LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CAD",
+    "name": "CAD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Canada",
+    "weight": 0.01
+  },
+  {
+    "ticker": "LU",
+    "name": "LUFAX HLDG AMERICAN DEPOSITARY SHA",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9997",
+    "name": "KANGJI MEDICAL HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UDCD",
+    "name": "UNITED DEVELOPMENT",
+    "sector": "Real Estate",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601878",
+    "name": "ZHESHANG SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MGLU3",
+    "name": "MAGAZINE LUIZA SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "064760",
+    "name": "TOKAI CARBON KOREA LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6271",
+    "name": "TONG HSING ELECTRONIC INDUSTRIES L",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VOLTAMP",
+    "name": "VOLTAMP TRANSFORMERS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3983",
+    "name": "CHINA BLUECHEMICAL LTD H",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MERS",
+    "name": "AL MEERA CONSUMER GOODS COMPANY",
+    "sector": "Consumer Staples",
+    "country": "Qatar",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4261",
+    "name": "THEEB RENT A CAR",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEDC",
+    "name": "MEDCO ENERGI INTERNASIONAL",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000301",
+    "name": "JIANGSU EASTERN SHENGHONG LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "119",
+    "name": "POLY PPTY GROUP LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2363",
+    "name": "SILICON INTEGRATED SYSTEM CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600803",
+    "name": "ENN NATURAL GAS LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2469",
+    "name": "FENBI LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000120",
+    "name": "CJ LOGISTICS CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "UJJIVANSFB",
+    "name": "UJJIVAN SMALL FINANCE BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2858",
+    "name": "YIXIN GROUP LTD",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8016",
+    "name": "SITRONIX TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ITMG",
+    "name": "INDO TAMBANGRAYA MEGAH",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CENTEL.R",
+    "name": "CENTRAL PLAZA HOTEL NON-VOTING DR",
+    "sector": "Consumer Discretionary",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603568",
+    "name": "ZHEJIANG WEIMING ENVIRONMENT PROTE",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GMMPFAUDLR",
+    "name": "GMM PFAUDLER LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601456",
+    "name": "GUOLIAN MINSHENG SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BSDE",
+    "name": "BUMI SERPONG DAMAI",
+    "sector": "Real Estate",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "034230",
+    "name": "PARADISE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000157",
+    "name": "ZOOMLION HEAVY INDUSTRY SCIENCE AN",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1083",
+    "name": "TOWNGAS SMART ENERGY LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600426",
+    "name": "SHANDONG HUALU-HENGSHENG CHEMICAL",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "348370",
+    "name": "ENCHEM LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3014",
+    "name": "INTEGRATED TECHNOLOGY EXPRESS INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8415",
+    "name": "BRIGHTON-BEST INTERNATION (TAIWAN)",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ELPE",
+    "name": "HELLENIQ ENERGY HOLDINGS S A SA",
+    "sector": "Energy",
+    "country": "Greece",
+    "weight": 0.01
+  },
+  {
+    "ticker": "282330",
+    "name": "BGF RETAIL LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4743",
+    "name": "ONENESS BIOTECH LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "065350",
+    "name": "SHINSUNG DELTA TECH LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601618",
+    "name": "METALLURGICAL CORP OF CHINA LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "J&KBANK",
+    "name": "JAMMU AND KASHMIR BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "297",
+    "name": "SINOFERT HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "GSFC",
+    "name": "GUJARAT STATE FERTILIZERS AND CHEM",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6808",
+    "name": "SUN ART RETAIL GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAPPHIRE",
+    "name": "SAPPHIRE FOODS INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "MEDPLUS",
+    "name": "MEDPLUS HEALTH SERVICES LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000932",
+    "name": "HUNAN VALIN STEEL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FINEORG",
+    "name": "FINE ORGANIC INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5009",
+    "name": "GLORIA MATERIAL TECHNOLOGY CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "214370",
+    "name": "CAREGEN LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1117",
+    "name": "CHINA MODERN DAIRY HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000240",
+    "name": "HANKOOK & COMPANY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AZAD",
+    "name": "AZAD ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "006120",
+    "name": "SK DISCOVERY LTD",
+    "sector": "Energy",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CAP",
+    "name": "CAP SA",
+    "sector": "Materials",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2070",
+    "name": "SAUDI PHARMACEUTICAL INDUST AND ME",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "036930",
+    "name": "JUSUNG ENGINEERING LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "023530",
+    "name": "LOTTE SHOPPING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000933",
+    "name": "HENAN SHENHUO COAL & POWER LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SARDAEN",
+    "name": "SARDA ENERGY AND MINERALS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "328130",
+    "name": "LUNIT INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2023",
+    "name": "YIEH PHUI ENTERPRISE LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601108",
+    "name": "CAITONG SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "81",
+    "name": "CHINA OVERSEAS GRAND OCEANS GROUP",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ALPA4",
+    "name": "SAO PAULO ALPARGATAS PREF SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6699",
+    "name": "ANGELALIGN TECHNOLOGY INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1811",
+    "name": "CGN NEW ENERGY HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "100090",
+    "name": "SK OCEANPLANT COLTD LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300759",
+    "name": "PHARMARON BEIJING LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAKPROP",
+    "name": "RAS AL KHAIMAH PROPERTIES",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CMSINFO",
+    "name": "CMS INFO SYSTEMS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688036",
+    "name": "SHENZHEN TRANSSION HOLDINGS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TSKB.E",
+    "name": "TURKIYE SINAI KALKINMA BANKASI A",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600875",
+    "name": "DONGFANG ELECTRIC CORP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "KOZAA.E",
+    "name": "KOZA ANADOLU METAL MADENCILIK ISLE",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CTRA",
+    "name": "CIPUTRA DEVELOPMENT",
+    "sector": "Real Estate",
+    "country": "Indonesia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3714",
+    "name": "ENNOSTAR INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2314",
+    "name": "LEE & MAN PAPER MANUFACTURING LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601058",
+    "name": "SAILUN GROUP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1536",
+    "name": "HOTA INDUSTRIAL MFG LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "VOLARA",
+    "name": "CONTROLADORA VUELA COMPANIA DE AVI",
+    "sector": "Industrials",
+    "country": "Mexico",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002648",
+    "name": "SATELLITE CHEMICAL LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002601",
+    "name": "LB GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "WELSPUNLIV",
+    "name": "WELSPUN LIVING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603893",
+    "name": "ROCKCHIP ELECTRONICS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SCI",
+    "name": "SHIPPING CORPORATION OF INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2208",
+    "name": "CSBC CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "301269",
+    "name": "EMPYREAN TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "185750",
+    "name": "CHONG KUN DANG PHARMACEUTICAL CORP",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1904",
+    "name": "CHENG LOONG CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "020150",
+    "name": "ILJIN MATERIALS",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002294",
+    "name": "SHENZHEN SALUBRIS PHARMACEUTICALS",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ETEL",
+    "name": "TELECOM EGYPT",
+    "sector": "Communication",
+    "country": "Egypt",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688126",
+    "name": "NATIONAL SILICON INDUSTRY GROUP LT",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600061",
+    "name": "SDIC CAPITAL LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "000876",
+    "name": "NEW HOPE LIUHE LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "900908",
+    "name": "SHANGHAI CHLOR ALKALI CHEMICAL CLA",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TGA",
+    "name": "THUNGELA RESOURCES LTD",
+    "sector": "Energy",
+    "country": "South Africa",
+    "weight": 0.01
+  },
+  {
+    "ticker": "248070",
+    "name": "SOLUM LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SPACE42",
+    "name": "SPACE42 PLC",
+    "sector": "Communication",
+    "country": "United Arab Emirates",
+    "weight": 0.01
+  },
+  {
+    "ticker": "FWRY",
+    "name": "FAWRY FOR BANKING TECHNOLOGY AND E",
+    "sector": "Financials",
+    "country": "Egypt",
+    "weight": 0.01
+  },
+  {
+    "ticker": "IRBR3",
+    "name": "IRB BRASIL RESSEGUROS SA",
+    "sector": "Financials",
+    "country": "Brazil",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BCH.R",
+    "name": "BANGKOK CHAIN HOSPITAL NON-VOTING",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002532",
+    "name": "TIANSHAN ALUMINUM GROUP LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4071",
+    "name": "ARABIAN CONTRACTING SERVICES",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002790",
+    "name": "AMOREG",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4050",
+    "name": "SAUDI AUTOMOTIVE SERVICES",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2211",
+    "name": "EVERGREEN STEEL CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "603659",
+    "name": "SHANGHAI PUTAILAI NEW ENERGY TECHN",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ABFRL",
+    "name": "ADITYA BIRLA FASHION AND RETAIL LT",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600536",
+    "name": "CHINA NATIONAL SOFTWARE & SERVICE",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "122870",
+    "name": "YG ENTERTAINMENT INC",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BORORENEW",
+    "name": "BOROSIL RENEWABLES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SMU",
+    "name": "SMU SA",
+    "sector": "Consumer Staples",
+    "country": "Chile",
+    "weight": 0.01
+  },
+  {
+    "ticker": "3583",
+    "name": "SCIENTECH CORPORATION CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RAILTEL",
+    "name": "RAILTEL CORP OF INDIA LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ISMEN.E",
+    "name": "IS YATIRIM MENKUL DEGERLER A",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "532527",
+    "name": "RAMKRISHNA FORGINGS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SANOFI",
+    "name": "SANOFI INDIA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "006280",
+    "name": "GREEN CROSS(SOUTH KOREA) CORP",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "AKSA.E",
+    "name": "AKSA AKRILIK KIMYA SANAYI A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600703",
+    "name": "SANAN OPTOELECTRONICS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "600369",
+    "name": "SOUTHWEST SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PETKM.E",
+    "name": "PETKIM PETROKIMYA HOLDING A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2467",
+    "name": "C SUN MFG LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "6592",
+    "name": "HOTAI FINANCE LTD",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "078600",
+    "name": "DAEJOO ELECTRONIC MATERIALS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "300866",
+    "name": "ANKER INNOVATIONS TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "BLUEDART",
+    "name": "BLUE DART EXPRESS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CENTURYPLY",
+    "name": "CENTURY PLYBOARDS INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "1707",
+    "name": "GRAPE KING BIO LTD",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "PLUS",
+    "name": "DIGIPLUS INTERACTIVE CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Philippines",
+    "weight": 0.01
+  },
+  {
+    "ticker": "688777",
+    "name": "SUPCON TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "4766",
+    "name": "NAN PAO RESINS CHEMICAL CO LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JWL",
+    "name": "JUPITER WAGONS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601168",
+    "name": "WESTERN MINING LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "542323",
+    "name": "KPI GREEN ENERGY LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "5522",
+    "name": "FARGLORY LAND DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2040",
+    "name": "SAUDI CERAMIC",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "601021",
+    "name": "SPRING AIRLINES LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TUYA",
+    "name": "TUYA ADR REPRESENTING INC CLASS A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "EMBDL",
+    "name": "EMBASSY DEVELOPMENTS LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "002236",
+    "name": "ZHEJIANG DAHUA TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "8454",
+    "name": "MOMO COM INC",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "CHINHIN",
+    "name": "CHIN HIN GROUP",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.01
+  },
+  {
+    "ticker": "137400",
+    "name": "PEOPLE&TECHNOLOGY INC",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.01
+  },
+  {
+    "ticker": "TRIDENT",
+    "name": "TRIDENT LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "2005",
+    "name": "SSY GROUP LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ARVIND",
+    "name": "ARVIND LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SAFARI",
+    "name": "SAFARI INDUSTRIES INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6526",
+    "name": "AIROHA TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACE",
+    "name": "ACTION CONSTRUCTION EQUIPMENT LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600918",
+    "name": "ZHONGTAI SECURITIES LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2877",
+    "name": "CHINA SHINEWAY PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300999",
+    "name": "YIHAI KERRY ARAWANA HOLDINGS LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TANLA",
+    "name": "TANLA PLATFORMS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6116",
+    "name": "HANNSTAR DISPLAY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBG.R",
+    "name": "CARABAO GROUP PCL SHS NON-VOTING D",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TCPI",
+    "name": "TRANSCOAL PACIFIC",
+    "sector": "Industrials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JSMR",
+    "name": "JASA MARGA",
+    "sector": "Industrials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1440",
+    "name": "TAINAN SPINNING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2727",
+    "name": "WOWPRIME CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2362",
+    "name": "CLEVO",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603392",
+    "name": "BEIJING WANTAI BIOLOGICAL PHARMACY",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NUVOCO",
+    "name": "NUVOCO VISTAS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4105",
+    "name": "TTY BIOPHARM LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688396",
+    "name": "CHINA RESOURCES MICROELECTRONICS L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "007310",
+    "name": "OTOKI CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "294870",
+    "name": "HDC OP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600233",
+    "name": "YTO EXPRESS GROUP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3563",
+    "name": "MACHVISION INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JKPAPER",
+    "name": "JK PAPER LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600023",
+    "name": "ZHEJIANG ZHENENG ELECTRIC POWER LT",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002049",
+    "name": "UNIGROUP GUOXIN MICROELECTRONICS L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "039130",
+    "name": "HANA TOUR SERVICE INC",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DOAS.E",
+    "name": "DOGUS OTOMOTIV SERVIS VE TICARET A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600733",
+    "name": "BAIC BLUEPARK NEW ENERGY TECHNOLOG",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002422",
+    "name": "SICHUAN KELUN PHARMACEUTICAL LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "308",
+    "name": "CHINA TRAVEL INTERNATIONAL INVESTM",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1866",
+    "name": "CHINA XLX FERTILISER LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9914",
+    "name": "MERIDA INDUSTRY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MEGA.R",
+    "name": "MEGA LIFESCIENCE NON-VOTING DR PCL",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "USIM5",
+    "name": "USINAS SIDERURGICAS DE MINAS GERAI",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGI",
+    "name": "ALLIANCE GLOBAL GROUP INC",
+    "sector": "Industrials",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SKFINDIA",
+    "name": "SKF INDIA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "008930",
+    "name": "HANMI SCIENCE LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PGHL",
+    "name": "PROCTER & GAMBLE HEALTH LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000066",
+    "name": "CHINA GREATWALL TECHNOLOGY GROUP L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001965",
+    "name": "CHINA MERCHANTS EXPRESSWAY NETWORK",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688223",
+    "name": "JINKO SOLAR LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000080",
+    "name": "HITEJINRO",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601390",
+    "name": "CHINA RAILWAY GROUP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9938",
+    "name": "TAIWAN PAIHO LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AJMANBANK",
+    "name": "AJMAN BANK",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTKPRESTIG",
+    "name": "TTK PRESTIGE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2367",
+    "name": "UNITECH PRINTED CIRCUIT BOARD CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "7040",
+    "name": "ETIHAD ATHEEB TELECOMMUNICATION",
+    "sector": "Communication",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "361610",
+    "name": "SK IE TECHNOLOGY LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BLDN",
+    "name": "BALADNA COMPANY",
+    "sector": "Consumer Staples",
+    "country": "Qatar",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELECON",
+    "name": "ELECON ENGINEERING CO LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601117",
+    "name": "CHINA NATIONAL CHEMICAL ENGINEERIN",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2607",
+    "name": "EVERGREEN INTERNATIONAL STORAGE &",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SGML",
+    "name": "SIGMA LITHIUM CORP",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMGR",
+    "name": "SEMEN INDONESIA (PERSERO)",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1515",
+    "name": "CHINA RESOURCES MEDICAL HLDGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "007070",
+    "name": "GS RETAIL LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6185",
+    "name": "CANSINO BIOLOGICS INC H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "073240",
+    "name": "KUMHO TIREINC INC",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DXCO3",
+    "name": "DEXCO SA",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3010",
+    "name": "ARABIAN CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VMART",
+    "name": "V MART RETAIL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1736",
+    "name": "JOHNSON HEALTH TECH LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2428",
+    "name": "THINKING ELECTRONIC INDUSTRIAL LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "192080",
+    "name": "DOUBLEU GAMES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CNVRG",
+    "name": "CONVERGE INFORMATION & COMMUNICATI",
+    "sector": "Communication",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1313",
+    "name": "CHINA RES BUILD MATERIAL TECH HOLD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4291",
+    "name": "NATIONAL FOR LEARNING AND EDUCATIO",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603369",
+    "name": "JIANGSU KINGS LUCK BREWERY LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9802",
+    "name": "FULGENT SUN INTERNATIONAL (HOLDING",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KCE.R",
+    "name": "KCE ELECTRONICS NON-VOTING DR PCL",
+    "sector": "Information Technology",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2170",
+    "name": "ALUJAIN CORPORATION CORP",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALARK.E",
+    "name": "ALARKO HOLDING A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "272",
+    "name": "SHUI ON LAND LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1907",
+    "name": "CHINA RISUN GROUP LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6535",
+    "name": "LUMOSA THERAPEUTICS LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KIRLOSBROS",
+    "name": "KIRLOSKAR BROTHERS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000975",
+    "name": "SHANJIN INTERNATIONAL GOLD LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600460",
+    "name": "HANGZHOU SILAN MICROELECTRONICS LT",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RRKABEL",
+    "name": "R R KABEL LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "178320",
+    "name": "SEOJIN SYSTEM LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "047040",
+    "name": "DAEWOO ENGINEERING & CONSTRUCTION",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CTALPEKA",
+    "name": "CONTROLADORA ALPEK SHARES",
+    "sector": "Materials",
+    "country": "Mexico",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1896",
+    "name": "MAOYAN ENTERTAINMENT",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1227",
+    "name": "STANDARD FOODS CORP",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PWON",
+    "name": "PAKUWON JATI",
+    "sector": "Real Estate",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BIRLACORPN",
+    "name": "BIRLA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ARTO",
+    "name": "BANK JAGO INDONESIA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AARTIPHARM",
+    "name": "AARTI PHARMALABS LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601216",
+    "name": "INNER MONGOLIA JUNZHENG ENERGY & C",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NINV",
+    "name": "NATIONAL INVEST",
+    "sector": "Financials",
+    "country": "Kuwait",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SPSETIA",
+    "name": "S P SETIA",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KSCL",
+    "name": "KAVERI SEED COMPANY LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3050",
+    "name": "SOUTHERN PROVINCE CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AEGN",
+    "name": "AEGEAN AIRLINES SA",
+    "sector": "Industrials",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603606",
+    "name": "NINGBO ORIENT WIRES & CABLES LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SOKM.E",
+    "name": "SOK MARKETLER TICARET",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4009",
+    "name": "MIDDLE EAST HEALTHCARE",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIMH3",
+    "name": "SIMPAR SA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001680",
+    "name": "DAESANG CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AIA",
+    "name": "ATHENS INTERNATIONAL AIRPORT SA",
+    "sector": "Industrials",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601077",
+    "name": "CHONGQING RURAL COMMERCIAL BANK LT",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300413",
+    "name": "MANGO EXCELLENT MEDIA LTD A",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WESTLIFE",
+    "name": "WESTLIFE FOODWORLD LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EUR",
+    "name": "EUR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "European Union",
+    "weight": 0.0
+  },
+  {
+    "ticker": "301236",
+    "name": "ISOFTSTONE INFORMATION TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "035760",
+    "name": "CJ ENM LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAYMONDLSL",
+    "name": "RAYMOND LIFESTYLE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2392",
+    "name": "CHENG UEI PRECISION INDUSTRY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2014",
+    "name": "CHUNG HUNG STEEL CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2707",
+    "name": "FORMOSA INTERNATIONAL HOTELS CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "030190",
+    "name": "NICE INFORMATION SERVICE LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "751",
+    "name": "SKYWORTH GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2158",
+    "name": "YIDU TECH INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ANSGR.E",
+    "name": "ANADOLU ANONIM TURK SIGORTA SIRKET",
+    "sector": "Financials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1434",
+    "name": "FORMOSA TAFFETA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002156",
+    "name": "TONGFU MICROELECTRONICS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1789",
+    "name": "AK MEDICAL HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "018880",
+    "name": "HANON SYSTEMS",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2520",
+    "name": "KINDOM CONSTRUCTION LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "777",
+    "name": "NETDRAGON WEBSOFT LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600009",
+    "name": "SHANGHAI INTERNATIONAL AIRPORT LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600588",
+    "name": "YONYOU NETWORK TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GREATEC",
+    "name": "GREATECH TECHNOLOGY",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6605",
+    "name": "DEPO AUTO PARTS INDUSTRIAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6017",
+    "name": "JAHEZ INTERNATIONAL",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1448",
+    "name": "FU SHOU YUAN INTERNATIONAL GROUP L",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MDIA3",
+    "name": "M DIAS BRANCO INDUSTRIA SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6887",
+    "name": "SUNSHINE LAKE PHARMA CO LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEJASNET",
+    "name": "TEJAS NETWORKS LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3080",
+    "name": "EASTERN PROVINCE CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BCPG.R",
+    "name": "BCPG PCL NON-VOTING DR",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "336",
+    "name": "HUABAO INTERNATIONAL HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8081",
+    "name": "GLOBAL MIXED-MODE TECHNOLOGY INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1666",
+    "name": "TONG REN TANG TECHNOLOGIES LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3060",
+    "name": "YANBU CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000596",
+    "name": "ANHUI GUJING DISTILLERY LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "909",
+    "name": "MING YUAN CLOUD GROUP HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3703",
+    "name": "CONTINENTAL HOLDINGS CORP",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NOAH",
+    "name": "NOAH HOLDINGS AMERICAN DEPOSITARY",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002555",
+    "name": "37 INTERACTIVE ENTERTAINMENT NETWO",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300765",
+    "name": "CSPC INNOVATION PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "005850",
+    "name": "SL CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JKLAKSHMI",
+    "name": "JK LAKSHMI CEMENT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2101",
+    "name": "NAN KANG RUBBER TIRE CORP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLANB.R",
+    "name": "PLAN B MEDIA PCL NON-VOTING DR",
+    "sector": "Communication",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600522",
+    "name": "JIANGSU ZHONGTIAN TECHNOLOGY LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTG.R",
+    "name": "BETAGRO NON-VOTING DR PCL",
+    "sector": "Consumer Staples",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600895",
+    "name": "SHANGHAI ZHANGJIANG HI-TECH PARK D",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002185",
+    "name": "TIANSHUI HUATIAN TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1321",
+    "name": "EAST PIPES INTEGRATED COMPANY FOR",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3613",
+    "name": "BEIJING TONG REN TANG CHINESE MEDI",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6589",
+    "name": "EIRGENIX INC",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "086900",
+    "name": "MEDY-TOX INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GRND3",
+    "name": "GRENDENE SA",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688120",
+    "name": "HWATSING TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHLIFE",
+    "name": "MAHINDRA LIFESPACE DEVELOPERS LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1675",
+    "name": "ASIAINFO TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001740",
+    "name": "SK NETWORKS LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RCL.R",
+    "name": "REGIONAL CONTAINER LINES NON-VOTIN",
+    "sector": "Industrials",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2501",
+    "name": "CATHAY REAL ESTATE DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2106",
+    "name": "KENDA RUBBER INDUSTRIAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600027",
+    "name": "HUADIAN POWER INTERNATIONAL CORP L",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600745",
+    "name": "WINGTECH TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6146",
+    "name": "SPORTON INTERNATIONAL INC",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300251",
+    "name": "BEIJING ENLIGHT MEDIA LTD A",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "667",
+    "name": "CHINA EAST EDUCATION HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BGRIM.R",
+    "name": "B.GRIMM POWER PCL NON-VOTING DR",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3078",
+    "name": "CHANNEL WELL TECHNOLOGY LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "086450",
+    "name": "DONGKOOK PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600839",
+    "name": "SICHUAN CHANGHONG ELECTRIC LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "064960",
+    "name": "SNT MOTIV LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JINDALSAW",
+    "name": "JINDAL SAW LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "293490",
+    "name": "KAKAO GAMES CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BECTORFOOD",
+    "name": "MRS BECTORS FOOD SPECIALITIES LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAM.R",
+    "name": "BANGKOK COMMERCIAL ASSET MANAGEMEN",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EQUITASBNK",
+    "name": "EQUITAS SMALL FINANCE BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5534",
+    "name": "CHONG HONG CONSTRUCTION LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2543",
+    "name": "HWANG CHANG GENERAL CONTRACTOR LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600845",
+    "name": "SHANGHAI BAOSIGHT SOFTWARE LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IFCI",
+    "name": "IFCI LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JBMA",
+    "name": "JBM AUTO LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688082",
+    "name": "ACM RESEARCH (SHANGHAI) INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HEG",
+    "name": "HEG LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002223",
+    "name": "JIANGSU YUYUE MEDICAL EQUIPMENT &",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1773",
+    "name": "SHINY CHEMICAL INDUSTRIAL LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "114090",
+    "name": "GKL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603486",
+    "name": "ECOVACS ROBOTICS LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2204",
+    "name": "CHINA MOTOR CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "195940",
+    "name": "HK INNO.N CORP",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SCC",
+    "name": "SEMIRARA MINING AND POWER",
+    "sector": "Energy",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8086",
+    "name": "ADVANCED WIRELESS SEMICONDUCTOR",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BBTN",
+    "name": "PT BANK TABUNGAN NEGARA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SMTO3",
+    "name": "SAO MARTINHO SA",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600487",
+    "name": "HENGTONG OPTIC ELECTRIC LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALKYLAMINE",
+    "name": "ALKYL AMINES CHEMICALS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RALLIS",
+    "name": "RALLIS INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AHGAZ.E",
+    "name": "AHLATCI DOGAL GAZ DAGITIM ENERJI V",
+    "sector": "Utilities",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "839",
+    "name": "CHINA EDUCATION GROUP HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MEG",
+    "name": "MEGAWORLD CORP",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "754",
+    "name": "HOPSON DEVELOPMENT HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "213420",
+    "name": "DUK SAN NEOLUX LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4961",
+    "name": "FITIPOWER INTEGRATED TECHNOLOGY IN",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VS",
+    "name": "VS INDUSTRY",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHG.R",
+    "name": "CHULARAT HOSPITAL NON-VOTING DR PC",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6890",
+    "name": "LAI YIH FOOTWEAR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300122",
+    "name": "CHONGQING ZHIFEI BIOLOGICAL PRODUC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003530",
+    "name": "HANWHA SECURITIES & INVESTMENT LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601567",
+    "name": "NINGBO SANXING MEDICAL ELECTRIC LT",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TAALEEM",
+    "name": "TAALEEM HOLDINGS",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KIRLPNU",
+    "name": "KIRLOSKAR PNEUMATIC CO LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PTC",
+    "name": "PTC INDIA LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000999",
+    "name": "CHINA RESOURCES SANJIU MEDICAL AND",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HCC",
+    "name": "HINDUSTAN CONSTRUCTION COMPANY LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300832",
+    "name": "SHENZHEN NEW INDUSTRIES BIOMEDICAL",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RELIGARE",
+    "name": "RELIGARE ENTERPRISES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000786",
+    "name": "BEIJING NEW BUILDING MATERIALS PUB",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HEKTS.E",
+    "name": "HEKTAS TICARET A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300628",
+    "name": "YEALINK NETWORK TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MARKSANS",
+    "name": "MARKSANS PHARMA LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1773",
+    "name": "TIANLI INTERNATIONAL HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "067160",
+    "name": "SOOP LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6412",
+    "name": "CHICONY POWER TECHNOLOGY LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300223",
+    "name": "INGENIC SEMICONDUCTOR LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001800",
+    "name": "ORION HOLDINGS CORP",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PHP",
+    "name": "PHP CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601699",
+    "name": "SHANXI LUAN ENVIRONMENTAL ENERGY D",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VGI.R",
+    "name": "VGI NON-VOTING DR PCL",
+    "sector": "Communication",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "056190",
+    "name": "SFA ENGINEERING CORP",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "005300",
+    "name": "LOTTE CHILSUNG BEVERAGE LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6561",
+    "name": "CHIEF TELECOM INC",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OTKAR.E",
+    "name": "OTOKAR OTOMOTIV SAVUNMA SANAYI",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6643",
+    "name": "M31 TECHNOLOGY CORPORATION CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688303",
+    "name": "XINJIANG DAQO NEW ENERGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BFIN",
+    "name": "BFI FINANCE INDONESIA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "108320",
+    "name": "LX SEMICON LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601607",
+    "name": "SHANGHAI PHARMACEUTICALS HOLDING L",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "LLOYDSENGG",
+    "name": "LLOYDS ENGINEERING WORKS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300661",
+    "name": "SG MICRO CORP A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3515",
+    "name": "ASROCK INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300316",
+    "name": "ZHEJIANG JINGSHENG MECHANICAL & EL",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1723",
+    "name": "CHINA STEEL CHEMICAL CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6955",
+    "name": "SHANDONG BOAN BIOTECHNOLOGY LTD H",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002152",
+    "name": "GRG BANKING EQUIPMENT LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2388",
+    "name": "VIA TECHNOLOGIES INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1808",
+    "name": "RUN LONG CONSTRUCTION LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TARIL",
+    "name": "TRANSFORMERS AND RECTIFIERS INDIA",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600196",
+    "name": "SHANGHAI FOSUN PHARMACEUTICAL (GRO",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002465",
+    "name": "GUANGZHOU HAIGE COMMUNICATIONS GRO",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NSLNISP",
+    "name": "NMDC STEEL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6491",
+    "name": "PEGAVISION CORPORATION CORP",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002281",
+    "name": "ACCELINK TECHNOLOGIES LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000983",
+    "name": "SHANXI COKING COAL ENERGY GROUP LT",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601696",
+    "name": "BOC INTERNATIONAL (CHINA) LTD A",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600585",
+    "name": "ANHUI CONCH CEMENT LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VIPIND",
+    "name": "VIP INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6269",
+    "name": "FLEXIUM INTERCONNECT INC",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600085",
+    "name": "BEIJING TONGRENTANG LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GENUSPOWER",
+    "name": "GENUS POWER INFRASTRUCTURES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4147",
+    "name": "TAIMED BIOLOGICS INC",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "365550",
+    "name": "ESR KENDALL SQUARE REIT LTD",
+    "sector": "Real Estate",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002459",
+    "name": "JA SOLAR TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACI",
+    "name": "ARCHEAN CHEMICAL INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WAAREERTL",
+    "name": "WAAREE RENEWABLE TECHNOLOGIES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAREGAMA",
+    "name": "SAREGAMA INDIA LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688169",
+    "name": "BEIJING ROBOROCK TECHNOLOGY LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3592",
+    "name": "RAYDIUM SEMI-CONDUCTOR CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300720",
+    "name": "HANILCMT LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGTHIA",
+    "name": "AGTHIA GROUP",
+    "sector": "Consumer Staples",
+    "country": "United Arab Emirates",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RELAXO",
+    "name": "RELAXO FOOTWEARS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JSW",
+    "name": "JASTRZEBSKA SPOLKA WEGLOWA SA",
+    "sector": "Materials",
+    "country": "Poland",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6680",
+    "name": "JL MAG RARE-EARTH LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HARTA",
+    "name": "HARTALEGA HOLDINGS",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603195",
+    "name": "GONEO GROUP LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "298050",
+    "name": "HS HYOSUNG ADVANCED MATERIALS CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002456",
+    "name": "O FILM TECH LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SWSOLAR",
+    "name": "STERLING AND WILSON RENEWABLE ENER",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AZNOULA",
+    "name": "SHAMAL AZ ZOUR AL OULA KSC",
+    "sector": "Utilities",
+    "country": "Kuwait",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VESUVIUS",
+    "name": "VESUVIUS INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "604",
+    "name": "SHENZHEN INVESTMENT LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6456",
+    "name": "GENERAL INTERFACE SOLUTION GIS HOL",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600026",
+    "name": "COSCO SHIPPING ENERGY TRANSPORTATI",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "069260",
+    "name": "TKG HUCHEMS LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601238",
+    "name": "GUANGZHOU AUTOMOBILE GROUP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IRPC.R",
+    "name": "IRPC NON-VOTING DR PCL",
+    "sector": "Energy",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KOSSAN",
+    "name": "KOSSAN RUBBER INDUSTRIES",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9979",
+    "name": "GREENTOWN MANAGEMENT HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TTML",
+    "name": "TATA TELESERVICES MAHARASHTRA LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688599",
+    "name": "TRINA SOLAR LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3003",
+    "name": "CITY CEMENT",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "009450",
+    "name": "KYUNG DONG NAVIEN LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RITES",
+    "name": "RITES LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002252",
+    "name": "SHANGHAI RAAS BLOOD PRODUCTS LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "121600",
+    "name": "ADVANCED NANO PRODUCT LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1202",
+    "name": "MIDDLE EAST PAPER",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "253450",
+    "name": "STUDIO DRAGON CORP",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MRCB",
+    "name": "MALAYSIAN RESOURCES CORPORATION",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603596",
+    "name": "BETHEL AUTOMOTIVE SAFETY SYSTEMS L",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2359",
+    "name": "SOLOMON TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TEXRAIL",
+    "name": "TEXMACO RAIL AND ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "298020",
+    "name": "HYOSUNG TNC CORP",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6533",
+    "name": "ANDES TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601799",
+    "name": "CHANGZHOU XINGYU AUTOMOTIVE LIGHTI",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003090",
+    "name": "DAEWOONG LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "281740",
+    "name": "LAKE MATERIALS LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603806",
+    "name": "HANGZHOU FIRST APPLIED MATERIAL LT",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KTKBANK",
+    "name": "KARNATAKA BANK LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2285",
+    "name": "CHERVON HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QH.R",
+    "name": "QUALITY HOUSES NON-VOTING DR PCL",
+    "sector": "Real Estate",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "405",
+    "name": "YUEXIU REAL ESTATE INVESTMENT TRUS",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MANYAVAR",
+    "name": "VEDANT FASHIONS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JUSTDIAL",
+    "name": "JUST DIAL LTD",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HONASA",
+    "name": "HONASA CONSUMER LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603160",
+    "name": "SHENZHEN GOODIX TECHNOLOGY LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CONCORDBIO",
+    "name": "CONCORD BIOTECH LTD",
+    "sector": "Health Care",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "112040",
+    "name": "WEM ADE LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STLTECH",
+    "name": "STERLITE TECHNOLOGIES LTD",
+    "sector": "Information Technology",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300896",
+    "name": "IMEIK TECHNOLOGY DEVELOPMENT LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600256",
+    "name": "GUANGHUI ENERGY LTD A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ASHOKA",
+    "name": "ASHOKA BUILDCON LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLEAN",
+    "name": "CLEAN SCIENCE AND TECHNOLOGY LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688188",
+    "name": "SHANGHAI FRIENDESS ELECTRONICS TEC",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "204270",
+    "name": "JNTC LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUNTECK",
+    "name": "SUNTECK REALTY LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9940",
+    "name": "SINYI REALTY INC",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4163",
+    "name": "AL DAWAA MEDICAL SERVICES",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1608",
+    "name": "HUA ENG WIRE AND CABLE LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603939",
+    "name": "YIFENG PHARMACY CHAIN LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CTOS",
+    "name": "CTOS DIGITAL",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601865",
+    "name": "FLAT GLASS GROUP LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601958",
+    "name": "JINDUICHENG MOLYBDENUM LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NATGATE",
+    "name": "NATIONGATE HOLDINGS",
+    "sector": "Information Technology",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NIITMTS",
+    "name": "NIIT LEARNING SYSTEMS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PHX",
+    "name": "PHOENIX GROUP PLC",
+    "sector": "Information Technology",
+    "country": "United Arab Emirates",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688099",
+    "name": "AMLOGIC (SHANGHAI) LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BTCIM.E",
+    "name": "BATICIM BATI ANADOLU CIMENTO SANAY",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "018290",
+    "name": "VT LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600079",
+    "name": "HUMANWELL HEALTHCARE (GROUP) LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "182",
+    "name": "CONCORD NEW ENERGY GROUP LTD",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ESSA",
+    "name": "ESSA INDUSTRIES INDONESIA",
+    "sector": "Materials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RECV3",
+    "name": "PETRORECONCAVO SA",
+    "sector": "Energy",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000210",
+    "name": "DL LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002129",
+    "name": "TCL ZHONGHUAN RENEWABLE ENERGY TEC",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SARANTIS SA REG STOCK",
+    "sector": "Consumer Staples",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "710",
+    "name": "BOE VARITRONIX LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2031",
+    "name": "HSIN KUANG STEEL LTD",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000661",
+    "name": "CHANGCHUN HIGH & NEW TECHNOLOGY IN",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TABGD.E",
+    "name": "TAB GIDA SANAYI VE TICARET AS",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EYDAP",
+    "name": "ATHENS WATER SUPPLY AND SEWAGE SA",
+    "sector": "Utilities",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STA.R",
+    "name": "SRI TRANG-AGRO INDUSTRY NON-VOTING",
+    "sector": "Consumer Discretionary",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EFIH",
+    "name": "E-FINANCE FOR DIGITAL AND FINANCIA",
+    "sector": "Financials",
+    "country": "Egypt",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6757",
+    "name": "TIGERAIR TAIWAN LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MIKA",
+    "name": "MITRA KELUARGA KARYASEHAT",
+    "sector": "Health Care",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300782",
+    "name": "MAXSCEND MICROELECTRONICS LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "009240",
+    "name": "HANSSEM LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2540",
+    "name": "JSL CONSTRUCTION & DEVELOPMENT CO",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3617",
+    "name": "CYBERPOWER SYSTEMS INC",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2192",
+    "name": "MEDLIVE TECHNOLOGY LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INFIBEAM",
+    "name": "INFIBEAM AVENUES LTD",
+    "sector": "Financials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1831",
+    "name": "MAHARAH HUMAN RESOURCES CO",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6125",
+    "name": "KENMEC MECHANICAL ENGINEERING LTD",
+    "sector": "Industrials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BAJAJELEC",
+    "name": "BAJAJ ELECTRICALS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6469",
+    "name": "GREAT TREE PHARMACY COLTD LTD",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HANA.R",
+    "name": "HANA MICROELECTRONICS NON-VOTING D",
+    "sector": "Information Technology",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600153",
+    "name": "XIAMEN C&D INC A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FESA4",
+    "name": "FERBASA PREF",
+    "sector": "Materials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600188",
+    "name": "YANKUANG ENERGY GROUP LTD A",
+    "sector": "Energy",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6177",
+    "name": "DA-LI CONSTRUCTION LTD",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RHIM",
+    "name": "RHI MAGNESITA INDIA LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AALI",
+    "name": "ASTRA AGRO LESTARI",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "395400",
+    "name": "SK REITS LTD",
+    "sector": "Real Estate",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INOXINDIA",
+    "name": "INOX INDIA LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2255",
+    "name": "HAICHANG OCEAN PARK HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2511",
+    "name": "PRINCE HOUSING & DEVELOPMENT CORP",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "042000",
+    "name": "CAFE24 CORP",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRGYO.E",
+    "name": "TORUNLAR GAYRIMENKUL YATIRIM ORTAK",
+    "sector": "Real Estate",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EAT",
+    "name": "AMREST HOLDINGS",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VAMO3",
+    "name": "VAMOS LOCACAO DE CAMINHOES MAQUINA",
+    "sector": "Industrials",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600985",
+    "name": "HUAIBEI MINING HOLDINGS LTD A",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002180",
+    "name": "NINESTAR CORP A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NRE",
+    "name": "NATIONAL REAL ESTATE",
+    "sector": "Real Estate",
+    "country": "Kuwait",
+    "weight": 0.0
+  },
+  {
+    "ticker": "004490",
+    "name": "SEBANG GLOBAL BATTERY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "047920",
+    "name": "HLB PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "008730",
+    "name": "YOUL CHON CHEM LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DODLA",
+    "name": "DODLA DAIRY LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688608",
+    "name": "BESTECHNIC (SHANGHAI) LTD A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6279",
+    "name": "HU LANE ASSOCIATE INC",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600398",
+    "name": "HLA GROUP CORP LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RENUKA",
+    "name": "SHREE RENUKA SUGARS LTD",
+    "sector": "Consumer Staples",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SURYAROSNI",
+    "name": "SURYA ROSHNI LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6550",
+    "name": "POLARIS GROUP",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ORIENTELEC",
+    "name": "ORIENT ELECTRIC LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6606",
+    "name": "NEW HORIZON HEALTH LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "38",
+    "name": "FIRST TRACTOR LTD H",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BANK",
+    "name": "BANK ALADIN SYARIAH",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4770",
+    "name": "ALLIED SUPREME CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ELECTCAST",
+    "name": "ELECTROSTEEL CASTINGS LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TKFEN.E",
+    "name": "TEKFEN HOLDING A",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6962",
+    "name": "ITH CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RTNPOWER",
+    "name": "RATTANINDIA POWER LTD",
+    "sector": "Utilities",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SFL",
+    "name": "SHEELA FOAM LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALOKINDS",
+    "name": "ALOK INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000338",
+    "name": "WEICHAI POWER LTD A",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "079160",
+    "name": "CJ CGV LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "020560",
+    "name": "ASIANA AIRLINES INC",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INTB3",
+    "name": "INTELBRAS TELECOMUNICACOES SA",
+    "sector": "Information Technology",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MOIL",
+    "name": "MOIL LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRY",
+    "name": "TRY CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "DBREALTY",
+    "name": "VALOR ESTATE LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ZAR",
+    "name": "ZAR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "South Africa",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4162",
+    "name": "ALMUNAJEM FOODS",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ATT",
+    "name": "GRUPA AZOTY SA",
+    "sector": "Materials",
+    "country": "Poland",
+    "weight": 0.0
+  },
+  {
+    "ticker": "603833",
+    "name": "OPPEIN HOME GROUP INC A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4919",
+    "name": "NUVOTON TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAIN",
+    "name": "RAIN INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "089860",
+    "name": "LOTTE RENTAL LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6719",
+    "name": "UPI SEMICONDUCTOR CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1516",
+    "name": "SUNAC SERVICES HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "280360",
+    "name": "LOTTE CONF LTD",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NETWORK18",
+    "name": "NETWORK18 MEDIA AND INVESTMENTS LT",
+    "sector": "Communication",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "031980",
+    "name": "PSK HOLDINGS INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600161",
+    "name": "BEIJING TIANTAN BIOLOGICAL PRODUCT",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "225570",
+    "name": "NEXON GAMES LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4262",
+    "name": "LUMI RENTAL CO",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600011",
+    "name": "HUANENG POWER INTERNATIONAL INC A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "067630",
+    "name": "HLB LIFE SCIENCE LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688538",
+    "name": "EVERDISPLAY OPTRONICS (SHANGHAI) L",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6547",
+    "name": "MEDIGEN VACCINE BIOLOGICS CORP",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "357",
+    "name": "HAINAN MEILAN INTERNATIONAL AIRPOR",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "232140",
+    "name": "YCC CORP",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "STGT.R",
+    "name": "SRI TRANG GLOVES (THAILAND) PCL NO",
+    "sector": "Health Care",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601928",
+    "name": "JIANGSU PHOENIX PUBLISHING&MEDIA C",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CZK",
+    "name": "CZK CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Czech Republic",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600177",
+    "name": "YOUNGOR FASHION LTD A",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "137310",
+    "name": "SD BIOSENSOR INC",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "005250",
+    "name": "GREEN CROSS HOLDINGS",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3545",
+    "name": "FOCALTECH SYSTEMS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000423",
+    "name": "DONG-E-E-JIAO LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1320",
+    "name": "SAUDI STEEL PIPE",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "336370",
+    "name": "SOLUS ADVANCED MATERIALS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600332",
+    "name": "GUANGZHOU BAIYUNSHAN PHARMACEUTICA",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3218",
+    "name": "UNIVERSAL VISION BIOTECHNOLOGY LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NUHCM.E",
+    "name": "NUH CIMENTO SANAYI A",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2103",
+    "name": "TSRC CORP",
+    "sector": "Materials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2362",
+    "name": "JINCHUAN GROUP INTERNATIONAL RESOU",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3319",
+    "name": "A-LIVING SERVICES LTD H",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4161",
+    "name": "BINDAWOOD HOLDING",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "688728",
+    "name": "GALAXYCORE INC A",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "900901",
+    "name": "INESA INTELLIGENT TECH INC B",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RTNINDIA",
+    "name": "RATTANINDIA ENTERPRISES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2300",
+    "name": "SAUDI PAPER MANUFACTURING",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6189",
+    "name": "PROMATE ELECTRONIC LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MAHSEAMLES",
+    "name": "MAHARASHTRA SEAMLESS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFFIN",
+    "name": "AFFIN BANK",
+    "sector": "Financials",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "558",
+    "name": "LK TECHNOLOGY HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2283",
+    "name": "FIRST MILLING CO",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "UEMS",
+    "name": "UEM SUNRISE",
+    "sector": "Real Estate",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "214320",
+    "name": "INNOCEAN WORLDWIDE INC",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6451",
+    "name": "SHUNSIN TECHNOLOGY HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1458",
+    "name": "ZHOU HEI YA INTERNATIONAL HOLDINGS",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "7204",
+    "name": "PERFECT PRESENTATION FOR COMMERCIA",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KSB",
+    "name": "KSB LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGHC",
+    "name": "ARABI HOLDING GROUP",
+    "sector": "Industrials",
+    "country": "Kuwait",
+    "weight": 0.0
+  },
+  {
+    "ticker": "000002",
+    "name": "CHINA VANKE LTD A",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAPR4",
+    "name": "CIA SANEAMENTO PREF",
+    "sector": "Utilities",
+    "country": "Brazil",
+    "weight": 0.0
+  },
+  {
+    "ticker": "348210",
+    "name": "NEXTIN INC",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EGEEN.E",
+    "name": "EGE ENDUSTRI VE TICARET A",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "4128",
+    "name": "MICROBIO LTD",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADCBRI25",
+    "name": "ABU DHABI COMMERCIAL BANK RIGHTS",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1234",
+    "name": "CHINA LILANG LTD",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001570",
+    "name": "KUM YANG LTD",
+    "sector": "Materials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SYMPHONY",
+    "name": "SYMPHONY LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "145720",
+    "name": "DENTIUM LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3532",
+    "name": "FORMOSA SUMCO TECHNOLOGY CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003850",
+    "name": "BORYUNG CORP",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACES",
+    "name": "ASPIRASI HIDUP INDONESIA",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3362",
+    "name": "ABILITY OPTO-ELECTRONICS TECHNOLOG",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ACEN",
+    "name": "ACEN CORPORATION CORP",
+    "sector": "Utilities",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INDIACEM",
+    "name": "INDIA CEMENTS LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAYMOND",
+    "name": "RAYMOND LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CKP.R",
+    "name": "CK POWER NON-VOTING DR PCL",
+    "sector": "Utilities",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "376300",
+    "name": "DEAR U LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6806",
+    "name": "SHINFOX ENERGY LTD",
+    "sector": "Utilities",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "417200",
+    "name": "LS MATERIALS LTD",
+    "sector": "Industrials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "002007",
+    "name": "HUALAN BIOLOGICAL ENGINEERING INC",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "9922",
+    "name": "JIUMAOJIU INTERNATIONAL HOLDINGS L",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ORIENTCEM",
+    "name": "ORIENT CEMENT LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAYMONDREL",
+    "name": "RAYMOND REALTY LTD",
+    "sector": "Real Estate",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5508",
+    "name": "YUNGSHIN CONSTRUCTION & DEVELOPMEN",
+    "sector": "Real Estate",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGI",
+    "name": "AGI GREENPAC LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "5478",
+    "name": "SOFT-WORLD INTERNATIONAL CORP",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "300347",
+    "name": "HANGZHOU TIGERMED CONSULTING LTD A",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IDR",
+    "name": "IDR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QUESS",
+    "name": "QUESS CORP LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8030",
+    "name": "MEDITERRANEAN AND GULF COOPERATIVE",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001720",
+    "name": "SHINYOUNG SECURITIES LTD",
+    "sector": "Financials",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RAJESHEXPO",
+    "name": "RAJESH EXPORTS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GESAN.E",
+    "name": "GIRISIM ELEKTRIK SANAYI TAAHUT VE",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SIDO",
+    "name": "INDUSTRI JAMU DAN FARMASI SIDO MUN",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "600600",
+    "name": "TSINGTAO BREWERY LTD A",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2723",
+    "name": "GOURMET MASTER LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "535",
+    "name": "GEMDALE PROPERTIES AND INVESTMENT",
+    "sector": "Real Estate",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JMT.R",
+    "name": "JMT NETWORK SERVICES NON-VOTING DR",
+    "sector": "Financials",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2120",
+    "name": "SAUDI ADVANCED INDUSTRIES",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUPERMX",
+    "name": "SUPERMAX CORPORATION",
+    "sector": "Health Care",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "EUPWR.E",
+    "name": "EUROPOWER ENERJI & OTOMASYON TEKNO",
+    "sector": "Industrials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JTS.R",
+    "name": "JASMINE TECHNOLOGY SOLUTION NON-VO",
+    "sector": "Communication",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601319",
+    "name": "THE PEOPLES INSURANCE COMPANY (GRO",
+    "sector": "Financials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BALAMINES",
+    "name": "BALAJI AMINES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "058970",
+    "name": "EMRO",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "JAIBALAJI",
+    "name": "JAI BALAJI INDUSTRIES LTD",
+    "sector": "Materials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2704",
+    "name": "THE AMBASSADOR HOTEL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADER1",
+    "name": "ADANI ENTERPRISES LTD RIGHTS",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "001530",
+    "name": "DI DONGIL CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2169",
+    "name": "CANGGANG RAILWAY LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GASMSIA",
+    "name": "GAS MALAYSIA SDN",
+    "sector": "Utilities",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KCAER.E",
+    "name": "KOCAER CELIK SANAYI VE TICARET AS",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "THB",
+    "name": "THB CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Thailand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "8927",
+    "name": "NORTH STAR INTERNATIONAL LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAM",
+    "name": "SAM ENGINEERING & EQUIPMENT M",
+    "sector": "Industrials",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MANINFRA",
+    "name": "MAN INFRACONSTRUCTION LTD",
+    "sector": "Industrials",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TVSLIN",
+    "name": "TVS MOTOR COMPANY LTD EQUITY/ 6P",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "601633",
+    "name": "GREAT WALL MOTOR LTD A",
+    "sector": "Consumer Discretionary",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "200012",
+    "name": "CSG HOLDING LTD B",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WSKT",
+    "name": "WASKITA KARYA PERSERO CLS A",
+    "sector": "Industrials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "182400",
+    "name": "NKMAX LTD",
+    "sector": "Health Care",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "016790",
+    "name": "HYUNDAI FEED INC",
+    "sector": "Consumer Staples",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ADVENTHT",
+    "name": "ADVENT HOTELS INTERNATIONAL PV",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OTOEL",
+    "name": "AUTOHELLAS SA",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2604267D",
+    "name": "UNIMICRON TECHNOLOGY CORP DUMMY",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AKCNS.E",
+    "name": "AKCANSA CIMENTO SANAYI VE TICARET",
+    "sector": "Materials",
+    "country": "Turkey",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1855",
+    "name": "ZONQING ENVIRONMENTAL LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "WONDERLA",
+    "name": "WONDERLA HOLIDAYS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "India",
+    "weight": 0.0
+  },
+  {
+    "ticker": "003816",
+    "name": "CGN POWER LTD A",
+    "sector": "Utilities",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6689",
+    "name": "CHONGQING HONGJIU FRUIT CLASS H LT",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AREIT",
+    "name": "AREIT INC",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RCR",
+    "name": "RL COMMERCIAL REIT INC",
+    "sector": "Real Estate",
+    "country": "Philippines",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1333",
+    "name": "CHINA ZHONGWANG HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RUB",
+    "name": "RUB CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2596702D",
+    "name": "HANON SYSTEMS RIGHTS",
+    "sector": "Consumer Discretionary",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SGD",
+    "name": "SGD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Singapore",
+    "weight": 0.0
+  },
+  {
+    "ticker": "GBP",
+    "name": "GBP CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United Kingdom",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2600000D",
+    "name": "TAICHUNG COMMERCIAL BANK DUMMY",
+    "sector": "Financials",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SBER",
+    "name": "SBERBANK ROSSII",
+    "sector": "Financials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CBOM",
+    "name": "MOS CREDIT BANK",
+    "sector": "Financials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYR",
+    "name": "MYR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYR",
+    "name": "MYR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INR",
+    "name": "INR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INR",
+    "name": "INR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_USD",
+    "name": "ETD USD BALANCE WITH R93531",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "053320",
+    "name": "TERA RESOURCE LTD",
+    "sector": "Communication",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PHOJY",
+    "name": "PJSC PHOSAGRO GDR",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "-",
+    "name": "China Common Rich Renewable Energy Prvt",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "POOL",
+    "name": "POOL ADVISTA INDONESIA",
+    "sector": "Financials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3662",
+    "name": "XPEC ENTERTAINMENT INC",
+    "sector": "Communication",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SUGI",
+    "name": "SUGIH ENERGY",
+    "sector": "Energy",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "67",
+    "name": "CHINA LUMENA NEW MATERIALS CORP",
+    "sector": "Materials",
+    "country": "Hong Kong",
+    "weight": 0.0
+  },
+  {
+    "ticker": "773",
+    "name": "CHINA METAL RECYCLING (HOLDINGS) L",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "IIKP",
+    "name": "INTI AGRI RESOURCES",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TRAM",
+    "name": "TRADA ALAM MINERA",
+    "sector": "Industrials",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "6452",
+    "name": "PHARMALLY LTD",
+    "sector": "Health Care",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2349",
+    "name": "RITEK CORP",
+    "sector": "Information Technology",
+    "country": "Taiwan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYRX",
+    "name": "HANSON INTERNATIONAL",
+    "sector": "Real Estate",
+    "country": "Indonesia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VTBR",
+    "name": "BANK VTB",
+    "sector": "Financials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "-",
+    "name": "KANGMEI PHARMACEUTICAL RIGHTS OF I",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "-",
+    "name": "SUPERB SUMMIT INTERNATIONAL TIMBER",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "940",
+    "name": "CHINA ANIMAL HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FFGRP",
+    "name": "FOLLI FOLLIE S.A. SA",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2662",
+    "name": "MH DEVELOPMENT LTD",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "2268",
+    "name": "YOUYUAN INTERNATIONAL HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "3777",
+    "name": "CHINA FIBER OPTIC NETWORK SYSTEM G",
+    "sector": "Information Technology",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1886",
+    "name": "CHINA HUIYUAN JUICE GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "030530",
+    "name": "WONIK HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
+    "weight": 0.0
+  },
+  {
+    "ticker": "198",
+    "name": "SMI HOLDINGS GROUP LTD",
+    "sector": "Communication",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "587",
+    "name": "HUA HAN HEALTH INDUSTRY HOLDINGS L",
+    "sector": "Health Care",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PLZL",
+    "name": "POLYUS",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AGRO",
+    "name": "ROS AGRO GDR PLC",
+    "sector": "Consumer Staples",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "1363",
+    "name": "CT ENVIRONMENTAL GROUP LTD",
+    "sector": "Industrials",
+    "country": "China",
+    "weight": 0.0
+  },
+  {
+    "ticker": "OZON",
+    "name": "OZON HOLDINGS ADR PLC",
+    "sector": "Consumer Discretionary",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "PHOR",
+    "name": "PJSC PHOSAGRO GDR",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "VKCO",
+    "name": "VK COMPANY LTD",
+    "sector": "Communication",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FIVE",
+    "name": "X5 RETAIL GROUP GDR NV",
+    "sector": "Consumer Staples",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TCSG",
+    "name": "TCS GROUP HOLDING REPR CLASS A RE",
+    "sector": "Financials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CHMF",
+    "name": "SEVERSTAL",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FEES",
+    "name": "FSK YEES",
+    "sector": "Utilities",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "FLOT",
+    "name": "SOVKOMFLOT",
+    "sector": "Energy",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MTSS",
+    "name": "MOBILNYE TELESISTEMY",
+    "sector": "Communication",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ROSN",
+    "name": "NK ROSNEFT",
+    "sector": "Energy",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MOEX",
+    "name": "MOSCOW EXCHANGE",
+    "sector": "Financials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFLT",
+    "name": "AEROFLOT ROSSIYSKIYE AVIALINII",
+    "sector": "Industrials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ALRS",
+    "name": "AK ALROSA",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "RUAL",
+    "name": "UNITED COMPANY RUSAL",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AFKS",
+    "name": "AFK SISTEMA",
+    "sector": "Communication",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SGZH",
+    "name": "SEGEZHA GROUP",
+    "sector": "Materials",
+    "country": "Russian Federation",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TWD",
+    "name": "TWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRW",
+    "name": "KRW/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRL",
+    "name": "BRL/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRL",
+    "name": "BRL/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRL",
+    "name": "BRL/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLP",
+    "name": "CLP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLP",
+    "name": "CLP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "COP",
+    "name": "COP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "COP",
+    "name": "COP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "COP",
+    "name": "COP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLP",
+    "name": "CLP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INR",
+    "name": "INR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "COP",
+    "name": "COP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYR",
+    "name": "MYR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "INR",
+    "name": "INR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MESZ5",
+    "name": "MSCI EMER MKT INDEX (ICE) DEC 25",
+    "sector": "Cash and/or Derivatives",
+    "country": "-",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYR",
+    "name": "MYR/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TWD",
+    "name": "TWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TWD",
+    "name": "TWD/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRW",
+    "name": "KRW/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRW",
+    "name": "KRW/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "CLP",
+    "name": "CLP/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "BRL",
+    "name": "BRL/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KRW",
+    "name": "KRW/USD",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "MYR",
+    "name": "MYR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Malaysia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "COP",
+    "name": "COP CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Colombia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "QAR",
+    "name": "QAR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Qatar",
+    "weight": 0.0
+  },
+  {
+    "ticker": "KWD",
+    "name": "KWD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Kuwait",
+    "weight": 0.0
+  },
+  {
+    "ticker": "AED",
+    "name": "AED CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United Arab Emirates",
+    "weight": -0.01
+  },
+  {
+    "ticker": "SAR",
+    "name": "SAR CASH(COMMITTED)",
+    "sector": "Cash and/or Derivatives",
+    "country": "Saudi Arabia",
+    "weight": -0.01
+  },
+  {
+    "ticker": "KRW",
+    "name": "KRW CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Korea (South)",
+    "weight": -0.06
+  },
+  {
+    "ticker": "INR",
+    "name": "INR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "India",
+    "weight": -0.06
+  },
+  {
+    "ticker": "TWD",
+    "name": "TWD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Taiwan",
+    "weight": -0.07
+  },
+  {
+    "ticker": "USD",
+    "name": "USD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": -0.08
+  },
+  {
+    "ticker": "\u00a0",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  },
+  {
+    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  }
+];

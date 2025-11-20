@@ -1,0 +1,5049 @@
+[
+  {
+    "ticker": "ASML",
+    "name": "ASML HOLDING NV",
+    "sector": "Information Technology",
+    "country": "Netherlands",
+    "weight": 2.02
+  },
+  {
+    "ticker": "AZN",
+    "name": "ASTRAZENECA PLC",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 1.42
+  },
+  {
+    "ticker": "ROG",
+    "name": "ROCHE HOLDING PAR AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 1.38
+  },
+  {
+    "ticker": "NESN",
+    "name": "NESTLE SA",
+    "sector": "Consumer Staples",
+    "country": "Switzerland",
+    "weight": 1.31
+  },
+  {
+    "ticker": "SAP",
+    "name": "SAP",
+    "sector": "Information Technology",
+    "country": "Germany",
+    "weight": 1.27
+  },
+  {
+    "ticker": "NOVN",
+    "name": "NOVARTIS AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 1.24
+  },
+  {
+    "ticker": "HSBA",
+    "name": "HSBC HOLDINGS PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 1.24
+  },
+  {
+    "ticker": "SHEL",
+    "name": "SHELL PLC",
+    "sector": "Energy",
+    "country": "United Kingdom",
+    "weight": 1.12
+  },
+  {
+    "ticker": "SIE",
+    "name": "SIEMENS N AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.98
+  },
+  {
+    "ticker": "7203",
+    "name": "TOYOTA MOTOR CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.95
+  },
+  {
+    "ticker": "MC",
+    "name": "LVMH",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.91
+  },
+  {
+    "ticker": "6758",
+    "name": "SONY GROUP CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.9
+  },
+  {
+    "ticker": "8306",
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.89
+  },
+  {
+    "ticker": "CBA",
+    "name": "COMMONWEALTH BANK OF AUSTRALIA",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.85
+  },
+  {
+    "ticker": "ALV",
+    "name": "ALLIANZ",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.82
+  },
+  {
+    "ticker": "NOVO B",
+    "name": "NOVO NORDISK CLASS B",
+    "sector": "Health Care",
+    "country": "Denmark",
+    "weight": 0.78
+  },
+  {
+    "ticker": "SAN",
+    "name": "BANCO SANTANDER SA",
+    "sector": "Financials",
+    "country": "Spain",
+    "weight": 0.78
+  },
+  {
+    "ticker": "SU",
+    "name": "SCHNEIDER ELECTRIC",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.74
+  },
+  {
+    "ticker": "ULVR",
+    "name": "UNILEVER PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.74
+  },
+  {
+    "ticker": "6501",
+    "name": "HITACHI LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.72
+  },
+  {
+    "ticker": "AIR",
+    "name": "AIRBUS GROUP",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.72
+  },
+  {
+    "ticker": "BHP",
+    "name": "BHP GROUP LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.69
+  },
+  {
+    "ticker": "IBE",
+    "name": "IBERDROLA SA",
+    "sector": "Utilities",
+    "country": "Spain",
+    "weight": 0.68
+  },
+  {
+    "ticker": "TTE",
+    "name": "TOTALENERGIES",
+    "sector": "Energy",
+    "country": "France",
+    "weight": 0.68
+  },
+  {
+    "ticker": "SAF",
+    "name": "SAFRAN SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.64
+  },
+  {
+    "ticker": "UBSG",
+    "name": "UBS GROUP AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.62
+  },
+  {
+    "ticker": "RR.",
+    "name": "ROLLS-ROYCE HOLDINGS PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.61
+  },
+  {
+    "ticker": "BBVA",
+    "name": "BANCO BILBAO VIZCAYA ARGENTARIA SA",
+    "sector": "Financials",
+    "country": "Spain",
+    "weight": 0.6
+  },
+  {
+    "ticker": "9984",
+    "name": "SOFTBANK GROUP CORP",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.59
+  },
+  {
+    "ticker": "BATS",
+    "name": "BRITISH AMERICAN TOBACCO",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.58
+  },
+  {
+    "ticker": "SAN",
+    "name": "SANOFI SA",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.57
+  },
+  {
+    "ticker": "AI",
+    "name": "LAIR LIQUIDE SOCIETE ANONYME POUR",
+    "sector": "Materials",
+    "country": "France",
+    "weight": 0.57
+  },
+  {
+    "ticker": "CFR",
+    "name": "COMPAGNIE FINANCIERE RICHEMONT SA",
+    "sector": "Consumer Discretionary",
+    "country": "Switzerland",
+    "weight": 0.56
+  },
+  {
+    "ticker": "DTE",
+    "name": "DEUTSCHE TELEKOM N AG",
+    "sector": "Communication",
+    "country": "Germany",
+    "weight": 0.56
+  },
+  {
+    "ticker": "EL",
+    "name": "ESSILORLUXOTTICA SA",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.56
+  },
+  {
+    "ticker": "1299",
+    "name": "AIA GROUP LTD",
+    "sector": "Financials",
+    "country": "Hong Kong",
+    "weight": 0.55
+  },
+  {
+    "ticker": "ABBN",
+    "name": "ABB LTD",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.55
+  },
+  {
+    "ticker": "8316",
+    "name": "SUMITOMO MITSUI FINANCIAL GROUP IN",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.53
+  },
+  {
+    "ticker": "ZURN",
+    "name": "ZURICH INSURANCE GROUP AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.52
+  },
+  {
+    "ticker": "UCG",
+    "name": "UNICREDIT",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.52
+  },
+  {
+    "ticker": "OR",
+    "name": "LOREAL SA",
+    "sector": "Consumer Staples",
+    "country": "France",
+    "weight": 0.5
+  },
+  {
+    "ticker": "SPOT",
+    "name": "SPOTIFY TECHNOLOGY SA",
+    "sector": "Communication",
+    "country": "Sweden",
+    "weight": 0.5
+  },
+  {
+    "ticker": "GSK",
+    "name": "GLAXOSMITHKLINE",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 0.49
+  },
+  {
+    "ticker": "BP.",
+    "name": "BP PLC",
+    "sector": "Energy",
+    "country": "United Kingdom",
+    "weight": 0.49
+  },
+  {
+    "ticker": "6857",
+    "name": "ADVANTEST CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.49
+  },
+  {
+    "ticker": "7974",
+    "name": "NINTENDO LTD",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.48
+  },
+  {
+    "ticker": "ISP",
+    "name": "INTESA SANPAOLO",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.47
+  },
+  {
+    "ticker": "RHM",
+    "name": "RHEINMETALL AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.47
+  },
+  {
+    "ticker": "8035",
+    "name": "TOKYO ELECTRON LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.47
+  },
+  {
+    "ticker": "PRX",
+    "name": "PROSUS NV CLASS N",
+    "sector": "Consumer Discretionary",
+    "country": "Netherlands",
+    "weight": 0.46
+  },
+  {
+    "ticker": "D05",
+    "name": "DBS GROUP HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Singapore",
+    "weight": 0.45
+  },
+  {
+    "ticker": "ENEL",
+    "name": "ENEL",
+    "sector": "Utilities",
+    "country": "Italy",
+    "weight": 0.44
+  },
+  {
+    "ticker": "ENR",
+    "name": "SIEMENS ENERGY N AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.43
+  },
+  {
+    "ticker": "WBC",
+    "name": "WESTPAC BANKING CORPORATION CORP",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.43
+  },
+  {
+    "ticker": "7011",
+    "name": "MITSUBISHI HEAVY INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.43
+  },
+  {
+    "ticker": "8411",
+    "name": "MIZUHO FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.42
+  },
+  {
+    "ticker": "MUV2",
+    "name": "MUENCHENER RUECKVERSICHERUNGS-GESE",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.41
+  },
+  {
+    "ticker": "NAB",
+    "name": "NATIONAL AUSTRALIA BANK LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.41
+  },
+  {
+    "ticker": "BNP",
+    "name": "BNP PARIBAS SA",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.4
+  },
+  {
+    "ticker": "RIO",
+    "name": "RIO TINTO PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.4
+  },
+  {
+    "ticker": "CS",
+    "name": "AXA SA",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.4
+  },
+  {
+    "ticker": "RMS",
+    "name": "HERMES INTERNATIONAL",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.39
+  },
+  {
+    "ticker": "NG.",
+    "name": "NATIONAL GRID PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "weight": 0.39
+  },
+  {
+    "ticker": "INGA",
+    "name": "ING GROEP NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.38
+  },
+  {
+    "ticker": "BARC",
+    "name": "BARCLAYS PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.38
+  },
+  {
+    "ticker": "8058",
+    "name": "MITSUBISHI CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.38
+  },
+  {
+    "ticker": "REL",
+    "name": "RELX PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.38
+  },
+  {
+    "ticker": "BA.",
+    "name": "BAE SYSTEMS PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.37
+  },
+  {
+    "ticker": "LLOY",
+    "name": "LLOYDS BANKING GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.36
+  },
+  {
+    "ticker": "ANZ",
+    "name": "ANZ GROUP HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.36
+  },
+  {
+    "ticker": "8001",
+    "name": "ITOCHU CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.35
+  },
+  {
+    "ticker": "8766",
+    "name": "TOKIO MARINE HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.35
+  },
+  {
+    "ticker": "DG",
+    "name": "VINCI SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.34
+  },
+  {
+    "ticker": "6861",
+    "name": "KEYENCE CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.34
+  },
+  {
+    "ticker": "6098",
+    "name": "RECRUIT HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.34
+  },
+  {
+    "ticker": "9983",
+    "name": "FAST RETAILING LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.34
+  },
+  {
+    "ticker": "DBK",
+    "name": "DEUTSCHE BANK AG",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.32
+  },
+  {
+    "ticker": "8031",
+    "name": "MITSUI LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.32
+  },
+  {
+    "ticker": "388",
+    "name": "HONG KONG EXCHANGES AND CLEARING L",
+    "sector": "Financials",
+    "country": "Hong Kong",
+    "weight": 0.32
+  },
+  {
+    "ticker": "NWG",
+    "name": "NATWEST GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.32
+  },
+  {
+    "ticker": "ABI",
+    "name": "ANHEUSER-BUSCH INBEV SA",
+    "sector": "Consumer Staples",
+    "country": "Belgium",
+    "weight": 0.31
+  },
+  {
+    "ticker": "WES",
+    "name": "WESFARMERS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
+    "weight": 0.3
+  },
+  {
+    "ticker": "ITX",
+    "name": "INDUSTRIA DE DISENO TEXTIL SA",
+    "sector": "Consumer Discretionary",
+    "country": "Spain",
+    "weight": 0.3
+  },
+  {
+    "ticker": "BN",
+    "name": "DANONE SA",
+    "sector": "Consumer Staples",
+    "country": "France",
+    "weight": 0.3
+  },
+  {
+    "ticker": "CSL",
+    "name": "CSL LTD",
+    "sector": "Health Care",
+    "country": "Australia",
+    "weight": 0.29
+  },
+  {
+    "ticker": "SE",
+    "name": "SEA ADS REPRESENTING LTD CLASS A",
+    "sector": "Consumer Discretionary",
+    "country": "Singapore",
+    "weight": 0.29
+  },
+  {
+    "ticker": "INVE B",
+    "name": "INVESTOR CLASS B",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.29
+  },
+  {
+    "ticker": "ARGX",
+    "name": "ARGENX",
+    "sector": "Health Care",
+    "country": "Belgium",
+    "weight": 0.29
+  },
+  {
+    "ticker": "CPG",
+    "name": "COMPASS GROUP PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.28
+  },
+  {
+    "ticker": "9433",
+    "name": "KDDI CORP",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.28
+  },
+  {
+    "ticker": "LSEG",
+    "name": "LONDON STOCK EXCHANGE GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.27
+  },
+  {
+    "ticker": "SREN",
+    "name": "SWISS RE AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.27
+  },
+  {
+    "ticker": "NDA FI",
+    "name": "NORDEA BANK",
+    "sector": "Financials",
+    "country": "Finland",
+    "weight": 0.27
+  },
+  {
+    "ticker": "RKT",
+    "name": "RECKITT BENCKISER GROUP PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.27
+  },
+  {
+    "ticker": "7741",
+    "name": "HOYA CORP",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.26
+  },
+  {
+    "ticker": "DGE",
+    "name": "DIAGEO PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.26
+  },
+  {
+    "ticker": "RACE",
+    "name": "FERRARI NV",
+    "sector": "Consumer Discretionary",
+    "country": "Italy",
+    "weight": 0.26
+  },
+  {
+    "ticker": "IFX",
+    "name": "INFINEON TECHNOLOGIES AG",
+    "sector": "Information Technology",
+    "country": "Germany",
+    "weight": 0.26
+  },
+  {
+    "ticker": "6503",
+    "name": "MITSUBISHI ELECTRIC CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.25
+  },
+  {
+    "ticker": "4063",
+    "name": "SHIN ETSU CHEMICAL LTD",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.25
+  },
+  {
+    "ticker": "GLEN",
+    "name": "GLENCORE PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.24
+  },
+  {
+    "ticker": "O39",
+    "name": "OVERSEA-CHINESE BANKING LTD",
+    "sector": "Financials",
+    "country": "Singapore",
+    "weight": 0.24
+  },
+  {
+    "ticker": "MBG",
+    "name": "MERCEDES-BENZ GROUP N AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.24
+  },
+  {
+    "ticker": "GLE",
+    "name": "SOCIETE GENERALE SA",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.24
+  },
+  {
+    "ticker": "6701",
+    "name": "NEC CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.24
+  },
+  {
+    "ticker": "DHL",
+    "name": "DEUTSCHE POST AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.24
+  },
+  {
+    "ticker": "LONN",
+    "name": "LONZA GROUP AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.24
+  },
+  {
+    "ticker": "ENGI",
+    "name": "ENGIE SA",
+    "sector": "Utilities",
+    "country": "France",
+    "weight": 0.24
+  },
+  {
+    "ticker": "DB1",
+    "name": "DEUTSCHE BOERSE AG",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.23
+  },
+  {
+    "ticker": "MQG",
+    "name": "MACQUARIE GROUP LTD DEF",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.23
+  },
+  {
+    "ticker": "HOLN",
+    "name": "HOLCIM LTD AG",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.23
+  },
+  {
+    "ticker": "6702",
+    "name": "FUJITSU LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.23
+  },
+  {
+    "ticker": "4502",
+    "name": "TAKEDA PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.23
+  },
+  {
+    "ticker": "VOLV B",
+    "name": "VOLVO CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.22
+  },
+  {
+    "ticker": "2914",
+    "name": "JAPAN TOBACCO INC",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.22
+  },
+  {
+    "ticker": "BAS",
+    "name": "BASF N",
+    "sector": "Materials",
+    "country": "Germany",
+    "weight": 0.22
+  },
+  {
+    "ticker": "HLN",
+    "name": "HALEON PLC",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 0.22
+  },
+  {
+    "ticker": "DSV",
+    "name": "DSV",
+    "sector": "Industrials",
+    "country": "Denmark",
+    "weight": 0.22
+  },
+  {
+    "ticker": "ATCO A",
+    "name": "ATLAS COPCO CLASS A",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.22
+  },
+  {
+    "ticker": "III",
+    "name": "3I GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.22
+  },
+  {
+    "ticker": "SGO",
+    "name": "COMPAGNIE DE SAINT GOBAIN SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.21
+  },
+  {
+    "ticker": "9434",
+    "name": "SOFTBANK CORP",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.21
+  },
+  {
+    "ticker": "STAN",
+    "name": "STANDARD CHARTERED PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.21
+  },
+  {
+    "ticker": "CABK",
+    "name": "CAIXABANK SA",
+    "sector": "Financials",
+    "country": "Spain",
+    "weight": 0.21
+  },
+  {
+    "ticker": "EOAN",
+    "name": "E.ON N",
+    "sector": "Utilities",
+    "country": "Germany",
+    "weight": 0.2
+  },
+  {
+    "ticker": "AAL",
+    "name": "ANGLO AMERICAN PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.2
+  },
+  {
+    "ticker": "EXPN",
+    "name": "EXPERIAN PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.2
+  },
+  {
+    "ticker": "TSCO",
+    "name": "TESCO PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.2
+  },
+  {
+    "ticker": "ENI",
+    "name": "ENI",
+    "sector": "Energy",
+    "country": "Italy",
+    "weight": 0.2
+  },
+  {
+    "ticker": "LR",
+    "name": "LEGRAND SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.2
+  },
+  {
+    "ticker": "ADYEN",
+    "name": "ADYEN NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.2
+  },
+  {
+    "ticker": "GMG",
+    "name": "GOODMAN GROUP UNITS",
+    "sector": "Real Estate",
+    "country": "Australia",
+    "weight": 0.19
+  },
+  {
+    "ticker": "GIVN",
+    "name": "GIVAUDAN SA",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.19
+  },
+  {
+    "ticker": "7267",
+    "name": "HONDA MOTOR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.19
+  },
+  {
+    "ticker": "4568",
+    "name": "DAIICHI SANKYO LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.19
+  },
+  {
+    "ticker": "ALC",
+    "name": "ALCON AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.19
+  },
+  {
+    "ticker": "AD",
+    "name": "KONINKLIJKE AHOLD DELHAIZE NV",
+    "sector": "Consumer Staples",
+    "country": "Netherlands",
+    "weight": 0.19
+  },
+  {
+    "ticker": "JPY",
+    "name": "JPY CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Japan",
+    "weight": 0.19
+  },
+  {
+    "ticker": "8267",
+    "name": "AEON LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.19
+  },
+  {
+    "ticker": "ASSA B",
+    "name": "ASSA ABLOY B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.19
+  },
+  {
+    "ticker": "4519",
+    "name": "CHUGAI PHARMACEUTICAL LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.18
+  },
+  {
+    "ticker": "PRU",
+    "name": "PRUDENTIAL PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.18
+  },
+  {
+    "ticker": "NOKIA",
+    "name": "NOKIA",
+    "sector": "Information Technology",
+    "country": "Finland",
+    "weight": 0.18
+  },
+  {
+    "ticker": "8002",
+    "name": "MARUBENI CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.18
+  },
+  {
+    "ticker": "UCB",
+    "name": "UCB SA",
+    "sector": "Health Care",
+    "country": "Belgium",
+    "weight": 0.17
+  },
+  {
+    "ticker": "IMB",
+    "name": "IMPERIAL BRANDS PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.17
+  },
+  {
+    "ticker": "U11",
+    "name": "UNITED OVERSEAS BANK LTD",
+    "sector": "Financials",
+    "country": "Singapore",
+    "weight": 0.17
+  },
+  {
+    "ticker": "8053",
+    "name": "SUMITOMO CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.17
+  },
+  {
+    "ticker": "RWE",
+    "name": "RWE AG",
+    "sector": "Utilities",
+    "country": "Germany",
+    "weight": 0.17
+  },
+  {
+    "ticker": "6367",
+    "name": "DAIKIN INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.17
+  },
+  {
+    "ticker": "G",
+    "name": "ASSICURAZIONI GENERALI",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.17
+  },
+  {
+    "ticker": "AMS",
+    "name": "AMADEUS IT GROUP SA",
+    "sector": "Consumer Discretionary",
+    "country": "Spain",
+    "weight": 0.17
+  },
+  {
+    "ticker": "SSE",
+    "name": "SSE PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "weight": 0.17
+  },
+  {
+    "ticker": "6981",
+    "name": "MURATA MANUFACTURING LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.16
+  },
+  {
+    "ticker": "HEI",
+    "name": "HEIDELBERG MATERIALS AG",
+    "sector": "Materials",
+    "country": "Germany",
+    "weight": 0.16
+  },
+  {
+    "ticker": "FER",
+    "name": "FERROVIAL",
+    "sector": "Industrials",
+    "country": "Spain",
+    "weight": 0.16
+  },
+  {
+    "ticker": "WDS",
+    "name": "WOODSIDE ENERGY GROUP LTD",
+    "sector": "Energy",
+    "country": "Australia",
+    "weight": 0.16
+  },
+  {
+    "ticker": "EBS",
+    "name": "ERSTE GROUP BANK AG",
+    "sector": "Financials",
+    "country": "Austria",
+    "weight": 0.16
+  },
+  {
+    "ticker": "BAYN",
+    "name": "BAYER AG",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.16
+  },
+  {
+    "ticker": "SAND",
+    "name": "SANDVIK",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.16
+  },
+  {
+    "ticker": "RIO",
+    "name": "RIO TINTO LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.16
+  },
+  {
+    "ticker": "LUMI",
+    "name": "BANK LEUMI LE ISRAEL",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.16
+  },
+  {
+    "ticker": "6301",
+    "name": "KOMATSU LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.16
+  },
+  {
+    "ticker": "ADS",
+    "name": "ADIDAS N AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.16
+  },
+  {
+    "ticker": "DANSKE",
+    "name": "DANSKE BANK",
+    "sector": "Financials",
+    "country": "Denmark",
+    "weight": 0.16
+  },
+  {
+    "ticker": "SLHN",
+    "name": "SWISS LIFE HOLDING AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.16
+  },
+  {
+    "ticker": "ORA",
+    "name": "ORANGE SA",
+    "sector": "Communication",
+    "country": "France",
+    "weight": 0.15
+  },
+  {
+    "ticker": "6762",
+    "name": "TDK CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "TCL",
+    "name": "TRANSURBAN GROUP STAPLED UNITS",
+    "sector": "Industrials",
+    "country": "Australia",
+    "weight": 0.15
+  },
+  {
+    "ticker": "8591",
+    "name": "ORIX CORP",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "6954",
+    "name": "FANUC CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "9432",
+    "name": "NTT INC",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "5803",
+    "name": "FUJIKURA LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "8801",
+    "name": "MITSUI FUDOSAN LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.15
+  },
+  {
+    "ticker": "TEVA",
+    "name": "TEVA PHARMACEUTICAL INDUSTRIES ADR",
+    "sector": "Health Care",
+    "country": "Israel",
+    "weight": 0.15
+  },
+  {
+    "ticker": "BMW",
+    "name": "BMW AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.14
+  },
+  {
+    "ticker": "GALD",
+    "name": "GALDERMA GROUP N AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.14
+  },
+  {
+    "ticker": "SDZ",
+    "name": "SANDOZ GROUP AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.14
+  },
+  {
+    "ticker": "SEB A",
+    "name": "SKANDINAVISKA ENSKILDA BANKEN",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.14
+  },
+  {
+    "ticker": "SIKA",
+    "name": "SIKA AG",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CBK",
+    "name": "COMMERZBANK AG",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.14
+  },
+  {
+    "ticker": "Z74",
+    "name": "SINGAPORE TELECOMMUNICATIONS LTD",
+    "sector": "Communication",
+    "country": "Singapore",
+    "weight": 0.14
+  },
+  {
+    "ticker": "8750",
+    "name": "DAI-ICHI LIFE HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "KBC",
+    "name": "KBC GROEP",
+    "sector": "Financials",
+    "country": "Belgium",
+    "weight": 0.14
+  },
+  {
+    "ticker": "UMG",
+    "name": "UNIVERSAL MUSIC GROUP NV",
+    "sector": "Communication",
+    "country": "Netherlands",
+    "weight": 0.14
+  },
+  {
+    "ticker": "SAMPO",
+    "name": "SAMPO CLASS A",
+    "sector": "Financials",
+    "country": "Finland",
+    "weight": 0.14
+  },
+  {
+    "ticker": "5802",
+    "name": "SUMITOMO ELECTRIC INDUSTRIES LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "8725",
+    "name": "MS&AD INSURANCE GROUP HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "6146",
+    "name": "DISCO CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "3382",
+    "name": "SEVEN & I HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.14
+  },
+  {
+    "ticker": "KER",
+    "name": "KERING SA",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.14
+  },
+  {
+    "ticker": "ERIC B",
+    "name": "ERICSSON B",
+    "sector": "Information Technology",
+    "country": "Sweden",
+    "weight": 0.14
+  },
+  {
+    "ticker": "ASM",
+    "name": "ASM INTERNATIONAL NV",
+    "sector": "Information Technology",
+    "country": "Netherlands",
+    "weight": 0.14
+  },
+  {
+    "ticker": "PRY",
+    "name": "PRYSMIAN",
+    "sector": "Industrials",
+    "country": "Italy",
+    "weight": 0.14
+  },
+  {
+    "ticker": "CHF",
+    "name": "CHF CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Switzerland",
+    "weight": 0.13
+  },
+  {
+    "ticker": "6752",
+    "name": "PANASONIC HOLDINGS CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "AHT",
+    "name": "ASHTEAD GROUP PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.13
+  },
+  {
+    "ticker": "PGHN",
+    "name": "PARTNERS GROUP HOLDING AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.13
+  },
+  {
+    "ticker": "POLI",
+    "name": "BANK HAPOALIM BM",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.13
+  },
+  {
+    "ticker": "5108",
+    "name": "BRIDGESTONE CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "8630",
+    "name": "SOMPO HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "HO",
+    "name": "THALES SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.13
+  },
+  {
+    "ticker": "GEBN",
+    "name": "GEBERIT AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.13
+  },
+  {
+    "ticker": "AV.",
+    "name": "AVIVA PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.13
+  },
+  {
+    "ticker": "SWED A",
+    "name": "SWEDBANK",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.13
+  },
+  {
+    "ticker": "RYA",
+    "name": "RYANAIR HOLDINGS PLC",
+    "sector": "Industrials",
+    "country": "Ireland",
+    "weight": 0.13
+  },
+  {
+    "ticker": "WKL",
+    "name": "WOLTERS KLUWER NV",
+    "sector": "Industrials",
+    "country": "Netherlands",
+    "weight": 0.13
+  },
+  {
+    "ticker": "AMRZ",
+    "name": "AMRIZE AG",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.13
+  },
+  {
+    "ticker": "7751",
+    "name": "CANON INC",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.13
+  },
+  {
+    "ticker": "VOD",
+    "name": "VODAFONE GROUP PLC",
+    "sector": "Communication",
+    "country": "United Kingdom",
+    "weight": 0.12
+  },
+  {
+    "ticker": "AER",
+    "name": "AERCAP HOLDINGS NV",
+    "sector": "Industrials",
+    "country": "Netherlands",
+    "weight": 0.12
+  },
+  {
+    "ticker": "CAP",
+    "name": "CAPGEMINI",
+    "sector": "Information Technology",
+    "country": "France",
+    "weight": 0.12
+  },
+  {
+    "ticker": "HEXA B",
+    "name": "HEXAGON CLASS B",
+    "sector": "Information Technology",
+    "country": "Sweden",
+    "weight": 0.12
+  },
+  {
+    "ticker": "EUR",
+    "name": "EUR CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "European Union",
+    "weight": 0.12
+  },
+  {
+    "ticker": "9020",
+    "name": "EAST JAPAN RAILWAY",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "4578",
+    "name": "OTSUKA HOLDINGS LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "LDO",
+    "name": "LEONARDO FINMECCANICA SPA",
+    "sector": "Industrials",
+    "country": "Italy",
+    "weight": 0.12
+  },
+  {
+    "ticker": "VWS",
+    "name": "VESTAS WIND SYSTEMS",
+    "sector": "Industrials",
+    "country": "Denmark",
+    "weight": 0.12
+  },
+  {
+    "ticker": "4901",
+    "name": "FUJIFILM HOLDINGS CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "FRE",
+    "name": "FRESENIUS SE AND CO KGAA",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.12
+  },
+  {
+    "ticker": "CYBR",
+    "name": "CYBER ARK SOFTWARE LTD",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.12
+  },
+  {
+    "ticker": "DNB",
+    "name": "DNB BANK",
+    "sector": "Financials",
+    "country": "Norway",
+    "weight": 0.12
+  },
+  {
+    "ticker": "HEIA",
+    "name": "HEINEKEN NV",
+    "sector": "Consumer Staples",
+    "country": "Netherlands",
+    "weight": 0.12
+  },
+  {
+    "ticker": "7269",
+    "name": "SUZUKI MOTOR CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "VOW3",
+    "name": "VOLKSWAGEN NON-VOTING PREF AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.12
+  },
+  {
+    "ticker": "6902",
+    "name": "DENSO CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.12
+  },
+  {
+    "ticker": "REP",
+    "name": "REPSOL SA",
+    "sector": "Energy",
+    "country": "Spain",
+    "weight": 0.12
+  },
+  {
+    "ticker": "VNA",
+    "name": "VONOVIA SE",
+    "sector": "Real Estate",
+    "country": "Germany",
+    "weight": 0.11
+  },
+  {
+    "ticker": "PUB",
+    "name": "PUBLICIS GROUPE SA",
+    "sector": "Communication",
+    "country": "France",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ATCO B",
+    "name": "ATLAS COPCO CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.11
+  },
+  {
+    "ticker": "KNEBV",
+    "name": "KONE",
+    "sector": "Industrials",
+    "country": "Finland",
+    "weight": 0.11
+  },
+  {
+    "ticker": "8802",
+    "name": "MITSUBISHI ESTATE CO LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "MTX",
+    "name": "MTU AERO ENGINES HOLDING AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.11
+  },
+  {
+    "ticker": "WOW",
+    "name": "WOOLWORTHS GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "Australia",
+    "weight": 0.11
+  },
+  {
+    "ticker": "4503",
+    "name": "ASTELLAS PHARMA INC",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "FMG",
+    "name": "FORTESCUE LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.11
+  },
+  {
+    "ticker": "NST",
+    "name": "NORTHERN STAR RESOURCES LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.11
+  },
+  {
+    "ticker": "NSIS B",
+    "name": "NOVOZYMES B",
+    "sector": "Materials",
+    "country": "Denmark",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ML",
+    "name": "MICHELIN",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.11
+  },
+  {
+    "ticker": "2802",
+    "name": "AJINOMOTO INC",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "PHIA",
+    "name": "KONINKLIJKE PHILIPS NV",
+    "sector": "Health Care",
+    "country": "Netherlands",
+    "weight": 0.11
+  },
+  {
+    "ticker": "NXT",
+    "name": "NEXT PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.11
+  },
+  {
+    "ticker": "8015",
+    "name": "TOYOTA TSUSHO CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "4661",
+    "name": "ORIENTAL LAND LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "8604",
+    "name": "NOMURA HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.11
+  },
+  {
+    "ticker": "VIE",
+    "name": "VEOLIA ENVIRON. SA",
+    "sector": "Utilities",
+    "country": "France",
+    "weight": 0.11
+  },
+  {
+    "ticker": "CCEP",
+    "name": "COCA COLA EUROPACIFIC PARTNERS PLC",
+    "sector": "Consumer Staples",
+    "country": "Netherlands",
+    "weight": 0.11
+  },
+  {
+    "ticker": "BXB",
+    "name": "BRAMBLES LTD",
+    "sector": "Industrials",
+    "country": "Australia",
+    "weight": 0.11
+  },
+  {
+    "ticker": "ALL",
+    "name": "ARISTOCRAT LEISURE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
+    "weight": 0.11
+  },
+  {
+    "ticker": "8308",
+    "name": "RESONA HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "6723",
+    "name": "RENESAS ELECTRONICS CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "9022",
+    "name": "CENTRAL JAPAN RAILWAY",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "4543",
+    "name": "TERUMO CORP",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "A5G",
+    "name": "AIB GROUP PLC",
+    "sector": "Financials",
+    "country": "Ireland",
+    "weight": 0.1
+  },
+  {
+    "ticker": "6273",
+    "name": "SMC (JAPAN) CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "7182",
+    "name": "JAPAN POST BANK LTD",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "STLAM",
+    "name": "STELLANTIS NV",
+    "sector": "Consumer Discretionary",
+    "country": "Italy",
+    "weight": 0.1
+  },
+  {
+    "ticker": "4452",
+    "name": "KAO CORP",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "QBE",
+    "name": "QBE INSURANCE GROUP LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.1
+  },
+  {
+    "ticker": "ACA",
+    "name": "CREDIT AGRICOLE SA",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.1
+  },
+  {
+    "ticker": "AENA",
+    "name": "AENA SME SA",
+    "sector": "Industrials",
+    "country": "Spain",
+    "weight": 0.1
+  },
+  {
+    "ticker": "COL",
+    "name": "COLES GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "Australia",
+    "weight": 0.1
+  },
+  {
+    "ticker": "BMPS",
+    "name": "BANCA MONTE DEI PASCHI DI SIENA SP",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.1
+  },
+  {
+    "ticker": "DTG",
+    "name": "DAIMLER TRUCK HOLDING E AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.1
+  },
+  {
+    "ticker": "SHB A",
+    "name": "SVENSKA HANDELSBANKEN-A SHS",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.1
+  },
+  {
+    "ticker": "SEK",
+    "name": "SEK CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Sweden",
+    "weight": 0.1
+  },
+  {
+    "ticker": "5401",
+    "name": "NIPPON STEEL CORP",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "GMAB",
+    "name": "GENMAB",
+    "sector": "Health Care",
+    "country": "Denmark",
+    "weight": 0.1
+  },
+  {
+    "ticker": "SCMN",
+    "name": "SWISSCOM AG",
+    "sector": "Communication",
+    "country": "Switzerland",
+    "weight": 0.1
+  },
+  {
+    "ticker": "1925",
+    "name": "DAIWA HOUSE INDUSTRY LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.1
+  },
+  {
+    "ticker": "16",
+    "name": "SUN HUNG KAI PROPERTIES LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.1
+  },
+  {
+    "ticker": "NN",
+    "name": "NN GROUP NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.1
+  },
+  {
+    "ticker": "IHG",
+    "name": "INTERCONTINENTAL HOTELS GROUP PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SGSN",
+    "name": "SGS SA",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.09
+  },
+  {
+    "ticker": "RI",
+    "name": "PERNOD RICARD SA",
+    "sector": "Consumer Staples",
+    "country": "France",
+    "weight": 0.09
+  },
+  {
+    "ticker": "7013",
+    "name": "IHI CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "1",
+    "name": "CK HUTCHISON HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.09
+  },
+  {
+    "ticker": "2388",
+    "name": "BOC HONG KONG HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Hong Kong",
+    "weight": 0.09
+  },
+  {
+    "ticker": "EQNR",
+    "name": "EQUINOR",
+    "sector": "Energy",
+    "country": "Norway",
+    "weight": 0.09
+  },
+  {
+    "ticker": "MT",
+    "name": "ARCELORMITTAL SA",
+    "sector": "Materials",
+    "country": "France",
+    "weight": 0.09
+  },
+  {
+    "ticker": "DSY",
+    "name": "DASSAULT SYSTEMES",
+    "sector": "Information Technology",
+    "country": "France",
+    "weight": 0.09
+  },
+  {
+    "ticker": "LGEN",
+    "name": "LEGAL AND GENERAL GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.09
+  },
+  {
+    "ticker": "6201",
+    "name": "TOYOTA INDUSTRIES CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SAB",
+    "name": "BANCO DE SABADELL SA",
+    "sector": "Financials",
+    "country": "Spain",
+    "weight": 0.09
+  },
+  {
+    "ticker": "ABN",
+    "name": "ABN AMRO BANK NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.09
+  },
+  {
+    "ticker": "HNR1",
+    "name": "HANNOVER RUECK",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.09
+  },
+  {
+    "ticker": "1605",
+    "name": "INPEX CORP",
+    "sector": "Energy",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "8309",
+    "name": "SUMITOMO MITSUI TRUST GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "KPN",
+    "name": "KONINKLIJKE KPN NV",
+    "sector": "Communication",
+    "country": "Netherlands",
+    "weight": 0.09
+  },
+  {
+    "ticker": "5020",
+    "name": "ENEOS HOLDINGS INC",
+    "sector": "Energy",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "SAAB B",
+    "name": "SAAB CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.09
+  },
+  {
+    "ticker": "7832",
+    "name": "BANDAI NAMCO HOLDINGS INC",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "BPE",
+    "name": "BPER BANCA",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.09
+  },
+  {
+    "ticker": "LOGN",
+    "name": "LOGITECH INTERNATIONAL SA",
+    "sector": "Information Technology",
+    "country": "Switzerland",
+    "weight": 0.09
+  },
+  {
+    "ticker": "BIRG",
+    "name": "BANK OF IRELAND GROUP PLC",
+    "sector": "Financials",
+    "country": "Ireland",
+    "weight": 0.09
+  },
+  {
+    "ticker": "6988",
+    "name": "NITTO DENKO CORP",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.09
+  },
+  {
+    "ticker": "MRK",
+    "name": "MERCK",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.09
+  },
+  {
+    "ticker": "6971",
+    "name": "KYOCERA CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "CHKP",
+    "name": "CHECK POINT SOFTWARE TECHNOLOGIES",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.08
+  },
+  {
+    "ticker": "HLMA",
+    "name": "HALMA PLC",
+    "sector": "Information Technology",
+    "country": "United Kingdom",
+    "weight": 0.08
+  },
+  {
+    "ticker": "BAMI",
+    "name": "BANCO BPM",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.08
+  },
+  {
+    "ticker": "2502",
+    "name": "ASAHI GROUP HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "SHL",
+    "name": "SIEMENS HEALTHINEERS AG",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ESSITY B",
+    "name": "ESSITY CLASS B",
+    "sector": "Consumer Staples",
+    "country": "Sweden",
+    "weight": 0.08
+  },
+  {
+    "ticker": "669",
+    "name": "TECHTRONIC INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.08
+  },
+  {
+    "ticker": "6178",
+    "name": "JAPAN POST HOLDINGS LTD",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "LISN",
+    "name": "CHOCOLADEFABRIKEN LINDT & SPRUENGL",
+    "sector": "Consumer Staples",
+    "country": "Switzerland",
+    "weight": 0.08
+  },
+  {
+    "ticker": "ACS",
+    "name": "ACS ACTIVIDADES DE CONSTRUCCION Y",
+    "sector": "Industrials",
+    "country": "Spain",
+    "weight": 0.08
+  },
+  {
+    "ticker": "7936",
+    "name": "ASICS CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "INF",
+    "name": "INFORMA PLC",
+    "sector": "Communication",
+    "country": "United Kingdom",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TEF",
+    "name": "TELEFONICA SA",
+    "sector": "Communication",
+    "country": "Spain",
+    "weight": 0.08
+  },
+  {
+    "ticker": "9503",
+    "name": "KANSAI ELECTRIC POWER INC",
+    "sector": "Utilities",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "STMPA",
+    "name": "STMICROELECTRONICS NV",
+    "sector": "Information Technology",
+    "country": "France",
+    "weight": 0.08
+  },
+  {
+    "ticker": "DSFIR",
+    "name": "DSM FIRMENICH AG",
+    "sector": "Materials",
+    "country": "Netherlands",
+    "weight": 0.08
+  },
+  {
+    "ticker": "MONC",
+    "name": "MONCLER",
+    "sector": "Consumer Discretionary",
+    "country": "Italy",
+    "weight": 0.08
+  },
+  {
+    "ticker": "9766",
+    "name": "KONAMI GROUP CORP",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "7733",
+    "name": "OLYMPUS CORP",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "1812",
+    "name": "KAJIMA CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "WRT1V",
+    "name": "WARTSILA",
+    "sector": "Industrials",
+    "country": "Finland",
+    "weight": 0.08
+  },
+  {
+    "ticker": "TRN",
+    "name": "TERNA RETE ELETTRICA NAZIONALE",
+    "sector": "Utilities",
+    "country": "Italy",
+    "weight": 0.08
+  },
+  {
+    "ticker": "4307",
+    "name": "NOMURA RESEARCH INSTITUTE LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.08
+  },
+  {
+    "ticker": "KRZ",
+    "name": "KERRY GROUP PLC",
+    "sector": "Consumer Staples",
+    "country": "Ireland",
+    "weight": 0.08
+  },
+  {
+    "ticker": "FBK",
+    "name": "FINECOBANK BANCA FINECO",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.07
+  },
+  {
+    "ticker": "11",
+    "name": "HANG SENG BANK LTD",
+    "sector": "Financials",
+    "country": "Hong Kong",
+    "weight": 0.07
+  },
+  {
+    "ticker": "CLNX",
+    "name": "CELLNEX TELECOM SA",
+    "sector": "Communication",
+    "country": "Spain",
+    "weight": 0.07
+  },
+  {
+    "ticker": "2",
+    "name": "CLP HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "Hong Kong",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BAER",
+    "name": "JULIUS BAER GRUPPE AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SCHP",
+    "name": "SCHINDLER HOLDING PAR AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "LISP",
+    "name": "CHOCOLADEFABRIKEN LINDT & SPRUENGL",
+    "sector": "Consumer Staples",
+    "country": "Switzerland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "9735",
+    "name": "SECOM LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "EVN",
+    "name": "EVOLUTION MINING LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "UPM",
+    "name": "UPM-KYMMENE",
+    "sector": "Materials",
+    "country": "Finland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ESLT",
+    "name": "ELBIT SYSTEMS LTD",
+    "sector": "Industrials",
+    "country": "Israel",
+    "weight": 0.07
+  },
+  {
+    "ticker": "823",
+    "name": "LINK REAL ESTATE INVESTMENT TRUST",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.07
+  },
+  {
+    "ticker": "STO",
+    "name": "SANTOS LTD",
+    "sector": "Energy",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "6920",
+    "name": "LASERTEC CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "BT.A",
+    "name": "BT GROUP PLC",
+    "sector": "Communication",
+    "country": "United Kingdom",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SGE",
+    "name": "THE SAGE GROUP PLC",
+    "sector": "Information Technology",
+    "country": "United Kingdom",
+    "weight": 0.07
+  },
+  {
+    "ticker": "8830",
+    "name": "SUMITOMO REALTY & DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "9101",
+    "name": "NIPPON YUSEN",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SCG",
+    "name": "SCENTRE GROUP",
+    "sector": "Real Estate",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ANTO",
+    "name": "ANTOFAGASTA PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.07
+  },
+  {
+    "ticker": "EDP",
+    "name": "EDP ENERGIAS DE PORTUGAL SA",
+    "sector": "Utilities",
+    "country": "Portugal",
+    "weight": 0.07
+  },
+  {
+    "ticker": "HEN3",
+    "name": "HENKEL & KGAA PREF AG",
+    "sector": "Consumer Staples",
+    "country": "Germany",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SN.",
+    "name": "SMITH AND NEPHEW PLC",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ORG",
+    "name": "ORIGIN ENERGY LTD",
+    "sector": "Utilities",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "ALFA",
+    "name": "ALFA LAVAL",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SUN",
+    "name": "SUNCORP GROUP LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "STMN",
+    "name": "STRAUMANN HOLDING AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "4507",
+    "name": "SHIONOGI LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.07
+  },
+  {
+    "ticker": "RTO",
+    "name": "RENTOKIL INITIAL PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.07
+  },
+  {
+    "ticker": "SRG",
+    "name": "SNAM",
+    "sector": "Utilities",
+    "country": "Italy",
+    "weight": 0.07
+  },
+  {
+    "ticker": "EPI A",
+    "name": "EPIROC CLASS A",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.07
+  },
+  {
+    "ticker": "1CO",
+    "name": "COVESTRO V AG",
+    "sector": "Materials",
+    "country": "Germany",
+    "weight": 0.07
+  },
+  {
+    "ticker": "RO",
+    "name": "ROCHE HOLDING AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.07
+  },
+  {
+    "ticker": "TLS",
+    "name": "TELSTRA GROUP LTD",
+    "sector": "Communication",
+    "country": "Australia",
+    "weight": 0.07
+  },
+  {
+    "ticker": "URW",
+    "name": "UNIBAIL RODAMCO WE STAPLED UNITS",
+    "sector": "Real Estate",
+    "country": "France",
+    "weight": 0.07
+  },
+  {
+    "ticker": "DSCT",
+    "name": "ISRAEL DISCOUNT BANK LTD",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.07
+  },
+  {
+    "ticker": "6326",
+    "name": "KUBOTA CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1928",
+    "name": "SEKISUI HOUSE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "XRO",
+    "name": "XERO LTD",
+    "sector": "Information Technology",
+    "country": "Australia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "GRAB",
+    "name": "GRAB HOLDINGS LTD CLASS A",
+    "sector": "Industrials",
+    "country": "Singapore",
+    "weight": 0.06
+  },
+  {
+    "ticker": "9531",
+    "name": "TOKYO GAS LTD",
+    "sector": "Utilities",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "EQT",
+    "name": "EQT",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.06
+  },
+  {
+    "ticker": "7270",
+    "name": "SUBARU CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BOL",
+    "name": "BOLIDEN",
+    "sector": "Materials",
+    "country": "Sweden",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1801",
+    "name": "TAISEI CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SOON",
+    "name": "SONOVA HOLDING AG",
+    "sector": "Health Care",
+    "country": "Switzerland",
+    "weight": 0.06
+  },
+  {
+    "ticker": "2503",
+    "name": "KIRIN HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "FPH",
+    "name": "FISHER AND PAYKEL HEALTHCARE CORPO",
+    "sector": "Health Care",
+    "country": "New Zealand",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CPU",
+    "name": "COMPUTERSHARE LTD",
+    "sector": "Industrials",
+    "country": "Australia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "9532",
+    "name": "OSAKA GAS LTD",
+    "sector": "Utilities",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "1802",
+    "name": "OBAYASHI CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "IAG",
+    "name": "INSURANCE AUSTRALIA GROUP LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ELE",
+    "name": "ENDESA SA",
+    "sector": "Utilities",
+    "country": "Spain",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SGRO",
+    "name": "SEGRO REIT PLC",
+    "sector": "Real Estate",
+    "country": "United Kingdom",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SPSN",
+    "name": "SWISS PRIME SITE AG",
+    "sector": "Real Estate",
+    "country": "Switzerland",
+    "weight": 0.06
+  },
+  {
+    "ticker": "8473",
+    "name": "SBI HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ENX",
+    "name": "EURONEXT NV",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.06
+  },
+  {
+    "ticker": "COH",
+    "name": "COCHLEAR LTD",
+    "sector": "Health Care",
+    "country": "Australia",
+    "weight": 0.06
+  },
+  {
+    "ticker": "KRX",
+    "name": "KINGSPAN GROUP PLC",
+    "sector": "Industrials",
+    "country": "Ireland",
+    "weight": 0.06
+  },
+  {
+    "ticker": "7532",
+    "name": "PAN PACIFIC INTERNATIONAL HOLDINGS",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "27",
+    "name": "GALAXY ENTERTAINMENT GROUP LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Hong Kong",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BN4",
+    "name": "KEPPEL LTD",
+    "sector": "Industrials",
+    "country": "Singapore",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CARL B",
+    "name": "CARLSBERG AS CL B",
+    "sector": "Consumer Staples",
+    "country": "Denmark",
+    "weight": 0.06
+  },
+  {
+    "ticker": "COLO B",
+    "name": "COLOPLAST B",
+    "sector": "Health Care",
+    "country": "Denmark",
+    "weight": 0.06
+  },
+  {
+    "ticker": "S68",
+    "name": "SINGAPORE EXCHANGE LTD",
+    "sector": "Financials",
+    "country": "Singapore",
+    "weight": 0.06
+  },
+  {
+    "ticker": "CNA",
+    "name": "CENTRICA PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "weight": 0.06
+  },
+  {
+    "ticker": "8697",
+    "name": "JAPAN EXCHANGE GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "PST",
+    "name": "POSTE ITALIANE",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.06
+  },
+  {
+    "ticker": "6594",
+    "name": "NIDEC CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.06
+  },
+  {
+    "ticker": "AKZA",
+    "name": "AKZO NOBEL NV",
+    "sector": "Materials",
+    "country": "Netherlands",
+    "weight": 0.06
+  },
+  {
+    "ticker": "ADM",
+    "name": "ADMIRAL GROUP PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BVI",
+    "name": "BUREAU VERITAS SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.06
+  },
+  {
+    "ticker": "MZTF",
+    "name": "MIZRAHI TEFAHOT BANK LTD",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.06
+  },
+  {
+    "ticker": "SY1",
+    "name": "SYMRISE AG",
+    "sector": "Materials",
+    "country": "Germany",
+    "weight": 0.06
+  },
+  {
+    "ticker": "BESI",
+    "name": "BE SEMICONDUCTOR INDUSTRIES NV",
+    "sector": "Information Technology",
+    "country": "Netherlands",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SMIN",
+    "name": "SMITHS GROUP PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "8601",
+    "name": "DAIWA SECURITIES GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BALN",
+    "name": "BALOISE HOLDING AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3",
+    "name": "HONG KONG AND CHINA GAS LTD",
+    "sector": "Utilities",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "KOG",
+    "name": "KONGSBERG GRUPPEN",
+    "sector": "Industrials",
+    "country": "Norway",
+    "weight": 0.05
+  },
+  {
+    "ticker": "C38U",
+    "name": "CAPITALAND INTEGRATED COMMERCIAL T",
+    "sector": "Real Estate",
+    "country": "Singapore",
+    "weight": 0.05
+  },
+  {
+    "ticker": "UU.",
+    "name": "UNITED UTILITIES GROUP PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "JHX",
+    "name": "JAMES HARDIE INDUSTRIES CDI PLC",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "VACN",
+    "name": "VAT GROUP AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "METSO",
+    "name": "METSO CORPORATION",
+    "sector": "Industrials",
+    "country": "Finland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "S63",
+    "name": "SINGAPORE TECHNOLOGIES ENGINEERING",
+    "sector": "Industrials",
+    "country": "Singapore",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ORSTED",
+    "name": "ORSTED A/S",
+    "sector": "Utilities",
+    "country": "Denmark",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ASRNL",
+    "name": "ASR NEDERLAND NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HM B",
+    "name": "HENNES & MAURITZ",
+    "sector": "Consumer Discretionary",
+    "country": "Sweden",
+    "weight": 0.05
+  },
+  {
+    "ticker": "J36",
+    "name": "JARDINE MATHESON HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FUTU",
+    "name": "FUTU HOLDINGS ADR LTD",
+    "sector": "Financials",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "CCH",
+    "name": "COCA COLA HBC AG",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "4684",
+    "name": "OBIC LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MRO",
+    "name": "MELROSE INDUSTRIES PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AC",
+    "name": "ACCOR SA",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BKT",
+    "name": "BANKINTER SA",
+    "sector": "Financials",
+    "country": "Spain",
+    "weight": 0.05
+  },
+  {
+    "ticker": "8795",
+    "name": "T&D HOLDINGS INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BEI",
+    "name": "BEIERSDORF AG",
+    "sector": "Consumer Staples",
+    "country": "Germany",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FME",
+    "name": "FRESENIUS MEDICAL CARE AG",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6383",
+    "name": "DAIFUKU LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3407",
+    "name": "ASAHI KASEI CORP",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ITRK",
+    "name": "INTERTEK GROUP PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AGN",
+    "name": "AEGON LTD",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.05
+  },
+  {
+    "ticker": "9502",
+    "name": "CHUBU ELECTRIC POWER INC",
+    "sector": "Utilities",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MOWI",
+    "name": "MOWI",
+    "sector": "Consumer Staples",
+    "country": "Norway",
+    "weight": 0.05
+  },
+  {
+    "ticker": "AGS",
+    "name": "AGEAS SA",
+    "sector": "Financials",
+    "country": "Belgium",
+    "weight": 0.05
+  },
+  {
+    "ticker": "7012",
+    "name": "KAWASAKI HEAVY INDUSTRIES LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "1113",
+    "name": "CK ASSET HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "G1A",
+    "name": "GEA GROUP AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.05
+  },
+  {
+    "ticker": "NHY",
+    "name": "NORSK HYDRO",
+    "sector": "Materials",
+    "country": "Norway",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SGP",
+    "name": "STOCKLAND STAPLED UNITS LTD",
+    "sector": "Real Estate",
+    "country": "Australia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "FORTUM",
+    "name": "FORTUM",
+    "sector": "Utilities",
+    "country": "Finland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "SVT",
+    "name": "SEVERN TRENT PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "EVO",
+    "name": "EVOLUTION",
+    "sector": "Consumer Discretionary",
+    "country": "Sweden",
+    "weight": 0.05
+  },
+  {
+    "ticker": "9104",
+    "name": "MITSUI OSK LINES LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "7453",
+    "name": "RYOHIN KEIKAKU LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "QIA",
+    "name": "QIAGEN NV",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.05
+  },
+  {
+    "ticker": "288",
+    "name": "WH GROUP LTD",
+    "sector": "Consumer Staples",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PHOE",
+    "name": "PHOENIX FINANCIAL LTD",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PNDORA",
+    "name": "PANDORA",
+    "sector": "Consumer Discretionary",
+    "country": "Denmark",
+    "weight": 0.05
+  },
+  {
+    "ticker": "PME",
+    "name": "PRO MEDICUS LTD",
+    "sector": "Health Care",
+    "country": "Australia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HELN",
+    "name": "HELVETIA HOLDING AG",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "MKS",
+    "name": "MARKS AND SPENCER GROUP PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6",
+    "name": "POWER ASSETS HOLDINGS LTD",
+    "sector": "Utilities",
+    "country": "Hong Kong",
+    "weight": 0.05
+  },
+  {
+    "ticker": "TELIA",
+    "name": "TELIA COMPANY",
+    "sector": "Communication",
+    "country": "Sweden",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BEAN",
+    "name": "BELIMO N AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "EN",
+    "name": "BOUYGUES SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.05
+  },
+  {
+    "ticker": "S32",
+    "name": "SOUTH32 LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.05
+  },
+  {
+    "ticker": "BNZL",
+    "name": "BUNZL",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ALO",
+    "name": "ALSTOM SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.05
+  },
+  {
+    "ticker": "KNIN",
+    "name": "KUEHNE UND NAGEL INTERNATIONAL AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.05
+  },
+  {
+    "ticker": "ABF",
+    "name": "ASSOCIATED BRITISH FOODS PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.05
+  },
+  {
+    "ticker": "HEIO",
+    "name": "HEINEKEN HOLDING NV",
+    "sector": "Consumer Staples",
+    "country": "Netherlands",
+    "weight": 0.05
+  },
+  {
+    "ticker": "6504",
+    "name": "FUJI ELECTRIC LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "7259",
+    "name": "AISIN CORP",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "CA",
+    "name": "CARREFOUR SA",
+    "sector": "Consumer Staples",
+    "country": "France",
+    "weight": 0.05
+  },
+  {
+    "ticker": "4755",
+    "name": "RAKUTEN GROUP INC",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "3402",
+    "name": "TORAY INDUSTRIES INC",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.05
+  },
+  {
+    "ticker": "GALP",
+    "name": "GALP ENERGIA SGPS SA CLASS B",
+    "sector": "Energy",
+    "country": "Portugal",
+    "weight": 0.05
+  },
+  {
+    "ticker": "9021",
+    "name": "WEST JAPAN RAILWAY",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "FGR",
+    "name": "EIFFAGE SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SIG",
+    "name": "SIGMA HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NESTE",
+    "name": "NESTE",
+    "sector": "Energy",
+    "country": "Finland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TEL",
+    "name": "TELENOR",
+    "sector": "Communication",
+    "country": "Norway",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MPL",
+    "name": "MEDIBANK PRIVATE LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SKA B",
+    "name": "SKANSKA B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "9697",
+    "name": "CAPCOM LTD",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SKF B",
+    "name": "SKF B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "A17U",
+    "name": "CAPITALAND ASCENDAS REIT",
+    "sector": "Real Estate",
+    "country": "Singapore",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TEL2 B",
+    "name": "TELE2 B",
+    "sector": "Communication",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NVMI",
+    "name": "NOVA LTD",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ADDT B",
+    "name": "ADDTECH CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "OMV",
+    "name": "OMV AG",
+    "sector": "Energy",
+    "country": "Austria",
+    "weight": 0.04
+  },
+  {
+    "ticker": "WTC",
+    "name": "WISETECH GLOBAL LTD",
+    "sector": "Information Technology",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TRYG",
+    "name": "TRYG",
+    "sector": "Financials",
+    "country": "Denmark",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LI",
+    "name": "KLEPIERRE REIT SA",
+    "sector": "Real Estate",
+    "country": "France",
+    "weight": 0.04
+  },
+  {
+    "ticker": "LIFCO B",
+    "name": "LIFCO CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MAERSK B",
+    "name": "A P MOLLER MAERSK B",
+    "sector": "Industrials",
+    "country": "Denmark",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TEN",
+    "name": "TENARIS SA",
+    "sector": "Energy",
+    "country": "Italy",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TLX",
+    "name": "TALANX AG",
+    "sector": "Financials",
+    "country": "Germany",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TREL B",
+    "name": "TRELLEBORG B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CAR",
+    "name": "CAR GROUP LTD",
+    "sector": "Communication",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SOL",
+    "name": "WASHINGTON H SOUL PATTINSON & COMP",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AKRBP",
+    "name": "AKER BP",
+    "sector": "Energy",
+    "country": "Norway",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RXL",
+    "name": "REXEL SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.04
+  },
+  {
+    "ticker": "CON",
+    "name": "CONTINENTAL AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.04
+  },
+  {
+    "ticker": "APA",
+    "name": "APA GROUP UNITS",
+    "sector": "Utilities",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "7186",
+    "name": "YOKOHAMA FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "3659",
+    "name": "NEXON LTD",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ERF",
+    "name": "EUROFINS SCIENTIFIC",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.04
+  },
+  {
+    "ticker": "UNI",
+    "name": "UNIPOL ASSICURAZIONI SPA",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.04
+  },
+  {
+    "ticker": "PSON",
+    "name": "PEARSON PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.04
+  },
+  {
+    "ticker": "WISE",
+    "name": "WISE PLC CLASS A",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.04
+  },
+  {
+    "ticker": "MNG",
+    "name": "M&G PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4523",
+    "name": "EISAI LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AUTO",
+    "name": "AUTO TRADER GROUP PLC",
+    "sector": "Communication",
+    "country": "United Kingdom",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SCHN",
+    "name": "SCHINDLER HOLDING AG",
+    "sector": "Industrials",
+    "country": "Switzerland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "7202",
+    "name": "ISUZU MOTORS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "EXO",
+    "name": "EXOR NV",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.04
+  },
+  {
+    "ticker": "TLC",
+    "name": "THE LOTTERY CORPORATION LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "HEN",
+    "name": "HENKEL AG",
+    "sector": "Consumer Staples",
+    "country": "Germany",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4689",
+    "name": "LY CORP",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RNO",
+    "name": "RENAULT SA",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SCA B",
+    "name": "SVENSKA CELLULOSA B",
+    "sector": "Materials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "BCP",
+    "name": "BANCO COMERCIAL PORTUGUES SA",
+    "sector": "Financials",
+    "country": "Portugal",
+    "weight": 0.04
+  },
+  {
+    "ticker": "G24",
+    "name": "SCOUT24 N",
+    "sector": "Communication",
+    "country": "Germany",
+    "weight": 0.04
+  },
+  {
+    "ticker": "5713",
+    "name": "SUMITOMO METAL MINING LTD",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "C6L",
+    "name": "SINGAPORE AIRLINES LTD",
+    "sector": "Industrials",
+    "country": "Singapore",
+    "weight": 0.04
+  },
+  {
+    "ticker": "7309",
+    "name": "SHIMANO INC",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SBRY",
+    "name": "SAINSBURY(J) PLC",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ORNBV",
+    "name": "ORION CLASS B",
+    "sector": "Health Care",
+    "country": "Finland",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ASX",
+    "name": "ASX LTD",
+    "sector": "Financials",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "8951",
+    "name": "NIPPON BUILDING FUND REIT INC",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "4188",
+    "name": "MITSUBISHI CHEMICAL GROUP CORP",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "SECU B",
+    "name": "SECURITAS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AUD",
+    "name": "AUD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Australia",
+    "weight": 0.04
+  },
+  {
+    "ticker": "2413",
+    "name": "M3 INC",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.04
+  },
+  {
+    "ticker": "ORK",
+    "name": "ORKLA",
+    "sector": "Consumer Staples",
+    "country": "Norway",
+    "weight": 0.04
+  },
+  {
+    "ticker": "AIA",
+    "name": "AUCKLAND INTERNATIONAL AIRPORT LTD",
+    "sector": "Industrials",
+    "country": "New Zealand",
+    "weight": 0.04
+  },
+  {
+    "ticker": "WIX",
+    "name": "WIX.COM LTD",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.04
+  },
+  {
+    "ticker": "H78",
+    "name": "HONGKONG LAND HOLDINGS LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.04
+  },
+  {
+    "ticker": "REC",
+    "name": "RECORDATI INDUSTRIA CHIMICA E FARM",
+    "sector": "Health Care",
+    "country": "Italy",
+    "weight": 0.04
+  },
+  {
+    "ticker": "GBLB",
+    "name": "GROUPE BRUXELLES LAMBERT NV",
+    "sector": "Financials",
+    "country": "Belgium",
+    "weight": 0.04
+  },
+  {
+    "ticker": "JMT",
+    "name": "JERONIMO MARTINS SA",
+    "sector": "Consumer Staples",
+    "country": "Portugal",
+    "weight": 0.04
+  },
+  {
+    "ticker": "EPI B",
+    "name": "EPIROC CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.04
+  },
+  {
+    "ticker": "RED",
+    "name": "REDEIA CORPORACION SA",
+    "sector": "Utilities",
+    "country": "Spain",
+    "weight": 0.04
+  },
+  {
+    "ticker": "NICE",
+    "name": "NICE LTD",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.04
+  },
+  {
+    "ticker": "KBX",
+    "name": "KNORR BREMSE AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KGF",
+    "name": "KINGFISHER PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8593",
+    "name": "MITSUBISHI HC CAPITAL INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3626",
+    "name": "TIS INC",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BNR",
+    "name": "BRENNTAG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6841",
+    "name": "YOKOGAWA ELECTRIC CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SOBI",
+    "name": "SWEDISH ORPHAN BIOVITRUM",
+    "sector": "Health Care",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SRT3",
+    "name": "SARTORIUS PREF AG",
+    "sector": "Health Care",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BTRW",
+    "name": "BARRATT REDROW PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "RBCFT",
+    "name": "CASH COLLATERAL EUR RBCFT",
+    "sector": "Cash and/or Derivatives",
+    "country": "European Union",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9843",
+    "name": "NITORI HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8113",
+    "name": "UNICHARM CORP",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "FRES",
+    "name": "FRESNILLO PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6479",
+    "name": "MINEBEA MITSUMI INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "REA",
+    "name": "REA GROUP LTD",
+    "sector": "Communication",
+    "country": "Australia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BS6",
+    "name": "YANGZIJIANG SHIPBUILDING (HOLDINGS",
+    "sector": "Industrials",
+    "country": "Singapore",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6586",
+    "name": "MAKITA CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5411",
+    "name": "JFE HOLDINGS INC",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "STERV",
+    "name": "STORA ENSO CLASS R",
+    "sector": "Materials",
+    "country": "Finland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7735",
+    "name": "SCREEN HOLDINGS LTD",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5201",
+    "name": "AGC INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7272",
+    "name": "YAMAHA MOTOR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SPX",
+    "name": "SPIRAX GROUP PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "INDT",
+    "name": "INDUTRADE",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "AM",
+    "name": "DASSAULT AVIATION SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "INDU C",
+    "name": "INDUSTRIVARDEN SERIES",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1928",
+    "name": "SANDS CHINA LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "DIM",
+    "name": "SARTORIUS STEDIM BIOTECH SA",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7701",
+    "name": "SHIMADZU CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SHL",
+    "name": "SONIC HEALTHCARE LTD",
+    "sector": "Health Care",
+    "country": "Australia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PAH3",
+    "name": "PORSCHE AUTOMOBIL HOLDING PREF",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8136",
+    "name": "SANRIO LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "DCC",
+    "name": "DCC PLC",
+    "sector": "Industrials",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4704",
+    "name": "TREND MICRO INC",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "WTB",
+    "name": "WHITBREAD PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ELISA",
+    "name": "ELISA",
+    "sector": "Communication",
+    "country": "Finland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "TIT",
+    "name": "TELECOM ITALIA",
+    "sector": "Communication",
+    "country": "Italy",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VCX",
+    "name": "VICINITY CENTRES",
+    "sector": "Real Estate",
+    "country": "Australia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7912",
+    "name": "DAI NIPPON PRINTING LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MNDY",
+    "name": "MONDAYCOM LTD",
+    "sector": "Information Technology",
+    "country": "Israel",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4204",
+    "name": "SEKISUI CHEMICAL LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "JDEP",
+    "name": "JDE PEETS NV",
+    "sector": "Consumer Staples",
+    "country": "Netherlands",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9602",
+    "name": "TOHO (TOKYO) LTD",
+    "sector": "Communication",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IFT",
+    "name": "INFRATIL LTD",
+    "sector": "Financials",
+    "country": "New Zealand",
+    "weight": 0.03
+  },
+  {
+    "ticker": "PHNX",
+    "name": "PHOENIX GROUP HOLDINGS PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7911",
+    "name": "TOPPAN HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3088",
+    "name": "MATSUKIYOKARA",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GBP",
+    "name": "GBP CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IAG",
+    "name": "INTERNATIONAL AIRLINES GROUP SA",
+    "sector": "Industrials",
+    "country": "Spain",
+    "weight": 0.03
+  },
+  {
+    "ticker": "UHR",
+    "name": "THE SWATCH GROUP AG",
+    "sector": "Consumer Discretionary",
+    "country": "Switzerland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9042",
+    "name": "HANKYU HANSHIN HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BSL",
+    "name": "BLUESCOPE STEEL LTD",
+    "sector": "Materials",
+    "country": "Australia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4911",
+    "name": "SHISEIDO LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "HAG",
+    "name": "HENSOLDT AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8729",
+    "name": "SONY FINANCIAL GROUP INC",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "YAR",
+    "name": "YARA INTERNATIONAL",
+    "sector": "Materials",
+    "country": "Norway",
+    "weight": 0.03
+  },
+  {
+    "ticker": "66",
+    "name": "MTR CORPORATION CORP LTD",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2801",
+    "name": "KIKKOMAN CORP",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "5019",
+    "name": "IDEMITSU KOSAN LTD",
+    "sector": "Energy",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "P911",
+    "name": "DR ING HC F PORSCHE PRF AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ELI",
+    "name": "ELIA GROUP SA",
+    "sector": "Utilities",
+    "country": "Belgium",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6823",
+    "name": "HKT TRUST AND HKT UNITS LTD",
+    "sector": "Communication",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4612",
+    "name": "NIPPON PAINT HOLDINGS LTD",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BEIJ B",
+    "name": "BEIJER REF CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NEM",
+    "name": "NEMETSCHEK",
+    "sector": "Information Technology",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ZAL",
+    "name": "ZALANDO",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SGH",
+    "name": "SGH LTD",
+    "sector": "Industrials",
+    "country": "Australia",
+    "weight": 0.03
+  },
+  {
+    "ticker": "12",
+    "name": "HENDERSON LAND DEVELOPMENT LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "SYENS",
+    "name": "SYENSQO NV",
+    "sector": "Materials",
+    "country": "Belgium",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9719",
+    "name": "SCSK CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IPN",
+    "name": "IPSEN SA",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BARN",
+    "name": "BARRY CALLEBAUT AG",
+    "sector": "Consumer Staples",
+    "country": "Switzerland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "MAERSK A",
+    "name": "A P MOLLER MAERSK",
+    "sector": "Industrials",
+    "country": "Denmark",
+    "weight": 0.03
+  },
+  {
+    "ticker": "KESKOB",
+    "name": "KESKO CLASS B",
+    "sector": "Consumer Staples",
+    "country": "Finland",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ENT",
+    "name": "ENTAIN PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LEG",
+    "name": "LEG IMMOBILIEN N",
+    "sector": "Real Estate",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LAND",
+    "name": "LAND SECURITIES GROUP REIT PLC",
+    "sector": "Real Estate",
+    "country": "United Kingdom",
+    "weight": 0.03
+  },
+  {
+    "ticker": "EVD",
+    "name": "CTS EVENTIM AG",
+    "sector": "Communication",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "9005",
+    "name": "TOKYU CORP",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1878",
+    "name": "DAITO TRUST CONSTRUCTION LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "8331",
+    "name": "CHIBA BANK LTD",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GET",
+    "name": "GETLINK",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "4091",
+    "name": "NIPPON SANSO HOLDINGS CORP",
+    "sector": "Materials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "GJF",
+    "name": "GJENSIDIGE FORSIKRING",
+    "sector": "Financials",
+    "country": "Norway",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7550",
+    "name": "ZENSHO HOLDINGS LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1997",
+    "name": "WHARF REAL ESTATE INVESTMENT COMPA",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "LHA",
+    "name": "DEUTSCHE LUFTHANSA AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "EDEN",
+    "name": "EDENRED",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "ANA",
+    "name": "ACCIONA SA",
+    "sector": "Utilities",
+    "country": "Spain",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BIM",
+    "name": "BIOMERIEUX SA",
+    "sector": "Health Care",
+    "country": "France",
+    "weight": 0.03
+  },
+  {
+    "ticker": "NIBE B",
+    "name": "NIBE INDUSTRIER CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BALD B",
+    "name": "FASTIGHETS BALDER CLASS B",
+    "sector": "Real Estate",
+    "country": "Sweden",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7181",
+    "name": "JAPAN POST INSURANCE LTD",
+    "sector": "Financials",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "IMCD",
+    "name": "IMCD NV",
+    "sector": "Industrials",
+    "country": "Netherlands",
+    "weight": 0.03
+  },
+  {
+    "ticker": "VER",
+    "name": "VERBUND AG",
+    "sector": "Utilities",
+    "country": "Austria",
+    "weight": 0.03
+  },
+  {
+    "ticker": "BMW3",
+    "name": "BMW PREF AG",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.03
+  },
+  {
+    "ticker": "7201",
+    "name": "NISSAN MOTOR LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "6869",
+    "name": "SYSMEX CORP",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "1308",
+    "name": "SITC INTERNATIONAL HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "83",
+    "name": "SINO LAND LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.03
+  },
+  {
+    "ticker": "3003",
+    "name": "HULIC LTD",
+    "sector": "Real Estate",
+    "country": "Japan",
+    "weight": 0.03
+  },
+  {
+    "ticker": "F34",
+    "name": "WILMAR INTERNATIONAL LTD",
+    "sector": "Consumer Staples",
+    "country": "Singapore",
+    "weight": 0.03
+  },
+  {
+    "ticker": "2269",
+    "name": "MEIJI HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "INDU A",
+    "name": "INDUSTRIVARDEN A",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ADP",
+    "name": "AEROPORTS DE PARIS SA",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9435",
+    "name": "HIKARI TSUSHIN INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BMED",
+    "name": "BANCA MEDIOLANUM",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MNDI",
+    "name": "MONDI PLC",
+    "sector": "Materials",
+    "country": "United Kingdom",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9CI",
+    "name": "CAPITALAND INVESTMENT LTD",
+    "sector": "Real Estate",
+    "country": "Singapore",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SW",
+    "name": "SODEXO SA",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AMUN",
+    "name": "AMUNDI SA",
+    "sector": "Financials",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EMSN",
+    "name": "EMS-CHEMIE HOLDING AG",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AVOL",
+    "name": "AVOLTA AG",
+    "sector": "Consumer Discretionary",
+    "country": "Switzerland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9107",
+    "name": "KAWASAKI KISEN LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SAGA B",
+    "name": "SAGAX CLASS B",
+    "sector": "Real Estate",
+    "country": "Sweden",
+    "weight": 0.02
+  },
+  {
+    "ticker": "QAN",
+    "name": "QANTAS AIRWAYS LTD",
+    "sector": "Industrials",
+    "country": "Australia",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2587",
+    "name": "SUNTORY BEVERAGE & FOOD LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CEN",
+    "name": "CONTACT ENERGY LTD",
+    "sector": "Utilities",
+    "country": "New Zealand",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AZRG",
+    "name": "AZRIELI GROUP LTD",
+    "sector": "Real Estate",
+    "country": "Israel",
+    "weight": 0.02
+  },
+  {
+    "ticker": "U96",
+    "name": "SEMBCORP INDUSTRIES LTD",
+    "sector": "Utilities",
+    "country": "Singapore",
+    "weight": 0.02
+  },
+  {
+    "ticker": "WPP",
+    "name": "WPP PLC",
+    "sector": "Communication",
+    "country": "United Kingdom",
+    "weight": 0.02
+  },
+  {
+    "ticker": "1038",
+    "name": "CHEUNG KONG INFRASTRUCTURE HOLDING",
+    "sector": "Utilities",
+    "country": "Hong Kong",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BKW",
+    "name": "BKW N AG",
+    "sector": "Utilities",
+    "country": "Switzerland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4768",
+    "name": "OTSUKA CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GFC",
+    "name": "GECINA SA",
+    "sector": "Real Estate",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2267",
+    "name": "YAKULT HONSHA LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "MEL",
+    "name": "MERIDIAN ENERGY LTD",
+    "sector": "Utilities",
+    "country": "New Zealand",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DKK",
+    "name": "DKK CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Denmark",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RAND",
+    "name": "RANDSTAD HOLDING",
+    "sector": "Industrials",
+    "country": "Netherlands",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SOF",
+    "name": "SOFINA SA",
+    "sector": "Financials",
+    "country": "Belgium",
+    "weight": 0.02
+  },
+  {
+    "ticker": "ICL",
+    "name": "ICL GROUP LTD",
+    "sector": "Materials",
+    "country": "Israel",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EDPR",
+    "name": "EDP RENOVAVEIS SA",
+    "sector": "Utilities",
+    "country": "Portugal",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CPR",
+    "name": "DAVIDE CAMPARI MILANO NV",
+    "sector": "Consumer Staples",
+    "country": "Italy",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LUND B",
+    "name": "LUNDBERGFORETAGEN CLASS B",
+    "sector": "Financials",
+    "country": "Sweden",
+    "weight": 0.02
+  },
+  {
+    "ticker": "EVK",
+    "name": "EVONIK INDUSTRIES AG",
+    "sector": "Materials",
+    "country": "Germany",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BOL",
+    "name": "BOLLORE",
+    "sector": "Communication",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4151",
+    "name": "KYOWA KIRIN LTD",
+    "sector": "Health Care",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3038",
+    "name": "KOBE BUSSAN LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SALM",
+    "name": "SALMAR",
+    "sector": "Consumer Staples",
+    "country": "Norway",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3092",
+    "name": "ZOZO INC",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DIE",
+    "name": "DIETEREN (D) SA",
+    "sector": "Consumer Discretionary",
+    "country": "Belgium",
+    "weight": 0.02
+  },
+  {
+    "ticker": "RAA",
+    "name": "RATIONAL AG",
+    "sector": "Industrials",
+    "country": "Germany",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SDR",
+    "name": "SCHRODERS PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "weight": 0.02
+  },
+  {
+    "ticker": "DHER",
+    "name": "DELIVERY HERO",
+    "sector": "Consumer Discretionary",
+    "country": "Germany",
+    "weight": 0.02
+  },
+  {
+    "ticker": "G13",
+    "name": "GENTING SINGAPORE LTD",
+    "sector": "Consumer Discretionary",
+    "country": "Singapore",
+    "weight": 0.02
+  },
+  {
+    "ticker": "2897",
+    "name": "NISSIN FOODS HOLDINGS LTD",
+    "sector": "Consumer Staples",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "GRF",
+    "name": "GRIFOLS SA CLASS A",
+    "sector": "Health Care",
+    "country": "Spain",
+    "weight": 0.02
+  },
+  {
+    "ticker": "TEP",
+    "name": "TELEPERFORMANCE",
+    "sector": "Industrials",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "COV",
+    "name": "COVIVIO SA",
+    "sector": "Real Estate",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LATO B",
+    "name": "LATOUR INVESTMENT CLASS B",
+    "sector": "Industrials",
+    "country": "Sweden",
+    "weight": 0.02
+  },
+  {
+    "ticker": "BCVN",
+    "name": "BC VAUD N",
+    "sector": "Financials",
+    "country": "Switzerland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "LOTB",
+    "name": "LOTUS BAKERIES NV",
+    "sector": "Consumer Staples",
+    "country": "Belgium",
+    "weight": 0.02
+  },
+  {
+    "ticker": "3064",
+    "name": "MONOTARO LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "CVC",
+    "name": "CVC CAPITAL PARTNERS PLC",
+    "sector": "Financials",
+    "country": "Netherlands",
+    "weight": 0.02
+  },
+  {
+    "ticker": "HIK",
+    "name": "HIKMA PHARMACEUTICALS PLC",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4716",
+    "name": "ORACLE JAPAN CORP",
+    "sector": "Information Technology",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "AKE",
+    "name": "ARKEMA SA",
+    "sector": "Materials",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "SIGN",
+    "name": "SIG GROUP N AG",
+    "sector": "Materials",
+    "country": "Switzerland",
+    "weight": 0.02
+  },
+  {
+    "ticker": "4",
+    "name": "WHARF (HOLDINGS) LTD",
+    "sector": "Real Estate",
+    "country": "Hong Kong",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9143",
+    "name": "SG HOLDINGS LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "19",
+    "name": "SWIRE PACIFIC LTD A",
+    "sector": "Industrials",
+    "country": "Hong Kong",
+    "weight": 0.02
+  },
+  {
+    "ticker": "USD",
+    "name": "USD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.02
+  },
+  {
+    "ticker": "FDJU",
+    "name": "FDJ UNITED",
+    "sector": "Consumer Discretionary",
+    "country": "France",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9202",
+    "name": "ANA HOLDINGS INC",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.02
+  },
+  {
+    "ticker": "9023",
+    "name": "TOKYO METRO LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "ROCK B",
+    "name": "ROCKWOOL CLASS B",
+    "sector": "Industrials",
+    "country": "Denmark",
+    "weight": 0.01
+  },
+  {
+    "ticker": "DEMANT",
+    "name": "DEMANT",
+    "sector": "Health Care",
+    "country": "Denmark",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INPST",
+    "name": "INPOST SA",
+    "sector": "Industrials",
+    "country": "Netherlands",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HOLM B",
+    "name": "HOLMEN CLASS B",
+    "sector": "Materials",
+    "country": "Sweden",
+    "weight": 0.01
+  },
+  {
+    "ticker": "JD.",
+    "name": "JD SPORTS FASHION PLC",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
+    "weight": 0.01
+  },
+  {
+    "ticker": "9201",
+    "name": "JAPAN AIRLINES LTD",
+    "sector": "Industrials",
+    "country": "Japan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "INW",
+    "name": "INFRASTRUTTURE WIRELESS ITALIANE",
+    "sector": "Communication",
+    "country": "Italy",
+    "weight": 0.01
+  },
+  {
+    "ticker": "NEXI",
+    "name": "NEXI",
+    "sector": "Financials",
+    "country": "Italy",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RBCFT",
+    "name": "CASH COLLATERAL JPY RBCFT",
+    "sector": "Cash and/or Derivatives",
+    "country": "Japan",
+    "weight": 0.01
+  },
+  {
+    "ticker": "SGD",
+    "name": "SGD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Singapore",
+    "weight": 0.01
+  },
+  {
+    "ticker": "HKD",
+    "name": "HKD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Hong Kong",
+    "weight": 0.01
+  },
+  {
+    "ticker": "RBCFT",
+    "name": "CASH COLLATERAL AUD RBCFT",
+    "sector": "Cash and/or Derivatives",
+    "country": "Australia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NOK",
+    "name": "NOK CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Norway",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ILS",
+    "name": "ILS CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "Israel",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NZD",
+    "name": "NZD CASH",
+    "sector": "Cash and/or Derivatives",
+    "country": "New Zealand",
+    "weight": 0.0
+  },
+  {
+    "ticker": "XTSLA",
+    "name": "BLK CSH FND TREASURY SL AGENCY",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_USD",
+    "name": "ETD USD BALANCE WITH R73215",
+    "sector": "Cash and/or Derivatives",
+    "country": "United States",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_AUD",
+    "name": "ETD AUD BALANCE WITH R73215",
+    "sector": "Cash and/or Derivatives",
+    "country": "Australia",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_EUR",
+    "name": "ETD EUR BALANCE WITH R73215",
+    "sector": "Cash and/or Derivatives",
+    "country": "European Union",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ETD_JPY",
+    "name": "ETD JPY BALANCE WITH R73215",
+    "sector": "Cash and/or Derivatives",
+    "country": "Japan",
+    "weight": 0.0
+  },
+  {
+    "ticker": "ISCD",
+    "name": "ISRACARD LTD",
+    "sector": "Financials",
+    "country": "Israel",
+    "weight": 0.0
+  },
+  {
+    "ticker": "NMC",
+    "name": "NMC HEALTH PLC",
+    "sector": "Health Care",
+    "country": "United Kingdom",
+    "weight": 0.0
+  },
+  {
+    "ticker": "XPZ5",
+    "name": "SPI 200 DEC 25",
+    "sector": "Cash and/or Derivatives",
+    "country": "-",
+    "weight": 0.0
+  },
+  {
+    "ticker": "TPZ5",
+    "name": "TOPIX INDEX DEC 25",
+    "sector": "Cash and/or Derivatives",
+    "country": "-",
+    "weight": 0.0
+  },
+  {
+    "ticker": "SXOZ5",
+    "name": "STOXX EUROPE 600 DEC 25",
+    "sector": "Cash and/or Derivatives",
+    "country": "European Union",
+    "weight": 0.0
+  },
+  {
+    "ticker": "\u00a0",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  },
+  {
+    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
+    "name": NaN,
+    "sector": NaN,
+    "country": NaN,
+    "weight": 0.0
+  }
+]
