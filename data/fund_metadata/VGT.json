@@ -1,0 +1,33 @@
+{
+  "ticker": "VGT",
+  "holdings_count": 313,
+  "total_weight": 99.45,
+  "sector_allocation": {
+    "Information Technology": 98.26,
+    "Industrials": 1.04,
+    "Communication Services": 0.44,
+    "Consumer Discretionary": 0.11,
+    "Unknown": 0.08,
+    "Health Care": 0.03,
+    "Energy": 0.02,
+    "Financials": 0.02,
+    "Materials": 0.0
+  },
+  "country_allocation": {
+    "United States": 98.61,
+    "Norway": 0.4,
+    "India": 0.17,
+    "United Kingdom": 0.17,
+    "Italy": 0.16,
+    "Canada": 0.12,
+    "Australia": 0.08,
+    "Sweden": 0.08,
+    "Poland": 0.08,
+    "France": 0.04,
+    "Philippines": 0.03,
+    "Switzerland": 0.03,
+    "Netherlands": 0.02
+  },
+  "sector_coverage_pct": 99.92,
+  "country_coverage_pct": 100
+}

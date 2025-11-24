@@ -31,7 +31,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GOOGL",
     "name": "ALPHABET INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 2.58
   },
@@ -45,14 +45,14 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GOOG",
     "name": "ALPHABET INC CLASS C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 2.08
   },
   {
     "ticker": "META",
     "name": "META PLATFORMS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 2.02
   },
@@ -101,7 +101,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NFLX",
     "name": "NETFLIX INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.76
   },
@@ -332,7 +332,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "DIS",
     "name": "WALT DISNEY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.3
   },
@@ -360,7 +360,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "T",
     "name": "AT&T INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.29
   },
@@ -402,7 +402,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "VZ",
     "name": "VERIZON COMMUNICATIONS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.27
   },
@@ -703,7 +703,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TMUS",
     "name": "T MOBILE US INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.16
   },
@@ -724,7 +724,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CMCSA",
     "name": "COMCAST CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.16
   },
@@ -1074,7 +1074,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "RBLX",
     "name": "ROBLOX CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.1
   },
@@ -1256,7 +1256,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "WBD",
     "name": "WARNER BROS. DISCOVERY INC SERIES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.09
   },
@@ -1557,7 +1557,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "EA",
     "name": "ELECTRONIC ARTS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.07
   },
@@ -1669,7 +1669,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TTWO",
     "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.06
   },
@@ -2523,7 +2523,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "RDDT",
     "name": "REDDIT INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.04
   },
@@ -2670,7 +2670,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FWONK",
     "name": "LIBERTY MEDIA FORMULA ONE SERIES C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -2747,7 +2747,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LYV",
     "name": "LIVE NATION ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -2929,7 +2929,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CHTR",
     "name": "CHARTER COMMUNICATIONS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -2985,7 +2985,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TTD",
     "name": "TRADE DESK INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -3370,7 +3370,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "PINS",
     "name": "PINTEREST INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -3461,7 +3461,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FOXA",
     "name": "FOX CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -3496,7 +3496,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "OMC",
     "name": "OMNICOM GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -3573,7 +3573,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ASTS",
     "name": "AST SPACEMOBILE INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -3734,7 +3734,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TKO",
     "name": "TKO GROUP HOLDINGS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -3762,7 +3762,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ROKU",
     "name": "ROKU INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -4301,7 +4301,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NYT",
     "name": "NEW YORK TIMES CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -4469,7 +4469,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FYBR",
     "name": "FRONTIER COMMUNICATIONS PARENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -4483,7 +4483,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NWSA",
     "name": "NEWS CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -4553,7 +4553,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SATS",
     "name": "ECHOSTAR CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -4623,7 +4623,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IPG",
     "name": "INTERPUBLIC GROUP OF COMPANIES INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -4679,7 +4679,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SNAP",
     "name": "SNAP INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -4770,7 +4770,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FOX",
     "name": "FOX CORP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -5043,7 +5043,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MTCH",
     "name": "MATCH GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -5225,7 +5225,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LUMN",
     "name": "LUMEN TECHNOLOGIES INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -6324,7 +6324,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LBRDK",
     "name": "LIBERTY BROADBAND CORP SERIES C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -6401,7 +6401,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NXST",
     "name": "NEXSTAR MEDIA GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -6499,7 +6499,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "PSKY",
     "name": "PARAMOUNT SKYDANCE CORP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -7080,7 +7080,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "WMG",
     "name": "WARNER MUSIC GROUP CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -7332,7 +7332,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SIRI",
     "name": "SIRIUSXM HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -7451,7 +7451,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MSGS",
     "name": "MADISON SQUARE GARDEN SPORTS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -7619,7 +7619,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LLYVK",
     "name": "LIBERTY MEDIA LIBERTY LIVE SERIES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -7668,7 +7668,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TDS",
     "name": "TELEPHONE AND DATA SYSTEMS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -8130,7 +8130,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NWS",
     "name": "NEWS CORP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -8242,7 +8242,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TGNA",
     "name": "TEGNA INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.01
   },
@@ -8291,7 +8291,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CARG",
     "name": "CARGURUS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -8417,7 +8417,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CNK",
     "name": "CINEMARK HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -8473,7 +8473,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GSAT",
     "name": "GLOBALSTAR VOTING INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -8865,7 +8865,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GTM",
     "name": "ZOOMINFO TECHNOLOGIES INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -9096,7 +9096,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FWONA",
     "name": "LIBERTY MEDIA FORMULA ONE SERIES A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -9397,7 +9397,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IAC",
     "name": "IAC INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -9740,7 +9740,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MSGE",
     "name": "MADISON SQUARE GARDEN ENTERTAINMEN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -9908,7 +9908,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LBTYK",
     "name": "LIBERTY GLOBAL LTD CLASS C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -9971,7 +9971,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LLYVA",
     "name": "LIBERTY MEDIA LIBERTY LIVE SERIES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10041,7 +10041,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MGNI",
     "name": "MAGNITE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10083,7 +10083,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SPHR",
     "name": "SPHERE ENTERTAINMENT CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10181,7 +10181,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "BATRK",
     "name": "ATLANTA BRAVES HOLDINGS INC SERIES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10258,7 +10258,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IRDM",
     "name": "IRIDIUM COMMUNICATIONS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10454,7 +10454,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "DJT",
     "name": "TRUMP MEDIA TECHNOLOGY GROUP CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10622,7 +10622,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "YELP",
     "name": "YELP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -10944,7 +10944,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LBTYA",
     "name": "LIBERTY GLOBAL LTD CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -11189,7 +11189,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "DV",
     "name": "DOUBLEVERIFY HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -11308,7 +11308,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "WLY",
     "name": "JOHN WILEY AND SONS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -11434,7 +11434,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ZD",
     "name": "ZIFF DAVIS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -11448,7 +11448,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LION",
     "name": "LIONSGATE STUDIOS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -11616,7 +11616,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "FUBO",
     "name": "FUBOTV INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12225,7 +12225,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "AMC",
     "name": "AMC ENTERTAINMENT HOLDINGS INC CLA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12309,7 +12309,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "VMEO",
     "name": "VIMEO INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12617,7 +12617,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CCOI",
     "name": "COGENT COMMUNICATIONS HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12715,7 +12715,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IDT",
     "name": "IDT CORP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12918,7 +12918,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LILAK",
     "name": "LIBERTY LATIN AMERICA LTD CLASS C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -12967,7 +12967,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "UNIT",
     "name": "UNITI GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13002,7 +13002,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IAS",
     "name": "INTEGRAL AD SCIENCE HOLDING CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13492,14 +13492,14 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "QNST",
     "name": "QUINSTREET INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "SCHL",
     "name": "SCHOLASTIC CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13590,7 +13590,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LBRDA",
     "name": "LIBERTY BROADBAND CORP SERIES A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13646,7 +13646,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CARS",
     "name": "CARS.COM INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13800,7 +13800,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GRND",
     "name": "GRINDR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13849,7 +13849,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GLIBK",
     "name": "GCI LIBERTY INC SERIES C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -13905,7 +13905,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NIQ",
     "name": "NIQ GLOBAL INTELLIGENCE PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14031,7 +14031,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CCO",
     "name": "CLEAR CHANNEL OUTDOOR HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14073,7 +14073,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SBGI",
     "name": "SINCLAIR INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14332,7 +14332,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "EVER",
     "name": "EVERQUOTE INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14507,7 +14507,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "AD",
     "name": "ARRAY DIGITAL INFRASTRUCTURE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14682,7 +14682,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TDAY",
     "name": "USA TODAY INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -14871,7 +14871,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "RUM",
     "name": "RUMBLE INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15039,7 +15039,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "CABO",
     "name": "CABLE ONE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15102,7 +15102,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SHEN",
     "name": "SHENANDOAH TELECOMMUNICATIONS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15116,7 +15116,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "BOC",
     "name": "BOSTON OMAHA CORP CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15186,7 +15186,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "STGW",
     "name": "STAGWELL INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15375,7 +15375,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "BATRA",
     "name": "ATLANTA BRAVES HOLDINGS INC SERIES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15473,7 +15473,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ATUS",
     "name": "ALTICE USA INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15515,7 +15515,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "PLTK",
     "name": "PLAYTIKA HOLDING CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15564,7 +15564,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SSTK",
     "name": "SHUTTERSTOCK INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15683,7 +15683,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GOGO",
     "name": "GOGO INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15851,7 +15851,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MCS",
     "name": "THE MARCUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15893,7 +15893,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NCMI",
     "name": "NATIONAL CINEMEDIA INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15914,7 +15914,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ATEX",
     "name": "ANTERIX INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15949,14 +15949,14 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "LILA",
     "name": "LIBERTY LATIN AMERICA LTD CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "PUBM",
     "name": "PUBMATIC INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -15991,7 +15991,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "NXDR",
     "name": "NEXTDOOR HOLDINGS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16103,7 +16103,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "BMBL",
     "name": "BUMBLE INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16124,7 +16124,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ANGI",
     "name": "ANGI INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16145,7 +16145,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GTN",
     "name": "GRAY MEDIA INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16313,7 +16313,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "WOW",
     "name": "WIDEOPENWEST INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16418,7 +16418,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "BAND",
     "name": "BANDWIDTH INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16439,7 +16439,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ZIP",
     "name": "ZIPRECRUITER INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16453,7 +16453,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "ATNI",
     "name": "ATN INTERNATIONAL INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16467,7 +16467,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "THRY",
     "name": "THRYV HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16852,7 +16852,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "EB",
     "name": "EVENTBRITE CLASS A INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -16957,7 +16957,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "IBTA",
     "name": "IBOTTA INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17076,7 +17076,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "STRZ",
     "name": "STARZ ENTERTAINMENT CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17153,7 +17153,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "TTGT",
     "name": "TECHTARGET INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17167,7 +17167,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "GLIBA",
     "name": "GCI LIBERTY INC SERIES A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17258,7 +17258,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "SEAT",
     "name": "VIVID SEATS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17349,7 +17349,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "-",
     "name": "ESC GCI LIBERTY INC SR ESCROW",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17433,7 +17433,7 @@ window.ETF_HOLDINGS['ITOT'] = [
   {
     "ticker": "MAX",
     "name": "MEDIAALPHA INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -17532,21 +17532,7 @@ window.ETF_HOLDINGS['ITOT'] = [
     "ticker": "ESZ5",
     "name": "S&P500 EMINI DEC 25",
     "sector": "Cash and/or Derivatives",
-    "country": "-",
-    "weight": 0.0
-  },
-  {
-    "ticker": "\u00a0",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
-  },
-  {
-    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
+    "country": "Unknown",
     "weight": 0.0
   }
 ];

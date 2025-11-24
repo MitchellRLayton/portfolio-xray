@@ -10,7 +10,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "700",
     "name": "TENCENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 4.5
   },
@@ -101,7 +101,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "BHARTIARTL",
     "name": "BHARTI AIRTEL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.55
   },
@@ -164,7 +164,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "9999",
     "name": "NETEASE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.42
   },
@@ -269,7 +269,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "9888",
     "name": "BAIDU CLASS A INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.27
   },
@@ -360,7 +360,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "035420",
     "name": "NAVER CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.21
   },
@@ -409,7 +409,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "7010",
     "name": "SAUDI TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.2
   },
@@ -486,7 +486,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "1024",
     "name": "KUAISHOU TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.19
   },
@@ -521,7 +521,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "AMXB",
     "name": "AMERICA MOVIL B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.18
   },
@@ -626,7 +626,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "EAND",
     "name": "EMIRATES TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Arab Emirates",
     "weight": 0.15
   },
@@ -675,7 +675,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MTN",
     "name": "MTN GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.15
   },
@@ -724,7 +724,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "2412",
     "name": "CHUNGHWA TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.14
   },
@@ -1060,7 +1060,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "035720",
     "name": "KAKAO CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.11
   },
@@ -1207,14 +1207,14 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ADVANC.R",
     "name": "ADVANCED INFO SERVICE NON-VOTING D",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.1
   },
   {
     "ticker": "TME",
     "name": "TENCENT MUSIC ENTERTAINMENT GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.1
   },
@@ -1228,7 +1228,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TLKM",
     "name": "TELEKOMUNIKASI INDONESIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.09
   },
@@ -2061,7 +2061,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "7020",
     "name": "ETIHAD ETISALAT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.06
   },
@@ -2110,7 +2110,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "788",
     "name": "CHINA TOWER CORP LTD H",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.06
   },
@@ -2264,7 +2264,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "9626",
     "name": "BILIBILI INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.05
   },
@@ -2306,7 +2306,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "INDUSTOWER",
     "name": "INDUS TOWERS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.05
   },
@@ -2348,7 +2348,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "3045",
     "name": "TAIWAN MOBILE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.05
   },
@@ -2397,7 +2397,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "NAUKRI",
     "name": "INFO EDGE INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.05
   },
@@ -2614,7 +2614,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "3293",
     "name": "INTERNATIONAL GAMES SYSTEM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.05
   },
@@ -2747,7 +2747,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "4904",
     "name": "FAR EASTONE TELECOMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.04
   },
@@ -2761,7 +2761,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "VIVT3",
     "name": "TELEFONICA BRASIL SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.04
   },
@@ -2796,7 +2796,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "259960",
     "name": "KRAFTON INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.04
   },
@@ -2852,7 +2852,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "VOD",
     "name": "VODACOM GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.04
   },
@@ -3111,7 +3111,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "352820",
     "name": "HYBE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.04
   },
@@ -3440,7 +3440,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "CDR",
     "name": "CD PROJEKT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.04
   },
@@ -3629,7 +3629,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "3888",
     "name": "KINGSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.03
   },
@@ -3734,7 +3734,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TRUE.R",
     "name": "TRUE CORPORATION NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.03
   },
@@ -3867,7 +3867,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TIMS3",
     "name": "TIM SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.03
   },
@@ -3923,7 +3923,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "1357",
     "name": "MEITU INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.03
   },
@@ -4210,7 +4210,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "IDEA",
     "name": "VODAFONE IDEA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.03
   },
@@ -4259,7 +4259,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ZAIN",
     "name": "MOBILE TEL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Kuwait",
     "weight": 0.03
   },
@@ -4511,7 +4511,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "CDB",
     "name": "CELCOMDIGI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.03
   },
@@ -4574,7 +4574,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "HTO",
     "name": "HELLENIC TELECOMMUNICATIONS ORGANI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Greece",
     "weight": 0.03
   },
@@ -4742,7 +4742,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ORDS",
     "name": "OOREDOO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.02
   },
@@ -4868,7 +4868,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TCELL.E",
     "name": "TURKCELL ILETISIM HIZMETLERI A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Turkey",
     "weight": 0.02
   },
@@ -4889,7 +4889,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "2400",
     "name": "XD INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -5225,7 +5225,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "136",
     "name": "CHINA RUYI HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -5260,7 +5260,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TATACOMM",
     "name": "TATA COMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.02
   },
@@ -5295,7 +5295,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MAXIS",
     "name": "MAXIS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.02
   },
@@ -5372,7 +5372,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "9899",
     "name": "NETEASE CLOUD MUSIC INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -5722,7 +5722,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "032640",
     "name": "LG UPLUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.02
   },
@@ -5736,7 +5736,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MTELEKOM",
     "name": "MAGYAR TELEKOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hungary",
     "weight": 0.02
   },
@@ -5806,7 +5806,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TM",
     "name": "TELEKOM MALAYSIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.02
   },
@@ -6128,7 +6128,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "VFQS",
     "name": "VODAFONE QATAR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.02
   },
@@ -6184,7 +6184,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "036570",
     "name": "NCSOFT CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.02
   },
@@ -6359,7 +6359,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "772",
     "name": "CHINA LITERATURE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -6422,7 +6422,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "AXIATA",
     "name": "AXIATA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.02
   },
@@ -6807,7 +6807,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "JOYY",
     "name": "JOYY ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -6912,14 +6912,14 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "4210",
     "name": "SAUDI RESEARCH AND MEDIA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "TIMECOM",
     "name": "TIME DOTCOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -6975,7 +6975,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TEL",
     "name": "PLDT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.01
   },
@@ -7283,14 +7283,14 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "OPL",
     "name": "ORANGE POLSKA SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.01
   },
   {
     "ticker": "AFFLE",
     "name": "AFFLE 3I LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -7430,7 +7430,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "017670",
     "name": "SK TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -7682,7 +7682,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ATHM",
     "name": "AUTOHOME ADS REPRESENTING INC CLA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -7864,7 +7864,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "1060",
     "name": "DAMAI ENTERTAINMENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -8158,7 +8158,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TLEVISACPO",
     "name": "GRUPO TELEVISA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.01
   },
@@ -8270,7 +8270,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "035900",
     "name": "JYP ENTERTAINMENT CORPORATION CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -8368,7 +8368,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "7030",
     "name": "MOBILE TELECOMMUNICATIONS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.01
   },
@@ -8459,7 +8459,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "600050",
     "name": "CHINA UNITED NETWORK COMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -9397,7 +9397,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "SITES1A.1",
     "name": "OPERADORA DE SITES MEXICANOSD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.01
   },
@@ -9495,7 +9495,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TKG",
     "name": "TELKOM SOC LTD SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.01
   },
@@ -9971,7 +9971,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ENTEL",
     "name": "EMPRESA NACIONAL DE TELECOMUNICACI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Chile",
     "weight": 0.01
   },
@@ -10125,7 +10125,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "002027",
     "name": "FOCUS MEDIA INFORMATION TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10230,7 +10230,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "PVRINOX",
     "name": "PVR INOX LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -10328,7 +10328,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "IQ",
     "name": "IQIYI ADS REPRESENTING CLASS A IN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10377,7 +10377,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "251270",
     "name": "NETMARBLE CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -10762,7 +10762,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MOMO",
     "name": "HELLO GROUP ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10881,7 +10881,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "CPS",
     "name": "CYFROWY POLSAT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.01
   },
@@ -11021,7 +11021,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ZEEL",
     "name": "ZEE ENTERTAINMENT ENTERPRISES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -11119,7 +11119,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "263750",
     "name": "PEARLABYSS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -11287,7 +11287,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "030000",
     "name": "CHEIL WORLDWIDE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -11679,7 +11679,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "041510",
     "name": "SM ENTERTAINMENT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -11749,7 +11749,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "WB",
     "name": "WEIBO ADR REPRESENTING CLASS A CO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -12246,7 +12246,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "EXCL",
     "name": "XLSMART TELECOM SEJAHTERA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.01
   },
@@ -12309,7 +12309,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "SUNTV",
     "name": "SUN TV NETWORK LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -12337,7 +12337,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "300418",
     "name": "KUNLUN TECH LTD A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -12407,7 +12407,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "NAZARA",
     "name": "NAZARA TECHNOLOGIES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -12477,7 +12477,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TOWR",
     "name": "SARANA MENARA NUSANTARA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.01
   },
@@ -12491,7 +12491,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MEGACPO",
     "name": "MEGACABLE HOLDINGS CPO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.01
   },
@@ -12701,7 +12701,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "HFCL",
     "name": "HFCL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -13163,7 +13163,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "9911",
     "name": "NEWBORN TOWN INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -14423,7 +14423,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "ETEL",
     "name": "TELECOM EGYPT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Egypt",
     "weight": 0.01
   },
@@ -14472,7 +14472,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "SPACE42",
     "name": "SPACE42 PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Arab Emirates",
     "weight": 0.01
   },
@@ -14507,7 +14507,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "4071",
     "name": "ARABIAN CONTRACTING SERVICES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.01
   },
@@ -14556,7 +14556,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "122870",
     "name": "YG ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -14584,7 +14584,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "RAILTEL",
     "name": "RAILTEL CORP OF INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -15151,7 +15151,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "7040",
     "name": "ETIHAD ATHEEB TELECOMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
@@ -15277,7 +15277,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "CNVRG",
     "name": "CONVERGE INFORMATION & COMMUNICATI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.0
   },
@@ -15403,7 +15403,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "1896",
     "name": "MAOYAN ENTERTAINMENT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -15536,7 +15536,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "300413",
     "name": "MANGO EXCELLENT MEDIA LTD A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -15564,7 +15564,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "035760",
     "name": "CJ ENM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -15662,7 +15662,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "777",
     "name": "NETDRAGON WEBSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -15802,7 +15802,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "002555",
     "name": "37 INTERACTIVE ENTERTAINMENT NETWO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -15837,7 +15837,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "PLANB.R",
     "name": "PLAN B MEDIA PCL NON-VOTING DR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.0
   },
@@ -15977,7 +15977,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "300251",
     "name": "BEIJING ENLIGHT MEDIA LTD A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -16033,7 +16033,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "293490",
     "name": "KAKAO GAMES CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -16369,7 +16369,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "067160",
     "name": "SOOP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -16411,7 +16411,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "VGI.R",
     "name": "VGI NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.0
   },
@@ -16432,7 +16432,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "6561",
     "name": "CHIEF TELECOM INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.0
   },
@@ -16670,7 +16670,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "SAREGAMA",
     "name": "SAREGAMA INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -16831,7 +16831,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "TTML",
     "name": "TATA TELESERVICES MAHARASHTRA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -16887,7 +16887,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "253450",
     "name": "STUDIO DRAGON CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -16999,7 +16999,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "JUSTDIAL",
     "name": "JUST DIAL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -17027,7 +17027,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "112040",
     "name": "WEM ADE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -17643,7 +17643,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "079160",
     "name": "CJ CGV LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -17755,7 +17755,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "NETWORK18",
     "name": "NETWORK18 MEDIA AND INVESTMENTS LT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -17776,7 +17776,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "225570",
     "name": "NEXON GAMES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -17839,7 +17839,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "601928",
     "name": "JIANGSU PHOENIX PUBLISHING&MEDIA C",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -18021,7 +18021,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "214320",
     "name": "INNOCEAN WORLDWIDE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -18189,7 +18189,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "376300",
     "name": "DEAR U LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -18252,7 +18252,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "5478",
     "name": "SOFT-WORLD INTERNATIONAL CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.0
   },
@@ -18364,7 +18364,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "JTS.R",
     "name": "JASMINE TECHNOLOGY SOLUTION NON-VO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.0
   },
@@ -18672,7 +18672,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "053320",
     "name": "TERA RESOURCE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -18700,7 +18700,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "3662",
     "name": "XPEC ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.0
   },
@@ -18833,7 +18833,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "198",
     "name": "SMI HOLDINGS GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -18882,7 +18882,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "VKCO",
     "name": "VK COMPANY LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -18924,7 +18924,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "MTSS",
     "name": "MOBILNYE TELESISTEMY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -18966,7 +18966,7 @@ window.ETF_HOLDINGS['IEMG'] = [
   {
     "ticker": "AFKS",
     "name": "AFK SISTEMA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -24352,19 +24352,5 @@ window.ETF_HOLDINGS['IEMG'] = [
     "sector": "Cash and/or Derivatives",
     "country": "United States",
     "weight": -0.08
-  },
-  {
-    "ticker": "\u00a0",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
-  },
-  {
-    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
   }
 ];

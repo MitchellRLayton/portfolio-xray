@@ -1,0 +1,22 @@
+{
+  "ticker": "XLF",
+  "holdings_count": 164,
+  "total_weight": 99.91,
+  "sector_allocation": {
+    "Financials": 99.35,
+    "Consumer Staples": 0.24,
+    "Energy": 0.22,
+    "Unknown": 0.1,
+    "Consumer Discretionary": 0.09,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 97.25,
+    "Australia": 1.9,
+    "Canada": 0.46,
+    "France": 0.29,
+    "Unknown": 0.1
+  },
+  "sector_coverage_pct": 99.9,
+  "country_coverage_pct": 99.9
+}

@@ -1,0 +1,39 @@
+{
+  "ticker": "VO",
+  "holdings_count": 290,
+  "total_weight": 99.83,
+  "sector_allocation": {
+    "Industrials": 17.51,
+    "Financials": 14.08,
+    "Information Technology": 12.34,
+    "Consumer Discretionary": 10.7,
+    "Utilities": 8.96,
+    "Health Care": 8.16,
+    "Energy": 7.12,
+    "Real Estate": 5.92,
+    "Consumer Staples": 5.28,
+    "Materials": 4.99,
+    "Communication Services": 4.62,
+    "Unknown": 0.32
+  },
+  "country_allocation": {
+    "United States": 90.06,
+    "Australia": 1.63,
+    "Germany": 1.39,
+    "Canada": 1.22,
+    "United Kingdom": 1.06,
+    "Italy": 1.05,
+    "Norway": 0.81,
+    "France": 0.71,
+    "India": 0.57,
+    "Kuwait": 0.33,
+    "Poland": 0.28,
+    "Spain": 0.26,
+    "Indonesia": 0.19,
+    "Sweden": 0.19,
+    "South Africa": 0.18,
+    "Greece": 0.05
+  },
+  "sector_coverage_pct": 99.68,
+  "country_coverage_pct": 100
+}

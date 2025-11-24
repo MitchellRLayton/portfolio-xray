@@ -1,0 +1,20 @@
+{
+  "ticker": "XLRE",
+  "holdings_count": 119,
+  "total_weight": 99.91,
+  "sector_allocation": {
+    "Real Estate": 98.68,
+    "Industrials": 1.29,
+    "Unknown": 0.03,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 97.85,
+    "Austria": 1.29,
+    "Canada": 0.83,
+    "Unknown": 0.03,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.97,
+  "country_coverage_pct": 99.97
+}

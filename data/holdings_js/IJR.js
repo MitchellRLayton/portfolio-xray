@@ -157,7 +157,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "LUMN",
     "name": "LUMEN TECHNOLOGIES INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.43
   },
@@ -661,7 +661,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "MSGS",
     "name": "MADISON SQUARE GARDEN SPORTS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.27
   },
@@ -696,7 +696,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "TDS",
     "name": "TELEPHONE AND DATA SYSTEMS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.27
   },
@@ -969,7 +969,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "TGNA",
     "name": "TEGNA INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.23
   },
@@ -1032,7 +1032,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "CNK",
     "name": "CINEMARK HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.22
   },
@@ -1144,7 +1144,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "CARG",
     "name": "CARGURUS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.21
   },
@@ -1732,7 +1732,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "IAC",
     "name": "IAC INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.16
   },
@@ -2264,7 +2264,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "YELP",
     "name": "YELP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.12
   },
@@ -2635,7 +2635,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "DV",
     "name": "DOUBLEVERIFY HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.1
   },
@@ -2670,7 +2670,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "WLY",
     "name": "JOHN WILEY AND SONS INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.1
   },
@@ -2929,7 +2929,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "ZD",
     "name": "ZIFF DAVIS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.09
   },
@@ -3111,7 +3111,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "UNIT",
     "name": "UNITI GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.08
   },
@@ -3181,7 +3181,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "LUMN",
     "name": "LUMEN TECHNOLOGIES INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.0
   },
@@ -3363,7 +3363,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "CCOI",
     "name": "COGENT COMMUNICATIONS HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.07
   },
@@ -3664,7 +3664,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "QNST",
     "name": "QUINSTREET INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.05
   },
@@ -3818,7 +3818,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "CARS",
     "name": "CARS.COM INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.05
   },
@@ -3839,7 +3839,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "SCHL",
     "name": "SCHOLASTIC CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.05
   },
@@ -4056,7 +4056,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "GOGO",
     "name": "GOGO INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.04
   },
@@ -4084,7 +4084,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "SSTK",
     "name": "SHUTTERSTOCK INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.04
   },
@@ -4133,7 +4133,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "CABO",
     "name": "CABLE ONE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -4168,7 +4168,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "SHEN",
     "name": "SHENANDOAH TELECOMMUNICATIONS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -4224,7 +4224,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "ANGI",
     "name": "ANGI INC CLASS A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.03
   },
@@ -4343,7 +4343,7 @@ window.ETF_HOLDINGS['IJR'] = [
   {
     "ticker": "THRY",
     "name": "THRYV HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United States",
     "weight": 0.02
   },
@@ -4465,19 +4465,5 @@ window.ETF_HOLDINGS['IJR'] = [
     "sector": "Cash and/or Derivatives",
     "country": "United States",
     "weight": 0.09
-  },
-  {
-    "ticker": "\u00a0",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
-  },
-  {
-    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
   }
 ];

@@ -1,0 +1,26 @@
+{
+  "ticker": "IJR",
+  "holdings_count": 638,
+  "total_weight": 100.0,
+  "sector_allocation": {
+    "Financials": 17.16,
+    "Industrials": 16.58,
+    "Information Technology": 15.99,
+    "Consumer Discretionary": 12.93,
+    "Health Care": 11.35,
+    "Real Estate": 7.24,
+    "Materials": 5.26,
+    "Energy": 4.64,
+    "Communication Services": 2.69,
+    "Consumer Staples": 2.48,
+    "Utilities": 2.28,
+    "Cash and/or Derivatives": 1.4
+  },
+  "country_allocation": {
+    "United States": 99.99,
+    "France": 0.01,
+    "-": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100
+}

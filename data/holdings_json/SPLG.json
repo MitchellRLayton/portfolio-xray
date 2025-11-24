@@ -2,4152 +2,4152 @@
   {
     "ticker": "NVDA",
     "name": "NVIDIA CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 8.582689
   },
   {
     "ticker": "MSFT",
     "name": "MICROSOFT CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 6.838996
   },
   {
     "ticker": "AAPL",
     "name": "APPLE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 6.799955
   },
   {
     "ticker": "AMZN",
     "name": "AMAZON.COM INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 3.7973
   },
   {
     "ticker": "AVGO",
     "name": "BROADCOM INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 3.084373
   },
   {
     "ticker": "META",
     "name": "META PLATFORMS INC CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 2.769895
   },
   {
     "ticker": "GOOGL",
     "name": "ALPHABET INC CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 2.713416
   },
   {
     "ticker": "TSLA",
     "name": "TESLA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 2.200073
   },
   {
     "ticker": "GOOG",
     "name": "ALPHABET INC CL C",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 2.183057
   },
   {
     "ticker": "BRK.B",
     "name": "BERKSHIRE HATHAWAY INC CL B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 1.48208
   },
   {
     "ticker": "JPM",
     "name": "JPMORGAN CHASE + CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 1.427216
   },
   {
     "ticker": "LLY",
     "name": "ELI LILLY + CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 1.098864
   },
   {
     "ticker": "V",
     "name": "VISA INC CLASS A SHARES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.9848
   },
   {
     "ticker": "XOM",
     "name": "EXXON MOBIL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.84333
   },
   {
     "ticker": "NFLX",
     "name": "NETFLIX INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.794262
   },
   {
     "ticker": "MA",
     "name": "MASTERCARD INC   A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.777657
   },
   {
     "ticker": "ORCL",
     "name": "ORACLE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.774985
   },
   {
     "ticker": "PLTR",
     "name": "PALANTIR TECHNOLOGIES INC A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.768133
   },
   {
     "ticker": "WMT",
     "name": "WALMART INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.764058
   },
   {
     "ticker": "JNJ",
     "name": "JOHNSON + JOHNSON",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.763421
   },
   {
     "ticker": "AMD",
     "name": "ADVANCED MICRO DEVICES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.728803
   },
   {
     "ticker": "COST",
     "name": "COSTCO WHOLESALE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.687488
   },
   {
     "ticker": "ABBV",
     "name": "ABBVIE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.67571
   },
   {
     "ticker": "HD",
     "name": "HOME DEPOT INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.639008
   },
   {
     "ticker": "BAC",
     "name": "BANK OF AMERICA CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.608614
   },
   {
     "ticker": "PG",
     "name": "PROCTER + GAMBLE CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.591969
   },
   {
     "ticker": "GE",
     "name": "GENERAL ELECTRIC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.566263
   },
   {
     "ticker": "UNH",
     "name": "UNITEDHEALTH GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.5465
   },
   {
     "ticker": "CVX",
     "name": "CHEVRON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.506979
   },
   {
     "ticker": "IBM",
     "name": "INTL BUSINESS MACHINES CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.48763
   },
   {
     "ticker": "CSCO",
     "name": "CISCO SYSTEMS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.47986
   },
   {
     "ticker": "WFC",
     "name": "WELLS FARGO + CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.468017
   },
   {
     "ticker": "CAT",
     "name": "CATERPILLAR INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.46602
   },
   {
     "ticker": "KO",
     "name": "COCA COLA CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.4498
   },
   {
     "ticker": "MU",
     "name": "MICRON TECHNOLOGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.43077
   },
   {
     "ticker": "CRM",
     "name": "SALESFORCE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.408374
   },
   {
     "ticker": "GS",
     "name": "GOLDMAN SACHS GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.402814
   },
   {
     "ticker": "RTX",
     "name": "RTX CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.401034
   },
   {
     "ticker": "PM",
     "name": "PHILIP MORRIS INTERNATIONAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.388003
   },
   {
     "ticker": "ABT",
     "name": "ABBOTT LABORATORIES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.367864
   },
   {
     "ticker": "MRK",
     "name": "MERCK + CO. INC.",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "Germany",
     "weight": 0.367317
   },
   {
     "ticker": "MCD",
     "name": "MCDONALD S CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.36641
   },
   {
     "ticker": "TMO",
     "name": "THERMO FISHER SCIENTIFIC INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.358162
   },
   {
     "ticker": "LRCX",
     "name": "LAM RESEARCH CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.345358
   },
   {
     "ticker": "LIN",
     "name": "LINDE PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.344097
   },
   {
     "ticker": "PEP",
     "name": "PEPSICO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.339898
   },
   {
     "ticker": "UBER",
     "name": "UBER TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.339325
   },
   {
     "ticker": "MS",
     "name": "MORGAN STANLEY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.338057
   },
   {
     "ticker": "DIS",
     "name": "WALT DISNEY CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.336671
   },
   {
     "ticker": "AXP",
     "name": "AMERICAN EXPRESS CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.330382
   },
   {
     "ticker": "ISRG",
     "name": "INTUITIVE SURGICAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.327399
   },
   {
     "ticker": "QCOM",
     "name": "QUALCOMM INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.32724
   },
   {
     "ticker": "NOW",
     "name": "SERVICENOW INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.322025
   },
   {
     "ticker": "AMAT",
     "name": "APPLIED MATERIALS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.321469
   },
   {
     "ticker": "INTU",
     "name": "INTUIT INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.310926
   },
   {
     "ticker": "C",
     "name": "CITIGROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.309907
   },
   {
     "ticker": "INTC",
     "name": "INTEL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.307302
   },
   {
     "ticker": "T",
     "name": "AT+T INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "Canada",
     "weight": 0.30528
   },
   {
     "ticker": "APP",
     "name": "APPLOVIN CORP CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.290616
   },
   {
     "ticker": "APH",
     "name": "AMPHENOL CORP CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.289858
   },
   {
     "ticker": "VZ",
     "name": "VERIZON COMMUNICATIONS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.287948
   },
   {
     "ticker": "NEE",
     "name": "NEXTERA ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.285977
   },
   {
     "ticker": "ANET",
     "name": "ARISTA NETWORKS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.283703
   },
   {
     "ticker": "BKNG",
     "name": "BOOKING HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.279502
   },
   {
     "ticker": "KLAC",
     "name": "KLA CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.276798
   },
   {
     "ticker": "BA",
     "name": "BOEING CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.274348
   },
   {
     "ticker": "SCHW",
     "name": "SCHWAB (CHARLES) CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.274137
   },
   {
     "ticker": "BLK",
     "name": "BLACKROCK INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.268564
   },
   {
     "ticker": "TJX",
     "name": "TJX COMPANIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.26841
   },
   {
     "ticker": "GEV",
     "name": "GE VERNOVA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.267484
   },
   {
     "ticker": "AMGN",
     "name": "AMGEN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.266776
   },
   {
     "ticker": "ACN",
     "name": "ACCENTURE PLC CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.262058
   },
   {
     "ticker": "ETN",
     "name": "EATON CORP PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.256389
   },
   {
     "ticker": "BSX",
     "name": "BOSTON SCIENTIFIC CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.252532
   },
   {
     "ticker": "SPGI",
     "name": "S+P GLOBAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.251082
   },
   {
     "ticker": "GILD",
     "name": "GILEAD SCIENCES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.249722
   },
   {
     "ticker": "TXN",
     "name": "TEXAS INSTRUMENTS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.247463
   },
   {
     "ticker": "PANW",
     "name": "PALO ALTO NETWORKS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.246446
   },
   {
     "ticker": "ADBE",
     "name": "ADOBE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.243408
   },
   {
     "ticker": "COF",
     "name": "CAPITAL ONE FINANCIAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.237529
   },
   {
     "ticker": "PFE",
     "name": "PFIZER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.234557
   },
   {
     "ticker": "DHR",
     "name": "DANAHER CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.231614
   },
   {
     "ticker": "CRWD",
     "name": "CROWDSTRIKE HOLDINGS INC   A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.230926
   },
   {
     "ticker": "HON",
     "name": "HONEYWELL INTERNATIONAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.229543
   },
   {
     "ticker": "LOW",
     "name": "LOWE S COS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.227186
   },
   {
     "ticker": "UNP",
     "name": "UNION PACIFIC CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.217945
   },
   {
     "ticker": "SYK",
     "name": "STRYKER CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.216065
   },
   {
     "ticker": "CEG",
     "name": "CONSTELLATION ENERGY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.213085
   },
   {
     "ticker": "PGR",
     "name": "PROGRESSIVE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.207074
   },
   {
     "ticker": "DE",
     "name": "DEERE + CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.202478
   },
   {
     "ticker": "WELL",
     "name": "WELLTOWER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.201126
   },
   {
     "ticker": "MDT",
     "name": "MEDTRONIC PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.199713
   },
   {
     "ticker": "ADI",
     "name": "ANALOG DEVICES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.198121
   },
   {
     "ticker": "PLD",
     "name": "PROLOGIS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.194557
   },
   {
     "ticker": "HOOD",
     "name": "ROBINHOOD MARKETS INC   A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.190439
   },
   {
     "ticker": "COP",
     "name": "CONOCOPHILLIPS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Colombia",
     "weight": 0.186907
   },
   {
     "ticker": "BX",
     "name": "BLACKSTONE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.1864
   },
   {
     "ticker": "VRTX",
     "name": "VERTEX PHARMACEUTICALS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.18174
   },
   {
     "ticker": "ADP",
     "name": "AUTOMATIC DATA PROCESSING",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "France",
     "weight": 0.179737
   },
   {
     "ticker": "CMCSA",
     "name": "COMCAST CORP CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.178493
   },
   {
     "ticker": "MO",
     "name": "ALTRIA GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.176772
   },
   {
     "ticker": "TMUS",
     "name": "T MOBILE US INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.176725
   },
   {
     "ticker": "CB",
     "name": "CHUBB LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.175022
   },
   {
     "ticker": "SO",
     "name": "SOUTHERN CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.17467
   },
   {
     "ticker": "CVS",
     "name": "CVS HEALTH CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.173525
   },
   {
     "ticker": "MCK",
     "name": "MCKESSON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.17124
   },
   {
     "ticker": "LMT",
     "name": "LOCKHEED MARTIN CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.169436
   },
   {
     "ticker": "PH",
     "name": "PARKER HANNIFIN CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.168351
   },
   {
     "ticker": "DASH",
     "name": "DOORDASH INC   A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.167242
   },
   {
     "ticker": "DUK",
     "name": "DUKE ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.164128
   },
   {
     "ticker": "SBUX",
     "name": "STARBUCKS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.162586
   },
   {
     "ticker": "TT",
     "name": "TRANE TECHNOLOGIES PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.161517
   },
   {
     "ticker": "CME",
     "name": "CME GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.160047
   },
   {
     "ticker": "CDNS",
     "name": "CADENCE DESIGN SYS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.158045
   },
   {
     "ticker": "MMC",
     "name": "MARSH + MCLENNAN COS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.150273
   },
   {
     "ticker": "MMM",
     "name": "3M CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.14893
   },
   {
     "ticker": "NEM",
     "name": "NEWMONT CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "Germany",
     "weight": 0.14859
   },
   {
     "ticker": "GD",
     "name": "GENERAL DYNAMICS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.14729
   },
   {
     "ticker": "BMY",
     "name": "BRISTOL MYERS SQUIBB CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.147182
   },
   {
     "ticker": "ICE",
     "name": "INTERCONTINENTAL EXCHANGE IN",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.146502
   },
   {
     "ticker": "SNPS",
     "name": "SYNOPSYS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.143185
   },
   {
     "ticker": "AMT",
     "name": "AMERICAN TOWER CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.142488
   },
   {
     "ticker": "HWM",
     "name": "HOWMET AEROSPACE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.139363
   },
   {
     "ticker": "KKR",
     "name": "KKR + CO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.13804
   },
   {
     "ticker": "ORLY",
     "name": "O REILLY AUTOMOTIVE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.136291
   },
   {
     "ticker": "SHW",
     "name": "SHERWIN WILLIAMS CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.136261
   },
   {
     "ticker": "CI",
     "name": "THE CIGNA GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.135618
   },
   {
     "ticker": "COIN",
     "name": "COINBASE GLOBAL INC  CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.134027
   },
   {
     "ticker": "NOC",
     "name": "NORTHROP GRUMMAN CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.133709
   },
   {
     "ticker": "EQIX",
     "name": "EQUINIX INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.132793
   },
   {
     "ticker": "NKE",
     "name": "NIKE INC  CL B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.131829
   },
   {
     "ticker": "EMR",
     "name": "EMERSON ELECTRIC CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "Australia",
     "weight": 0.130414
   },
   {
     "ticker": "HCA",
     "name": "HCA HEALTHCARE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.130337
   },
   {
     "ticker": "ELV",
     "name": "ELEVANCE HEALTH INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.128548
   },
   {
     "ticker": "BK",
     "name": "BANK OF NEW YORK MELLON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.128207
   },
   {
     "ticker": "MDLZ",
     "name": "MONDELEZ INTERNATIONAL INC A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.12705
   },
   {
     "ticker": "TDG",
     "name": "TRANSDIGM GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.126238
   },
   {
     "ticker": "JCI",
     "name": "JOHNSON CONTROLS INTERNATION",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.125909
   },
   {
     "ticker": "WM",
     "name": "WASTE MANAGEMENT INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.124386
   },
   {
     "ticker": "MCO",
     "name": "MOODY S CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.123776
   },
   {
     "ticker": "USB",
     "name": "US BANCORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.123239
   },
   {
     "ticker": "MSI",
     "name": "MOTOROLA SOLUTIONS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.122371
   },
   {
     "ticker": "UPS",
     "name": "UNITED PARCEL SERVICE CL B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.121966
   },
   {
     "ticker": "PNC",
     "name": "PNC FINANCIAL SERVICES GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.121043
   },
   {
     "ticker": "TEL",
     "name": "TE CONNECTIVITY PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "Norway",
     "weight": 0.120888
   },
   {
     "ticker": "RCL",
     "name": "ROYAL CARIBBEAN CRUISES LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.120158
   },
   {
     "ticker": "GLW",
     "name": "CORNING INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.119508
   },
   {
     "ticker": "AON",
     "name": "AON PLC CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.119424
   },
   {
     "ticker": "WMB",
     "name": "WILLIAMS COS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.118104
   },
   {
     "ticker": "AJG",
     "name": "ARTHUR J GALLAGHER + CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.114154
   },
   {
     "ticker": "PWR",
     "name": "QUANTA SERVICES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.113605
   },
   {
     "ticker": "PYPL",
     "name": "PAYPAL HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.113041
   },
   {
     "ticker": "REGN",
     "name": "REGENERON PHARMACEUTICALS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.112873
   },
   {
     "ticker": "GM",
     "name": "GENERAL MOTORS CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.111861
   },
   {
     "ticker": "ECL",
     "name": "ECOLAB INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "Chile",
     "weight": 0.11183
   },
   {
     "ticker": "CSX",
     "name": "CSX CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.111743
   },
   {
     "ticker": "AEP",
     "name": "AMERICAN ELECTRIC POWER",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.110998
   },
   {
     "ticker": "COR",
     "name": "CENCORA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.109774
   },
   {
     "ticker": "ITW",
     "name": "ILLINOIS TOOL WORKS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.108968
   },
   {
     "ticker": "ZTS",
     "name": "ZOETIS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.108262
   },
   {
     "ticker": "ADSK",
     "name": "AUTODESK INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.108023
   },
   {
     "ticker": "VST",
     "name": "VISTRA CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.107806
   },
   {
     "ticker": "CTAS",
     "name": "CINTAS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.107021
   },
   {
     "ticker": "NSC",
     "name": "NORFOLK SOUTHERN CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.106577
   },
   {
     "ticker": "AZO",
     "name": "AUTOZONE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.105349
   },
   {
     "ticker": "HLT",
     "name": "HILTON WORLDWIDE HOLDINGS IN",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.104076
   },
   {
     "ticker": "CL",
     "name": "COLGATE PALMOLIVE CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.103924
   },
   {
     "ticker": "CMI",
     "name": "CUMMINS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.103215
   },
   {
     "ticker": "FCX",
     "name": "FREEPORT MCMORAN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.102808
   },
   {
     "ticker": "TRV",
     "name": "TRAVELERS COS INC/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.102433
   },
   {
     "ticker": "SRE",
     "name": "SEMPRA",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "Kuwait",
     "weight": 0.102116
   },
   {
     "ticker": "AXON",
     "name": "AXON ENTERPRISE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.101305
   },
   {
     "ticker": "MPC",
     "name": "MARATHON PETROLEUM CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.101028
   },
   {
     "ticker": "MAR",
     "name": "MARRIOTT INTERNATIONAL  CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.10068
   },
   {
     "ticker": "EOG",
     "name": "EOG RESOURCES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.098272
   },
   {
     "ticker": "APO",
     "name": "APOLLO GLOBAL MANAGEMENT INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.09762
   },
   {
     "ticker": "SPG",
     "name": "SIMON PROPERTY GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.096349
   },
   {
     "ticker": "STX",
     "name": "SEAGATE TECHNOLOGY HOLDINGS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.096326
   },
   {
     "ticker": "TFC",
     "name": "TRUIST FINANCIAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.096155
   },
   {
     "ticker": "URI",
     "name": "UNITED RENTALS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.095083
   },
   {
     "ticker": "-",
     "name": "SSI US GOV MONEY MARKET CLASS",
-    "sector": "-",
+    "sector": "Unknown",
     "country": "Unknown",
     "weight": 0.09499
   },
   {
     "ticker": "PSX",
     "name": "PHILLIPS 66",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.09469
   },
   {
     "ticker": "APD",
     "name": "AIR PRODUCTS + CHEMICALS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.093777
   },
   {
     "ticker": "SLB",
     "name": "SLB LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.093258
   },
   {
     "ticker": "FTNT",
     "name": "FORTINET INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.093144
   },
   {
     "ticker": "ABNB",
     "name": "AIRBNB INC CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.092156
   },
   {
     "ticker": "FDX",
     "name": "FEDEX CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.092002
   },
   {
     "ticker": "LHX",
     "name": "L3HARRIS TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.091237
   },
   {
     "ticker": "DLR",
     "name": "DIGITAL REALTY TRUST INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.090955
   },
   {
     "ticker": "O",
     "name": "REALTY INCOME CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.090593
   },
   {
     "ticker": "CMG",
     "name": "CHIPOTLE MEXICAN GRILL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.090483
   },
   {
     "ticker": "VLO",
     "name": "VALERO ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.090108
   },
   {
     "ticker": "WBD",
     "name": "WARNER BROS DISCOVERY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "Italy",
     "weight": 0.08966
   },
   {
     "ticker": "MPWR",
     "name": "MONOLITHIC POWER SYSTEMS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.088944
   },
   {
     "ticker": "BDX",
     "name": "BECTON DICKINSON AND CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "Poland",
     "weight": 0.088328
   },
   {
     "ticker": "F",
     "name": "FORD MOTOR CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.087921
   },
   {
     "ticker": "ROST",
     "name": "ROSS STORES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.087919
   },
   {
     "ticker": "NXPI",
     "name": "NXP SEMICONDUCTORS NV",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.087691
   },
   {
     "ticker": "PCAR",
     "name": "PACCAR INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.087627
   },
   {
     "ticker": "AFL",
     "name": "AFLAC INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.086361
   },
   {
     "ticker": "KMI",
     "name": "KINDER MORGAN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.085993
   },
   {
     "ticker": "DDOG",
     "name": "DATADOG INC   CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.085569
   },
   {
     "ticker": "D",
     "name": "DOMINION ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.085443
   },
   {
     "ticker": "IDXX",
     "name": "IDEXX LABORATORIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.085176
   },
   {
     "ticker": "ALL",
     "name": "ALLSTATE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "Australia",
     "weight": 0.084973
   },
   {
     "ticker": "WDAY",
     "name": "WORKDAY INC CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.084875
   },
   {
     "ticker": "DELL",
     "name": "DELL TECHNOLOGIES  C",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.084551
   },
   {
     "ticker": "WDC",
     "name": "WESTERN DIGITAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.083213
   },
   {
     "ticker": "CARR",
     "name": "CARRIER GLOBAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.082711
   },
   {
     "ticker": "EW",
     "name": "EDWARDS LIFESCIENCES CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.082381
   },
   {
     "ticker": "ROP",
     "name": "ROPER TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.081444
   },
   {
     "ticker": "EXC",
     "name": "EXELON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.080943
   },
   {
     "ticker": "BKR",
     "name": "BAKER HUGHES CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.080875
   },
   {
     "ticker": "MNST",
     "name": "MONSTER BEVERAGE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.080547
   },
   {
     "ticker": "FAST",
     "name": "FASTENAL CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.080138
   },
   {
     "ticker": "XEL",
     "name": "XCEL ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.08004
   },
   {
     "ticker": "PSA",
     "name": "PUBLIC STORAGE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.077649
   },
   {
     "ticker": "EBAY",
     "name": "EBAY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.077159
   },
   {
     "ticker": "AMP",
     "name": "AMERIPRISE FINANCIAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "Australia",
     "weight": 0.076553
   },
   {
     "ticker": "EA",
     "name": "ELECTRONIC ARTS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.076449
   },
   {
     "ticker": "CBRE",
     "name": "CBRE GROUP INC   A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.075932
   },
   {
     "ticker": "MSCI",
     "name": "MSCI INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.074642
   },
   {
     "ticker": "MET",
     "name": "METLIFE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.074264
   },
   {
     "ticker": "TTWO",
     "name": "TAKE TWO INTERACTIVE SOFTWRE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.074101
   },
   {
     "ticker": "AIG",
     "name": "AMERICAN INTERNATIONAL GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.073318
   },
   {
     "ticker": "CTVA",
     "name": "CORTEVA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.072844
   },
   {
     "ticker": "TGT",
     "name": "TARGET CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.072821
   },
   {
     "ticker": "RSG",
     "name": "REPUBLIC SERVICES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.07248
   },
   {
     "ticker": "AME",
     "name": "AMETEK INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.072404
   },
   {
     "ticker": "ETR",
     "name": "ENTERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.072343
   },
   {
     "ticker": "OKE",
     "name": "ONEOK INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.072026
   },
   {
     "ticker": "GWW",
     "name": "WW GRAINGER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.071644
   },
   {
     "ticker": "XYZ",
     "name": "BLOCK INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.071403
   },
   {
     "ticker": "ROK",
     "name": "ROCKWELL AUTOMATION INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.070394
   },
   {
     "ticker": "DHI",
     "name": "DR HORTON INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.069829
   },
   {
     "ticker": "A",
     "name": "AGILENT TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.069174
   },
   {
     "ticker": "CCI",
     "name": "CROWN CASTLE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.068304
   },
   {
     "ticker": "KR",
     "name": "KROGER CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.068137
   },
   {
     "ticker": "PEG",
     "name": "PUBLIC SERVICE ENTERPRISE GP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.068073
   },
   {
     "ticker": "CAH",
     "name": "CARDINAL HEALTH INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.066675
   },
   {
     "ticker": "VMC",
     "name": "VULCAN MATERIALS CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.066171
   },
   {
     "ticker": "YUM",
     "name": "YUM  BRANDS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.065797
   },
   {
     "ticker": "NDAQ",
     "name": "NASDAQ INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.065707
   },
   {
     "ticker": "KMB",
     "name": "KIMBERLY CLARK CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.06568
   },
   {
     "ticker": "FI",
     "name": "FISERV INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Unknown",
+    "country": "United States",
     "weight": 0.065118
   },
   {
     "ticker": "DAL",
     "name": "DELTA AIR LINES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.064724
   },
   {
     "ticker": "PAYX",
     "name": "PAYCHEX INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.06465
   },
   {
     "ticker": "FICO",
     "name": "FAIR ISAAC CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.064469
   },
   {
     "ticker": "CPRT",
     "name": "COPART INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.0643
   },
   {
     "ticker": "XYL",
     "name": "XYLEM INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.063384
   },
   {
     "ticker": "MLM",
     "name": "MARTIN MARIETTA MATERIALS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.063125
   },
   {
     "ticker": "RMD",
     "name": "RESMED INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.063094
   },
   {
     "ticker": "IQV",
     "name": "IQVIA HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.062967
   },
   {
     "ticker": "KDP",
     "name": "KEURIG DR PEPPER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.062648
   },
   {
     "ticker": "WEC",
     "name": "WEC ENERGY GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.062627
   },
   {
     "ticker": "OTIS",
     "name": "OTIS WORLDWIDE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.06217
   },
   {
     "ticker": "GRMN",
     "name": "GARMIN LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.060951
   },
   {
     "ticker": "PRU",
     "name": "PRUDENTIAL FINANCIAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "Australia",
     "weight": 0.060459
   },
   {
     "ticker": "SYY",
     "name": "SYSCO CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.060177
   },
   {
     "ticker": "NUE",
     "name": "NUCOR CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.060166
   },
   {
     "ticker": "GEHC",
     "name": "GE HEALTHCARE TECHNOLOGY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.059978
   },
   {
     "ticker": "HUM",
     "name": "HUMANA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.059692
   },
   {
     "ticker": "ED",
     "name": "CONSOLIDATED EDISON INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.059624
   },
   {
     "ticker": "CTSH",
     "name": "COGNIZANT TECH SOLUTIONS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.059534
   },
   {
     "ticker": "EME",
     "name": "EMCOR GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.059074
   },
   {
     "ticker": "PCG",
     "name": "P G + E CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.058853
   },
   {
     "ticker": "WAB",
     "name": "WABTEC CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.058595
   },
   {
     "ticker": "NRG",
     "name": "NRG ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.058551
   },
   {
     "ticker": "DD",
     "name": "DUPONT DE NEMOURS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.058542
   },
   {
     "ticker": "HIG",
     "name": "HARTFORD INSURANCE GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.058385
   },
   {
     "ticker": "MCHP",
     "name": "MICROCHIP TECHNOLOGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.057394
   },
   {
     "ticker": "STT",
     "name": "STATE STREET CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.056238
   },
   {
     "ticker": "TRGP",
     "name": "TARGA RESOURCES CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.05532
   },
   {
     "ticker": "EQT",
     "name": "EQT CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Sweden",
     "weight": 0.054867
   },
   {
     "ticker": "FIS",
     "name": "FIDELITY NATIONAL INFO SERV",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.054544
   },
   {
     "ticker": "HPE",
     "name": "HEWLETT PACKARD ENTERPRISE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.054274
   },
   {
     "ticker": "ACGL",
     "name": "ARCH CAPITAL GROUP LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.054228
   },
   {
     "ticker": "VTR",
     "name": "VENTAS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.053913
   },
   {
     "ticker": "VICI",
     "name": "VICI PROPERTIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.053789
   },
   {
     "ticker": "WTW",
     "name": "WILLIS TOWERS WATSON PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.052695
   },
   {
     "ticker": "UAL",
     "name": "UNITED AIRLINES HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.052683
   },
   {
     "ticker": "IBKR",
     "name": "INTERACTIVE BROKERS GRO CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.052333
   },
   {
     "ticker": "CCL",
     "name": "CARNIVAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.051371
   },
   {
     "ticker": "EXR",
     "name": "EXTRA SPACE STORAGE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.051231
   },
   {
     "ticker": "IRM",
     "name": "IRON MOUNTAIN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.050954
   },
   {
     "ticker": "CSGP",
     "name": "COSTAR GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.05074
   },
   {
     "ticker": "KEYS",
     "name": "KEYSIGHT TECHNOLOGIES IN",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.049827
   },
   {
     "ticker": "OXY",
     "name": "OCCIDENTAL PETROLEUM CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.049514
   },
   {
     "ticker": "VRSK",
     "name": "VERISK ANALYTICS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.049413
   },
   {
     "ticker": "ADM",
     "name": "ARCHER DANIELS MIDLAND CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United Kingdom",
     "weight": 0.049381
   },
   {
     "ticker": "DTE",
     "name": "DTE ENERGY COMPANY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "Germany",
     "weight": 0.049085
   },
   {
     "ticker": "IR",
     "name": "INGERSOLL RAND INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.048962
   },
   {
     "ticker": "TSCO",
     "name": "TRACTOR SUPPLY COMPANY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
     "weight": 0.048724
   },
   {
     "ticker": "MTD",
     "name": "METTLER TOLEDO INTERNATIONAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.048627
   },
   {
     "ticker": "MTB",
     "name": "M + T BANK CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.048191
   },
   {
     "ticker": "LEN",
     "name": "LENNAR CORP A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.048057
   },
   {
     "ticker": "RJF",
     "name": "RAYMOND JAMES FINANCIAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.04763
   },
   {
     "ticker": "AEE",
     "name": "AMEREN CORPORATION",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.04706
   },
   {
     "ticker": "TER",
     "name": "TERADYNE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.046933
   },
   {
     "ticker": "FITB",
     "name": "FIFTH THIRD BANCORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.046897
   },
   {
     "ticker": "ATO",
     "name": "ATMOS ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.046861
   },
   {
     "ticker": "KVUE",
     "name": "KENVUE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.046763
   },
   {
     "ticker": "ES",
     "name": "EVERSOURCE ENERGY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.04655
   },
   {
     "ticker": "SYF",
     "name": "SYNCHRONY FINANCIAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.04628
   },
   {
     "ticker": "FANG",
     "name": "DIAMONDBACK ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.045936
   },
   {
     "ticker": "PPL",
     "name": "PPL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "Canada",
     "weight": 0.045812
   },
   {
     "ticker": "DXCM",
     "name": "DEXCOM INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.045607
   },
   {
     "ticker": "EFX",
     "name": "EQUIFAX INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.045215
   },
   {
     "ticker": "SMCI",
     "name": "SUPER MICRO COMPUTER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.044761
   },
   {
     "ticker": "HPQ",
     "name": "HP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.044251
   },
   {
     "ticker": "HSY",
     "name": "HERSHEY CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.044198
   },
   {
     "ticker": "EXPE",
     "name": "EXPEDIA GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.044051
   },
   {
     "ticker": "FSLR",
     "name": "FIRST SOLAR INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.044038
   },
   {
     "ticker": "BR",
     "name": "BROADRIDGE FINANCIAL SOLUTIO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.043738
   },
   {
     "ticker": "CNP",
     "name": "CENTERPOINT ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.04321
   },
   {
     "ticker": "AWK",
     "name": "AMERICAN WATER WORKS CO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.043032
   },
   {
     "ticker": "HUBB",
     "name": "HUBBELL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.042848
   },
   {
     "ticker": "AVB",
     "name": "AVALONBAY COMMUNITIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.042778
   },
   {
     "ticker": "ODFL",
     "name": "OLD DOMINION FREIGHT LINE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.042727
   },
   {
     "ticker": "GIS",
     "name": "GENERAL MILLS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.042244
   },
   {
     "ticker": "VLTO",
     "name": "VERALTO CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.042076
   },
   {
     "ticker": "DOV",
     "name": "DOVER CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.042071
   },
   {
     "ticker": "CBOE",
     "name": "CBOE GLOBAL MARKETS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.041472
   },
   {
     "ticker": "NTRS",
     "name": "NORTHERN TRUST CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.041277
   },
   {
     "ticker": "LDOS",
     "name": "LEIDOS HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.04109
   },
   {
     "ticker": "TDY",
     "name": "TELEDYNE TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.041043
   },
   {
     "ticker": "WSM",
     "name": "WILLIAMS SONOMA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.04071
   },
   {
     "ticker": "FE",
     "name": "FIRSTENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.040657
   },
   {
     "ticker": "JBL",
     "name": "JABIL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.040536
   },
   {
     "ticker": "HBAN",
     "name": "HUNTINGTON BANCSHARES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.040534
   },
   {
     "ticker": "EXE",
     "name": "EXPAND ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.040524
   },
   {
     "ticker": "CINF",
     "name": "CINCINNATI FINANCIAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.040409
   },
   {
     "ticker": "PTC",
     "name": "PTC INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.040404
   },
   {
     "ticker": "LYV",
     "name": "LIVE NATION ENTERTAINMENT IN",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.040178
   },
   {
     "ticker": "BRO",
     "name": "BROWN + BROWN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.039928
   },
   {
     "ticker": "TPR",
     "name": "TAPESTRY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.039899
   },
   {
     "ticker": "HAL",
     "name": "HALLIBURTON CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.039751
   },
   {
     "ticker": "STE",
     "name": "STERIS PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.039699
   },
   {
     "ticker": "IP",
     "name": "INTERNATIONAL PAPER CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "Italy",
     "weight": 0.039694
   },
   {
     "ticker": "PHM",
     "name": "PULTEGROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "Spain",
     "weight": 0.039689
   },
   {
     "ticker": "EL",
     "name": "ESTEE LAUDER COMPANIES CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "France",
     "weight": 0.038895
   },
   {
     "ticker": "NTAP",
     "name": "NETAPP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.038859
   },
   {
     "ticker": "STLD",
     "name": "STEEL DYNAMICS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.038695
   },
   {
     "ticker": "ULTA",
     "name": "ULTA BEAUTY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.038571
   },
   {
     "ticker": "TROW",
     "name": "T ROWE PRICE GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.038512
   },
   {
     "ticker": "PODD",
     "name": "INSULET CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.038026
   },
   {
     "ticker": "PPG",
     "name": "PPG INDUSTRIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.037984
   },
   {
     "ticker": "CHTR",
     "name": "CHARTER COMMUNICATIONS INC A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.037964
   },
   {
     "ticker": "K",
     "name": "KELLANOVA",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "Canada",
     "weight": 0.037958
   },
   {
     "ticker": "TTD",
     "name": "TRADE DESK INC/THE  CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.037857
   },
   {
     "ticker": "DG",
     "name": "DOLLAR GENERAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "France",
     "weight": 0.037474
   },
   {
     "ticker": "CMS",
     "name": "CMS ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.037031
   },
   {
     "ticker": "BIIB",
     "name": "BIOGEN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.036951
   },
   {
     "ticker": "CFG",
     "name": "CITIZENS FINANCIAL GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.036911
   },
   {
     "ticker": "RF",
     "name": "REGIONS FINANCIAL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "France",
     "weight": 0.036459
   },
   {
     "ticker": "WRB",
     "name": "WR BERKLEY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.036404
   },
   {
     "ticker": "DRI",
     "name": "DARDEN RESTAURANTS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.036246
   },
   {
     "ticker": "EIX",
     "name": "EDISON INTERNATIONAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.036187
   },
   {
     "ticker": "NVR",
     "name": "NVR INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.035766
   },
   {
     "ticker": "ON",
     "name": "ON SEMICONDUCTOR",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "Italy",
     "weight": 0.035655
   },
   {
     "ticker": "KHC",
     "name": "KRAFT HEINZ CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.035241
   },
   {
     "ticker": "LH",
     "name": "LABCORP HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.035083
   },
   {
     "ticker": "TYL",
     "name": "TYLER TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.035016
   },
   {
     "ticker": "EQR",
     "name": "EQUITY RESIDENTIAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.034955
   },
   {
     "ticker": "CDW",
     "name": "CDW CORP/DE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.034907
   },
   {
     "ticker": "WST",
     "name": "WEST PHARMACEUTICAL SERVICES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.034853
   },
   {
     "ticker": "WAT",
     "name": "WATERS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.034815
   },
   {
     "ticker": "SBAC",
     "name": "SBA COMMUNICATIONS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.034756
   },
   {
     "ticker": "DVN",
     "name": "DEVON ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.034532
   },
   {
     "ticker": "NI",
     "name": "NISOURCE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.033883
   },
   {
     "ticker": "CHD",
     "name": "CHURCH + DWIGHT CO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.033851
   },
   {
     "ticker": "ZBH",
     "name": "ZIMMER BIOMET HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.033646
   },
   {
     "ticker": "SW",
     "name": "SMURFIT WESTROCK PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "France",
     "weight": 0.033535
   },
   {
     "ticker": "DGX",
     "name": "QUEST DIAGNOSTICS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.033362
   },
   {
     "ticker": "VRSN",
     "name": "VERISIGN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.033327
   },
   {
     "ticker": "DLTR",
     "name": "DOLLAR TREE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.03332
   },
   {
     "ticker": "GPN",
     "name": "GLOBAL PAYMENTS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.032713
   },
   {
     "ticker": "CPAY",
     "name": "CORPAY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.032322
   },
   {
     "ticker": "J",
     "name": "JACOBS SOLUTIONS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.032203
   },
   {
     "ticker": "TRMB",
     "name": "TRIMBLE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.032071
   },
   {
     "ticker": "IT",
     "name": "GARTNER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.03207
   },
   {
     "ticker": "APTV",
     "name": "APTIV PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.031757
   },
   {
     "ticker": "STZ",
     "name": "CONSTELLATION BRANDS INC A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.031525
   },
   {
     "ticker": "LULU",
     "name": "LULULEMON ATHLETICA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.031448
   },
   {
     "ticker": "AMCR",
     "name": "AMCOR PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.03135
   },
   {
     "ticker": "LVS",
     "name": "LAS VEGAS SANDS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.030796
   },
   {
     "ticker": "GPC",
     "name": "GENUINE PARTS CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.030627
   },
   {
     "ticker": "CTRA",
     "name": "COTERRA ENERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.030397
   },
   {
     "ticker": "EVRG",
     "name": "EVERGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.03025
   },
   {
     "ticker": "TPL",
     "name": "TEXAS PACIFIC LAND CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "United States",
     "weight": 0.030203
   },
   {
     "ticker": "PNR",
     "name": "PENTAIR PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.030088
   },
   {
     "ticker": "SNA",
     "name": "SNAP ON INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.030026
   },
   {
     "ticker": "PKG",
     "name": "PACKAGING CORP OF AMERICA",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.029924
   },
   {
     "ticker": "GDDY",
     "name": "GODADDY INC   CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.029845
   },
   {
     "ticker": "DOW",
     "name": "DOW INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "Australia",
     "weight": 0.029816
   },
   {
     "ticker": "LNT",
     "name": "ALLIANT ENERGY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.029619
   },
   {
     "ticker": "CNC",
     "name": "CENTENE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.029567
   },
   {
     "ticker": "FTV",
     "name": "FORTIVE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.028959
   },
   {
     "ticker": "WY",
     "name": "WEYERHAEUSER CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.028673
   },
   {
     "ticker": "PFG",
     "name": "PRINCIPAL FINANCIAL GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.028381
   },
   {
     "ticker": "L",
     "name": "LOEWS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "Canada",
     "weight": 0.028281
   },
   {
     "ticker": "HOLX",
     "name": "HOLOGIC INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.02818
   },
   {
     "ticker": "BBY",
     "name": "BEST BUY CO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
     "weight": 0.028167
   },
   {
     "ticker": "IFF",
     "name": "INTL FLAVORS + FRAGRANCES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.027598
   },
   {
     "ticker": "KEY",
     "name": "KEYCORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.027521
   },
   {
     "ticker": "MKC",
     "name": "MCCORMICK + CO NON VTG SHRS",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.027499
   },
   {
     "ticker": "LUV",
     "name": "SOUTHWEST AIRLINES CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.027324
   },
   {
     "ticker": "EXPD",
     "name": "EXPEDITORS INTL WASH INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.027046
   },
   {
     "ticker": "ESS",
     "name": "ESSEX PROPERTY TRUST INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.02699
   },
   {
     "ticker": "LII",
     "name": "LENNOX INTERNATIONAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.02651
   },
   {
     "ticker": "INVH",
     "name": "INVITATION HOMES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.026356
   },
   {
     "ticker": "CHRW",
     "name": "C.H. ROBINSON WORLDWIDE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.026009
   },
   {
     "ticker": "ROL",
     "name": "ROLLINS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.025793
   },
   {
     "ticker": "FFIV",
     "name": "F5 INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.025426
   },
   {
     "ticker": "MAA",
     "name": "MID AMERICA APARTMENT COMM",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.025057
   },
   {
     "ticker": "INCY",
     "name": "INCYTE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.025054
   },
   {
     "ticker": "TSN",
     "name": "TYSON FOODS INC CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.02482
   },
   {
     "ticker": "OMC",
     "name": "OMNICOM GROUP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.024782
   },
   {
     "ticker": "KIM",
     "name": "KIMCO REALTY CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.024683
   },
   {
     "ticker": "GEN",
     "name": "GEN DIGITAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United Kingdom",
     "weight": 0.024591
   },
   {
     "ticker": "TXT",
     "name": "TEXTRON INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.024205
   },
   {
     "ticker": "ALLE",
     "name": "ALLEGION PLC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.024112
   },
   {
     "ticker": "COO",
     "name": "COOPER COS INC/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.023751
   },
   {
     "ticker": "ZBRA",
     "name": "ZEBRA TECHNOLOGIES CORP CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.023307
   },
   {
     "ticker": "AVY",
     "name": "AVERY DENNISON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.023282
   },
   {
     "ticker": "CF",
     "name": "CF INDUSTRIES HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.02321
   },
   {
     "ticker": "MAS",
     "name": "MASCO CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.023131
   },
   {
     "ticker": "CLX",
     "name": "CLOROX COMPANY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.022906
   },
   {
     "ticker": "BG",
     "name": "BUNGE GLOBAL SA",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "Austria",
     "weight": 0.022876
   },
   {
     "ticker": "TKO",
     "name": "TKO GROUP HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.022158
   },
   {
     "ticker": "IEX",
     "name": "IDEX CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.022127
   },
   {
     "ticker": "EG",
     "name": "EVEREST GROUP LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.022075
   },
   {
     "ticker": "BALL",
     "name": "BALL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.02206
   },
   {
     "ticker": "JBHT",
     "name": "HUNT (JB) TRANSPRT SVCS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.021942
   },
   {
     "ticker": "BLDR",
     "name": "BUILDERS FIRSTSOURCE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.021926
   },
   {
     "ticker": "RL",
     "name": "RALPH LAUREN CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.021611
   },
   {
     "ticker": "UHS",
     "name": "UNIVERSAL HEALTH SERVICES B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.021605
   },
   {
     "ticker": "FOXA",
     "name": "FOX CORP   CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.021601
   },
   {
     "ticker": "DPZ",
     "name": "DOMINO S PIZZA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.021429
   },
   {
     "ticker": "NDSN",
     "name": "NORDSON CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.021341
   },
   {
     "ticker": "DECK",
     "name": "DECKERS OUTDOOR CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.021078
   },
   {
     "ticker": "DOC",
     "name": "HEALTHPEAK PROPERTIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "Austria",
     "weight": 0.020816
   },
   {
     "ticker": "LYB",
     "name": "LYONDELLBASELL INDU CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.020568
   },
   {
     "ticker": "VTRS",
     "name": "VIATRIS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.020288
   },
   {
     "ticker": "HII",
     "name": "HUNTINGTON INGALLS INDUSTRIE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.019953
   },
   {
     "ticker": "SWKS",
     "name": "SKYWORKS SOLUTIONS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.01991
   },
   {
     "ticker": "BAX",
     "name": "BAXTER INTERNATIONAL INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.01949
   },
   {
     "ticker": "ALB",
     "name": "ALBEMARLE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.019475
   },
   {
     "ticker": "REG",
     "name": "REGENCY CENTERS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.019131
   },
   {
     "ticker": "RVTY",
     "name": "REVVITY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.018784
   },
   {
     "ticker": "DAY",
     "name": "DAYFORCE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.018644
   },
   {
     "ticker": "JKHY",
     "name": "JACK HENRY + ASSOCIATES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.018527
   },
   {
     "ticker": "SWK",
     "name": "STANLEY BLACK + DECKER INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.018459
   },
   {
     "ticker": "SJM",
     "name": "JM SMUCKER CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.018311
   },
   {
     "ticker": "IVZ",
     "name": "INVESCO LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.018282
   },
   {
     "ticker": "GL",
     "name": "GLOBE LIFE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.01816
   },
   {
     "ticker": "PNW",
     "name": "PINNACLE WEST CAPITAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.018068
   },
   {
     "ticker": "GNRC",
     "name": "GENERAC HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.018055
   },
   {
     "ticker": "AKAM",
     "name": "AKAMAI TECHNOLOGIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.017804
   },
   {
     "ticker": "CPT",
     "name": "CAMDEN PROPERTY TRUST",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.017776
   },
   {
     "ticker": "HST",
     "name": "HOST HOTELS + RESORTS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.017704
   },
   {
     "ticker": "AIZ",
     "name": "ASSURANT INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.017689
   },
   {
     "ticker": "HAS",
     "name": "HASBRO INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United Kingdom",
     "weight": 0.017643
   },
   {
     "ticker": "BXP",
     "name": "BXP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.017622
   },
   {
     "ticker": "SOLV",
     "name": "SOLVENTUM CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.017507
   },
   {
     "ticker": "AES",
     "name": "AES CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Utilities",
+    "country": "United States",
     "weight": 0.017436
   },
   {
     "ticker": "FDS",
     "name": "FACTSET RESEARCH SYSTEMS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.017362
   },
   {
     "ticker": "WYNN",
     "name": "WYNN RESORTS LTD",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.017341
   },
   {
     "ticker": "UDR",
     "name": "UDR INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.017239
   },
   {
     "ticker": "NCLH",
     "name": "NORWEGIAN CRUISE LINE HOLDIN",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.016966
   },
   {
     "ticker": "NWSA",
     "name": "NEWS CORP   CLASS A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.016743
   },
   {
     "ticker": "TECH",
     "name": "BIO TECHNE CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.016717
   },
   {
     "ticker": "IPG",
     "name": "INTERPUBLIC GROUP OF COS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.015938
   },
   {
     "ticker": "PAYC",
     "name": "PAYCOM SOFTWARE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.015921
   },
   {
     "ticker": "POOL",
     "name": "POOL CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
     "weight": 0.015711
   },
   {
     "ticker": "MOS",
     "name": "MOSAIC CO/THE",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.015542
   },
   {
     "ticker": "ARE",
     "name": "ALEXANDRIA REAL ESTATE EQUIT",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "Canada",
     "weight": 0.015518
   },
   {
     "ticker": "EPAM",
     "name": "EPAM SYSTEMS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Information Technology",
+    "country": "United States",
     "weight": 0.015495
   },
   {
     "ticker": "ALGN",
     "name": "ALIGN TECHNOLOGY INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.015196
   },
   {
     "ticker": "CRL",
     "name": "CHARLES RIVER LABORATORIES",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.015085
   },
   {
     "ticker": "LW",
     "name": "LAMB WESTON HOLDINGS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.015045
   },
   {
     "ticker": "MOH",
     "name": "MOLINA HEALTHCARE INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Greece",
     "weight": 0.014994
   },
   {
     "ticker": "MRNA",
     "name": "MODERNA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.014733
   },
   {
     "ticker": "CAG",
     "name": "CONAGRA BRANDS INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.013889
   },
   {
     "ticker": "APA",
     "name": "APA CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Energy",
+    "country": "Australia",
     "weight": 0.013688
   },
   {
     "ticker": "FOX",
     "name": "FOX CORP   CLASS B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.013679
   },
   {
     "ticker": "ERIE",
     "name": "ERIE INDEMNITY COMPANY CL A",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Financials",
+    "country": "United States",
     "weight": 0.013325
   },
   {
     "ticker": "LKQ",
     "name": "LKQ CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.013281
   },
   {
     "ticker": "MTCH",
     "name": "MATCH GROUP INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.013089
   },
   {
     "ticker": "FRT",
     "name": "FEDERAL REALTY INVS TRUST",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Real Estate",
+    "country": "United States",
     "weight": 0.012774
   },
   {
     "ticker": "TAP",
     "name": "MOLSON COORS BEVERAGE CO   B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.012766
   },
   {
     "ticker": "AOS",
     "name": "SMITH (A.O.) CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Industrials",
+    "country": "United States",
     "weight": 0.01272
   },
   {
     "ticker": "BEN",
     "name": "FRANKLIN RESOURCES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
     "weight": 0.012
   },
   {
     "ticker": "EMN",
     "name": "EASTMAN CHEMICAL CO",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.011965
   },
   {
     "ticker": "MGM",
     "name": "MGM RESORTS INTERNATIONAL",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.011013
   },
   {
     "ticker": "HSIC",
     "name": "HENRY SCHEIN INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.010899
   },
   {
     "ticker": "KMX",
     "name": "CARMAX INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.010791
   },
   {
     "ticker": "HRL",
     "name": "HORMEL FOODS CORP",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.010602
   },
   {
     "ticker": "MHK",
     "name": "MOHAWK INDUSTRIES INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Discretionary",
+    "country": "United States",
     "weight": 0.010521
   },
   {
     "ticker": "CPB",
     "name": "THE CAMPBELL S COMPANY",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Consumer Staples",
+    "country": "United States",
     "weight": 0.010183
   },
   {
     "ticker": "PSKY",
     "name": "PARAMOUNT SKYDANCE CL B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.008383
   },
   {
     "ticker": "BF.B",
     "name": "BROWN FORMAN CORP CLASS B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Unknown",
+    "country": "United States",
     "weight": 0.008033
   },
   {
     "ticker": "DVA",
     "name": "DAVITA INC",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "United States",
     "weight": 0.007612
   },
   {
     "ticker": "NWS",
     "name": "NEWS CORP   CLASS B",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Communication Services",
+    "country": "United States",
     "weight": 0.006432
   },
   {
     "ticker": "ESZ5",
     "name": "S+P500 EMINI FUT  DEC25",
-    "sector": "-",
+    "sector": "Cash and/or Derivatives",
     "country": "Unknown",
     "weight": 0.005523
   },
   {
     "ticker": "-",
     "name": "US DOLLAR",
-    "sector": "-",
+    "sector": "Unknown",
     "country": "Unknown",
     "weight": 0.003336
   },
   {
     "ticker": "-",
     "name": "CONTRA WALGREENS BOOTS",
-    "sector": "-",
+    "sector": "Unknown",
     "country": "Unknown",
     "weight": 2e-06
   },
   {
     "ticker": "SOLS",
     "name": "SOLSTICE ADVANCED MATERI W/I",
-    "sector": "-",
-    "country": "Unknown",
+    "sector": "Materials",
+    "country": "United States",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": "Past performance is not a reliable indicator of future performance. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. All results are historical and assume the reinvestment of dividends and capital gains. Visit www.ssga.com for most recent month-end performance. ",
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "Past performance is not a reliable indicator of future performance. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. All results are historical and assume the reinvestment of dividends and capital gains. Visit www.ssga.com for most recent month-end performance.",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
+    "ticker": "NAN",
     "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com.",
-    "sector": NaN,
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\n\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\n\nEquity securities may fluctuate in value and can decline significantly in response to the activities of individual companies and general market and economic conditions.\n\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\n\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. \n\nThe trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\n\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\n\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as \u201ccreation units.\u201d  Please see the fund\u2019s prospectus for more details.\n\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\n\nMulti-Cap investments include exposure to all market caps, including small and medium capitalization (\u201ccap\u201d) stocks that generally have a higher risk of business failure, lesser liquidity and greater volatility in market price. As a consequence, small and medium cap stocks have a greater possibility of price decline or loss as compared to large cap stocks. This may cause the Fund not to meet its investment objective. \n\nConcentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund\u2019s shares to decrease.\n\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins.\n\nThis communication is not intended to be an investment recommendation or investment advice and should not be relied upon as such.\n\nThe information provided does not constitute investment advice and it should not be relied on as such. It should not be considered a solicitation to buy or an offer to sell a security. It does not take into account any investor's particular investment objectives, strategies, tax status or investment horizon.  You should consult your tax and financial advisor.\n\nThe S&P 500\u00ae Index is a product of S&P Dow Jones Indices LLC or its affiliates (\u201cS&P DJI\u201d) and have been licensed for use by State Street Global Advisors.  S&P\u00ae, SPDR\u00ae, S&P 500\u00ae,US 500 and the 500 are trademarks of Standard & Poor\u2019s Financial Services LLC (\u201cS&P\u201d); Dow Jones\u00ae is a registered trademark of Dow Jones Trademark Holdings LLC (\u201cDow Jones\u201d) and has been licensed for use by S&P Dow Jones Indices; and these trademarks have been licensed for use by S&P DJI and sublicensed for certain purposes by State Street Global Advisors. The fund is not sponsored, endorsed, sold or promoted by S&P DJI, Dow Jones, S&P, their respective affiliates, and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability for any errors, omissions, or interruptions of these indices.\n\nThe returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole. \n\nIf your account holds Russian securities and instruments, then as of the date of this publication, they have been fair valued.  Such fair value may be zero.  If your portfolio holds such Russian securities and instruments, then the portfolio may not be able to dispose of such securities and instruments depending on the relevant market, applicable sanctions requirements, and/or Russian capital controls or other counter measures. In such circumstances, the portfolio would continue to own and have exposure to Russian-related issuers and markets.  Please refer to your portfolio holdings report. ",
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\n\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\n\nEquity securities may fluctuate in value and can decline significantly in response to the activities of individual companies and general market and economic conditions.\n\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\n\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. \n\nThe trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\n\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\n\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as \u201ccreation units.\u201d  Please see the fund\u2019s prospectus for more details.\n\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\n\nMulti-Cap investments include exposure to all market caps, including small and medium capitalization (\u201ccap\u201d) stocks that generally have a higher risk of business failure, lesser liquidity and greater volatility in market price. As a consequence, small and medium cap stocks have a greater possibility of price decline or loss as compared to large cap stocks. This may cause the Fund not to meet its investment objective. \n\nConcentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund\u2019s shares to decrease.\n\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins.\n\nThis communication is not intended to be an investment recommendation or investment advice and should not be relied upon as such.\n\nThe information provided does not constitute investment advice and it should not be relied on as such. It should not be considered a solicitation to buy or an offer to sell a security. It does not take into account any investor's particular investment objectives, strategies, tax status or investment horizon.  You should consult your tax and financial advisor.\n\nThe S&P 500\u00ae Index is a product of S&P Dow Jones Indices LLC or its affiliates (\u201cS&P DJI\u201d) and have been licensed for use by State Street Global Advisors.  S&P\u00ae, SPDR\u00ae, S&P 500\u00ae,US 500 and the 500 are trademarks of Standard & Poor\u2019s Financial Services LLC (\u201cS&P\u201d); Dow Jones\u00ae is a registered trademark of Dow Jones Trademark Holdings LLC (\u201cDow Jones\u201d) and has been licensed for use by S&P Dow Jones Indices; and these trademarks have been licensed for use by S&P DJI and sublicensed for certain purposes by State Street Global Advisors. The fund is not sponsored, endorsed, sold or promoted by S&P DJI, Dow Jones, S&P, their respective affiliates, and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability for any errors, omissions, or interruptions of these indices.\n\nThe returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole. \n\nIf your account holds Russian securities and instruments, then as of the date of this publication, they have been fair valued.  Such fair value may be zero.  If your portfolio holds such Russian securities and instruments, then the portfolio may not be able to dispose of such securities and instruments depending on the relevant market, applicable sanctions requirements, and/or Russian capital controls or other counter measures. In such circumstances, the portfolio would continue to own and have exposure to Russian-related issuers and markets.  Please refer to your portfolio holdings report.",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": "DoubleLine\u00ae is a registered trademark of DoubleLine Capital LP.\n\nInvesting involves risk including the risk of loss of principal.\n\nAll information is from SSGA unless otherwise noted and has been obtained from sources believed to be reliable, but its accuracy is not guaranteed.  There is no representation or warranty as to the current accuracy, reliability or completeness of, nor liability for, decisions based on such information and it should not be relied on as such. ",
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "DoubleLine\u00ae is a registered trademark of DoubleLine Capital LP.\n\nInvesting involves risk including the risk of loss of principal.\n\nAll information is from SSGA unless otherwise noted and has been obtained from sources believed to be reliable, but its accuracy is not guaranteed.  There is no representation or warranty as to the current accuracy, reliability or completeness of, nor liability for, decisions based on such information and it should not be relied on as such.",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
+    "ticker": "NAN",
     "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC.\n\nState Street Global Advisors Funds Distributors, LLC is the distributor for some registered products on behalf of the adviser. SSGA Funds Management has retained Blackstone Liquid Credit Strategies LLC, Nuveen Asset Management, DoubleLine Capital LP, Loomis Sayles and Galaxy Digital Capital Management LP as the sub-adviser. State Street Global Advisors Funds Distributors, LLC is not affiliated with Blackstone Liquid Credit Strategies LLC DoubleLine Capital LP, Nuveen Asset Management, Loomis Sayles or Galaxy Digital Capital Management LP.",
-    "sector": NaN,
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
-    "name": NaN,
-    "sector": NaN,
-    "country": "Unknown",
+    "ticker": "NAN",
+    "name": "nan",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   },
   {
-    "ticker": NaN,
+    "ticker": "NAN",
     "name": "Before investing, consider the funds\u2019 investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n\u00a9 2025 State Street Corporation - All Rights Reserved.\nState Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA 02210\n\n4503082.7.4.AM.RTL\nExpiration: 01/31/2026\nSPD004038",
-    "sector": NaN,
-    "country": "Unknown",
+    "sector": "Health Care",
+    "country": "Australia",
     "weight": 0.0
   }
 ]

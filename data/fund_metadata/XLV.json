@@ -1,0 +1,20 @@
+{
+  "ticker": "XLV",
+  "holdings_count": 148,
+  "total_weight": 99.94,
+  "sector_allocation": {
+    "Health Care": 99.69,
+    "Unknown": 0.17,
+    "Energy": 0.14
+  },
+  "country_allocation": {
+    "United States": 94.34,
+    "Germany": 4.35,
+    "Poland": 1.0,
+    "Unknown": 0.17,
+    "Greece": 0.14,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.83,
+  "country_coverage_pct": 99.83
+}

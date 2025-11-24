@@ -1,0 +1,25 @@
+{
+  "ticker": "MTUM",
+  "holdings_count": 129,
+  "total_weight": 100.01,
+  "sector_allocation": {
+    "Information Technology": 32.58,
+    "Financials": 17.54,
+    "Industrials": 12.16,
+    "Communication Services": 11.76,
+    "Consumer Staples": 8.16,
+    "Consumer Discretionary": 5.64,
+    "Health Care": 5.57,
+    "Utilities": 2.57,
+    "Real Estate": 1.97,
+    "Energy": 1.43,
+    "Materials": 0.47,
+    "Cash and/or Derivatives": 0.16
+  },
+  "country_allocation": {
+    "United States": 100.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

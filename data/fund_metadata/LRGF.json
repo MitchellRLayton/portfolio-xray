@@ -1,0 +1,30 @@
+{
+  "ticker": "LRGF",
+  "holdings_count": 291,
+  "total_weight": 100.01,
+  "sector_allocation": {
+    "Information Technology": 35.24,
+    "Financials": 13.61,
+    "Consumer Discretionary": 11.66,
+    "Health Care": 10.23,
+    "Communication Services": 7.36,
+    "Industrials": 7.26,
+    "Consumer Staples": 6.13,
+    "Energy": 2.99,
+    "Utilities": 2.05,
+    "Materials": 1.67,
+    "Real Estate": 1.62,
+    "Cash and/or Derivatives": 0.19
+  },
+  "country_allocation": {
+    "United States": 98.47,
+    "Brazil": 0.63,
+    "Israel": 0.48,
+    "Sweden": 0.38,
+    "Canada": 0.04,
+    "-": 0.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

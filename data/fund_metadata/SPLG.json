@@ -1,0 +1,43 @@
+{
+  "ticker": "SPLG",
+  "holdings_count": 593,
+  "total_weight": 99.95,
+  "sector_allocation": {
+    "Information Technology": 36.01,
+    "Financials": 12.57,
+    "Consumer Discretionary": 10.77,
+    "Communication Services": 10.37,
+    "Health Care": 8.86,
+    "Industrials": 8.04,
+    "Consumer Staples": 4.61,
+    "Energy": 2.86,
+    "Utilities": 2.35,
+    "Real Estate": 1.79,
+    "Materials": 1.59,
+    "Unknown": 0.17,
+    "Cash and/or Derivatives": 0.01
+  },
+  "country_allocation": {
+    "United States": 96.75,
+    "Germany": 0.57,
+    "Canada": 0.55,
+    "Australia": 0.41,
+    "France": 0.33,
+    "Colombia": 0.19,
+    "United Kingdom": 0.17,
+    "Italy": 0.17,
+    "India": 0.15,
+    "Norway": 0.12,
+    "Chile": 0.11,
+    "Unknown": 0.1,
+    "Kuwait": 0.1,
+    "Poland": 0.09,
+    "Sweden": 0.05,
+    "Indonesia": 0.05,
+    "Austria": 0.04,
+    "Spain": 0.04,
+    "Greece": 0.02
+  },
+  "sector_coverage_pct": 99.83,
+  "country_coverage_pct": 99.9
+}

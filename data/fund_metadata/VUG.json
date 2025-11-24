@@ -1,0 +1,29 @@
+{
+  "ticker": "VUG",
+  "holdings_count": 159,
+  "total_weight": 99.8,
+  "sector_allocation": {
+    "Information Technology": 51.79,
+    "Consumer Discretionary": 14.63,
+    "Communication Services": 13.61,
+    "Financials": 5.7,
+    "Health Care": 5.27,
+    "Industrials": 5.01,
+    "Consumer Staples": 1.37,
+    "Real Estate": 1.29,
+    "Materials": 0.7,
+    "Energy": 0.55,
+    "Unknown": 0.07
+  },
+  "country_allocation": {
+    "United States": 99.16,
+    "France": 0.33,
+    "Chile": 0.22,
+    "Canada": 0.1,
+    "Sweden": 0.08,
+    "Indonesia": 0.06,
+    "Germany": 0.05
+  },
+  "sector_coverage_pct": 99.93,
+  "country_coverage_pct": 100
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "VLUE",
+  "holdings_count": 151,
+  "total_weight": 100.02,
+  "sector_allocation": {
+    "Information Technology": 36.77,
+    "Financials": 13.45,
+    "Consumer Discretionary": 11.08,
+    "Health Care": 8.58,
+    "Industrials": 8.55,
+    "Communication Services": 7.71,
+    "Consumer Staples": 4.57,
+    "Energy": 3.01,
+    "Utilities": 2.15,
+    "Real Estate": 1.95,
+    "Materials": 1.93,
+    "Cash and/or Derivatives": 0.26
+  },
+  "country_allocation": {
+    "United States": 100.0,
+    "-": 0.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

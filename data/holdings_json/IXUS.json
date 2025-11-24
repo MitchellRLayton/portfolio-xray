@@ -9,7 +9,7 @@
   {
     "ticker": "700",
     "name": "TENCENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 1.39
   },
@@ -261,7 +261,7 @@
   {
     "ticker": "9984",
     "name": "SOFTBANK GROUP CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.31
   },
@@ -296,7 +296,7 @@
   {
     "ticker": "DTE",
     "name": "DEUTSCHE TELEKOM N AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.29
   },
@@ -366,7 +366,7 @@
   {
     "ticker": "SPOT",
     "name": "SPOTIFY TECHNOLOGY SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.27
   },
@@ -401,7 +401,7 @@
   {
     "ticker": "7974",
     "name": "NINTENDO LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.25
   },
@@ -702,7 +702,7 @@
   {
     "ticker": "BHARTIARTL",
     "name": "BHARTI AIRTEL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.17
   },
@@ -877,7 +877,7 @@
   {
     "ticker": "9433",
     "name": "KDDI CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.14
   },
@@ -975,7 +975,7 @@
   {
     "ticker": "9999",
     "name": "NETEASE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.13
   },
@@ -1078,7 +1078,7 @@
     "weight": 0.12
   },
   {
-    "ticker": NaN,
+    "ticker": "NAN",
     "name": "NATIONAL BANK OF CANADA",
     "sector": "Financials",
     "country": "Canada",
@@ -1213,7 +1213,7 @@
   {
     "ticker": "9434",
     "name": "SOFTBANK CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.11
   },
@@ -1521,7 +1521,7 @@
   {
     "ticker": "9888",
     "name": "BAIDU CLASS A INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.09
   },
@@ -1682,14 +1682,14 @@
   {
     "ticker": "ORA",
     "name": "ORANGE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.08
   },
   {
     "ticker": "Z74",
     "name": "SINGAPORE TELECOMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.08
   },
@@ -1773,7 +1773,7 @@
   {
     "ticker": "9432",
     "name": "NTT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.08
   },
@@ -1794,7 +1794,7 @@
   {
     "ticker": "UMG",
     "name": "UNIVERSAL MUSIC GROUP NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.08
   },
@@ -2067,7 +2067,7 @@
   {
     "ticker": "035420",
     "name": "NAVER CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.07
   },
@@ -2088,7 +2088,7 @@
   {
     "ticker": "VOD",
     "name": "VODAFONE GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.07
   },
@@ -2158,7 +2158,7 @@
   {
     "ticker": "7010",
     "name": "SAUDI TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.06
   },
@@ -2284,7 +2284,7 @@
   {
     "ticker": "1024",
     "name": "KUAISHOU TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.06
   },
@@ -2361,7 +2361,7 @@
   {
     "ticker": "PUB",
     "name": "PUBLICIS GROUPE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.06
   },
@@ -2396,7 +2396,7 @@
   {
     "ticker": "AMXB",
     "name": "AMERICA MOVIL B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.06
   },
@@ -2704,7 +2704,7 @@
   {
     "ticker": "SCMN",
     "name": "SWISSCOM AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Switzerland",
     "weight": 0.05
   },
@@ -2991,14 +2991,14 @@
   {
     "ticker": "INF",
     "name": "INFORMA PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.05
   },
   {
     "ticker": "EAND",
     "name": "EMIRATES TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Arab Emirates",
     "weight": 0.05
   },
@@ -3012,14 +3012,14 @@
   {
     "ticker": "MTN",
     "name": "MTN GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.05
   },
   {
     "ticker": "KPN",
     "name": "KONINKLIJKE KPN NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.05
   },
@@ -3243,7 +3243,7 @@
   {
     "ticker": "TEF",
     "name": "TELEFONICA SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.04
   },
@@ -3320,7 +3320,7 @@
   {
     "ticker": "9766",
     "name": "KONAMI GROUP CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.04
   },
@@ -3383,7 +3383,7 @@
   {
     "ticker": "CLNX",
     "name": "CELLNEX TELECOM SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.04
   },
@@ -3397,7 +3397,7 @@
   {
     "ticker": "BT.A",
     "name": "BT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.04
   },
@@ -3432,7 +3432,7 @@
   {
     "ticker": "2412",
     "name": "CHUNGHWA TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.04
   },
@@ -3859,7 +3859,7 @@
   {
     "ticker": "TLS",
     "name": "TELSTRA GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.03
   },
@@ -3950,7 +3950,7 @@
   {
     "ticker": "035720",
     "name": "KAKAO CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.03
   },
@@ -3999,7 +3999,7 @@
   {
     "ticker": "RCI.B",
     "name": "ROGERS COMMUNICATIONS NON-VOTING I",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.03
   },
@@ -4139,7 +4139,7 @@
   {
     "ticker": "ADVANC.R",
     "name": "ADVANCED INFO SERVICE NON-VOTING D",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.03
   },
@@ -4195,7 +4195,7 @@
   {
     "ticker": "TLKM",
     "name": "TELEKOMUNIKASI INDONESIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.03
   },
@@ -4433,7 +4433,7 @@
   {
     "ticker": "TME",
     "name": "TENCENT MUSIC ENTERTAINMENT GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.03
   },
@@ -5329,7 +5329,7 @@
   {
     "ticker": "TEL",
     "name": "TELENOR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.02
   },
@@ -5399,7 +5399,7 @@
   {
     "ticker": "TELIA",
     "name": "TELIA COMPANY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -5413,7 +5413,7 @@
   {
     "ticker": "TEL2 B",
     "name": "TELE2 B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -5588,7 +5588,7 @@
   {
     "ticker": "CAR",
     "name": "CAR GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -5609,7 +5609,7 @@
   {
     "ticker": "9697",
     "name": "CAPCOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -5707,7 +5707,7 @@
   {
     "ticker": "G24",
     "name": "SCOUT24 N",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.02
   },
@@ -5791,7 +5791,7 @@
   {
     "ticker": "AUTO",
     "name": "AUTO TRADER GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.02
   },
@@ -6162,7 +6162,7 @@
   {
     "ticker": "3659",
     "name": "NEXON LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -6190,7 +6190,7 @@
   {
     "ticker": "4689",
     "name": "LY CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -6449,7 +6449,7 @@
   {
     "ticker": "7020",
     "name": "ETIHAD ETISALAT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.02
   },
@@ -6470,7 +6470,7 @@
   {
     "ticker": "TIGO",
     "name": "MILLICOM INTERNATIONAL CELLULAR SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -6484,7 +6484,7 @@
   {
     "ticker": "REA",
     "name": "REA GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -6568,7 +6568,7 @@
   {
     "ticker": "6823",
     "name": "HKT TRUST AND HKT UNITS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.02
   },
@@ -6785,7 +6785,7 @@
   {
     "ticker": "788",
     "name": "CHINA TOWER CORP LTD H",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -6918,7 +6918,7 @@
   {
     "ticker": "NAUKRI",
     "name": "INFO EDGE INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.02
   },
@@ -7051,7 +7051,7 @@
   {
     "ticker": "TIT",
     "name": "TELECOM ITALIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.02
   },
@@ -7072,7 +7072,7 @@
   {
     "ticker": "9626",
     "name": "BILIBILI INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -7191,7 +7191,7 @@
   {
     "ticker": "ELISA",
     "name": "ELISA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Finland",
     "weight": 0.02
   },
@@ -7219,14 +7219,14 @@
   {
     "ticker": "RMV",
     "name": "RIGHTMOVE PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.02
   },
   {
     "ticker": "9602",
     "name": "TOHO (TOKYO) LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -7338,7 +7338,7 @@
   {
     "ticker": "INDUSTOWER",
     "name": "INDUS TOWERS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.02
   },
@@ -7415,7 +7415,7 @@
   {
     "ticker": "EVD",
     "name": "CTS EVENTIM AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.02
   },
@@ -7457,7 +7457,7 @@
   {
     "ticker": "SEK",
     "name": "SEEK LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -7779,7 +7779,7 @@
   {
     "ticker": "3045",
     "name": "TAIWAN MOBILE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.02
   },
@@ -8115,7 +8115,7 @@
   {
     "ticker": "T",
     "name": "TELUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.01
   },
@@ -8136,7 +8136,7 @@
   {
     "ticker": "3293",
     "name": "INTERNATIONAL GAMES SYSTEM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.01
   },
@@ -8325,7 +8325,7 @@
   {
     "ticker": "4904",
     "name": "FAR EASTONE TELECOMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.01
   },
@@ -8465,7 +8465,7 @@
   {
     "ticker": "BEZQ",
     "name": "BEZEQ ISRAELI TELECOMMUNICATION CO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Israel",
     "weight": 0.01
   },
@@ -8486,7 +8486,7 @@
   {
     "ticker": "VIVT3",
     "name": "TELEFONICA BRASIL SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.01
   },
@@ -8556,7 +8556,7 @@
   {
     "ticker": "259960",
     "name": "KRAFTON INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -8584,7 +8584,7 @@
   {
     "ticker": "AAF",
     "name": "AIRTEL AFRICA PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -8605,14 +8605,14 @@
   {
     "ticker": "TIMS3",
     "name": "TIM SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "VEND",
     "name": "VEND MARKETPLACES ASA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.01
   },
@@ -8647,7 +8647,7 @@
   {
     "ticker": "VOD",
     "name": "VODACOM GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.01
   },
@@ -9158,7 +9158,7 @@
   {
     "ticker": "QBR.B",
     "name": "QUEBECOR INC CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.01
   },
@@ -9312,7 +9312,7 @@
   {
     "ticker": "9684",
     "name": "SQUARE ENIX HLDG LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -9431,7 +9431,7 @@
   {
     "ticker": "352820",
     "name": "HYBE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -9655,7 +9655,7 @@
   {
     "ticker": "CDR",
     "name": "CD PROJEKT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.01
   },
@@ -9956,7 +9956,7 @@
   {
     "ticker": "136",
     "name": "CHINA RUYI HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10411,7 +10411,7 @@
   {
     "ticker": "ZAIN",
     "name": "MOBILE TEL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Kuwait",
     "weight": 0.01
   },
@@ -10488,7 +10488,7 @@
   {
     "ticker": "3888",
     "name": "KINGSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10509,7 +10509,7 @@
   {
     "ticker": "WPP",
     "name": "WPP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -10558,7 +10558,7 @@
   {
     "ticker": "FNTN",
     "name": "FREENET AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.01
   },
@@ -10978,7 +10978,7 @@
   {
     "ticker": "1357",
     "name": "MEITU INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -11013,7 +11013,7 @@
   {
     "ticker": "4751",
     "name": "CYBER AGENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11041,7 +11041,7 @@
   {
     "ticker": "IDEA",
     "name": "VODAFONE IDEA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -11139,7 +11139,7 @@
   {
     "ticker": "TRUE.R",
     "name": "TRUE CORPORATION NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.01
   },
@@ -11160,7 +11160,7 @@
   {
     "ticker": "TM",
     "name": "TELEKOM MALAYSIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -11244,7 +11244,7 @@
   {
     "ticker": "4324",
     "name": "DENTSU GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11370,7 +11370,7 @@
   {
     "ticker": "9412",
     "name": "SKY PERFECT JSAT HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11384,7 +11384,7 @@
   {
     "ticker": "CJLU",
     "name": "NETLINK NBN TRUST UNITS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.01
   },
@@ -11440,7 +11440,7 @@
   {
     "ticker": "8",
     "name": "PCCW LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.01
   },
@@ -11594,7 +11594,7 @@
   {
     "ticker": "ITV",
     "name": "ITV PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -11664,7 +11664,7 @@
   {
     "ticker": "SUNN",
     "name": "SUNRISE N CLASS A AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Switzerland",
     "weight": 0.01
   },
@@ -12147,7 +12147,7 @@
   {
     "ticker": "2400",
     "name": "XD INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -12161,7 +12161,7 @@
   {
     "ticker": "BOL",
     "name": "BOLLORE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -12287,7 +12287,7 @@
   {
     "ticker": "ORDS",
     "name": "OOREDOO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.01
   },
@@ -13155,7 +13155,7 @@
   {
     "ticker": "CAN",
     "name": "CANAL+ SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -13393,7 +13393,7 @@
   {
     "ticker": "HTO",
     "name": "HELLENIC TELECOMMUNICATIONS ORGANI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Greece",
     "weight": 0.01
   },
@@ -13470,7 +13470,7 @@
   {
     "ticker": "TATACOMM",
     "name": "TATA COMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -14149,7 +14149,7 @@
   {
     "ticker": "VFQS",
     "name": "VODAFONE QATAR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.01
   },
@@ -14310,7 +14310,7 @@
   {
     "ticker": "CDB",
     "name": "CELCOMDIGI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -15143,7 +15143,7 @@
   {
     "ticker": "AFFLE",
     "name": "AFFLE 3I LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -15262,7 +15262,7 @@
   {
     "ticker": "TCELL.E",
     "name": "TURKCELL ILETISIM HIZMETLERI A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Turkey",
     "weight": 0.01
   },
@@ -15416,7 +15416,7 @@
   {
     "ticker": "2371",
     "name": "KAKAKU.COM INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -15472,7 +15472,7 @@
   {
     "ticker": "9899",
     "name": "NETEASE CLOUD MUSIC INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -15682,7 +15682,7 @@
   {
     "ticker": "JOYY",
     "name": "JOYY ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -15731,7 +15731,7 @@
   {
     "ticker": "UTDI",
     "name": "UNITED INTERNET AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.01
   },
@@ -15794,7 +15794,7 @@
   {
     "ticker": "3774",
     "name": "INTERNET INITIATIVE JAPAN INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -15815,7 +15815,7 @@
   {
     "ticker": "SPK",
     "name": "SPARK NEW ZEALAND LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "New Zealand",
     "weight": 0.01
   },
@@ -15962,7 +15962,7 @@
   {
     "ticker": "036570",
     "name": "NCSOFT CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -16221,7 +16221,7 @@
   {
     "ticker": "7030",
     "name": "MOBILE TELECOMMUNICATIONS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.01
   },
@@ -16879,7 +16879,7 @@
   {
     "ticker": "002555",
     "name": "37 INTERACTIVE ENTERTAINMENT NETWO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -16907,7 +16907,7 @@
   {
     "ticker": "772",
     "name": "CHINA LITERATURE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -16921,14 +16921,14 @@
   {
     "ticker": "VIV",
     "name": "VIVENDI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
   {
     "ticker": "MTELEKOM",
     "name": "MAGYAR TELEKOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hungary",
     "weight": 0.01
   },
@@ -17061,7 +17061,7 @@
   {
     "ticker": "MAXIS",
     "name": "MAXIS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -17180,7 +17180,7 @@
   {
     "ticker": "032640",
     "name": "LG UPLUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -17782,7 +17782,7 @@
   {
     "ticker": "SESG",
     "name": "SES SA FDR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -18076,7 +18076,7 @@
   {
     "ticker": "002027",
     "name": "FOCUS MEDIA INFORMATION TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -18174,7 +18174,7 @@
   {
     "ticker": "INW",
     "name": "INFRASTRUTTURE WIRELESS ITALIANE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.01
   },
@@ -18258,7 +18258,7 @@
   {
     "ticker": "ATHM",
     "name": "AUTOHOME ADS REPRESENTING INC CLA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -18510,7 +18510,7 @@
   {
     "ticker": "9468",
     "name": "KADOKAWA CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -18650,7 +18650,7 @@
   {
     "ticker": "300413",
     "name": "MANGO EXCELLENT MEDIA LTD A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -19070,7 +19070,7 @@
   {
     "ticker": "IPS",
     "name": "IPSOS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -19210,7 +19210,7 @@
   {
     "ticker": "3635",
     "name": "KOEI TECMO HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -19336,7 +19336,7 @@
   {
     "ticker": "HEM",
     "name": "HEMNET GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.01
   },
@@ -19441,7 +19441,7 @@
   {
     "ticker": "AXIATA",
     "name": "AXIATA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.0
   },
@@ -19910,7 +19910,7 @@
   {
     "ticker": "TIMECOM",
     "name": "TIME DOTCOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.0
   },
@@ -19945,7 +19945,7 @@
   {
     "ticker": "NOS",
     "name": "NOS SGPS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Portugal",
     "weight": 0.0
   },
@@ -19959,7 +19959,7 @@
   {
     "ticker": "OPL",
     "name": "ORANGE POLSKA SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.0
   },
@@ -19994,7 +19994,7 @@
   {
     "ticker": "4210",
     "name": "SAUDI RESEARCH AND MEDIA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
@@ -20176,7 +20176,7 @@
   {
     "ticker": "035900",
     "name": "JYP ENTERTAINMENT CORPORATION CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -20218,7 +20218,7 @@
   {
     "ticker": "TEL",
     "name": "PLDT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.0
   },
@@ -20792,7 +20792,7 @@
   {
     "ticker": "1060",
     "name": "DAMAI ENTERTAINMENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -20848,7 +20848,7 @@
   {
     "ticker": "BCG",
     "name": "BALTIC CLASSIFIEDS GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -20897,7 +20897,7 @@
   {
     "ticker": "9605",
     "name": "TOEI LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21037,7 +21037,7 @@
   {
     "ticker": "2432",
     "name": "DENA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21191,7 +21191,7 @@
   {
     "ticker": "2433",
     "name": "HAKUHODO DY HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21562,7 +21562,7 @@
   {
     "ticker": "7040",
     "name": "ETIHAD ATHEEB TELECOMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
@@ -21835,7 +21835,7 @@
   {
     "ticker": "HAVAS",
     "name": "HAVAS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.0
   },
@@ -21919,7 +21919,7 @@
   {
     "ticker": "MONY",
     "name": "MONY GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -21982,7 +21982,7 @@
   {
     "ticker": "SITES1A.1",
     "name": "OPERADORA DE SITES MEXICANOSD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
@@ -22003,7 +22003,7 @@
   {
     "ticker": "600050",
     "name": "CHINA UNITED NETWORK COMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -22087,7 +22087,7 @@
   {
     "ticker": "NEC",
     "name": "NINE ENTERTAINMENT CO HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.0
   },
@@ -22143,7 +22143,7 @@
   {
     "ticker": "TKG",
     "name": "TELKOM SOC LTD SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.0
   },
@@ -22269,7 +22269,7 @@
   {
     "ticker": "SAX",
     "name": "STROEER SE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.0
   },
@@ -22346,7 +22346,7 @@
   {
     "ticker": "ALHG",
     "name": "LOUIS HACHETTE GROUP SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -22374,7 +22374,7 @@
   {
     "ticker": "HFCL",
     "name": "HFCL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -22542,7 +22542,7 @@
   {
     "ticker": "PROX",
     "name": "PROXIMUS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Belgium",
     "weight": 0.0
   },
@@ -22633,7 +22633,7 @@
   {
     "ticker": "BCE",
     "name": "BCE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.0
   },
@@ -22661,7 +22661,7 @@
   {
     "ticker": "EMBRAC B",
     "name": "EMBRACER GROUP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -22731,7 +22731,7 @@
   {
     "ticker": "1896",
     "name": "MAOYAN ENTERTAINMENT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -22808,7 +22808,7 @@
   {
     "ticker": "FOUR",
     "name": "4IMPRINT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23368,7 +23368,7 @@
   {
     "ticker": "041510",
     "name": "SM ENTERTAINMENT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -23424,7 +23424,7 @@
   {
     "ticker": "A3M",
     "name": "ATRESMEDIA CORPORACION DE MEDIOS D",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.0
   },
@@ -23438,14 +23438,14 @@
   {
     "ticker": "TLEVISACPO",
     "name": "GRUPO TELEVISA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
   {
     "ticker": "GAMA",
     "name": "GAMMA COMMUNICATIONS PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23473,7 +23473,7 @@
   {
     "ticker": "PVRINOX",
     "name": "PVR INOX LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -23501,7 +23501,7 @@
   {
     "ticker": "TRST",
     "name": "TRUSTPILOT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23578,7 +23578,7 @@
   {
     "ticker": "CCA",
     "name": "COGECO COMMUNICATIONS SUBORDINATE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.0
   },
@@ -23655,7 +23655,7 @@
   {
     "ticker": "DEC",
     "name": "JCDECAUX",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -23788,7 +23788,7 @@
   {
     "ticker": "9601",
     "name": "SHOCHIKU LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -23802,7 +23802,7 @@
   {
     "ticker": "MOMO",
     "name": "HELLO GROUP ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -23830,7 +23830,7 @@
   {
     "ticker": "MFEA",
     "name": "MFE-MEDIAFOREUROPE NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -23907,7 +23907,7 @@
   {
     "ticker": "MTG B",
     "name": "MODERN TIMES GROUP MTG CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -24103,7 +24103,7 @@
   {
     "ticker": "EXCL",
     "name": "XLSMART TELECOM SEJAHTERA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.0
   },
@@ -24124,7 +24124,7 @@
   {
     "ticker": "RAILTEL",
     "name": "RAILTEL CORP OF INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -24215,14 +24215,14 @@
   {
     "ticker": "4071",
     "name": "ARABIAN CONTRACTING SERVICES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "TOWR",
     "name": "SARANA MENARA NUSANTARA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.0
   },
@@ -24264,7 +24264,7 @@
   {
     "ticker": "030000",
     "name": "CHEIL WORLDWIDE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -24446,7 +24446,7 @@
   {
     "ticker": "ENTEL",
     "name": "EMPRESA NACIONAL DE TELECOMUNICACI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Chile",
     "weight": 0.0
   },
@@ -24551,7 +24551,7 @@
   {
     "ticker": "4816",
     "name": "TOEI ANIMATION LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -24684,7 +24684,7 @@
   {
     "ticker": "IQ",
     "name": "IQIYI ADS REPRESENTING CLASS A IN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -25167,7 +25167,7 @@
   {
     "ticker": "ZEEL",
     "name": "ZEE ENTERTAINMENT ENTERPRISES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -25188,7 +25188,7 @@
   {
     "ticker": "FUTR",
     "name": "FUTURE PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -25552,7 +25552,7 @@
   {
     "ticker": "CPS",
     "name": "CYFROWY POLSAT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.0
   },
@@ -25783,7 +25783,7 @@
   {
     "ticker": "3765",
     "name": "GUNGHO ONLINE ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -25923,7 +25923,7 @@
   {
     "ticker": "251270",
     "name": "NETMARBLE CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26063,7 +26063,7 @@
   {
     "ticker": "UBI",
     "name": "UBISOFT ENTERTAINMENT SA CAT A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -26168,7 +26168,7 @@
   {
     "ticker": "263750",
     "name": "PEARLABYSS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26294,7 +26294,7 @@
   {
     "ticker": "WB",
     "name": "WEIBO ADR REPRESENTING CLASS A CO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -26490,14 +26490,14 @@
   {
     "ticker": "7458",
     "name": "DAIICHIKOSHO LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "2121",
     "name": "MIXI INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -26539,7 +26539,7 @@
   {
     "ticker": "122870",
     "name": "YG ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26679,7 +26679,7 @@
   {
     "ticker": "KIN",
     "name": "KINEPOLIS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Belgium",
     "weight": 0.0
   },
@@ -26735,7 +26735,7 @@
   {
     "ticker": "MEGACPO",
     "name": "MEGACABLE HOLDINGS CPO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
@@ -26840,7 +26840,7 @@
   {
     "ticker": "017670",
     "name": "SK TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26938,7 +26938,7 @@
   {
     "ticker": "TFI",
     "name": "TELEVISION FRANCAISE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -27197,7 +27197,7 @@
   {
     "ticker": "PSM",
     "name": "PROSIEBEN SAT.1 MEDIA N",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.0
   },
@@ -27505,7 +27505,7 @@
   {
     "ticker": "777",
     "name": "NETDRAGON WEBSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -27519,7 +27519,7 @@
   {
     "ticker": "PDX",
     "name": "PARADOX INTERACTIVE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -27638,7 +27638,7 @@
   {
     "ticker": "JUVE",
     "name": "JUVENTUS FOOTBAL CLUB",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -27785,7 +27785,7 @@
   {
     "ticker": "VGI.R",
     "name": "VGI NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.0
   },
@@ -27834,7 +27834,7 @@
   {
     "ticker": "TTML",
     "name": "TATA TELESERVICES MAHARASHTRA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -27953,7 +27953,7 @@
   {
     "ticker": "067160",
     "name": "SOOP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28072,7 +28072,7 @@
   {
     "ticker": "ETL",
     "name": "EUTELSAT COMMUNICATIONS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -28198,7 +28198,7 @@
   {
     "ticker": "CNVRG",
     "name": "CONVERGE INFORMATION & COMMUNICATI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.0
   },
@@ -28219,7 +28219,7 @@
   {
     "ticker": "CC3",
     "name": "STARHUB LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.0
   },
@@ -28331,7 +28331,7 @@
   {
     "ticker": "112040",
     "name": "WEM ADE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28450,7 +28450,7 @@
   {
     "ticker": "225570",
     "name": "NEXON GAMES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28548,7 +28548,7 @@
   {
     "ticker": "293490",
     "name": "KAKAO GAMES CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28590,7 +28590,7 @@
   {
     "ticker": "MMT",
     "name": "METROPOLE TELEVISION SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -28618,7 +28618,7 @@
   {
     "ticker": "215",
     "name": "HUTCHISON TELECOMMUNICATIONS HONG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.0
   },
@@ -28681,7 +28681,7 @@
   {
     "ticker": "315",
     "name": "SMARTONE TELECOMMUNICATIONS HOLDIN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.0
   },
@@ -28737,7 +28737,7 @@
   {
     "ticker": "035760",
     "name": "CJ ENM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28772,7 +28772,7 @@
   {
     "ticker": "079160",
     "name": "CJ CGV LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28814,7 +28814,7 @@
   {
     "ticker": "YOU",
     "name": "YOUGOV PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -28933,7 +28933,7 @@
   {
     "ticker": "3632",
     "name": "GREE HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -28947,7 +28947,7 @@
   {
     "ticker": "MFEB",
     "name": "MFE B NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -29255,7 +29255,7 @@
   {
     "ticker": "-",
     "name": "VEND MARKETPLACES RIGHTS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.0
   },
@@ -29521,7 +29521,7 @@
   {
     "ticker": "VKCO",
     "name": "VK COMPANY LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29549,7 +29549,7 @@
   {
     "ticker": "MTSS",
     "name": "MOBILNYE TELESISTEMY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29591,7 +29591,7 @@
   {
     "ticker": "AFKS",
     "name": "AFK SISTEMA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29643,19 +29643,5 @@
     "sector": "Cash and/or Derivatives",
     "country": "United States",
     "weight": -0.21
-  },
-  {
-    "ticker": "\u00a0",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
-  },
-  {
-    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
   }
 ]

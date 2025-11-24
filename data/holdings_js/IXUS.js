@@ -10,7 +10,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "700",
     "name": "TENCENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 1.39
   },
@@ -262,7 +262,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9984",
     "name": "SOFTBANK GROUP CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.31
   },
@@ -297,7 +297,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "DTE",
     "name": "DEUTSCHE TELEKOM N AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.29
   },
@@ -367,7 +367,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SPOT",
     "name": "SPOTIFY TECHNOLOGY SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.27
   },
@@ -402,7 +402,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7974",
     "name": "NINTENDO LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.25
   },
@@ -703,7 +703,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BHARTIARTL",
     "name": "BHARTI AIRTEL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.17
   },
@@ -878,7 +878,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9433",
     "name": "KDDI CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.14
   },
@@ -976,7 +976,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9999",
     "name": "NETEASE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.13
   },
@@ -1079,7 +1079,7 @@ window.ETF_HOLDINGS['IXUS'] = [
     "weight": 0.12
   },
   {
-    "ticker": NaN,
+    "ticker": "NAN",
     "name": "NATIONAL BANK OF CANADA",
     "sector": "Financials",
     "country": "Canada",
@@ -1214,7 +1214,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9434",
     "name": "SOFTBANK CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.11
   },
@@ -1522,7 +1522,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9888",
     "name": "BAIDU CLASS A INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.09
   },
@@ -1683,14 +1683,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ORA",
     "name": "ORANGE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.08
   },
   {
     "ticker": "Z74",
     "name": "SINGAPORE TELECOMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.08
   },
@@ -1774,7 +1774,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9432",
     "name": "NTT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.08
   },
@@ -1795,7 +1795,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "UMG",
     "name": "UNIVERSAL MUSIC GROUP NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.08
   },
@@ -2068,7 +2068,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "035420",
     "name": "NAVER CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.07
   },
@@ -2089,7 +2089,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VOD",
     "name": "VODAFONE GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.07
   },
@@ -2159,7 +2159,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7010",
     "name": "SAUDI TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.06
   },
@@ -2285,7 +2285,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "1024",
     "name": "KUAISHOU TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.06
   },
@@ -2362,7 +2362,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "PUB",
     "name": "PUBLICIS GROUPE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.06
   },
@@ -2397,7 +2397,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AMXB",
     "name": "AMERICA MOVIL B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.06
   },
@@ -2705,7 +2705,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SCMN",
     "name": "SWISSCOM AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Switzerland",
     "weight": 0.05
   },
@@ -2992,14 +2992,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "INF",
     "name": "INFORMA PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.05
   },
   {
     "ticker": "EAND",
     "name": "EMIRATES TELECOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Arab Emirates",
     "weight": 0.05
   },
@@ -3013,14 +3013,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MTN",
     "name": "MTN GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.05
   },
   {
     "ticker": "KPN",
     "name": "KONINKLIJKE KPN NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.05
   },
@@ -3244,7 +3244,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TEF",
     "name": "TELEFONICA SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.04
   },
@@ -3321,7 +3321,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9766",
     "name": "KONAMI GROUP CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.04
   },
@@ -3384,7 +3384,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CLNX",
     "name": "CELLNEX TELECOM SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.04
   },
@@ -3398,7 +3398,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BT.A",
     "name": "BT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.04
   },
@@ -3433,7 +3433,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "2412",
     "name": "CHUNGHWA TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.04
   },
@@ -3860,7 +3860,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TLS",
     "name": "TELSTRA GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.03
   },
@@ -3951,7 +3951,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "035720",
     "name": "KAKAO CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.03
   },
@@ -4000,7 +4000,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "RCI.B",
     "name": "ROGERS COMMUNICATIONS NON-VOTING I",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.03
   },
@@ -4140,7 +4140,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ADVANC.R",
     "name": "ADVANCED INFO SERVICE NON-VOTING D",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.03
   },
@@ -4196,7 +4196,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TLKM",
     "name": "TELEKOMUNIKASI INDONESIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.03
   },
@@ -4434,7 +4434,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TME",
     "name": "TENCENT MUSIC ENTERTAINMENT GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.03
   },
@@ -5330,7 +5330,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TEL",
     "name": "TELENOR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.02
   },
@@ -5400,7 +5400,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TELIA",
     "name": "TELIA COMPANY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -5414,7 +5414,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TEL2 B",
     "name": "TELE2 B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -5589,7 +5589,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CAR",
     "name": "CAR GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -5610,7 +5610,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9697",
     "name": "CAPCOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -5708,7 +5708,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "G24",
     "name": "SCOUT24 N",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.02
   },
@@ -5792,7 +5792,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AUTO",
     "name": "AUTO TRADER GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.02
   },
@@ -6163,7 +6163,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3659",
     "name": "NEXON LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -6191,7 +6191,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4689",
     "name": "LY CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -6450,7 +6450,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7020",
     "name": "ETIHAD ETISALAT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.02
   },
@@ -6471,7 +6471,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TIGO",
     "name": "MILLICOM INTERNATIONAL CELLULAR SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.02
   },
@@ -6485,7 +6485,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "REA",
     "name": "REA GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -6569,7 +6569,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "6823",
     "name": "HKT TRUST AND HKT UNITS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.02
   },
@@ -6786,7 +6786,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "788",
     "name": "CHINA TOWER CORP LTD H",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -6919,7 +6919,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "NAUKRI",
     "name": "INFO EDGE INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.02
   },
@@ -7052,7 +7052,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TIT",
     "name": "TELECOM ITALIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.02
   },
@@ -7073,7 +7073,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9626",
     "name": "BILIBILI INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.02
   },
@@ -7192,7 +7192,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ELISA",
     "name": "ELISA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Finland",
     "weight": 0.02
   },
@@ -7220,14 +7220,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "RMV",
     "name": "RIGHTMOVE PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.02
   },
   {
     "ticker": "9602",
     "name": "TOHO (TOKYO) LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.02
   },
@@ -7339,7 +7339,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "INDUSTOWER",
     "name": "INDUS TOWERS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.02
   },
@@ -7416,7 +7416,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "EVD",
     "name": "CTS EVENTIM AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.02
   },
@@ -7458,7 +7458,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SEK",
     "name": "SEEK LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.02
   },
@@ -7780,7 +7780,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3045",
     "name": "TAIWAN MOBILE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.02
   },
@@ -8116,7 +8116,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "T",
     "name": "TELUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.01
   },
@@ -8137,7 +8137,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3293",
     "name": "INTERNATIONAL GAMES SYSTEM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.01
   },
@@ -8326,7 +8326,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4904",
     "name": "FAR EASTONE TELECOMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Taiwan",
     "weight": 0.01
   },
@@ -8466,7 +8466,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BEZQ",
     "name": "BEZEQ ISRAELI TELECOMMUNICATION CO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Israel",
     "weight": 0.01
   },
@@ -8487,7 +8487,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VIVT3",
     "name": "TELEFONICA BRASIL SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.01
   },
@@ -8557,7 +8557,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "259960",
     "name": "KRAFTON INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -8585,7 +8585,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AAF",
     "name": "AIRTEL AFRICA PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -8606,14 +8606,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TIMS3",
     "name": "TIM SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "VEND",
     "name": "VEND MARKETPLACES ASA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.01
   },
@@ -8648,7 +8648,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VOD",
     "name": "VODACOM GROUP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.01
   },
@@ -9159,7 +9159,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "QBR.B",
     "name": "QUEBECOR INC CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.01
   },
@@ -9313,7 +9313,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9684",
     "name": "SQUARE ENIX HLDG LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -9432,7 +9432,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "352820",
     "name": "HYBE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -9656,7 +9656,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CDR",
     "name": "CD PROJEKT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.01
   },
@@ -9957,7 +9957,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "136",
     "name": "CHINA RUYI HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10412,7 +10412,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ZAIN",
     "name": "MOBILE TEL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Kuwait",
     "weight": 0.01
   },
@@ -10489,7 +10489,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3888",
     "name": "KINGSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -10510,7 +10510,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "WPP",
     "name": "WPP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -10559,7 +10559,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "FNTN",
     "name": "FREENET AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.01
   },
@@ -10979,7 +10979,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "1357",
     "name": "MEITU INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -11014,7 +11014,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4751",
     "name": "CYBER AGENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11042,7 +11042,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "IDEA",
     "name": "VODAFONE IDEA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -11140,7 +11140,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TRUE.R",
     "name": "TRUE CORPORATION NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.01
   },
@@ -11161,7 +11161,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TM",
     "name": "TELEKOM MALAYSIA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -11245,7 +11245,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4324",
     "name": "DENTSU GROUP INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11371,7 +11371,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9412",
     "name": "SKY PERFECT JSAT HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -11385,7 +11385,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CJLU",
     "name": "NETLINK NBN TRUST UNITS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.01
   },
@@ -11441,7 +11441,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "8",
     "name": "PCCW LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.01
   },
@@ -11595,7 +11595,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ITV",
     "name": "ITV PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -11665,7 +11665,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SUNN",
     "name": "SUNRISE N CLASS A AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Switzerland",
     "weight": 0.01
   },
@@ -12148,7 +12148,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "2400",
     "name": "XD INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -12162,7 +12162,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BOL",
     "name": "BOLLORE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -12288,7 +12288,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ORDS",
     "name": "OOREDOO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.01
   },
@@ -13156,7 +13156,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CAN",
     "name": "CANAL+ SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.01
   },
@@ -13394,7 +13394,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "HTO",
     "name": "HELLENIC TELECOMMUNICATIONS ORGANI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Greece",
     "weight": 0.01
   },
@@ -13471,7 +13471,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TATACOMM",
     "name": "TATA COMMUNICATIONS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -14150,7 +14150,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VFQS",
     "name": "VODAFONE QATAR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Qatar",
     "weight": 0.01
   },
@@ -14311,7 +14311,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CDB",
     "name": "CELCOMDIGI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -15144,7 +15144,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AFFLE",
     "name": "AFFLE 3I LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.01
   },
@@ -15263,7 +15263,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TCELL.E",
     "name": "TURKCELL ILETISIM HIZMETLERI A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Turkey",
     "weight": 0.01
   },
@@ -15417,7 +15417,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "2371",
     "name": "KAKAKU.COM INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -15473,7 +15473,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9899",
     "name": "NETEASE CLOUD MUSIC INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -15683,7 +15683,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "JOYY",
     "name": "JOYY ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -15732,7 +15732,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "UTDI",
     "name": "UNITED INTERNET AG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.01
   },
@@ -15795,7 +15795,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3774",
     "name": "INTERNET INITIATIVE JAPAN INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -15816,7 +15816,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SPK",
     "name": "SPARK NEW ZEALAND LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "New Zealand",
     "weight": 0.01
   },
@@ -15963,7 +15963,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "036570",
     "name": "NCSOFT CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -16222,7 +16222,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7030",
     "name": "MOBILE TELECOMMUNICATIONS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.01
   },
@@ -16880,7 +16880,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "002555",
     "name": "37 INTERACTIVE ENTERTAINMENT NETWO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -16908,7 +16908,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "772",
     "name": "CHINA LITERATURE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -16922,14 +16922,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VIV",
     "name": "VIVENDI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
   {
     "ticker": "MTELEKOM",
     "name": "MAGYAR TELEKOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hungary",
     "weight": 0.01
   },
@@ -17062,7 +17062,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MAXIS",
     "name": "MAXIS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.01
   },
@@ -17181,7 +17181,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "032640",
     "name": "LG UPLUS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.01
   },
@@ -17783,7 +17783,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SESG",
     "name": "SES SA FDR",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -18077,7 +18077,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "002027",
     "name": "FOCUS MEDIA INFORMATION TECHNOLOGY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -18175,7 +18175,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "INW",
     "name": "INFRASTRUTTURE WIRELESS ITALIANE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.01
   },
@@ -18259,7 +18259,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ATHM",
     "name": "AUTOHOME ADS REPRESENTING INC CLA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -18511,7 +18511,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9468",
     "name": "KADOKAWA CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -18651,7 +18651,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "300413",
     "name": "MANGO EXCELLENT MEDIA LTD A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.01
   },
@@ -19071,7 +19071,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "IPS",
     "name": "IPSOS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.01
   },
@@ -19211,7 +19211,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3635",
     "name": "KOEI TECMO HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.01
   },
@@ -19337,7 +19337,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "HEM",
     "name": "HEMNET GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.01
   },
@@ -19442,7 +19442,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AXIATA",
     "name": "AXIATA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.0
   },
@@ -19911,7 +19911,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TIMECOM",
     "name": "TIME DOTCOM",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Malaysia",
     "weight": 0.0
   },
@@ -19946,7 +19946,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "NOS",
     "name": "NOS SGPS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Portugal",
     "weight": 0.0
   },
@@ -19960,7 +19960,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "OPL",
     "name": "ORANGE POLSKA SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.0
   },
@@ -19995,7 +19995,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4210",
     "name": "SAUDI RESEARCH AND MEDIA GROUP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
@@ -20177,7 +20177,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "035900",
     "name": "JYP ENTERTAINMENT CORPORATION CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -20219,7 +20219,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TEL",
     "name": "PLDT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.0
   },
@@ -20793,7 +20793,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "1060",
     "name": "DAMAI ENTERTAINMENT HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -20849,7 +20849,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BCG",
     "name": "BALTIC CLASSIFIEDS GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -20898,7 +20898,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9605",
     "name": "TOEI LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21038,7 +21038,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "2432",
     "name": "DENA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21192,7 +21192,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "2433",
     "name": "HAKUHODO DY HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -21563,7 +21563,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7040",
     "name": "ETIHAD ATHEEB TELECOMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
@@ -21836,7 +21836,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "HAVAS",
     "name": "HAVAS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Netherlands",
     "weight": 0.0
   },
@@ -21920,7 +21920,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MONY",
     "name": "MONY GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -21983,7 +21983,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SITES1A.1",
     "name": "OPERADORA DE SITES MEXICANOSD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
@@ -22004,7 +22004,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "600050",
     "name": "CHINA UNITED NETWORK COMMUNICATION",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -22088,7 +22088,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "NEC",
     "name": "NINE ENTERTAINMENT CO HOLDINGS LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Australia",
     "weight": 0.0
   },
@@ -22144,7 +22144,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TKG",
     "name": "TELKOM SOC LTD SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "South Africa",
     "weight": 0.0
   },
@@ -22270,7 +22270,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "SAX",
     "name": "STROEER SE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.0
   },
@@ -22347,7 +22347,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ALHG",
     "name": "LOUIS HACHETTE GROUP SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -22375,7 +22375,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "HFCL",
     "name": "HFCL LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -22543,7 +22543,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "PROX",
     "name": "PROXIMUS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Belgium",
     "weight": 0.0
   },
@@ -22634,7 +22634,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "BCE",
     "name": "BCE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.0
   },
@@ -22662,7 +22662,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "EMBRAC B",
     "name": "EMBRACER GROUP CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -22732,7 +22732,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "1896",
     "name": "MAOYAN ENTERTAINMENT",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -22809,7 +22809,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "FOUR",
     "name": "4IMPRINT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23369,7 +23369,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "041510",
     "name": "SM ENTERTAINMENT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -23425,7 +23425,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "A3M",
     "name": "ATRESMEDIA CORPORACION DE MEDIOS D",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Spain",
     "weight": 0.0
   },
@@ -23439,14 +23439,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TLEVISACPO",
     "name": "GRUPO TELEVISA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
   {
     "ticker": "GAMA",
     "name": "GAMMA COMMUNICATIONS PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23474,7 +23474,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "PVRINOX",
     "name": "PVR INOX LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -23502,7 +23502,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TRST",
     "name": "TRUSTPILOT GROUP PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -23579,7 +23579,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CCA",
     "name": "COGECO COMMUNICATIONS SUBORDINATE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Canada",
     "weight": 0.0
   },
@@ -23656,7 +23656,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "DEC",
     "name": "JCDECAUX",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -23789,7 +23789,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "9601",
     "name": "SHOCHIKU LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -23803,7 +23803,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MOMO",
     "name": "HELLO GROUP ADR INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -23831,7 +23831,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MFEA",
     "name": "MFE-MEDIAFOREUROPE NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -23908,7 +23908,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MTG B",
     "name": "MODERN TIMES GROUP MTG CLASS B",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -24104,7 +24104,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "EXCL",
     "name": "XLSMART TELECOM SEJAHTERA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.0
   },
@@ -24125,7 +24125,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "RAILTEL",
     "name": "RAILTEL CORP OF INDIA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -24216,14 +24216,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4071",
     "name": "ARABIAN CONTRACTING SERVICES",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "TOWR",
     "name": "SARANA MENARA NUSANTARA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Indonesia",
     "weight": 0.0
   },
@@ -24265,7 +24265,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "030000",
     "name": "CHEIL WORLDWIDE INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -24447,7 +24447,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ENTEL",
     "name": "EMPRESA NACIONAL DE TELECOMUNICACI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Chile",
     "weight": 0.0
   },
@@ -24552,7 +24552,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "4816",
     "name": "TOEI ANIMATION LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -24685,7 +24685,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "IQ",
     "name": "IQIYI ADS REPRESENTING CLASS A IN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -25168,7 +25168,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ZEEL",
     "name": "ZEE ENTERTAINMENT ENTERPRISES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -25189,7 +25189,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "FUTR",
     "name": "FUTURE PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -25553,7 +25553,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CPS",
     "name": "CYFROWY POLSAT SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Poland",
     "weight": 0.0
   },
@@ -25784,7 +25784,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3765",
     "name": "GUNGHO ONLINE ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -25924,7 +25924,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "251270",
     "name": "NETMARBLE CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26064,7 +26064,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "UBI",
     "name": "UBISOFT ENTERTAINMENT SA CAT A",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -26169,7 +26169,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "263750",
     "name": "PEARLABYSS CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26295,7 +26295,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "WB",
     "name": "WEIBO ADR REPRESENTING CLASS A CO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -26491,14 +26491,14 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "7458",
     "name": "DAIICHIKOSHO LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "2121",
     "name": "MIXI INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -26540,7 +26540,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "122870",
     "name": "YG ENTERTAINMENT INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26680,7 +26680,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "KIN",
     "name": "KINEPOLIS NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Belgium",
     "weight": 0.0
   },
@@ -26736,7 +26736,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MEGACPO",
     "name": "MEGACABLE HOLDINGS CPO",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Mexico",
     "weight": 0.0
   },
@@ -26841,7 +26841,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "017670",
     "name": "SK TELECOM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -26939,7 +26939,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TFI",
     "name": "TELEVISION FRANCAISE SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -27198,7 +27198,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "PSM",
     "name": "PROSIEBEN SAT.1 MEDIA N",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Germany",
     "weight": 0.0
   },
@@ -27506,7 +27506,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "777",
     "name": "NETDRAGON WEBSOFT LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "China",
     "weight": 0.0
   },
@@ -27520,7 +27520,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "PDX",
     "name": "PARADOX INTERACTIVE",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Sweden",
     "weight": 0.0
   },
@@ -27639,7 +27639,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "JUVE",
     "name": "JUVENTUS FOOTBAL CLUB",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -27786,7 +27786,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VGI.R",
     "name": "VGI NON-VOTING DR PCL",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Thailand",
     "weight": 0.0
   },
@@ -27835,7 +27835,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "TTML",
     "name": "TATA TELESERVICES MAHARASHTRA LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "India",
     "weight": 0.0
   },
@@ -27954,7 +27954,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "067160",
     "name": "SOOP LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28073,7 +28073,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "ETL",
     "name": "EUTELSAT COMMUNICATIONS SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -28199,7 +28199,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CNVRG",
     "name": "CONVERGE INFORMATION & COMMUNICATI",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Philippines",
     "weight": 0.0
   },
@@ -28220,7 +28220,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "CC3",
     "name": "STARHUB LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Singapore",
     "weight": 0.0
   },
@@ -28332,7 +28332,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "112040",
     "name": "WEM ADE LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28451,7 +28451,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "225570",
     "name": "NEXON GAMES LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28549,7 +28549,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "293490",
     "name": "KAKAO GAMES CORP",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28591,7 +28591,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MMT",
     "name": "METROPOLE TELEVISION SA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "France",
     "weight": 0.0
   },
@@ -28619,7 +28619,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "215",
     "name": "HUTCHISON TELECOMMUNICATIONS HONG",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.0
   },
@@ -28682,7 +28682,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "315",
     "name": "SMARTONE TELECOMMUNICATIONS HOLDIN",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Hong Kong",
     "weight": 0.0
   },
@@ -28738,7 +28738,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "035760",
     "name": "CJ ENM LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28773,7 +28773,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "079160",
     "name": "CJ CGV LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Korea (South)",
     "weight": 0.0
   },
@@ -28815,7 +28815,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "YOU",
     "name": "YOUGOV PLC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "United Kingdom",
     "weight": 0.0
   },
@@ -28934,7 +28934,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "3632",
     "name": "GREE HOLDINGS INC",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Japan",
     "weight": 0.0
   },
@@ -28948,7 +28948,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MFEB",
     "name": "MFE B NV",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Italy",
     "weight": 0.0
   },
@@ -29256,7 +29256,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "-",
     "name": "VEND MARKETPLACES RIGHTS",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Norway",
     "weight": 0.0
   },
@@ -29522,7 +29522,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "VKCO",
     "name": "VK COMPANY LTD",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29550,7 +29550,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "MTSS",
     "name": "MOBILNYE TELESISTEMY",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29592,7 +29592,7 @@ window.ETF_HOLDINGS['IXUS'] = [
   {
     "ticker": "AFKS",
     "name": "AFK SISTEMA",
-    "sector": "Communication",
+    "sector": "Communication Services",
     "country": "Russian Federation",
     "weight": 0.0
   },
@@ -29644,19 +29644,5 @@ window.ETF_HOLDINGS['IXUS'] = [
     "sector": "Cash and/or Derivatives",
     "country": "United States",
     "weight": -0.21
-  },
-  {
-    "ticker": "\u00a0",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
-  },
-  {
-    "ticker": "The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.\nHoldings subject to change. See www.iShares.com for the most recent funds holdings.\nThe values for \u201cprice\u201d shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (\u201cthe vendor price\u201d). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the \u201cvaluation price\u201d). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for \u201cmarket value,\u201d \u201cweight,\u201d and \u201cnotional value\u201d (the \u201ccalculated values\u201d) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.\nPlease see the \u201cDetermination of Net Asset Value\u201d section of each Fund\u2019s prospectus for additional information on the Fund\u2019s valuation policies and procedures.\nCAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.\nThis information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.\nThis material is strictly for illustrative, educational, or informational purposes and is subject to change.\nThe Funds are distributed by BlackRock Investments, LLC (together with its affiliates, \u201cBlackRock\u201d).\nThe iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (\u201cEPRA\u00ae \u201d), FTSE International Limited (\u201cFTSE\u201d), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (\u201cLSEG\u201d), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (\u201cNAREIT\u201d), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. \u201cFTSE\u00ae\u201d is a trademark of London Stock Exchange Group companies and is used by FTSE under license.\n\u00a92023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.",
-    "name": NaN,
-    "sector": NaN,
-    "country": NaN,
-    "weight": 0.0
   }
 ];

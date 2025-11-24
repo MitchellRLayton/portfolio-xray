@@ -1,0 +1,22 @@
+{
+  "ticker": "XLE",
+  "holdings_count": 110,
+  "total_weight": 99.45,
+  "sector_allocation": {
+    "Energy": 99.83,
+    "Unknown": 0.17,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 85.06,
+    "Colombia": 6.7,
+    "Sweden": 2.54,
+    "Canada": 1.93,
+    "India": 1.58,
+    "Indonesia": 1.38,
+    "Australia": 0.62,
+    "Unknown": 0.17
+  },
+  "sector_coverage_pct": 99.83,
+  "country_coverage_pct": 99.83
+}

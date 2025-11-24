@@ -1,0 +1,20 @@
+{
+  "ticker": "XLU",
+  "holdings_count": 119,
+  "total_weight": 99.69,
+  "sector_allocation": {
+    "Utilities": 99.95,
+    "Unknown": 0.05,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 91.51,
+    "Kuwait": 4.38,
+    "Germany": 2.08,
+    "Canada": 1.98,
+    "Unknown": 0.05,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.95,
+  "country_coverage_pct": 99.95
+}

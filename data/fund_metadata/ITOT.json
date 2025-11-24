@@ -1,0 +1,29 @@
+{
+  "ticker": "ITOT",
+  "holdings_count": 2505,
+  "total_weight": 98.46,
+  "sector_allocation": {
+    "Information Technology": 33.18,
+    "Financials": 13.23,
+    "Consumer Discretionary": 10.13,
+    "Health Care": 10.03,
+    "Communication Services": 9.58,
+    "Industrials": 9.32,
+    "Consumer Staples": 4.59,
+    "Energy": 3.05,
+    "Utilities": 2.4,
+    "Real Estate": 2.23,
+    "Materials": 1.98,
+    "Cash and/or Derivatives": 0.27
+  },
+  "country_allocation": {
+    "United States": 99.93,
+    "Switzerland": 0.04,
+    "Canada": 0.03,
+    "Sweden": 0.0,
+    "-": 0.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "XLY",
+  "holdings_count": 137,
+  "total_weight": 99.96,
+  "sector_allocation": {
+    "Consumer Discretionary": 99.94,
+    "Unknown": 0.06,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 97.15,
+    "United Kingdom": 1.33,
+    "India": 0.7,
+    "Spain": 0.56,
+    "Indonesia": 0.2,
+    "Unknown": 0.06,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.94,
+  "country_coverage_pct": 99.94
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "XLK",
+  "holdings_count": 157,
+  "total_weight": 99.99,
+  "sector_allocation": {
+    "Information Technology": 97.66,
+    "Industrials": 1.63,
+    "Communication Services": 0.63,
+    "Unknown": 0.08,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 98.79,
+    "Norway": 0.63,
+    "India": 0.19,
+    "Italy": 0.17,
+    "United Kingdom": 0.14,
+    "Unknown": 0.08,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.92,
+  "country_coverage_pct": 99.92
+}

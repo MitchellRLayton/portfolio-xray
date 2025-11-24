@@ -1,0 +1,22 @@
+{
+  "ticker": "XLP",
+  "holdings_count": 125,
+  "total_weight": 99.87,
+  "sector_allocation": {
+    "Consumer Staples": 96.67,
+    "Consumer Discretionary": 2.74,
+    "Unknown": 0.59,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 92.29,
+    "France": 3.02,
+    "United Kingdom": 1.98,
+    "Canada": 1.53,
+    "Austria": 0.92,
+    "Unknown": 0.26,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.41,
+  "country_coverage_pct": 99.74
+}

@@ -1,0 +1,39 @@
+{
+  "ticker": "VTV",
+  "holdings_count": 314,
+  "total_weight": 99.47,
+  "sector_allocation": {
+    "Financials": 23.46,
+    "Health Care": 15.54,
+    "Industrials": 13.85,
+    "Information Technology": 10.03,
+    "Consumer Staples": 9.4,
+    "Energy": 6.76,
+    "Utilities": 5.5,
+    "Consumer Discretionary": 5.06,
+    "Communication Services": 3.79,
+    "Materials": 3.07,
+    "Real Estate": 2.72,
+    "Unknown": 0.81
+  },
+  "country_allocation": {
+    "United States": 93.62,
+    "Germany": 1.43,
+    "Canada": 1.14,
+    "Australia": 0.99,
+    "Colombia": 0.48,
+    "Italy": 0.41,
+    "United Kingdom": 0.41,
+    "Norway": 0.32,
+    "France": 0.27,
+    "Kuwait": 0.26,
+    "Poland": 0.22,
+    "India": 0.22,
+    "Spain": 0.1,
+    "South Africa": 0.07,
+    "Indonesia": 0.04,
+    "Greece": 0.02
+  },
+  "sector_coverage_pct": 99.19,
+  "country_coverage_pct": 100
+}

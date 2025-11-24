@@ -1,0 +1,25 @@
+{
+  "ticker": "QUAL",
+  "holdings_count": 129,
+  "total_weight": 99.97,
+  "sector_allocation": {
+    "Information Technology": 34.74,
+    "Financials": 12.04,
+    "Health Care": 11.09,
+    "Communication Services": 10.4,
+    "Consumer Discretionary": 9.39,
+    "Industrials": 8.12,
+    "Consumer Staples": 5.06,
+    "Energy": 2.84,
+    "Utilities": 2.39,
+    "Real Estate": 1.93,
+    "Materials": 1.75,
+    "Cash and/or Derivatives": 0.23
+  },
+  "country_allocation": {
+    "United States": 100.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

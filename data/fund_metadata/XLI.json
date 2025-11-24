@@ -1,0 +1,23 @@
+{
+  "ticker": "XLI",
+  "holdings_count": 167,
+  "total_weight": 99.87,
+  "sector_allocation": {
+    "Industrials": 95.03,
+    "Consumer Discretionary": 4.14,
+    "Energy": 0.55,
+    "Financials": 0.27,
+    "Unknown": 0.01,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 95.41,
+    "France": 2.21,
+    "Australia": 1.56,
+    "Canada": 0.55,
+    "India": 0.27,
+    "Unknown": 0.01
+  },
+  "sector_coverage_pct": 99.99,
+  "country_coverage_pct": 99.99
+}

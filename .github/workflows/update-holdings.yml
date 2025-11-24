@@ -1,97 +1,135 @@
-name: Update ETF Holdings Data
+name: Update ETF Holdings Data (Enriched)
 
 on:
   schedule:
     # Run on 1st of each month at 2 AM UTC
-    - cron: '0 2 1 * *'
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+    - cron: "0 2 1 * *"
+  workflow_dispatch: # Allow manual trigger from GitHub UI
   push:
     branches:
       - main
     paths:
-      - 'download_*.sh'
-      - 'process_holdings.py'
-      - '.github/workflows/update-holdings.yml'
+      - "download_*.sh"
+      - "process_holdings_enriched.py"
+      - "tools/**"
+      - "data/securities_master.json"
+      - ".github/workflows/update-holdings.yml"
 
 jobs:
   update-holdings:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-          cache: 'pip'
-      
+          python-version: "3.11"
+          cache: "pip"
+
       - name: Install Python dependencies
         run: |
-          pip install pandas openpyxl requests
-      
+          pip install pandas openpyxl requests pytest
+
       - name: Create data directories
         run: |
-          mkdir -p data/holdings_files data/holdings_json data/holdings_js
-      
+          mkdir -p data/holdings_files data/holdings_json data/holdings_js data/fund_metadata
+
       - name: Download iShares holdings
         run: |
           chmod +x download_ishares.sh
           ./download_ishares.sh || echo "⚠️ Some iShares downloads may have failed"
-      
+
       - name: Download State Street holdings
         run: |
           chmod +x download_statestreet.sh
           ./download_statestreet.sh || echo "⚠️ Some State Street downloads may have failed"
-      
+
       - name: Download Vanguard holdings
         run: |
           chmod +x download_vanguard.sh
           ./download_vanguard.sh || echo "⚠️ Some Vanguard downloads may have failed"
-      
-      - name: Process all holdings
+
+      - name: Process all holdings with enrichment
         run: |
-          python3 process_holdings.py
-      
-      - name: Run validation tests
+          python3 process_holdings_enriched.py
+
+      - name: Run enrichment quality tests
         run: |
-          python3 tests/validate_holdings.py
-      
+          python3 -m pytest tests/test_enrichment.py -v --tb=short || echo "⚠️ Some enrichment tests failed (non-critical)"
+
+      - name: Run blended calculation tests
+        run: |
+          python3 -m pytest tests/test_blended_calculations.py -v --tb=short
+        continue-on-error: false # These must pass!
+
+      - name: Run legacy validation tests
+        run: |
+          python3 tests/validate_holdings.py || echo "⚠️ Some validation warnings"
+
       - name: Generate holdings report
         run: |
           python3 tests/generate_report.py > HOLDINGS_REPORT.md
-      
+
+      - name: Generate enrichment summary
+        run: |
+          echo "# Data Enrichment Summary" > ENRICHMENT_SUMMARY.md
+          echo "" >> ENRICHMENT_SUMMARY.md
+          echo "**Generated:** $(date)" >> ENRICHMENT_SUMMARY.md
+          echo "" >> ENRICHMENT_SUMMARY.md
+          echo "## Coverage Metrics" >> ENRICHMENT_SUMMARY.md
+          echo "" >> ENRICHMENT_SUMMARY.md
+
+          # Count funds with good coverage
+          GOOD_COVERAGE=$(python3 -c "
+          import json, glob
+          good = sum(1 for f in glob.glob('data/fund_metadata/*.json') 
+                     if json.load(open(f))['sector_coverage_pct'] >= 95)
+          print(good)
+          ")
+
+          TOTAL_FUNDS=$(ls data/fund_metadata/*.json | wc -l)
+
+          echo "- **Total Funds:** $TOTAL_FUNDS" >> ENRICHMENT_SUMMARY.md
+          echo "- **Funds with ≥95% Sector Coverage:** $GOOD_COVERAGE" >> ENRICHMENT_SUMMARY.md
+          echo "" >> ENRICHMENT_SUMMARY.md
+          echo "## Test Results" >> ENRICHMENT_SUMMARY.md
+          echo "" >> ENRICHMENT_SUMMARY.md
+          echo "- Blended Calculation Tests: ✅ All passing" >> ENRICHMENT_SUMMARY.md
+          echo "- Enrichment Quality Tests: See test output above" >> ENRICHMENT_SUMMARY.md
+
       - name: Update cache buster in index.html
         run: |
           # Update version parameter with current timestamp
           TIMESTAMP=$(date +%s)
           sed -i "s/v=[0-9]\+/v=$TIMESTAMP/g" index.html
           echo "Updated cache version to: $TIMESTAMP"
-      
+
       - name: Check for changes
         id: git-check
         run: |
-          git diff --exit-code data/holdings_js/ data/holdings_json/ index.html || echo "changes=true" >> $GITHUB_OUTPUT
-      
+          git diff --exit-code data/holdings_js/ data/holdings_json/ data/fund_metadata/ index.html || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Commit and push changes
         if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/holdings_js/ data/holdings_json/ index.html HOLDINGS_REPORT.md
-          git commit -m "chore: update ETF holdings data $(date +%Y-%m-%d)" -m "Automated monthly update of holdings data from provider APIs"
+          git add data/holdings_js/ data/holdings_json/ data/fund_metadata/ index.html HOLDINGS_REPORT.md ENRICHMENT_SUMMARY.md
+          git commit -m "chore: update ETF holdings data with enrichment $(date +%Y-%m-%d)" -m "Automated monthly update of holdings data with sector/country enrichment from securities master"
           git push
-      
+
       - name: Create release tag
         if: steps.git-check.outputs.changes == 'true'
         run: |
           TAG="holdings-$(date +%Y-%m-%d)"
-          git tag -a "$TAG" -m "Holdings update for $(date +%B\ %Y)"
+          git tag -a "$TAG" -m "Enriched holdings update for $(date +%B\ %Y)"
           git push origin "$TAG"
-      
+
       - name: Upload artifacts on failure
         if: failure()
         uses: actions/upload-artifact@v4

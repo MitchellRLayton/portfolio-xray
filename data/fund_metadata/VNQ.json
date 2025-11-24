@@ -1,0 +1,31 @@
+{
+  "ticker": "VNQ",
+  "holdings_count": 153,
+  "total_weight": 99.29,
+  "sector_allocation": {
+    "Real Estate": 82.83,
+    "Unknown": 14.55,
+    "Consumer Discretionary": 0.88,
+    "Industrials": 0.76,
+    "Cash and/or Derivatives": 0.53,
+    "Consumer Staples": 0.21,
+    "Financials": 0.21,
+    "Information Technology": 0.02,
+    "Utilities": 0.01
+  },
+  "country_allocation": {
+    "United States": 96.82,
+    "Austria": 0.73,
+    "Canada": 0.58,
+    "Egypt": 0.53,
+    "France": 0.42,
+    "South Africa": 0.38,
+    "United Kingdom": 0.25,
+    "Norway": 0.22,
+    "Australia": 0.03,
+    "Switzerland": 0.02,
+    "Italy": 0.01
+  },
+  "sector_coverage_pct": 85.45,
+  "country_coverage_pct": 100
+}

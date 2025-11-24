@@ -1,0 +1,32 @@
+{
+  "ticker": "IWD",
+  "holdings_count": 876,
+  "total_weight": 100.01,
+  "sector_allocation": {
+    "Financials": 21.8,
+    "Industrials": 12.94,
+    "Health Care": 12.43,
+    "Information Technology": 10.78,
+    "Communication Services": 8.19,
+    "Consumer Staples": 7.42,
+    "Consumer Discretionary": 7.42,
+    "Energy": 6.06,
+    "Utilities": 4.68,
+    "Real Estate": 4.12,
+    "Materials": 3.91,
+    "Cash and/or Derivatives": 0.26
+  },
+  "country_allocation": {
+    "United States": 99.62,
+    "Canada": 0.15,
+    "South Africa": 0.12,
+    "Peru": 0.04,
+    "Germany": 0.03,
+    "Brazil": 0.02,
+    "Sweden": 0.02,
+    "Australia": 0.0,
+    "-": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100
+}

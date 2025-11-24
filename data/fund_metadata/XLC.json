@@ -1,0 +1,19 @@
+{
+  "ticker": "XLC",
+  "holdings_count": 112,
+  "total_weight": 100.01,
+  "sector_allocation": {
+    "Communication Services": 99.83,
+    "Unknown": 0.17,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 89.23,
+    "Italy": 6.24,
+    "Canada": 4.35,
+    "Unknown": 0.17,
+    "Australia": 0.0
+  },
+  "sector_coverage_pct": 99.83,
+  "country_coverage_pct": 99.83
+}

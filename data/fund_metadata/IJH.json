@@ -1,0 +1,26 @@
+{
+  "ticker": "IJH",
+  "holdings_count": 414,
+  "total_weight": 100.02,
+  "sector_allocation": {
+    "Industrials": 23.85,
+    "Financials": 16.18,
+    "Information Technology": 13.56,
+    "Consumer Discretionary": 11.5,
+    "Health Care": 9.26,
+    "Real Estate": 6.76,
+    "Materials": 4.81,
+    "Consumer Staples": 4.53,
+    "Energy": 4.26,
+    "Utilities": 3.59,
+    "Communication Services": 1.43,
+    "Cash and/or Derivatives": 0.29
+  },
+  "country_allocation": {
+    "United States": 99.4,
+    "Canada": 0.6,
+    "-": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "XLB",
+  "holdings_count": 114,
+  "total_weight": 99.88,
+  "sector_allocation": {
+    "Materials": 94.41,
+    "Industrials": 2.86,
+    "Consumer Discretionary": 2.59,
+    "Unknown": 0.14,
+    "Health Care": 0.0
+  },
+  "country_allocation": {
+    "United States": 78.75,
+    "Germany": 7.94,
+    "Chile": 5.45,
+    "Italy": 2.86,
+    "France": 2.59,
+    "Australia": 2.27,
+    "Unknown": 0.14
+  },
+  "sector_coverage_pct": 99.86,
+  "country_coverage_pct": 99.86
+}

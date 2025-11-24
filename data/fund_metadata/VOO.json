@@ -1,0 +1,41 @@
+{
+  "ticker": "VOO",
+  "holdings_count": 503,
+  "total_weight": 99.71,
+  "sector_allocation": {
+    "Information Technology": 35.74,
+    "Financials": 12.59,
+    "Consumer Discretionary": 11.0,
+    "Communication Services": 10.24,
+    "Health Care": 9.02,
+    "Industrials": 8.04,
+    "Consumer Staples": 4.61,
+    "Energy": 2.88,
+    "Utilities": 2.37,
+    "Real Estate": 1.86,
+    "Materials": 1.58,
+    "Unknown": 0.07
+  },
+  "country_allocation": {
+    "United States": 96.82,
+    "Germany": 0.57,
+    "Canada": 0.55,
+    "Australia": 0.4,
+    "France": 0.33,
+    "Colombia": 0.19,
+    "United Kingdom": 0.18,
+    "Italy": 0.17,
+    "India": 0.15,
+    "Norway": 0.13,
+    "Chile": 0.11,
+    "Kuwait": 0.1,
+    "Poland": 0.09,
+    "Sweden": 0.06,
+    "Indonesia": 0.05,
+    "Spain": 0.04,
+    "Austria": 0.04,
+    "Greece": 0.01
+  },
+  "sector_coverage_pct": 99.93,
+  "country_coverage_pct": 100
+}

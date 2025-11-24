@@ -1,0 +1,39 @@
+{
+  "ticker": "VIG",
+  "holdings_count": 338,
+  "total_weight": 99.71,
+  "sector_allocation": {
+    "Information Technology": 27.38,
+    "Financials": 21.46,
+    "Health Care": 15.58,
+    "Industrials": 11.66,
+    "Consumer Staples": 9.34,
+    "Consumer Discretionary": 5.34,
+    "Materials": 2.93,
+    "Energy": 2.7,
+    "Utilities": 2.66,
+    "Communication Services": 0.84,
+    "Unknown": 0.12
+  },
+  "country_allocation": {
+    "United States": 95.72,
+    "Germany": 1.19,
+    "Australia": 0.93,
+    "France": 0.49,
+    "Norway": 0.34,
+    "Chile": 0.3,
+    "Kuwait": 0.28,
+    "Poland": 0.24,
+    "United Kingdom": 0.16,
+    "India": 0.11,
+    "Canada": 0.09,
+    "Indonesia": 0.04,
+    "Switzerland": 0.04,
+    "Italy": 0.02,
+    "Belgium": 0.02,
+    "Singapore": 0.01,
+    "Greece": 0.01
+  },
+  "sector_coverage_pct": 99.88,
+  "country_coverage_pct": 100
+}

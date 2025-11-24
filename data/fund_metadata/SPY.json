@@ -1,0 +1,42 @@
+{
+  "ticker": "SPY",
+  "holdings_count": 589,
+  "total_weight": 99.95,
+  "sector_allocation": {
+    "Information Technology": 34.4,
+    "Financials": 12.96,
+    "Consumer Discretionary": 10.52,
+    "Communication Services": 10.4,
+    "Health Care": 9.77,
+    "Industrials": 8.07,
+    "Consumer Staples": 4.83,
+    "Energy": 3.04,
+    "Utilities": 2.42,
+    "Real Estate": 1.88,
+    "Materials": 1.6,
+    "Unknown": 0.12
+  },
+  "country_allocation": {
+    "United States": 96.58,
+    "Germany": 0.65,
+    "Canada": 0.58,
+    "Australia": 0.42,
+    "France": 0.33,
+    "Colombia": 0.2,
+    "United Kingdom": 0.17,
+    "Italy": 0.17,
+    "India": 0.15,
+    "Norway": 0.12,
+    "Chile": 0.12,
+    "Unknown": 0.11,
+    "Kuwait": 0.11,
+    "Poland": 0.1,
+    "Sweden": 0.06,
+    "Indonesia": 0.05,
+    "Austria": 0.05,
+    "Spain": 0.04,
+    "Greece": 0.01
+  },
+  "sector_coverage_pct": 99.88,
+  "country_coverage_pct": 99.89
+}

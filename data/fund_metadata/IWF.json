@@ -1,0 +1,30 @@
+{
+  "ticker": "IWF",
+  "holdings_count": 394,
+  "total_weight": 99.94,
+  "sector_allocation": {
+    "Information Technology": 52.62,
+    "Consumer Discretionary": 12.48,
+    "Communication Services": 11.59,
+    "Health Care": 7.96,
+    "Financials": 5.8,
+    "Industrials": 5.63,
+    "Consumer Staples": 2.42,
+    "Real Estate": 0.43,
+    "Materials": 0.31,
+    "Utilities": 0.29,
+    "Energy": 0.28,
+    "Cash and/or Derivatives": 0.18
+  },
+  "country_allocation": {
+    "United States": 99.41,
+    "Sweden": 0.32,
+    "Brazil": 0.17,
+    "Canada": 0.07,
+    "South Africa": 0.02,
+    "Australia": 0.01,
+    "-": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100
+}

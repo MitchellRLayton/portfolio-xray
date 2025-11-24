@@ -3,463 +3,463 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2330",
     "name": "Taiwan Semiconductor Manufacturing Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 10.69
   },
   {
     "ticker": "700",
     "name": "Tencent Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 4.58
   },
   {
     "ticker": "9988",
     "name": "Alibaba Group Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 3.47
   },
   {
     "ticker": "HDFCBANK",
     "name": "HDFC Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 1.15
   },
   {
     "ticker": "RELIANCE",
     "name": "Reliance Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 1.04
   },
   {
     "ticker": "PDD",
     "name": "PDD Holdings Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.93
   },
   {
     "ticker": "2317",
     "name": "Hon Hai Precision Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.92
   },
   {
     "ticker": "1810",
     "name": "Xiaomi Corp. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.87
   },
   {
     "ticker": "939",
     "name": "China Construction Bank Corp. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.87
   },
   {
     "ticker": "ICICIBANK",
     "name": "ICICI Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.73
   },
   {
     "ticker": "3690",
     "name": "Meituan Dianping Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.64
   },
   {
     "ticker": "BHARTIARTL",
     "name": "Bharti Airtel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.6
   },
   {
     "ticker": "2454",
     "name": "MediaTek Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.57
   },
   {
     "ticker": "2308",
     "name": "Delta Electronics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.56
   },
   {
     "ticker": "1398",
     "name": "Industrial & Commercial Bank of China Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.56
   },
   {
     "ticker": "INFY",
     "name": "Infosys Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.53
   },
   {
     "ticker": "NPN",
     "name": "Naspers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.51
   },
   {
     "ticker": "1120",
     "name": "Al Rajhi Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.5
   },
   {
     "ticker": "9999",
     "name": "NetEase Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.47
   },
   {
     "ticker": "1211",
     "name": "BYD Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.43
   },
   {
     "ticker": "2318",
     "name": "Ping An Insurance Group Co. of China Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.43
   },
   {
     "ticker": "9961",
     "name": "Trip.com Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.4
   },
   {
     "ticker": "VALE3",
     "name": "Vale SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.4
   },
   {
     "ticker": "9618",
     "name": "JD.com Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.38
   },
   {
     "ticker": "2222",
     "name": "Saudi Arabian Oil Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.37
   },
   {
     "ticker": "3988",
     "name": "Bank of China Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.35
   },
   {
     "ticker": "M&M",
     "name": "Mahindra & Mahindra Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.33
   },
   {
     "ticker": "TCS",
     "name": "Tata Consultancy Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.32
   },
   {
     "ticker": "GFI",
     "name": "Gold Fields Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.31
   },
   {
     "ticker": "ANG",
     "name": "Anglogold Ashanti plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.31
   },
   {
     "ticker": "9888",
     "name": "Baidu Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.3
   },
   {
     "ticker": "BAJFINANCE",
     "name": "Bajaj Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.3
   },
   {
     "ticker": "ITUB4",
     "name": "Itau Unibanco Holding SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.3
   },
   {
     "ticker": "KFH",
     "name": "Kuwait Finance House KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.29
   },
   {
     "ticker": "AXISBANK",
     "name": "Axis Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.29
   },
   {
     "ticker": "1180",
     "name": "Saudi National Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.28
   },
   {
     "ticker": "LT",
     "name": "Larsen & Toubro Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.28
   },
   {
     "ticker": "NBK",
     "name": "National Bank of Kuwait SAKP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.26
   },
   {
     "ticker": "GFNORTEO",
     "name": "Grupo Financiero Banorte SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.25
   },
   {
     "ticker": "3711",
     "name": "ASE Technology Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.24
   },
   {
     "ticker": "KOTAKBANK",
     "name": "Kotak Mahindra Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.24
   },
   {
     "ticker": "1024",
     "name": "Kuaishou Technology",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.24
   },
   {
     "ticker": "2382",
     "name": "Quanta Computer Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.23
   },
   {
     "ticker": "FSR",
     "name": "FirstRand Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.23
   },
   {
     "ticker": "BBCA",
     "name": "Bank Central Asia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.23
   },
   {
     "ticker": "2899",
     "name": "Zijin Mining Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.23
   },
   {
     "ticker": "GMEXICOB",
     "name": "Grupo Mexico SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.22
   },
   {
     "ticker": "HINDUNILVR",
     "name": "Hindustan Unilever Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.22
   },
   {
     "ticker": "2881",
     "name": "Fubon Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.22
   },
   {
     "ticker": "PETR4",
     "name": "Petroleo Brasileiro SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Brazil",
     "weight": 0.22
   },
   {
     "ticker": "EMAAR",
     "name": "Emaar Properties PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
     "weight": 0.22
   },
   {
     "ticker": "2891",
     "name": "CTBC Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.22
   },
   {
     "ticker": "MARUTI",
     "name": "Maruti Suzuki India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.22
   },
   {
     "ticker": "3968",
     "name": "China Merchants Bank Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.22
   },
   {
     "ticker": "2628",
     "name": "China Life Insurance Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.21
   },
   {
     "ticker": "1288",
     "name": "Agricultural Bank of China Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.21
   },
   {
     "ticker": "1211",
     "name": "Saudi Arabian Mining Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.21
   },
   {
     "ticker": "7010",
     "name": "Saudi Telecom Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.21
   },
   {
     "ticker": "OTP",
     "name": "OTP Bank Nyrt",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Hungary",
     "weight": 0.2
   },
   {
     "ticker": "QNBK",
     "name": "Qatar National Bank QPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.2
   },
   {
     "ticker": "PETR3",
     "name": "Petroleo Brasileiro SA - Petrobras",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Brazil",
     "weight": 0.2
   },
   {
     "ticker": "857",
     "name": "PetroChina Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.2
   },
   {
     "ticker": "FAB",
     "name": "First Abu Dhabi Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.19
   },
   {
     "ticker": "SUNPHARMA",
     "name": "Sun Pharmaceutical Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.18
   },
   {
     "ticker": "2882",
     "name": "Cathay Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.18
   },
   {
     "ticker": "SBK",
     "name": "Standard Bank Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.18
   },
   {
@@ -472,288 +472,288 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9992",
     "name": "Pop Mart International Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.17
   },
   {
     "ticker": "6160",
     "name": "BeOne Medicines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.17
   },
   {
     "ticker": "CPI",
     "name": "Capitec Bank Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Austria",
     "weight": 0.17
   },
   {
     "ticker": "EAND",
     "name": "Emirates Telecommunications Group Co. PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "United Arab Emirates",
     "weight": 0.17
   },
   {
     "ticker": "HCLTECH",
     "name": "HCL Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.17
   },
   {
     "ticker": "NTPC",
     "name": "NTPC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.16
   },
   {
     "ticker": "AMXB",
     "name": "America Movil SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Mexico",
     "weight": 0.16
   },
   {
     "ticker": "1801",
     "name": "Innovent Biologics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.16
   },
   {
     "ticker": "MAYBANK",
     "name": "Malayan Banking Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.16
   },
   {
     "ticker": "1088",
     "name": "China Shenhua Energy Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.16
   },
   {
     "ticker": "2345",
     "name": "Accton Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.16
   },
   {
     "ticker": "BEL",
     "name": "Bharat Electronics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.16
   },
   {
     "ticker": "TATASTEEL",
     "name": "Tata Steel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.15
   },
   {
     "ticker": "WALMEX*",
     "name": "Wal-Mart de Mexico SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.15
   },
   {
     "ticker": "FEMSAUBD",
     "name": "Fomento Economico Mexicano SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.15
   },
   {
     "ticker": "SBIN",
     "name": "State Bank of India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.15
   },
   {
     "ticker": "VAL",
     "name": "Valterra Platinum Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "South Africa",
     "weight": 0.15
   },
   {
     "ticker": "2328",
     "name": "PICC Property & Casualty Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.15
   },
   {
     "ticker": "9868",
     "name": "XPeng Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.15
   },
   {
     "ticker": "MTN",
     "name": "MTN Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "South Africa",
     "weight": 0.15
   },
   {
     "ticker": "2269",
     "name": "Wuxi Biologics Cayman Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.15
   },
   {
     "ticker": "ULTRACEMCO",
     "name": "UltraTech Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.15
   },
   {
     "ticker": "ETERNAL",
     "name": "Eternal Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.15
   },
   {
     "ticker": "BBDC4",
     "name": "Banco Bradesco SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.14
   },
   {
     "ticker": "BBRI",
     "name": "Bank Rakyat Indonesia Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.14
   },
   {
     "ticker": "2886",
     "name": "Mega Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.14
   },
   {
     "ticker": "TITAN",
     "name": "Titan Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.14
   },
   {
     "ticker": "CEMEXCPO",
     "name": "Cemex SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.14
   },
   {
     "ticker": "2357",
     "name": "Asustek Computer Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.14
   },
   {
     "ticker": "3017",
     "name": "Asia Vital Components Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.13
   },
   {
     "ticker": "2884",
     "name": "E.Sun Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.13
   },
   {
     "ticker": "PBBANK",
     "name": "Public Bank Bhd. (Local)",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.13
   },
   {
     "ticker": "POWERGRID",
     "name": "Power Grid Corp. of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.13
   },
   {
     "ticker": "2010",
     "name": "Saudi Basic Industries Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.13
   },
   {
     "ticker": "3231",
     "name": "Wistron Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.13
   },
   {
     "ticker": "2082",
     "name": "ACWA Power Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
     "weight": 0.13
   },
   {
     "ticker": "6669",
     "name": "Wiwynn Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.13
   },
   {
     "ticker": "CIMB",
     "name": "CIMB Group Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.13
   },
   {
     "ticker": "ITC",
     "name": "ITC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.13
   },
   {
     "ticker": "TENAGA",
     "name": "Tenaga Nasional Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.13
   },
   {
     "ticker": "HINDALCO",
     "name": "Hindalco Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.13
   },
   {
@@ -766,148 +766,148 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2303",
     "name": "United Microelectronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.13
   },
   {
     "ticker": "175",
     "name": "Geely Automobile Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.12
   },
   {
     "ticker": "9987",
     "name": "Yum China Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.12
   },
   {
     "ticker": "2020",
     "name": "ANTA Sports Products Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.12
   },
   {
     "ticker": "9866",
     "name": "NIO Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.12
   },
   {
     "ticker": "2412",
     "name": "Chunghwa Telecom Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.11
   },
   {
     "ticker": "2015",
     "name": "Li Auto Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.11
   },
   {
     "ticker": "1216",
     "name": "Uni-President Enterprises Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.11
   },
   {
     "ticker": "ITSA4",
     "name": "Itausa - Investimentos Itau SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.11
   },
   {
     "ticker": "2327",
     "name": "Yageo Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.11
   },
   {
     "ticker": "ETE",
     "name": "National Bank of Greece SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Greece",
     "weight": 0.11
   },
   {
     "ticker": "BMRI",
     "name": "Bank Mandiri Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.11
   },
   {
     "ticker": "B3SA3",
     "name": "B3 SA - Brasil Bolsa Balcao",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.11
   },
   {
     "ticker": "QIBK",
     "name": "Qatar Islamic Bank QPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.11
   },
   {
     "ticker": "2885",
     "name": "Yuanta Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.11
   },
   {
     "ticker": "386",
     "name": "China Petroleum & Chemical Corp. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.11
   },
   {
     "ticker": "2383",
     "name": "Elite Material Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.11
   },
   {
     "ticker": "ADANIPORTS",
     "name": "Adani Ports & Special Economic Zone Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.11
   },
   {
     "ticker": "INDIGO",
     "name": "InterGlobe Aviation Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.11
   },
   {
     "ticker": "9633",
     "name": "Nongfu Spring Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.11
   },
   {
     "ticker": "JSWSTEEL",
     "name": "JSW Steel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.11
   },
   {
@@ -927,43 +927,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "WEGE3",
     "name": "WEG SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.11
   },
   {
     "ticker": "GRASIM",
     "name": "Grasim Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.1
   },
   {
     "ticker": "ASIANPAINT",
     "name": "Asian Paints Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.1
   },
   {
     "ticker": "ADCB",
     "name": "Abu Dhabi Commercial Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.1
   },
   {
     "ticker": "2301",
     "name": "Lite-On Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.1
   },
   {
     "ticker": "ONGC",
     "name": "Oil & Natural Gas Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.1
   },
   {
@@ -976,50 +976,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TME",
     "name": "Tencent Music Entertainment Group ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.1
   },
   {
     "ticker": "2887",
     "name": "TS Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.1
   },
   {
     "ticker": "300750",
     "name": "Contemporary Amperex Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.1
   },
   {
     "ticker": "JIOFIN",
     "name": "Jio Financial Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.1
   },
   {
     "ticker": "1010",
     "name": "Riyad Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.1
   },
   {
     "ticker": "BPAC11",
     "name": "Banco BTG Pactual SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.1
   },
   {
     "ticker": "EICHERMOT",
     "name": "Eicher Motors Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.1
   },
   {
@@ -1032,15 +1032,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2601",
     "name": "China Pacific Insurance Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.1
   },
   {
     "ticker": "1109",
     "name": "China Resources Land Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.1
   },
   {
@@ -1053,43 +1053,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ABEV3",
     "name": "Ambev SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.09
   },
   {
     "ticker": "NESTLEIND",
     "name": "Nestle India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "1378",
     "name": "China Hongqiao Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.09
   },
   {
     "ticker": "2892",
     "name": "First Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.09
   },
   {
     "ticker": "TECHM",
     "name": "Tech Mahindra Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "HAL",
     "name": "Hindustan Aeronautics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.09
   },
   {
@@ -1102,29 +1102,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "COALINDIA",
     "name": "Coal India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "2890",
     "name": "SinoPac Financial Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.09
   },
   {
     "ticker": "9926",
     "name": "Akeso Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.09
   },
   {
     "ticker": "ICT",
     "name": "International Container Terminal Services Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Philippines",
     "weight": 0.09
   },
   {
@@ -1137,204 +1137,204 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2360",
     "name": "Chroma ATE Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.09
   },
   {
     "ticker": "9660",
     "name": "Horizon Robotics",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.09
   },
   {
     "ticker": "DIVISLAB",
     "name": "Divi's Laboratories Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "IMP",
     "name": "Impala Platinum Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.09
   },
   {
     "ticker": "MAXHEALTH",
     "name": "Max Healthcare Institute Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "TRENT",
     "name": "Trent Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "600519",
     "name": "Kweichow Moutai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.09
   },
   {
     "ticker": "TMPV",
     "name": "Tata Motors Passenger Vehicles Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "SBILIFE",
     "name": "SBI Life Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "CIPLA",
     "name": "Cipla Ltd./India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.09
   },
   {
     "ticker": "ALDAR",
     "name": "Aldar Properties PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
     "weight": 0.08
   },
   {
     "ticker": "EUROB",
     "name": "Eurobank Ergasias Services and Holdings SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Greece",
     "weight": 0.08
   },
   {
     "ticker": "ADANIPOWER",
     "name": "Adani Power Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "TVSMOTOR",
     "name": "TVS Motor Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "9901",
     "name": "New Oriental Education & Technology Group Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.08
   },
   {
     "ticker": "HAR",
     "name": "Harmony Gold Mining Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.08
   },
   {
     "ticker": "SBSP3",
     "name": "Cia de Saneamento Basico do Estado de Sao Paulo SABESP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.08
   },
   {
     "ticker": "BAJAJFINSV",
     "name": "Bajaj Finserv Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "VEDL",
     "name": "Vedanta Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "3661",
     "name": "Alchip Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.08
   },
   {
     "ticker": "1177",
     "name": "Sino Biopharmaceutical Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.08
   },
   {
     "ticker": "2880",
     "name": "Hua Nan Financial Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.08
   },
   {
     "ticker": "9626",
     "name": "Bilibili Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.08
   },
   {
     "ticker": "APOLLOHOSP",
     "name": "Apollo Hospitals Enterprise Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "ABG",
     "name": "Absa Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
     "weight": 0.08
   },
   {
     "ticker": "1060",
     "name": "Saudi Awwal Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.08
   },
   {
     "ticker": "998",
     "name": "China CITIC Bank Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.08
   },
   {
     "ticker": "GAPB",
     "name": "Grupo Aeroportuario del Pacifico SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.08
   },
   {
     "ticker": "CEZ",
     "name": "Cez As",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Czech Republic",
     "weight": 0.08
   },
   {
@@ -1347,92 +1347,92 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1150",
     "name": "Alinma Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.08
   },
   {
     "ticker": "AC*",
     "name": "Arca Continental SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.08
   },
   {
     "ticker": "TATACONSUM",
     "name": "Tata Consumer Products Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.08
   },
   {
     "ticker": "TLKM",
     "name": "Telkom Indonesia Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Indonesia",
     "weight": 0.08
   },
   {
     "ticker": "TPEIR",
     "name": "Piraeus Financial Holdings SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Greece",
     "weight": 0.08
   },
   {
     "ticker": "SLM",
     "name": "Sanlam Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.08
   },
   {
     "ticker": "ADIB",
     "name": "Abu Dhabi Islamic Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.08
   },
   {
     "ticker": "BID",
     "name": "Bid Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.08
   },
   {
     "ticker": "ALPHA",
     "name": "Alpha Bank SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Greece",
     "weight": 0.07
   },
   {
     "ticker": "3993",
     "name": "China Molybdenum Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "2057",
     "name": "ZTO Express Cayman Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "6618",
     "name": "JD Health International Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "2883",
     "name": "KGI Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.07
   },
   {
@@ -1445,106 +1445,106 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2379",
     "name": "Realtek Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.07
   },
   {
     "ticker": "HEROMOTOCO",
     "name": "Hero MotoCorp Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "5880",
     "name": "Taiwan Cooperative Financial Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.07
   },
   {
     "ticker": "CHOLAFIN",
     "name": "Cholamandalam Investment and Finance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "2449",
     "name": "King Yuan Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.07
   },
   {
     "ticker": "BPCL",
     "name": "Bharat Petroleum Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "3665",
     "name": "Bizlink Holding Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.07
   },
   {
     "ticker": "1093",
     "name": "CSPC Pharmaceutical Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "RDOR3",
     "name": "Rede D'Or Sao Luiz SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Brazil",
     "weight": 0.07
   },
   {
     "ticker": "SHP",
     "name": "Shoprite Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.07
   },
   {
     "ticker": "PE&OLES*",
     "name": "Industrias Penoles SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.07
   },
   {
     "ticker": "1339",
     "name": "People's Insurance Co. Group of China Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "CHILE",
     "name": "Banco de Chile",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Chile",
     "weight": 0.07
   },
   {
     "ticker": "HDFCLIFE",
     "name": "HDFC Life Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "BRITANNIA",
     "name": "Britannia Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.07
   },
   {
@@ -1557,22 +1557,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TATAPOWER",
     "name": "Tata Power Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "267",
     "name": "CITIC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "2020",
     "name": "SABIC Agri-Nutrients Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.07
   },
   {
@@ -1585,225 +1585,225 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6690",
     "name": "Haier Smart Home Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "1519",
     "name": "J&T Global Express Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "DIB",
     "name": "Dubai Islamic Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.07
   },
   {
     "ticker": "2059",
     "name": "King Slide Works Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.07
   },
   {
     "ticker": "ASII",
     "name": "Astra International Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Indonesia",
     "weight": 0.07
   },
   {
     "ticker": "4013",
     "name": "Dr Sulaiman Al Habib Medical Services Group Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.07
   },
   {
     "ticker": "600519",
     "name": "Kweichow Moutai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.07
   },
   {
     "ticker": "SSW",
     "name": "Sibanye Stillwater Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.07
   },
   {
     "ticker": "ADANIENT",
     "name": "Adani Enterprises Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "SUZLON",
     "name": "Suzlon Energy Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.07
   },
   {
     "ticker": "VBL",
     "name": "Varun Beverages Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "INDHOTEL",
     "name": "Indian Hotels Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "IOC",
     "name": "Indian Oil Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "BBAS3",
     "name": "Banco do Brasil SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.06
   },
   {
     "ticker": "1530",
     "name": "3SBio Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "PERSISTENT",
     "name": "Persistent Systems Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "IQCD",
     "name": "Industries Qatar QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Qatar",
     "weight": 0.06
   },
   {
     "ticker": "EQTL3",
     "name": "Equatorial Energia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.06
   },
   {
     "ticker": "3008",
     "name": "Largan Precision Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.06
   },
   {
     "ticker": "3037",
     "name": "Unimicron Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.06
   },
   {
     "ticker": "7020",
     "name": "Etihad Etisalat Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.06
   },
   {
     "ticker": "DMART",
     "name": "Avenue Supermarts Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "POLICYBZR",
     "name": "PB Fintech Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "1658",
     "name": "Postal Savings Bank of China Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "2002",
     "name": "China Steel Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.06
   },
   {
     "ticker": "2603",
     "name": "Evergreen Marine Corp. Taiwan Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.06
   },
   {
     "ticker": "DEWA",
     "name": "Dubai Electricity & Water Authority PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "United Arab Emirates",
     "weight": 0.06
   },
   {
     "ticker": "BS6",
     "name": "Yangzijiang Shipbuilding Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Singapore",
     "weight": 0.06
   },
   {
     "ticker": "DSY",
     "name": "Discovery Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "France",
     "weight": 0.06
   },
   {
     "ticker": "BZ",
     "name": "Kanzhun Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "1347",
     "name": "Hua Hong Semiconductor Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "788",
     "name": "China Tower Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.06
   },
   {
@@ -1816,15 +1816,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300",
     "name": "Midea Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "CUMMINSIND",
     "name": "Cummins India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.06
   },
   {
@@ -1837,85 +1837,85 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1303",
     "name": "Nan Ya Plastics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.06
   },
   {
     "ticker": "PFC",
     "name": "Power Finance Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "ADNOCGAS",
     "name": "Adnoc Gas plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
     "weight": 0.06
   },
   {
     "ticker": "2382",
     "name": "Sunny Optical Technology Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "2280",
     "name": "Almarai Co. JSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.06
   },
   {
     "ticker": "2688",
     "name": "ENN Energy Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "COFORGE",
     "name": "Coforge Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "RENT3",
     "name": "Localiza Rent a Car SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.06
   },
   {
     "ticker": "WIPRO",
     "name": "Wipro Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "3328",
     "name": "Bank of Communications Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "688",
     "name": "China Overseas Land & Investment Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "6030",
     "name": "CITIC Securities Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.06
   },
   {
@@ -1928,64 +1928,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1818",
     "name": "Zhaojin Mining Industry Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "DRREDDY",
     "name": "Dr Reddy's Laboratories Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.06
   },
   {
     "ticker": "NED",
     "name": "Nedbank Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.06
   },
   {
     "ticker": "SUZB3",
     "name": "Suzano SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.06
   },
   {
     "ticker": "7203",
     "name": "Elm Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.06
   },
   {
     "ticker": "1336",
     "name": "New China Life Insurance Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.06
   },
   {
     "ticker": "GAMUDA",
     "name": "Gamuda Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.06
   },
   {
     "ticker": "IHH",
     "name": "IHH Healthcare Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.05
   },
   {
     "ticker": "601138",
     "name": "Foxconn Industrial Internet Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.05
   },
   {
@@ -2019,477 +2019,477 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NPH",
     "name": "Northam Platinum Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.05
   },
   {
     "ticker": "LTIM",
     "name": "LTIMindtree Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "HDFCAMC",
     "name": "HDFC Asset Management Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "1140",
     "name": "Bank AlBilad",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.05
   },
   {
     "ticker": "LTM",
     "name": "Latam Airlines Group SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Chile",
     "weight": 0.05
   },
   {
     "ticker": "8299",
     "name": "Phison Electronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "1050",
     "name": "Banque Saudi Fransi",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.05
   },
   {
     "ticker": "1080",
     "name": "Arab National Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.05
   },
   {
     "ticker": "DIXON",
     "name": "Dixon Technologies India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "ASELS.E",
     "name": "Aselsan Elektronik Sanayi Ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.05
   },
   {
     "ticker": "3653",
     "name": "Jentech Precision Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "FORTIS",
     "name": "Fortis Healthcare Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "BIMAS.E",
     "name": "BIM Birlesik Magazalar AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
     "weight": 0.05
   },
   {
     "ticker": "BSE",
     "name": "BSE Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "6223",
     "name": "MPI Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "GAIL",
     "name": "GAIL India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "8069",
     "name": "E Ink Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "2611",
     "name": "Guotai Junan Securities Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "DLF",
     "name": "DLF Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "2344",
     "name": "Winbond Electronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "2319",
     "name": "China Mengniu Dairy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "CGPOWER",
     "name": "CG Power & Industrial Solutions Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "NAUKRI",
     "name": "Info Edge India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "INDUSTOWER",
     "name": "Indus Towers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "268",
     "name": "Kingdee International Software Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "ICICIGI",
     "name": "ICICI Lombard General Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "PPH",
     "name": "Pepkor Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.05
   },
   {
     "ticker": "4904",
     "name": "Far EasTone Telecommunications Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "291",
     "name": "China Resources Beer Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "3606",
     "name": "Fuyao Glass Industry Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "LUPIN",
     "name": "Lupin Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "5274",
     "name": "ASPEED Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "300750",
     "name": "Contemporary Amperex Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "RECLTD",
     "name": "REC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "601318",
     "name": "Ping An Insurance Group Co. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "MOTHERSON",
     "name": "Samvardhana Motherson International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "3692",
     "name": "Hansoh Pharmaceutical Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "3034",
     "name": "Novatek Microelectronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "FALABELLA",
     "name": "Falabella SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Chile",
     "weight": 0.05
   },
   {
     "ticker": "PRIO3",
     "name": "PRIO SA/Brazil",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Brazil",
     "weight": 0.05
   },
   {
     "ticker": "3293",
     "name": "International Games System Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "BDO",
     "name": "BDO Unibank Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Philippines",
     "weight": 0.05
   },
   {
     "ticker": "AMMN",
     "name": "Amman Mineral Internasional PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.05
   },
   {
     "ticker": "1301",
     "name": "Formosa Plastics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "PIDILITIND",
     "name": "Pidilite Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "PMETAL",
     "name": "Press Metal Aluminium Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Malaysia",
     "weight": 0.05
   },
   {
     "ticker": "COMI",
     "name": "Commercial International Bank - Egypt (CIB)",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Egypt",
     "weight": 0.05
   },
   {
     "ticker": "HINDPETRO",
     "name": "Hindustan Petroleum Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "9863",
     "name": "Zhejiang Leapmotor Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "2207",
     "name": "Hotai Motor Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "AMBUJACEM",
     "name": "Ambuja Cements Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "601288",
     "name": "Agricultural Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "3045",
     "name": "Taiwan Mobile Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "GODREJCP",
     "name": "Godrej Consumer Products Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "6881",
     "name": "China Galaxy Securities Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "PAYTM",
     "name": "One 97 Communications Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.05
   },
   {
     "ticker": "2331",
     "name": "Li Ning Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "2368",
     "name": "Gold Circuit Electronics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "TAL",
     "name": "TAL Education Group ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.05
   },
   {
     "ticker": "REM",
     "name": "Remgro Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.05
   },
   {
     "ticker": "5871",
     "name": "Chailease Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.05
   },
   {
     "ticker": "3044",
     "name": "Tripod Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "NRP",
     "name": "NEPI Rockcastle NV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.04
   },
   {
     "ticker": "5876",
     "name": "Shanghai Commercial & Savings Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "2600",
     "name": "Aluminum Corp. of China Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "CLS",
     "name": "Clicks Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Canada",
     "weight": 0.04
   },
   {
     "ticker": "FEDERALBNK",
     "name": "Federal Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "2376",
     "name": "Gigabyte Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
@@ -2502,50 +2502,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SRF",
     "name": "SRF Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "6919",
     "name": "Caliway Biopharmaceuticals Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "2801",
     "name": "Chang Hwa Commercial Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.04
   },
   {
     "ticker": "2408",
     "name": "Nanya Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "1101",
     "name": "TCC Group Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "ASURB",
     "name": "Grupo Aeroportuario del Sureste SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "DSSA",
     "name": "Dian Swastatika Sentosa Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.04
   },
   {
@@ -2558,197 +2558,197 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "836",
     "name": "China Resources Power Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "YESBANK",
     "name": "Yes Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "UNITDSPR",
     "name": "United Spirits Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "VBBR3",
     "name": "Vibra Energia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.04
   },
   {
     "ticker": "2395",
     "name": "Advantech Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "4938",
     "name": "Pegatron Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "VIVT3",
     "name": "Telefonica Brasil SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Brazil",
     "weight": 0.04
   },
   {
     "ticker": "MFSL",
     "name": "Max Financial Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "6446",
     "name": "PharmaEssentia Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "KOFUBL",
     "name": "Coca-Cola Femsa SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "SDG",
     "name": "SD Guthrie Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.04
   },
   {
     "ticker": "1919",
     "name": "COSCO SHIPPING Holdings Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "2404",
     "name": "United Integrated Services Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "ASHOKLEY",
     "name": "Ashok Leyland Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "GGBR4",
     "name": "Gerdau SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.04
   },
   {
     "ticker": "2324",
     "name": "Compal Electronics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "358",
     "name": "Jiangxi Copper Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "3529",
     "name": "eMemory Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "1504",
     "name": "Teco Electric and Machinery Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "AKBNK.E",
     "name": "Akbank TAS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.04
   },
   {
     "ticker": "2333",
     "name": "Great Wall Motor Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "JINDALSTEL",
     "name": "Jindal Steel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "2359",
     "name": "WuXi AppTec Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "601398",
     "name": "Industrial & Commercial Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "SWIGGY",
     "name": "Swiggy Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "3908",
     "name": "China International Capital Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "3888",
     "name": "Kingsoft Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "GFINBURO",
     "name": "Grupo Financiero Inbursa SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
@@ -2761,15 +2761,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1816",
     "name": "CGN Power Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "POLYCAB",
     "name": "Polycab India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.04
   },
   {
@@ -2782,127 +2782,127 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BRPT",
     "name": "Barito Pacific Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.04
   },
   {
     "ticker": "1171",
     "name": "Yanzhou Coal Mining Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "MARICO",
     "name": "Marico Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "TUPRS.E",
     "name": "Turkiye Petrol Rafinerileri AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Turkey",
     "weight": 0.04
   },
   {
     "ticker": "RNI",
     "name": "Reinet Investments SCA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.04
   },
   {
     "ticker": "TORNTPHARM",
     "name": "Torrent Pharmaceuticals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "BVT",
     "name": "Bidvest Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "South Africa",
     "weight": 0.04
   },
   {
     "ticker": "BBDC3",
     "name": "Banco Bradesco SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.04
   },
   {
     "ticker": "EMBASSY",
     "name": "Embassy Office Parks REIT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "GVT&D",
     "name": "GE Vernova T&D India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "RICHTER",
     "name": "Richter Gedeon Nyrt",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Hungary",
     "weight": 0.04
   },
   {
     "ticker": "BIMBOA",
     "name": "Grupo Bimbo SAB de CV Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "FIBRAPL14",
     "name": "Prologis Property Mexico SA de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "6488",
     "name": "Globalwafers Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "PETGAS",
     "name": "Petronas Gas Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.04
   },
   {
     "ticker": "BOUBYAN",
     "name": "Boubyan Bank KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.04
   },
   {
     "ticker": "1590",
     "name": "Airtac International Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "UPL",
     "name": "UPL Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.04
   },
   {
@@ -2915,253 +2915,253 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2912",
     "name": "President Chain Store Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "3443",
     "name": "Global Unichip Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.04
   },
   {
     "ticker": "168",
     "name": "Tsingtao Brewery Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "2338",
     "name": "Weichai Power Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "FUNO11",
     "name": "Fibra Uno Administracion SA de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "2228",
     "name": "XtalPi Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "600036",
     "name": "China Merchants Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "ADNOCDRILL",
     "name": "ADNOC Drilling Co. PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
     "weight": 0.04
   },
   {
     "ticker": "SOL",
     "name": "Sasol Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Australia",
     "weight": 0.04
   },
   {
     "ticker": "2099",
     "name": "China Gold International Resources Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "MARK",
     "name": "Al Rayan Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.04
   },
   {
     "ticker": "BCI",
     "name": "Banco de Credito e Inversiones SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Chile",
     "weight": 0.04
   },
   {
     "ticker": "600036",
     "name": "China Merchants Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "CENCOSUD",
     "name": "Cencosud SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Chile",
     "weight": 0.04
   },
   {
     "ticker": "LAURUSLABS",
     "name": "Laurus Labs Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "9698",
     "name": "GDS Holdings Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "BBSE3",
     "name": "BB Seguridade Participacoes SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.04
   },
   {
     "ticker": "MOL",
     "name": "MOL Hungarian Oil & Gas plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Hungary",
     "weight": 0.04
   },
   {
     "ticker": "VIPS",
     "name": "Vipshop Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "688256",
     "name": "Cambricon Technologies Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "MRF",
     "name": "MRF Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "HYUNDAI",
     "name": "Hyundai Motor India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "002475",
     "name": "Luxshare Precision Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "1787",
     "name": "Shandong Gold Mining Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "3800",
     "name": "GCL Technology Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.04
   },
   {
     "ticker": "ZAIN",
     "name": "Mobile Telecommunications Co. KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Kuwait",
     "weight": 0.04
   },
   {
     "ticker": "BHARATFORG",
     "name": "Bharat Forge Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.04
   },
   {
     "ticker": "GCARSOA1",
     "name": "Grupo Carso SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.04
   },
   {
     "ticker": "SMPH",
     "name": "SM Prime Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Philippines",
     "weight": 0.03
   },
   {
     "ticker": "MUTHOOTFIN",
     "name": "Muthoot Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "6239",
     "name": "Powertech Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "HAVELLS",
     "name": "Havells India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "CBQK",
     "name": "Commercial Bank PSQC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.03
   },
   {
     "ticker": "136",
     "name": "China Ruyi Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "THYAO.E",
     "name": "Turk Hava Yollari AO",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.03
   },
   {
     "ticker": "BHEL",
     "name": "Bharat Heavy Electricals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
@@ -3174,43 +3174,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SOLARINDS",
     "name": "Solar Industries India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "2356",
     "name": "Inventec Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Hong Kong",
     "weight": 0.03
   },
   {
     "ticker": "VOD",
     "name": "Vodacom Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "241",
     "name": "Alibaba Health Information Technology Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "1357",
     "name": "Meitu Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "LODHA",
     "name": "Lodha Developers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.03
   },
   {
@@ -3223,57 +3223,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AMBANK",
     "name": "AMMB Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "MISC",
     "name": "MISC Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "3533",
     "name": "Lotes Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "BAJAJHLDNG",
     "name": "Bajaj Holdings & Investment Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "OMU",
     "name": "Old Mutual Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "TIINDIA",
     "name": "Tube Investments of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "GODREJPROP",
     "name": "Godrej Properties Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "002594",
     "name": "BYD Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -3286,57 +3286,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BOSCHLTD",
     "name": "Bosch Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "RAIL3",
     "name": "Rumo SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "601899",
     "name": "Zijin Mining Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "OUT",
     "name": "OUTsurance Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "285",
     "name": "BYD Electronic International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "VOLTAS",
     "name": "Voltas Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "AUBANK",
     "name": "AU Small Finance Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "AUROPHARMA",
     "name": "Aurobindo Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.03
   },
   {
@@ -3349,15 +3349,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OPAP",
     "name": "Opap SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
     "weight": 0.03
   },
   {
     "ticker": "2268",
     "name": "WuXi XDC Cayman Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -3370,127 +3370,127 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MOTV3",
     "name": "Motiva Infraestrutura de Mobilidade SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "SUNDARMFIN",
     "name": "Sundaram Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "2834",
     "name": "Taiwan Business Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "914",
     "name": "Anhui Conch Cement Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "APLAPOLLO",
     "name": "APL Apollo Tubes Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "PHOENIXLTD",
     "name": "Phoenix Mills Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "BELA",
     "name": "Jumbo SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
     "weight": 0.03
   },
   {
     "ticker": "MPHASIS",
     "name": "Mphasis Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "2474",
     "name": "Catcher Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "135",
     "name": "Kunlun Energy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "902",
     "name": "Huaneng Power International Inc. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "780",
     "name": "Tongcheng Travel Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "4958",
     "name": "Zhen Ding Technology Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.03
   },
   {
     "ticker": "BPI",
     "name": "Bank of the Philippine Islands",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Philippines",
     "weight": 0.03
   },
   {
     "ticker": "OMAB",
     "name": "Grupo Aeroportuario del Centro Norte SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.03
   },
   {
     "ticker": "688041",
     "name": "Hygon Information Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "EMAARDEV",
     "name": "Emaar Development PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
     "weight": 0.03
   },
   {
     "ticker": "8210",
     "name": "Bupa Arabia for Cooperative Insurance Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.03
   },
   {
@@ -3678,8 +3678,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600600",
     "name": "Tsingtao Brewery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -3727,8 +3727,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601108",
     "name": "Caitong Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -3762,8 +3762,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603833",
     "name": "Oppein Home Group Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -3811,8 +3811,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603195",
     "name": "Goneo Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -3888,8 +3888,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601198",
     "name": "Dongxing Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -3958,8 +3958,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600369",
     "name": "Southwest Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -4063,8 +4063,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601865",
     "name": "Flat Glass Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -4091,8 +4091,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000810",
     "name": "Skyworth Digital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Korea (South)",
     "weight": 0.0
   },
   {
@@ -4252,8 +4252,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002422",
     "name": "Sichuan Kelun Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -4784,8 +4784,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600733",
     "name": "BAIC BluePark New Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5092,8 +5092,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000066",
     "name": "China Greatwall Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5106,8 +5106,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601872",
     "name": "China Merchants Energy Shipping Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5176,8 +5176,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601600",
     "name": "Aluminum Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5253,8 +5253,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601607",
     "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5274,8 +5274,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601799",
     "name": "Changzhou Xingyu Automotive Lighting Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -5540,8 +5540,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000990",
     "name": "Chengzhi Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
     "weight": 0.0
   },
   {
@@ -5869,8 +5869,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002380",
     "name": "Nanjing Sciyon Wisdom Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Korea (South)",
     "weight": 0.0
   },
   {
@@ -5890,15 +5890,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600177",
     "name": "Youngor Fashion Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000338",
     "name": "Weichai Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -6443,8 +6443,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000002",
     "name": "China Vanke Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -6506,7 +6506,7 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VALU",
     "name": "U Consumer Finance",
-    "sector": "Unknown",
+    "sector": "Financials",
     "country": "United States",
     "weight": 0.0
   },
@@ -6660,8 +6660,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601567",
     "name": "Ningbo Sanxing Medical Electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -6709,8 +6709,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000810",
     "name": "Skyworth Digital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Korea (South)",
     "weight": 0.0
   },
   {
@@ -6905,8 +6905,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002466",
     "name": "Tianqi Lithium Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -6933,8 +6933,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603568",
     "name": "Zhejiang Weiming Environment Protection Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -7220,8 +7220,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600985",
     "name": "Huaibei Mining Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -7262,8 +7262,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000776",
     "name": "GF Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -7549,8 +7549,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600839",
     "name": "Sichuan Changhong Electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -7752,8 +7752,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300628",
     "name": "Yealink Network Technology Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -8291,8 +8291,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002185",
     "name": "Tianshui Huatian Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -8837,8 +8837,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600109",
     "name": "Sinolink Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9117,8 +9117,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300866",
     "name": "Anker Innovations Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9152,8 +9152,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002414",
     "name": "Wuhan Guide Infrared Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9355,8 +9355,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601995",
     "name": "China International Capital Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9607,8 +9607,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600918",
     "name": "Zhongtai Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9866,8 +9866,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600153",
     "name": "Xiamen C & D Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -9887,8 +9887,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002601",
     "name": "LB Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -10146,15 +10146,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601998",
     "name": "China CITIC Bank Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "688777",
     "name": "SUPCON Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -10342,8 +10342,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ASM",
     "name": "AL Seer Marine Supplies & Equipment Co. LLC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Netherlands",
     "weight": 0.0
   },
   {
@@ -10412,8 +10412,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300476",
     "name": "Victory Giant Technology Huizhou Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -10468,8 +10468,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ASX",
     "name": "ASE Technology Holding Co. Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Australia",
     "weight": 0.0
   },
   {
@@ -10622,8 +10622,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000990",
     "name": "Chengzhi Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Korea (South)",
     "weight": 0.0
   },
   {
@@ -11574,8 +11574,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601100",
     "name": "Jiangsu Hengli Hydraulic Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -11595,8 +11595,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601238",
     "name": "Guangzhou Automobile Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -11784,8 +11784,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600845",
     "name": "Shanghai Baosight Software Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -11924,8 +11924,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600989",
     "name": "Ningxia Baofeng Energy Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -11994,8 +11994,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601077",
     "name": "Chongqing Rural Commercial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12197,8 +12197,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000661",
     "name": "Changchun High-Tech Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12239,8 +12239,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "HTHT",
     "name": "H World Group Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12274,8 +12274,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600309",
     "name": "Wanhua Chemical Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12337,8 +12337,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000895",
     "name": "Henan Shuanghui Investment & Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12414,8 +12414,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603392",
     "name": "Beijing Wantai Biological Pharmacy Enterprise Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -12673,8 +12673,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601825",
     "name": "Shanghai Rural Commercial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -13079,8 +13079,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300765",
     "name": "CSPC Innovation Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -13555,8 +13555,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002460",
     "name": "Ganfeng Lithium Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -13653,8 +13653,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002459",
     "name": "JA Solar Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -13758,8 +13758,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6504",
     "name": "Nan Liu Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -13856,8 +13856,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CIBEST",
     "name": "Grupo Cibest SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Colombia",
     "weight": 0.0
   },
   {
@@ -14003,15 +14003,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CBOM",
     "name": "Credit Bank of Moscow PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "SBER",
     "name": "Sberbank of Russia PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
@@ -14045,22 +14045,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PLZL",
     "name": "Polyus PJSC GDR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "AFKS",
     "name": "Sistema AFK PAO",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "ALRS",
     "name": "Alrosa PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
@@ -14073,7 +14073,7 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MAGN",
     "name": "Magnitogorsk Iron & Steel Works PJSC",
-    "sector": "Unknown",
+    "sector": "Materials",
     "country": "United States",
     "weight": 0.0
   },
@@ -14108,8 +14108,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SGZH",
     "name": "Segezha Group PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
@@ -14122,22 +14122,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ROSN",
     "name": "Rosneft Oil Co. PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "VTBR",
     "name": "VTB Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "MTL",
     "name": "Mechel PJSC ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Canada",
     "weight": 0.0
   },
   {
@@ -14178,8 +14178,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "FLOT",
     "name": "Sovcomflot PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
@@ -14199,15 +14199,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CHMF",
     "name": "Severstal PAO",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
     "ticker": "6452",
     "name": "Pharmally International Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -14220,8 +14220,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PLZL",
     "name": "Polyus PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Russian Federation",
     "weight": 0.0
   },
   {
@@ -14248,106 +14248,106 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RHBBANK",
     "name": "RHB Bank Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "1099",
     "name": "Sinopharm Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "VMM",
     "name": "Vishal Mega Mart Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "IDFCFIRSTB",
     "name": "IDFC First Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "BSANTANDER",
     "name": "Banco Santander Chile",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Chile",
     "weight": 0.03
   },
   {
     "ticker": "COLPAL",
     "name": "Colgate-Palmolive India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "TIMS3",
     "name": "TIM SA/Brazil",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "1898",
     "name": "China Coal Energy Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "5110",
     "name": "Saudi Electricity Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.03
   },
   {
     "ticker": "1988",
     "name": "China Minsheng Banking Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "1519",
     "name": "Fortune Electric Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "QGTS",
     "name": "Qatar Gas Transport Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Qatar",
     "weight": 0.03
   },
   {
     "ticker": "PIIND",
     "name": "PI Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "000858",
     "name": "Wuliangye Yibin Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "600900",
     "name": "China Yangtze Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -14360,57 +14360,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2609",
     "name": "Yang Ming Marine Transport Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "CDB",
     "name": "CELCOMDIGI Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "6770",
     "name": "Powerchip Semiconductor Manufacturing Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.03
   },
   {
     "ticker": "DABUR",
     "name": "Dabur India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "BANKBARODA",
     "name": "Bank of Baroda",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "763",
     "name": "ZTE Corp. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "5347",
     "name": "Vanguard International Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "6886",
     "name": "Huatai Securities Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -14423,57 +14423,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PPC",
     "name": "Public Power Corp. SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Greece",
     "weight": 0.03
   },
   {
     "ticker": "600900",
     "name": "China Yangtze Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "TOTS3",
     "name": "TOTVS SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "966",
     "name": "China Taiping Insurance Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "ENEV3",
     "name": "Eneva SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "TBS",
     "name": "Tiger Brands Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "JSWENERGY",
     "name": "JSW Energy Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "BBNI",
     "name": "Bank Negara Indonesia Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.03
   },
   {
@@ -14493,15 +14493,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1326",
     "name": "Formosa Chemicals & Fibre Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "NYKAA",
     "name": "FSN E-Commerce Ventures Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.03
   },
   {
@@ -14514,43 +14514,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PNB",
     "name": "Punjab National Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "SHREECEM",
     "name": "Shree Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "2618",
     "name": "Eva Airways Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "425",
     "name": "Minth Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "3481",
     "name": "Innolux Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.03
   },
   {
     "ticker": "WAAREEENER",
     "name": "WAAREE Energies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.03
   },
   {
@@ -14563,8 +14563,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6969",
     "name": "Smoore International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -14577,29 +14577,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1209",
     "name": "China Resources Mixc Lifestyle Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "6990",
     "name": "Sichuan Kelun-Biotech Biopharmaceutical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "916",
     "name": "China Longyuan Power Group Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "1766",
     "name": "CRRC Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.03
   },
   {
@@ -14612,22 +14612,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SIEMENS",
     "name": "Siemens Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "PRESTIGE",
     "name": "Prestige Estates Projects Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "SALIK",
     "name": "Salik Co. PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.03
   },
   {
@@ -14640,267 +14640,267 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ABB",
     "name": "ABB India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "3702",
     "name": "WPG Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "MRP",
     "name": "Mr Price Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "GRT",
     "name": "Growthpoint Properties Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "2618",
     "name": "JD Logistics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "KIMBERA",
     "name": "Kimberly-Clark de Mexico SAB de CV Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.03
   },
   {
     "ticker": "3036",
     "name": "WT Microelectronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "GLENMARK",
     "name": "Glenmark Pharmaceuticals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "NHPC",
     "name": "NHPC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "MANKIND",
     "name": "Mankind Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "HLBANK",
     "name": "Hong Leong Bank Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "QNNS",
     "name": "Qatar Navigation QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Qatar",
     "weight": 0.03
   },
   {
     "ticker": "SBICARD",
     "name": "SBI Cards & Payment Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "601328",
     "name": "Bank of Communications Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "BRMS",
     "name": "Bumi Resources Minerals Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.03
   },
   {
     "ticker": "360ONE",
     "name": "360 ONE WAM Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "NMDC",
     "name": "NMDC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "KCHOL.E",
     "name": "KOC Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.03
   },
   {
     "ticker": "HTO",
     "name": "Hellenic Telecommunications Organization SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Greece",
     "weight": 0.03
   },
   {
     "ticker": "UGPA3",
     "name": "Ultrapar Participacoes SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "TCELL.E",
     "name": "Turkcell Iletisim Hizmetleri AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Turkey",
     "weight": 0.03
   },
   {
     "ticker": "ORDS",
     "name": "Ooredoo QPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Qatar",
     "weight": 0.03
   },
   {
     "ticker": "6274",
     "name": "Taiwan Union Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "DELHIVERY",
     "name": "Delhivery Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "3706",
     "name": "Mitac Holdings Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
     "ticker": "ADNOCDIST",
     "name": "Abu Dhabi National Oil Co. for Distribution PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
     "weight": 0.03
   },
   {
     "ticker": "BLUESTARCO",
     "name": "Blue Star Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "YTL",
     "name": "YTL Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.03
   },
   {
     "ticker": "GOTO",
     "name": "GoTo Gojek Tokopedia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
     "weight": 0.03
   },
   {
     "ticker": "COROMANDEL",
     "name": "Coromandel International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "WHL",
     "name": "Woolworths Holdings Ltd./South Africa",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.03
   },
   {
     "ticker": "TORNTPOWER",
     "name": "Torrent Power Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "384",
     "name": "China Gas Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "COPEC",
     "name": "Empresas Copec SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Chile",
     "weight": 0.03
   },
   {
     "ticker": "GRUMAB",
     "name": "Gruma SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.03
   },
   {
     "ticker": "300308",
     "name": "Zhongji Innolight Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "2313",
     "name": "Compeq Manufacturing Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.03
   },
   {
     "ticker": "2353",
     "name": "Acer Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.03
   },
   {
@@ -14913,8 +14913,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CMIG4",
     "name": "Cia Energetica de Minas Gerais Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
@@ -14927,29 +14927,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ZYDUSLIFE",
     "name": "Zydus Lifesciences Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.03
   },
   {
     "ticker": "MBRF3",
     "name": "MBRF Global Foods Company SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.03
   },
   {
     "ticker": "LREN3",
     "name": "Lojas Renner SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "GMRAIRPORT",
     "name": "GMR Airports Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -14962,22 +14962,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KEI",
     "name": "KEI Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "9899",
     "name": "NetEase Cloud Music Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "601166",
     "name": "Industrial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -14990,127 +14990,127 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4250",
     "name": "Jabal Omar Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "1102",
     "name": "Asia Cement Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "QIIK",
     "name": "Qatar International Islamic Bank QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
     "ticker": "151",
     "name": "Want Want China Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "3998",
     "name": "Bosideng International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "1605",
     "name": "Walsin Lihwa Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Japan",
     "weight": 0.02
   },
   {
     "ticker": "AXIATA",
     "name": "Axiata Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "PAGEIND",
     "name": "Page Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "ENGI11",
     "name": "Energisa S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "2385",
     "name": "Chicony Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "SAHOL.E",
     "name": "Haci Omer Sabanci Holding AS (Bearer)",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.02
   },
   {
     "ticker": "8010",
     "name": "Co for Cooperative Insurance",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "IOICORP",
     "name": "IOI Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "OIL",
     "name": "Oil India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "9688",
     "name": "Zai Lab Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "YKBNK.E",
     "name": "Yapi ve Kredi Bankasi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.02
   },
   {
     "ticker": "6409",
     "name": "Voltronic Power Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "VESTA*",
     "name": "Corp Inmobiliaria Vesta SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
@@ -15130,50 +15130,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "YTLPOWR",
     "name": "YTL Power International Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "ATAT",
     "name": "Atour Lifestyle Holdings Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "2812",
     "name": "Taichung Commercial Bank Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "270",
     "name": "Guangdong Investment Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "IDEA",
     "name": "Vodafone Idea Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "MAXIS",
     "name": "Maxis Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "MCX",
     "name": "Multi Commodity Exchange of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -15186,50 +15186,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "960",
     "name": "Longfor Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "6862",
     "name": "Haidilao International Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "SUPREMEIND",
     "name": "Supreme Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "GENTERA*",
     "name": "Gentera SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "322",
     "name": "Tingyi Cayman Islands Holding Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "PCHEM",
     "name": "Petronas Chemicals Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "1402",
     "name": "Far Eastern New Century Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15242,155 +15242,155 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1111",
     "name": "Saudi Tadawul Group Holding Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "UNIONBANK",
     "name": "Union Bank of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "QFIN",
     "name": "Qfin Holdings Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "JUBLFOOD",
     "name": "Jubilant Foodworks Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "RADICO",
     "name": "Radico Khaitan Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "600000",
     "name": "Shanghai Pudong Development Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "KLK",
     "name": "Kuala Lumpur Kepong Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "2290",
     "name": "Yanbu National Petrochemical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "JSL",
     "name": "Jindal Stainless Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "POWERINDIA",
     "name": "Hitachi Energy India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "5536",
     "name": "Acter Group Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "2799",
     "name": "China Huarong Asset Management Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "GBK",
     "name": "Gulf Bank KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.02
   },
   {
     "ticker": "1548",
     "name": "Genscript Biotech Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "KLBN11",
     "name": "Klabin SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "UNOMINDA",
     "name": "UNO Minda Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "ISA",
     "name": "Interconexion Electrica SA ESP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Colombia",
     "weight": 0.02
   },
   {
     "ticker": "ISCTR.E",
     "name": "Turkiye Is Bankasi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.02
   },
   {
     "ticker": "6139",
     "name": "L&K Engineering Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "3323",
     "name": "China National Building Material Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "JKCEMENT",
     "name": "JK Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "1476",
     "name": "Eclat Textile Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15403,50 +15403,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AMRT",
     "name": "Sumber Alfaria Trijaya Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "1193",
     "name": "China Resources Gas Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "300502",
     "name": "Eoptolink Technology Inc. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "9896",
     "name": "MINISO Group Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "2615",
     "name": "Wan Hai Lines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "MER",
     "name": "Manila Electric Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Philippines",
     "weight": 0.02
   },
   {
     "ticker": "IRCTC",
     "name": "Indian Railway Catering & Tourism Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -15459,99 +15459,99 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AIRARABIA",
     "name": "Air Arabia PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.02
   },
   {
     "ticker": "RADL3",
     "name": "Raia Drogasil SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "BIOCON",
     "name": "Biocon Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "LTF",
     "name": "L&T Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "EXX",
     "name": "Exxaro Resources Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
     "ticker": "ICICIPRULI",
     "name": "ICICI Prudential Life Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "ALKEM",
     "name": "Alkem Laboratories Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "6805",
     "name": "Fositek Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "2377",
     "name": "Micro-Star International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "4300",
     "name": "Dar Al Arkan Real Estate Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "1258",
     "name": "China Nonferrous Mining Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "2400",
     "name": "XD Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "SONACOMS",
     "name": "Sona Blw Precision Forgings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "PETRONET",
     "name": "Petronet LNG Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -15564,22 +15564,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9880",
     "name": "UBTech Robotics Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "TATACOMM",
     "name": "Tata Communications Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "QFLS",
     "name": "Qatar Fuel QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
@@ -15592,8 +15592,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6415",
     "name": "Silergy Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15606,8 +15606,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NATIONALUM",
     "name": "National Aluminium Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -15620,64 +15620,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OBEROIRLTY",
     "name": "Oberoi Realty Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "300476",
     "name": "Victory Giant Technology Huizhou Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "AC",
     "name": "Ayala Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Canada",
     "weight": 0.02
   },
   {
     "ticker": "601988",
     "name": "Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "M&MFIN",
     "name": "Mahindra & Mahindra Financial Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "3898",
     "name": "Zhuzhou CRRC Times Electric Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "UNTR",
     "name": "United Tractors Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "2367",
     "name": "Giant Biogene Holding Co. ltd",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "144",
     "name": "China Merchants Port Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -15697,50 +15697,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ALI",
     "name": "Ayala Land Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Philippines",
     "weight": 0.02
   },
   {
     "ticker": "PINFRA*",
     "name": "Promotora y Operadora de Infraestructura SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "4100",
     "name": "Makkah Construction & Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "601899",
     "name": "Zijin Mining Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "ITCHOTELS",
     "name": "ITC Hotels Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "MTM",
     "name": "Momentum Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
     "ticker": "2354",
     "name": "Foxconn Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15753,8 +15753,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EREGL.E",
     "name": "Eregli Demir ve Celik Fabrikalari TAS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.02
   },
   {
@@ -15767,78 +15767,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6855",
     "name": "Ascentage Pharma Group International",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "4190",
     "name": "Jarir Marketing Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "600276",
     "name": "Jiangsu Hengrui Pharmaceuticals Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "3360",
     "name": "Far East Horizon Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "2409",
     "name": "AUO Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "2347",
     "name": "Synnex Technology International Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "2027",
     "name": "TA Chen Stainless Pipe",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "1030",
     "name": "Saudi Investment Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "NAVINFLUOR",
     "name": "Navin Fluorine International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "601211",
     "name": "Guotai Haitong Securities Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "MONET",
     "name": "Moneta Money Bank AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Czech Republic",
     "weight": 0.02
   },
   {
@@ -15851,29 +15851,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3808",
     "name": "Sinotruk Hong Kong Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "OFSS",
     "name": "Oracle Financial Services Software Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "1044",
     "name": "Hengan International Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "1860",
     "name": "Mobvista Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.02
   },
   {
@@ -15886,22 +15886,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SAIL",
     "name": "Steel Authority of India Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "KALYANKJIL",
     "name": "Kalyan Jewellers India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "5483",
     "name": "Sino-American Silicon Products Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15914,50 +15914,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "772",
     "name": "China Literature Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "257",
     "name": "China Everbright Environment Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "3324",
     "name": "AURAS Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "6060",
     "name": "ZhongAn Online P&C Insurance Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "MEGACPO",
     "name": "Megacable Holdings SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "1020",
     "name": "Bank Al-Jazira",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "2049",
     "name": "Hiwin Technologies Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -15970,169 +15970,169 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CONCOR",
     "name": "Container Corp. Of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "148",
     "name": "Kingboard Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "6515",
     "name": "WinWay Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "MBT",
     "name": "Metropolitan Bank & Trust Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Philippines",
     "weight": 0.02
   },
   {
     "ticker": "AGILITY",
     "name": "Agility Global plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.02
   },
   {
     "ticker": "CHOLAHLDNG",
     "name": "Cholamandalam Financial Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "9904",
     "name": "Pou Chen Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "TATAELXSI",
     "name": "Tata Elxsi Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "601857",
     "name": "PetroChina Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "CAMS",
     "name": "Computer Age Management Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "002371",
     "name": "NAURA Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "RVNL",
     "name": "Rail Vikas Nigam Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "CHDRAUIB",
     "name": "Grupo Comercial Chedraui SA de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "968",
     "name": "Xinyi Solar Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "6186",
     "name": "China Feihe Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "867",
     "name": "China Medical System Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "300308",
     "name": "Zhongji Innolight Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "MABANEE",
     "name": "Mabanee Co. KPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Kuwait",
     "weight": 0.02
   },
   {
     "ticker": "392",
     "name": "Beijing Enterprises Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "RDF",
     "name": "Redefine Properties Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
     "ticker": "CUAN",
     "name": "Petrindo Jaya Kreasi Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "WARBABANK",
     "name": "Warba Bank KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.02
   },
   {
     "ticker": "BBAJIOO",
     "name": "Banco del Bajio SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "BALKRISIND",
     "name": "Balkrishna Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -16145,162 +16145,162 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CPIN",
     "name": "Charoen Pokphand Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "CROMPTON",
     "name": "Crompton Greaves Consumer Electricals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "390",
     "name": "China Railway Group Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "1477",
     "name": "Makalot Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "KAYNES",
     "name": "Kaynes Technology India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "6181",
     "name": "Laopu Gold Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "TM",
     "name": "Telekom Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "9995",
     "name": "Remegen Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "APN",
     "name": "Aspen Pharmacare Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
     "ticker": "600030",
     "name": "CITIC Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "SMFT3",
     "name": "Smartfit Escola de Ginastica e Danca SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "4749",
     "name": "Advanced Echem Materials Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "ASAI3",
     "name": "Sendas Distribuidora S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "4200",
     "name": "Aldrees Petroleum and Transport Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "QEWS",
     "name": "Qatar Electricity & Water Co. QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
     "ticker": "DIALOG",
     "name": "Dialog Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "IPCALAB",
     "name": "Ipca Laboratories Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "DUBK",
     "name": "Dukhan Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
     "ticker": "002714",
     "name": "Muyuan Foodstuff Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "8464",
     "name": "Nien Made Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "INDF",
     "name": "Indofood Sukses Makmur Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "8046",
     "name": "Nan Ya Printed Circuit Board Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "SIME",
     "name": "Sime Darby Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
@@ -16327,8 +16327,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "IJM",
     "name": "IJM Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
@@ -16341,50 +16341,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300124",
     "name": "Shenzhen Inovance Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "KPITTECH",
     "name": "KPIT Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "2105",
     "name": "Cheng Shin Rubber Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "6176",
     "name": "Radiant Opto-Electronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "ASTRAL",
     "name": "Astral Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "1513",
     "name": "Chung-Hsin Electric & Machinery Manufacturing Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "SAPR11",
     "name": "Cia De Sanena Do Parana",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
@@ -16397,50 +16397,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "DIC",
     "name": "Dubai Investments PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.02
   },
   {
     "ticker": "EGIE3",
     "name": "Engie Brasil Energia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "2883",
     "name": "China Oilfield Services Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "3896",
     "name": "Kingsoft Cloud Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "6682",
     "name": "Beijing Fourth Paradigm Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "INARI",
     "name": "Inari Amertron Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "6121",
     "name": "Simplo Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -16453,15 +16453,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "189",
     "name": "Dongyue Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "ALFAA",
     "name": "Alfa SAB de CV Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
@@ -16474,29 +16474,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "5434",
     "name": "Topco Scientific Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "4004",
     "name": "Dallah Healthcare Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Japan",
     "weight": 0.02
   },
   {
     "ticker": "4002",
     "name": "Mouwasat Medical Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "3618",
     "name": "Chongqing Rural Commercial Bank Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -16509,78 +16509,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3260",
     "name": "ADATA Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "DHBK",
     "name": "Doha Bank QPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
     "ticker": "RA",
     "name": "Regional SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "PNBHOUSING",
     "name": "PNB Housing Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "600809",
     "name": "Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "MOH",
     "name": "Motor Oil Hellas Corinth Refineries SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Greece",
     "weight": 0.02
   },
   {
     "ticker": "PARAUCO",
     "name": "Parque Arauco SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Chile",
     "weight": 0.02
   },
   {
     "ticker": "MPHC",
     "name": "Mesaieed Petrochemical Holding Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Qatar",
     "weight": 0.02
   },
   {
     "ticker": "LICHSGFIN",
     "name": "LIC Housing Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "GEKTERNA",
     "name": "GEK TERNA SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Greece",
     "weight": 0.02
   },
   {
     "ticker": "ALUP11",
     "name": "Alupar Investimento SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
@@ -16593,15 +16593,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600309",
     "name": "Wanhua Chemical Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "4263",
     "name": "SAL Saudi Logistics Services",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
@@ -16621,85 +16621,85 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CDSL",
     "name": "Central Depository Services India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "APOLLOTYRE",
     "name": "Apollo Tyres Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "EXIDEIND",
     "name": "Exide Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "HAPV3",
     "name": "Hapvida Participacoes e Investimentos S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "PETDAG",
     "name": "Petronas Dagangan Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "3311",
     "name": "China State Construction International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "2633",
     "name": "Taiwan High Speed Rail Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "NIND",
     "name": "National Industries Group Holding SAK",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Kuwait",
     "weight": 0.02
   },
   {
     "ticker": "ENELCHILE",
     "name": "Enel Chile SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Chile",
     "weight": 0.02
   },
   {
     "ticker": "Q*",
     "name": "Qualitas Controladora SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.02
   },
   {
     "ticker": "AVI",
     "name": "AVI Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
     "ticker": "1585",
     "name": "Yadea Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -16712,8 +16712,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KIMS",
     "name": "Krishna Institute of Medical Sciences Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -16726,43 +16726,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ASTERDM",
     "name": "Aster DM Healthcare Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "MDKA",
     "name": "Merdeka Copper Gold Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.02
   },
   {
     "ticker": "YF8",
     "name": "Yangzijiang Financial Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Singapore",
     "weight": 0.02
   },
   {
     "ticker": "4210",
     "name": "Saudi Research & Media Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "2310",
     "name": "Sahara International Petrochemical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "9969",
     "name": "InnoCare Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -16775,8 +16775,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TEL",
     "name": "PLDT Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Norway",
     "weight": 0.02
   },
   {
@@ -16789,22 +16789,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AMBER",
     "name": "Amber Enterprises India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "601766",
     "name": "CRRC Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "3005",
     "name": "Getac Holdings Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -16817,22 +16817,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2337",
     "name": "Macronix International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.02
   },
   {
     "ticker": "2542",
     "name": "Highwealth Construction Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "ENELAM",
     "name": "Enel Americas SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Chile",
     "weight": 0.02
   },
   {
@@ -16852,36 +16852,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9910",
     "name": "Feng TAY Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
     "ticker": "1882",
     "name": "Haitian International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "INDUSINDBK",
     "name": "IndusInd Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "8210",
     "name": "Chenbro Micom Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.02
   },
   {
     "ticker": "5269",
     "name": "ASMedia Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.02
   },
   {
@@ -16894,15 +16894,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601138",
     "name": "Foxconn Industrial Internet Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "GLAND",
     "name": "Gland Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -16922,22 +16922,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BIRET",
     "name": "Brookfield India Real Estate Trust",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "900948",
     "name": "Inner Mongolia Yitai Coal Co. Ltd. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "TFG",
     "name": "Foschini Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.02
   },
   {
@@ -16950,8 +16950,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "IGL",
     "name": "Indraprastha Gas Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -16971,92 +16971,92 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2380",
     "name": "China Power International Development Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "OPTIMA",
     "name": "Optima bank SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Greece",
     "weight": 0.02
   },
   {
     "ticker": "1066",
     "name": "Shandong Weigao Group Medical Polymer Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "GENTING",
     "name": "Genting Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "6098",
     "name": "Country Garden Services Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "CXSE3",
     "name": "Caixa Seguridade Participacoes S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.02
   },
   {
     "ticker": "FROTO.E",
     "name": "Ford Otomotiv Sanayi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.02
   },
   {
     "ticker": "MANAPPURAM",
     "name": "Manappuram Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "NESTLE",
     "name": "Nestle Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.02
   },
   {
     "ticker": "RBLBANK",
     "name": "RBL Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
     "ticker": "601088",
     "name": "China Shenhua Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.02
   },
   {
     "ticker": "JFC",
     "name": "Jollibee Foods Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Philippines",
     "weight": 0.02
   },
   {
     "ticker": "586",
     "name": "China Conch Venture Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.02
   },
   {
@@ -17069,8 +17069,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MOTILALOFS",
     "name": "Motilal Oswal Financial Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.02
   },
   {
@@ -17083,120 +17083,120 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TITC",
     "name": "Titan SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Greece",
     "weight": 0.02
   },
   {
     "ticker": "7202",
     "name": "Arabian Internet & Communications Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "REDINGTON",
     "name": "Redington Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "354",
     "name": "Chinasoft International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1303",
     "name": "Electrical Industries Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "APARINDS",
     "name": "Apar Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601816",
     "name": "Beijing-Shanghai High Speed Railway Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TAEE11",
     "name": "Transmissora Alianca de Energia Eletrica S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "688012",
     "name": "Advanced Micro-Fabrication Equipment Inc. China Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600050",
     "name": "China United Network Communications Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "RLX",
     "name": "RLX Technology Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "INL",
     "name": "Investec Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "PSSA3",
     "name": "Porto Seguro SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "688041",
     "name": "Hygon Information Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "GCC*",
     "name": "GCC SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
     "ticker": "1503",
     "name": "Shihlin Electric & Engineering Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "SAMMAANCAP",
     "name": "Sammaan Capital Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -17209,64 +17209,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AMR",
     "name": "Americana Restaurants International PLC - Foreign Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "ALOS3",
     "name": "Allos SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "JOYY",
     "name": "JOYY Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "MULT3",
     "name": "Multiplan Empreendimentos Imobiliarios SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "576",
     "name": "Zhejiang Expressway Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "8358",
     "name": "Co-Tech Development Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "QL",
     "name": "QL Resources Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "4966",
     "name": "Parade Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "1833",
     "name": "Ping An Healthcare and Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17286,92 +17286,92 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CMPC",
     "name": "Empresas CMPC SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "300059",
     "name": "East Money Information Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TIMECOM",
     "name": "TIME dotCom Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "300014",
     "name": "Eve Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "000001",
     "name": "Ping An Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TATACHEM",
     "name": "Tata Chemicals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "KPJ",
     "name": "KPJ Healthcare Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "601127",
     "name": "Seres Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "FFB",
     "name": "Fortress Real Estate Investments Ltd. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "600276",
     "name": "Jiangsu Hengrui Pharmaceuticals Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PPB",
     "name": "PPB Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "KPIL",
     "name": "Kalpataru Projects International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "3023",
     "name": "Sinbon Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -17384,8 +17384,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2727",
     "name": "Shanghai Electric Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -17398,8 +17398,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002594",
     "name": "BYD Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17412,57 +17412,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1795",
     "name": "Lotus Pharmaceutical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "VKE",
     "name": "Vukile Property Fund Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "CARTRADE",
     "name": "Cartrade Tech Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "177",
     "name": "Jiangsu Expressway Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "UTDPLT",
     "name": "United Plantations Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "688111",
     "name": "Beijing Kingsoft Office Software Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "603993",
     "name": "CMOC Group Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2162",
     "name": "Keymed Biosciences Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17482,29 +17482,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RPOWER",
     "name": "Reliance Power Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "8996",
     "name": "Kaori Heat Treatment Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "JBCHEPHARM",
     "name": "JB Chemicals & Pharmaceuticals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "8230",
     "name": "Al Rajhi Co. for Co-operative Insurance",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -17517,29 +17517,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GENM",
     "name": "Genting Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "2382",
     "name": "Ades Holding Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2498",
     "name": "RoboSense Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1952",
     "name": "Everest Medicines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17552,155 +17552,155 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6257",
     "name": "Sigurd Microelectronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "MTELEKOM",
     "name": "Magyar Telekom Telecommunications plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Hungary",
     "weight": 0.01
   },
   {
     "ticker": "200596",
     "name": "Anhui Gujing Distillery Co. Ltd. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "000651",
     "name": "Gree Electric Appliances Inc. of Zhuhai Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1918",
     "name": "Sunac China Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "853",
     "name": "Microport Scientific Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "FLUOROCHEM",
     "name": "Gujarat Fluorochemicals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "4164",
     "name": "Nahdi Medical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "BRIGADE",
     "name": "Brigade Enterprises Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "CEMARGOS",
     "name": "Cementos Argos SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Colombia",
     "weight": 0.01
   },
   {
     "ticker": "NATU3",
     "name": "Natura Cosmeticos SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "CYRE3",
     "name": "Cyrela Brazil Realty SA Empreendimentos e Participacoes",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "BRES",
     "name": "Barwa Real Estate Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Qatar",
     "weight": 0.01
   },
   {
     "ticker": "1229",
     "name": "Lien Hwa Industrial Holdings Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "9945",
     "name": "Ruentex Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "KLBF",
     "name": "Kalbe Farma Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "152",
     "name": "Shenzhen International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "688256",
     "name": "Cambricon Technologies Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "NEULANDLAB",
     "name": "Neuland Laboratories Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "INOXWIND",
     "name": "Inox Wind Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "ATHM",
     "name": "Autohome Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "552",
     "name": "China Communications Services Corp. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17727,22 +17727,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688008",
     "name": "Montage Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1212",
     "name": "Astra Industrial Group Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "PFCIBEST",
     "name": "Bancolombia SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Colombia",
     "weight": 0.01
   },
   {
@@ -17755,64 +17755,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1114",
     "name": "Brilliance China Automotive Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6285",
     "name": "WNC Corp. /Taiwan",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "002142",
     "name": "Bank of Ningbo Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601668",
     "name": "China State Construction Engineering Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2250",
     "name": "Saudi Industrial Investment Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "CPFE3",
     "name": "CPFL Energia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "600690",
     "name": "Haier Smart Home Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "NMDC",
     "name": "NMDC Group PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "HYPE3",
     "name": "Hypera SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -17832,22 +17832,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GGPS3",
     "name": "GPS Participacoes e Empreendimentos SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "DQ",
     "name": "Daqo New Energy Corp. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "7030",
     "name": "Mobile Telecommunications Co. Saudi Arabia",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -17860,29 +17860,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GODFRYPHLP",
     "name": "Godfrey Phillips India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "BANDHANBNK",
     "name": "Bandhan Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1060",
     "name": "Damai Entertainment Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ANTM",
     "name": "Aneka Tambang Tbk",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -17895,15 +17895,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAMCOCEM",
     "name": "Ramco Cements Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "656",
     "name": "Fosun International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -17916,50 +17916,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601288",
     "name": "Agricultural Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "FIVESTAR",
     "name": "Five-Star Business Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601398",
     "name": "Industrial & Commercial Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2357",
     "name": "AviChina Industry & Technology Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ABK",
     "name": "Al Ahli Bank of Kuwait KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "000568",
     "name": "Luzhou Laojiao Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "WELCORP",
     "name": "Welspun Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -17972,15 +17972,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BUMI",
     "name": "Bumi Resources Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "POONAWALLA",
     "name": "Poonawalla Fincorp Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -18000,29 +18000,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2386",
     "name": "Sinopec Engineering Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "BOURSA",
     "name": "Boursa Kuwait Securities Co. KPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "300433",
     "name": "Lens Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "SYNGENE",
     "name": "Syngene International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -18035,43 +18035,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300760",
     "name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ALSEA*",
     "name": "Alsea SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
     "ticker": "3211",
     "name": "Dynapack International Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "NH",
     "name": "Narayana Hrudayalaya Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "MSUMI",
     "name": "Motherson Sumi Wiring India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1888",
     "name": "Kingboard Laminates Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18091,36 +18091,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CSAN3",
     "name": "Cosan SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "603259",
     "name": "WuXi AppTec Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "IIFL",
     "name": "IIFL Finance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601601",
     "name": "China Pacific Insurance Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PPLPHARMA",
     "name": "Piramal Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -18133,15 +18133,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "LALPATHLAB",
     "name": "Dr Lal PathLabs Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6531",
     "name": "AP Memory Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -18154,29 +18154,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4321",
     "name": "Arabian Centres Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "NBCC",
     "name": "NBCC India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002916",
     "name": "Shennan Circuits Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600919",
     "name": "Bank of Jiangsu Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18189,134 +18189,134 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CSMG3",
     "name": "Cia de Saneamento de Minas Gerais Copasa MG",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "603288",
     "name": "Foshan Haitian Flavouring & Food Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "APTUS",
     "name": "Aptus Value Housing Finance India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "TATATECH",
     "name": "Tata Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "KPRMILL",
     "name": "KPR Mill Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "3035",
     "name": "Faraday Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "DEEPAKNTR",
     "name": "Deepak Nitrite Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6005",
     "name": "Capital Securities Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "2371",
     "name": "Tatung Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "546",
     "name": "Fufeng Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2889",
     "name": "IBF Financial Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2208",
     "name": "Xinjiang Goldwind Science & Technology Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "371",
     "name": "Beijing Enterprises Water Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2223",
     "name": "Saudi Aramco Base Oil Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "KARURVYSYA",
     "name": "Karur Vysya Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2252",
     "name": "Shanghai MicroPort MedBot Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601166",
     "name": "Industrial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601888",
     "name": "China Tourism Group Duty Free Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "MRDIY",
     "name": "MR DIY Group M Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
@@ -18329,8 +18329,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6472",
     "name": "Bora Pharmaceuticals Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -18343,57 +18343,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3264",
     "name": "Ardentec Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "GOAU4",
     "name": "Metalurgica Gerdau SA Preference Shares Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "HBLENGINE",
     "name": "HBL Engineering Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "CESC",
     "name": "CESC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "STARHEALTH",
     "name": "Star Health & Allied Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601225",
     "name": "Shaanxi Coal Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "BURSA",
     "name": "Bursa Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "2202",
     "name": "China Vanke Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18420,29 +18420,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2330",
     "name": "Advanced Petrochemical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "DANA",
     "name": "Dana Gas PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "601658",
     "name": "Postal Savings Bank of China Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "696",
     "name": "TravelSky Technology Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18462,50 +18462,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000792",
     "name": "Qinghai Salt Lake Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "COGN3",
     "name": "Cogna Educacao SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "GESHIP",
     "name": "Great Eastern Shipping Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GLAXO",
     "name": "GlaxoSmithKline Pharmaceuticals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600989",
     "name": "Ningxia Baofeng Energy Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "SAILIFE",
     "name": "SAI Life Sciences Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6818",
     "name": "China Everbright Bank Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18525,8 +18525,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TIMKEN",
     "name": "Timken India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -18539,15 +18539,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "HINDCOPPER",
     "name": "Hindustan Copper Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "SPP",
     "name": "SPAR Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -18560,8 +18560,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600660",
     "name": "Fuyao Glass Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18574,36 +18574,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ANGELONE",
     "name": "Angel One Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "MEDANTA",
     "name": "Global Health Ltd./India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6869",
     "name": "Yangtze Optical Fibre and Cable Joint Stock Ltd. Co. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3189",
     "name": "Kinsus Interconnect Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "FIBRAMQ12",
     "name": "FIBRA Macquarie Mexico",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
@@ -18630,22 +18630,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KEC",
     "name": "KEC International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "4915",
     "name": "Primax Electronics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "ICBP",
     "name": "Indofood CBP Sukses Makmur Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -18658,36 +18658,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1797",
     "name": "East Buy Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ANANDRATHI",
     "name": "Anand Rathi Wealth Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "FSL",
     "name": "Firstsource Solutions Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1070",
     "name": "TCL Electronics Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TLEVISACPO",
     "name": "Grupo Televisa SAB",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
@@ -18707,29 +18707,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EAST",
     "name": "Eastern Co. SAE",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Egypt",
     "weight": 0.01
   },
   {
     "ticker": "ARE&M",
     "name": "Amara Raja Energy & Mobility Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600030",
     "name": "CITIC Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601100",
     "name": "Jiangsu Hengli Hydraulic Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18742,57 +18742,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6147",
     "name": "Chipbond Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "QAMC",
     "name": "Qatar Aluminum Manufacturing Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Qatar",
     "weight": 0.01
   },
   {
     "ticker": "KRE",
     "name": "Kuwait Real Estate Co. KSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "DIRR3",
     "name": "Direcional Engenharia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "TATAINVEST",
     "name": "Tata Investment Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "000776",
     "name": "GF Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "JGS",
     "name": "JG Summit Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "3105",
     "name": "Win Semiconductors Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -18805,15 +18805,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002384",
     "name": "Suzhou Dongshan Precision Manufacturing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "KFINTECH",
     "name": "Kfin Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -18826,8 +18826,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600111",
     "name": "China Northern Rare Earth Group High-Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -18840,183 +18840,183 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6963",
     "name": "Sunshine Insurance Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "3450",
     "name": "Elite Advanced Laser Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2270",
     "name": "Saudia Dairy & Foodstuff Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "AJANTPHARM",
     "name": "Ajanta Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "UTIAMC",
     "name": "UTI Asset Management Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "BRAV3",
     "name": "Brava Energia",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "TAVHL.E",
     "name": "TAV Havalimanlari Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "300033",
     "name": "Hithink RoyalFlush Information Network Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PGSUS.E",
     "name": "Pegasus Hava Tasimaciligi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "1319",
     "name": "Tong Yang Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2352",
     "name": "Qisda Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "HYP",
     "name": "Hyprop Investments Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "3081",
     "name": "LandMark Optoelectronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "605499",
     "name": "Eastroc Beverage Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "COHANCE",
     "name": "Cohance Lifesciences Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2350",
     "name": "Saudi Kayan Petrochemical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "2492",
     "name": "Walsin Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "6781",
     "name": "Advanced Energy Solution Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "WOCKPHARMA",
     "name": "Wockhardt Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "817",
     "name": "China Jinmao Holdings Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "IQ",
     "name": "iQIYI Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1908",
     "name": "C&D International Investment Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2689",
     "name": "Nine Dragons Paper Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "300498",
     "name": "Wens Foodstuff Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CRISIL",
     "name": "CRISIL Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "ONESOURCE",
     "name": "Onesource Specialty Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19029,71 +19029,71 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EMAMILTD",
     "name": "Emami Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "CYIENT",
     "name": "Cyient Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "ENDURANCE",
     "name": "Endurance Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "RES",
     "name": "Resilient REIT Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "PARKIN",
     "name": "Parkin Co. PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "4015",
     "name": "Jamjoom Pharmaceuticals Factory Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "3406",
     "name": "Genius Electronic Optical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "KAJARIACER",
     "name": "Kajaria Ceramics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "SUNDRMFAST",
     "name": "Sundram Fasteners Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "3320",
     "name": "China Resources Pharmaceutical Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -19106,15 +19106,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NUVAMA",
     "name": "Nuvama Wealth Management Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2845",
     "name": "Far Eastern International Bank",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19127,43 +19127,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4090",
     "name": "Taiba Investments Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "SISE.E",
     "name": "Turkiye Sise ve Cam Fabrikalari AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "2096",
     "name": "Simcere Pharmaceutical Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "IGBREIT",
     "name": "IGB REIT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "300059",
     "name": "East Money Information Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "300274",
     "name": "Sungrow Power Supply Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -19176,120 +19176,120 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2610",
     "name": "China Airlines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "601066",
     "name": "CSC Financial Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600028",
     "name": "China Petroleum & Chemical Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CARBORUNIV",
     "name": "Carborundum Universal Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "DEEPAKFERT",
     "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "URC",
     "name": "Universal Robina Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "AIAENG",
     "name": "AIA Engineering Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "AFFLE",
     "name": "Affle 3i Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "165",
     "name": "China Everbright Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3900",
     "name": "Greentown China Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "EIDPARRY",
     "name": "EID Parry India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1810",
     "name": "Seera Group Holding",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "300760",
     "name": "Shenzhen Mindray Bio-Medical Electronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ITAUCL",
     "name": "Banco Itau Chile SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "ECLERX",
     "name": "eClerx Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "4031",
     "name": "Saudi Ground Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "TRU",
     "name": "Truworths International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -19302,8 +19302,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2458",
     "name": "Elan Microelectronics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19316,50 +19316,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "881",
     "name": "Zhongsheng Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2915",
     "name": "Ruentex Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "HSCL",
     "name": "Himadri Speciality Chemical Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "ADRO",
     "name": "Alamtri Resources Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "512",
     "name": "Grand Pharmaceutical Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "BOLSAA",
     "name": "Bolsa Mexicana de Valores SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
     "ticker": "5289",
     "name": "Innodisk Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19379,43 +19379,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "USHAMART",
     "name": "Usha Martin Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600406",
     "name": "NARI Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "300274",
     "name": "Sungrow Power Supply Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "NTC",
     "name": "Netcare Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "SIMEPROP",
     "name": "Sime Darby Property Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "LTM",
     "name": "Latam Airlines Group SA ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Chile",
     "weight": 0.01
   },
   {
@@ -19428,22 +19428,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2498",
     "name": "HTC Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1717",
     "name": "Eternal Materials Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "3019",
     "name": "Asia Optical Co. Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19456,15 +19456,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601939",
     "name": "China Construction Bank Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "DRD",
     "name": "DRDGOLD Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -19477,36 +19477,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000858",
     "name": "Wuliangye Yibin Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "688271",
     "name": "Shanghai United Imaging Healthcare Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9939",
     "name": "Taiwan Hon Chuan Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "300015",
     "name": "Aier Eye Hospital Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1133",
     "name": "Harbin Electric Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -19526,29 +19526,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "697",
     "name": "Shoucheng Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CASTROLIND",
     "name": "Castrol India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1368",
     "name": "Xtep International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "THERMAX",
     "name": "Thermax Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19561,36 +19561,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ABREL",
     "name": "Aditya Birla Real Estate Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601995",
     "name": "China International Capital Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601600",
     "name": "Aluminum Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3376",
     "name": "Shin Zu Shing Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "MINDSPACE",
     "name": "Mindspace Business Parks REIT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19603,29 +19603,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002352",
     "name": "SF Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "VFQS",
     "name": "Vodafone Qatar PQSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Qatar",
     "weight": 0.01
   },
   {
     "ticker": "8112",
     "name": "Supreme Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "F&N",
     "name": "Fraser & Neave Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
@@ -19645,29 +19645,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "COLBUN",
     "name": "Colbun SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "ZETRIX",
     "name": "Zetrix Ai Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "6004",
     "name": "Catrion Catering Holding Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "4005",
     "name": "National Medical Care Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -19680,22 +19680,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AEGISLOG",
     "name": "Aegis Logistics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6191",
     "name": "Global Brands Manufacture Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "MGROS.E",
     "name": "Migros Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
@@ -19708,57 +19708,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "INKP",
     "name": "Indah Kiat Pulp & Paper Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "631",
     "name": "Sany Heavy Equipment International Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ZEEL",
     "name": "Zee Entertainment Enterprises Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "HOMEFIRST",
     "name": "Home First Finance Co. India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2607",
     "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "TVSHLTD",
     "name": "TVS Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "9921",
     "name": "Giant Manufacturing Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2421",
     "name": "Sunonwealth Electric Machine Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19771,22 +19771,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6510",
     "name": "Chunghwa Precision Test Tech Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "002463",
     "name": "WUS Printed Circuit Kunshan Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ZENSARTECH",
     "name": "Zensar Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19799,50 +19799,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601088",
     "name": "China Shenhua Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "000166",
     "name": "Shenwan Hongyuan Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ABMB",
     "name": "Alliance Bank Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "ARI",
     "name": "African Rainbow Minerals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "2060",
     "name": "National Industrialization Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "601688",
     "name": "Huatai Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "AWL",
     "name": "AWL Agri Business Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19855,85 +19855,85 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601818",
     "name": "China Everbright Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "DCP",
     "name": "Dis-Chem Pharmacies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "1210",
     "name": "Great Wall Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "1560",
     "name": "Kinik Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "600183",
     "name": "Shengyi Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600887",
     "name": "Inner Mongolia Yili Industrial Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ADNH",
     "name": "Abu Dhabi National Hotels",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "NLCINDIA",
     "name": "NLC India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "570",
     "name": "China Traditional Chinese Medicine Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "POMO4",
     "name": "Marcopolo SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "IRB",
     "name": "IRB Infrastructure Developers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "NCC",
     "name": "NCC Ltd./India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -19946,8 +19946,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3413",
     "name": "Foxsemicon Integrated Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -19960,15 +19960,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2380",
     "name": "Rabigh Refining & Petrochemical Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "603993",
     "name": "CMOC Group Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -19981,43 +19981,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3227",
     "name": "Pixart Imaging Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "GSPL",
     "name": "Gujarat State Petronet Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "LHC",
     "name": "Life Healthcare Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "LULU",
     "name": "Lulu Retail Holdings plc",
-    "sector": "Unknown",
+    "sector": "Consumer Discretionary",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "2276",
     "name": "Shanghai Conant Optical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ATUL",
     "name": "Atul Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20030,15 +20030,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1722",
     "name": "Taiwan Fertilizer Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "603259",
     "name": "WuXi AppTec Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20058,15 +20058,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002460",
     "name": "Ganfeng Lithium Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2646",
     "name": "Starlux Airlines Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -20079,8 +20079,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601229",
     "name": "Bank of Shanghai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20093,15 +20093,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2013",
     "name": "Weimob Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "AADI",
     "name": "Adaro Andalan Indonesia PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -20114,15 +20114,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4763",
     "name": "Jinan Acetate Chemical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "300394",
     "name": "Suzhou TFC Optical Communication Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20135,8 +20135,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GULFNAV",
     "name": "Gulf Navigation Holding PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
@@ -20149,22 +20149,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600905",
     "name": "China Three Gorges Renewables Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6110",
     "name": "Topsports International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PVRINOX",
     "name": "PVR Inox Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20184,22 +20184,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ZFCVINDIA",
     "name": "ZF Commercial Vehicle Control Systems India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2050",
     "name": "Savola Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "4291",
     "name": "National Co. for Learning & Education",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -20219,36 +20219,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600150",
     "name": "China CSSC Holdings Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2006",
     "name": "Tung Ho Steel Enterprise Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "LU",
     "name": "Lufax Holding Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9956",
     "name": "ANE Cayman Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "000063",
     "name": "ZTE Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20261,8 +20261,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600031",
     "name": "Sany Heavy Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20275,8 +20275,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EKGYO.E",
     "name": "Emlak Konut Gayrimenkul Yatirim Ortakligi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
@@ -20296,22 +20296,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6282",
     "name": "AcBel Polytech Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "ALTIJARIA",
     "name": "Commercial Real Estate Co. KSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "3131",
     "name": "Grand Process Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -20324,29 +20324,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PGAS",
     "name": "Perusahaan Gas Negara Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "3596",
     "name": "Arcadyan Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "KIRLOSENG",
     "name": "Kirloskar Oil Engines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "CUB",
     "name": "City Union Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20359,8 +20359,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "INTELLECT",
     "name": "Intellect Design Arena Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20373,29 +20373,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2504",
     "name": "Goldsun Building Materials Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "CEATLTD",
     "name": "Ceat Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1302",
     "name": "Lifetech Scientific Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601601",
     "name": "China Pacific Insurance Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20415,8 +20415,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601689",
     "name": "Ningbo Tuopu Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20429,29 +20429,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601009",
     "name": "Bank of Nanjing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1785",
     "name": "Solar Applied Materials Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2206",
     "name": "Sanyang Motor Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "6055",
     "name": "China Tobacco International HK Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20464,8 +20464,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JPPOWER",
     "name": "Jaiprakash Power Ventures Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20478,85 +20478,85 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1609",
     "name": "Ta Ya Electric Wire & Cable",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "LEMONTREE",
     "name": "Lemon Tree Hotels Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601012",
     "name": "LONGi Green Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "000338",
     "name": "Weichai Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "5904",
     "name": "Poya International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "6278",
     "name": "Taiwan Surface Mounting Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2473",
     "name": "XXF Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3MINDIA",
     "name": "3M India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GTCAP",
     "name": "GT Capital Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "DSTKF.E",
     "name": "Destek Finans Faktoring AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "4003",
     "name": "United Electronics Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "GISS",
     "name": "Gulf International Services QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Qatar",
     "weight": 0.01
   },
   {
@@ -20569,15 +20569,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NAVA",
     "name": "Nava Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "8313",
     "name": "Rasan Information Technology Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -20590,8 +20590,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300408",
     "name": "Chaozhou Three-Circle Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20604,15 +20604,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GRANULES",
     "name": "Granules India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "4001",
     "name": "Abdullah Al Othaim Markets Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -20625,29 +20625,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SUNREIT",
     "name": "Sunway REIT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "601985",
     "name": "China National Nuclear Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PHX",
     "name": "Phoenix Group plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "CML",
     "name": "Coronation Fund Managers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -20660,36 +20660,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TMGH",
     "name": "Talaat Moustafa Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Egypt",
     "weight": 0.01
   },
   {
     "ticker": "2548",
     "name": "Huaku Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "FORCEMOT",
     "name": "Force Motors Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601998",
     "name": "China CITIC Bank Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "GABRIEL",
     "name": "Gabriel India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20702,8 +20702,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1802",
     "name": "Taiwan Glass Industry Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -20716,43 +20716,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AREIT",
     "name": "AREIT Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "6414",
     "name": "Ennoconn Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "ELGIEQUIP",
     "name": "Elgi Equipments Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "3939",
     "name": "Wanguo Gold Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "603501",
     "name": "OmniVision Integrated Circuits Group Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600019",
     "name": "Baoshan Iron & Steel Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20765,8 +20765,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "855",
     "name": "China Water Affairs Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20779,15 +20779,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1322",
     "name": "Al Masane Al Kobra Mining Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "4772",
     "name": "Taiwan Speciality Chemicals Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -20800,50 +20800,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AARTIIND",
     "name": "Aarti Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002027",
     "name": "Focus Media Information Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CRAFTSMAN",
     "name": "Craftsman Automation Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6187",
     "name": "All Ring Tech Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "4150",
     "name": "Arriyadh Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "9958",
     "name": "Century Iron & Steel Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "SNT",
     "name": "Santam Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -20863,8 +20863,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6691",
     "name": "Yankey Engineering Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -20877,29 +20877,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MTH",
     "name": "Motus Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "BRAP4",
     "name": "Bradespar SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "GRINDWELL",
     "name": "Grindwell Norton Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002600",
     "name": "Lingyi iTech Guangdong Co. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -20912,22 +20912,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1830",
     "name": "Leejam Sports Co. JSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "002352",
     "name": "SF Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PIK",
     "name": "Pick n Pay Stores Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -20947,22 +20947,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1314",
     "name": "China Petrochemical Development Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "601985",
     "name": "China National Nuclear Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CREDITACC",
     "name": "CreditAccess Grameen Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -20975,22 +20975,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2080",
     "name": "National Gas & Industrialization Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "EMPOWER",
     "name": "Emirates Central Cooling Systems Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "CHAMBLFERT",
     "name": "Chambal Fertilisers and Chemicals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21003,22 +21003,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601919",
     "name": "COSCO SHIPPING Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2312",
     "name": "Kinpo Electronics",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "CURY3",
     "name": "Cury Construtora e Incorporadora SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -21031,8 +21031,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600016",
     "name": "China Minsheng Banking Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21045,15 +21045,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2015",
     "name": "Feng Hsin Steel Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1199",
     "name": "COSCO SHIPPING Ports Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21066,22 +21066,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2083",
     "name": "Power & Water Utility Co. for Jubail & Yanbu",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "601006",
     "name": "Daqin Railway Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "IGTI11",
     "name": "Iguatemi SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -21094,8 +21094,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1907",
     "name": "YFY Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21108,8 +21108,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603799",
     "name": "Zhejiang Huayou Cobalt Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21122,113 +21122,113 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2637",
     "name": "Wisdom Marine Lines Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "6213",
     "name": "ITEQ Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "6789",
     "name": "VisEra Technologies Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2669",
     "name": "China Overseas Property Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "603986",
     "name": "GigaDevice Semiconductor Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9941",
     "name": "Yulon Finance Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "EIHOTEL",
     "name": "EIH Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002230",
     "name": "Iflytek Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CANFINHOME",
     "name": "Can Fin Homes Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GRSE",
     "name": "Garden Reach Shipbuilders & Engineers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "9917",
     "name": "Taiwan Secom Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "CCU",
     "name": "Cia Cervecerias Unidas SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "123",
     "name": "Yuexiu Property Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TOASO.E",
     "name": "Tofas Turk Otomobil Fabrikasi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "002625",
     "name": "Kuang-Chi Technologies Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9636",
     "name": "JF SmartInvest Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21241,29 +21241,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2186",
     "name": "Luye Pharma Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "PARADEEP",
     "name": "Paradeep Phosphates Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2455",
     "name": "Visual Photonics Epitaxy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "AIA",
     "name": "Athens International Airport SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Greece",
     "weight": 0.01
   },
   {
@@ -21276,22 +21276,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002304",
     "name": "Jiangsu Yanghe Brewery Joint-Stock Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1405",
     "name": "DPC Dash Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6010",
     "name": "National Agriculture Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
@@ -21304,8 +21304,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000895",
     "name": "Henan Shuanghui Investment & Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21318,8 +21318,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ANANTRAJ",
     "name": "Anant Raj Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21332,15 +21332,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002241",
     "name": "GoerTek Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ORBIA*",
     "name": "Orbia Advance Corp. SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
@@ -21353,8 +21353,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "INDIAMART",
     "name": "IndiaMart InterMesh Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21367,57 +21367,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2230",
     "name": "Saudi Chemical Co. Holding",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "8028",
     "name": "Phoenix Silicon International Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "600104",
     "name": "SAIC Motor Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601881",
     "name": "China Galaxy Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "688036",
     "name": "Shenzhen Transsion Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "NATCOPHARM",
     "name": "Natco Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "LMW",
     "name": "LMW Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600031",
     "name": "Sany Heavy Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21437,8 +21437,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600999",
     "name": "China Merchants Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21451,43 +21451,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SOBHA",
     "name": "Sobha Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601225",
     "name": "Shaanxi Coal Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601919",
     "name": "COSCO SHIPPING Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2481",
     "name": "Pan Jit International Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "1579",
     "name": "Yihai International Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "460",
     "name": "Sihuan Pharmaceutical Holdings Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21500,29 +21500,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000425",
     "name": "XCMG Construction Machinery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "688072",
     "name": "Piotech Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601127",
     "name": "Seres Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TKG",
     "name": "Telkom SA SOC Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -21535,8 +21535,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ABLBL",
     "name": "Aditya Birla Lifestyle Brands Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21549,71 +21549,71 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KIB",
     "name": "Kuwait International Bank KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "MGL",
     "name": "Mahanagar Gas Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "5388",
     "name": "Sercomm Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "BURG",
     "name": "Burgan Bank SAK",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "DTC",
     "name": "DataTec Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "002466",
     "name": "Tianqi Lithium Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "GUJGASLTD",
     "name": "Gujarat Gas Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "EL",
     "name": "Societatea Energetica Electrica SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "France",
     "weight": 0.01
   },
   {
     "ticker": "TITAGARH",
     "name": "Titagarh Rail System Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2869",
     "name": "Greentown Service Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21633,15 +21633,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ELPE",
     "name": "HELLENiQ ENERGY Holdings SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Greece",
     "weight": 0.01
   },
   {
     "ticker": "3491",
     "name": "Universal Microwave Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -21654,22 +21654,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2451",
     "name": "Transcend Information Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "APEX",
     "name": "Apex Investment Co. PSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "MIKA",
     "name": "Mitra Keluarga Karyasehat Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -21689,78 +21689,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SAP",
     "name": "Sappi Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Canada",
     "weight": 0.01
   },
   {
     "ticker": "600438",
     "name": "Tongwei Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2439",
     "name": "Merry Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "IOIPG",
     "name": "IOI Properties Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "MOMO",
     "name": "Momo Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "688506",
     "name": "Sichuan Biokin Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1798",
     "name": "China Datang Corp. Renewable Power Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "BPCC",
     "name": "Boubyan Petrochemicals Co. KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "CABLE",
     "name": "Gulf Cables & Electrical Industries Group Co. KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "DATAPATTNS",
     "name": "Data Patterns India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GPIL",
     "name": "Godawari Power and Ispat Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21773,43 +21773,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600010",
     "name": "Inner Mongolia BaoTou Steel Union Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9911",
     "name": "Newborn Town Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "HUMANSOFT",
     "name": "Humansoft Holding Co. KSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "CSNA3",
     "name": "Cia Siderurgica Nacional SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "363",
     "name": "Shanghai Industrial Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "5469",
     "name": "Hannstar Board Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -21822,50 +21822,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3374",
     "name": "XinTec Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "DEVYANI",
     "name": "Devyani International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "EQU",
     "name": "Equites Property Fund Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "3042",
     "name": "TXC Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "BATAINDIA",
     "name": "Bata India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1478",
     "name": "Q Technology Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "HEAL",
     "name": "Medikaloka Hermina Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -21878,8 +21878,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JUBLPHARMA",
     "name": "Jubilant Pharmova Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21899,8 +21899,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6670",
     "name": "Fusheng Precision Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -21920,22 +21920,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TOPGLOV",
     "name": "Top Glove Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "601825",
     "name": "Shanghai Rural Commercial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3339",
     "name": "Lonking Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -21955,15 +21955,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2666",
     "name": "Genertec Universal Medical Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "SWANCORP",
     "name": "Swan Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -21976,106 +21976,106 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JKS",
     "name": "JinkoSolar Holding Co. Ltd. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "POLYMED",
     "name": "Poly Medicure Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2606",
     "name": "U-Ming Marine Transport Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "4260",
     "name": "United International Transportation Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "ERIS",
     "name": "Eris Lifesciences Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "4007",
     "name": "Al Hammadi Holding",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "3030",
     "name": "Saudi Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "STC",
     "name": "Kuwait Telecommunications Co.",
-    "sector": "Unknown",
+    "sector": "Financials",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CHALET",
     "name": "Chalet Hotels Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "TECHNOE",
     "name": "Techno Electric & Engineering Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600415",
     "name": "Zhejiang China Commodities City Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "819",
     "name": "Tianneng Power International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "8016",
     "name": "Sitronix Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "1215",
     "name": "Charoen Pokphand Enterprise",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2867",
     "name": "Mercuries Life Insurance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -22088,43 +22088,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NETWEB",
     "name": "Netweb Technologies India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600000",
     "name": "Shanghai Pudong Development Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3030",
     "name": "Test Research Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "002938",
     "name": "Avary Holding Shenzhen Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2858",
     "name": "Yixin Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "1514",
     "name": "Allis Electric Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -22137,141 +22137,141 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000977",
     "name": "Inspur Electronic Information Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "OMN",
     "name": "Omnia Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "3020",
     "name": "Yamama Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "300502",
     "name": "Eoptolink Technology Inc. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6214",
     "name": "Systex Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "601336",
     "name": "New China Life Insurance Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "GILLETTE",
     "name": "Gillette India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "300442",
     "name": "Range Intelligent Computing Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2233",
     "name": "West China Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "SAPPHIRE",
     "name": "Sapphire Foods India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600406",
     "name": "NARI Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3393",
     "name": "Wasion Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601328",
     "name": "Bank of Communications Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6806",
     "name": "Shenwan Hongyuan Group Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "639",
     "name": "Shougang Fushan Resources Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600188",
     "name": "Yankuang Energy Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "4979",
     "name": "LuxNet Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "HFCL",
     "name": "HFCL Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "6271",
     "name": "Tong Hsing Electronic Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "BEEF3",
     "name": "Minerva SA/Brazil",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -22284,22 +22284,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2363",
     "name": "Silicon Integrated Systems Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "601336",
     "name": "New China Life Insurance Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3006",
     "name": "Elite Semiconductor Microelectronics Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -22312,8 +22312,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601669",
     "name": "Power Construction Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22326,29 +22326,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EXCL",
     "name": "XLSMART Telecom Sejahtera Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "AURE3",
     "name": "Auren Energia SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "PCBL",
     "name": "PCBL CHEMICAL Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "VIVA3",
     "name": "Vivara Participacoes SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -22361,43 +22361,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AIIL",
     "name": "Authum Investment & Infrastucture Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "EDELWEISS",
     "name": "Edelweiss Financial Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "CNPF",
     "name": "Century Pacific Food Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "001979",
     "name": "China Merchants Shekou Industrial Zone Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600418",
     "name": "Anhui Jianghuai Automobile Group Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "603893",
     "name": "Rockchip Electronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22410,8 +22410,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600160",
     "name": "Zhejiang Juhua Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22431,43 +22431,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAINBOW",
     "name": "Rainbow Children's Medicare Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "1951",
     "name": "Jinxin Fertility Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "RCR",
     "name": "RL Commercial REIT Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "SJVN",
     "name": "SJVN Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002493",
     "name": "Rongsheng Petrochemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601939",
     "name": "China Construction Bank Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22480,8 +22480,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OLECTRA",
     "name": "Olectra Greentech Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -22501,106 +22501,106 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AFCONS",
     "name": "Afcons Infrastructure Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GODIGIT",
     "name": "Go Digit General Insurance Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "UNIP6",
     "name": "Unipar Carbocloro SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "WABAG",
     "name": "VA Tech Wabag Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "601727",
     "name": "Shanghai Electric Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2602",
     "name": "Onewo Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "JMFINANCIL",
     "name": "JM Financial Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "8926",
     "name": "Taiwan Cogeneration Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "SANSERA",
     "name": "Sansera Engineering Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "AZZA3",
     "name": "Azzas 2154 SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "NAZARA",
     "name": "Nazara Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2855",
     "name": "President Securities Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "FLRY3",
     "name": "Fleury SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "601318",
     "name": "Ping An Insurance Group Co. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600015",
     "name": "Huaxia Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22613,8 +22613,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SUMICHEM",
     "name": "Sumitomo Chemical India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -22627,29 +22627,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1030",
     "name": "Seazen Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "SONATSOFTW",
     "name": "Sonata Software Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "WBC",
     "name": "We Buy Cars Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Australia",
     "weight": 0.01
   },
   {
     "ticker": "600547",
     "name": "Shandong Gold Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22662,7 +22662,7 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BOX",
     "name": "Boxer Retail Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
@@ -22683,15 +22683,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "8200",
     "name": "Saudi Reinsurance Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "IEX",
     "name": "Indian Energy Exchange Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -22704,15 +22704,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2038",
     "name": "FIH Mobile Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Hong Kong",
     "weight": 0.01
   },
   {
     "ticker": "AEFES.E",
     "name": "Anadolu Efes Biracilik Ve Malt Sanayii AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
@@ -22725,22 +22725,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BSOFT",
     "name": "Birlasoft Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2081",
     "name": "AlKhorayef Water & Power Technologies Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "000963",
     "name": "Huadong Medicine Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22767,22 +22767,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300033",
     "name": "Hithink RoyalFlush Information Network Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "4322",
     "name": "Retal Urban Development Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "5371",
     "name": "Coretronic Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -22795,15 +22795,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2329",
     "name": "Orient Semiconductor Electronics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "2328",
     "name": "Pan-International Industrial Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22823,15 +22823,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4050",
     "name": "Saudi Automotive Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "694",
     "name": "Beijing Capital International Airport Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22844,15 +22844,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TRITURBINE",
     "name": "Triveni Turbine Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "002311",
     "name": "Guangdong Haid Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22872,8 +22872,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BAYERCROP",
     "name": "Bayer CropScience Ltd./India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -22886,22 +22886,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "LABB",
     "name": "Genomma Lab Internacional SAB de CV Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
     "ticker": "000408",
     "name": "Zangge Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "3680",
     "name": "Gudeng Precision Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -22914,8 +22914,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600886",
     "name": "SDIC Power Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -22928,15 +22928,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "DFM",
     "name": "Dubai Financial Market PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.01
   },
   {
     "ticker": "LAMDA",
     "name": "LAMDA Development SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Greece",
     "weight": 0.01
   },
   {
@@ -22963,57 +22963,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1963",
     "name": "Bank of Chongqing Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "000538",
     "name": "Yunnan Baiyao Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "9914",
     "name": "Merida Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "600926",
     "name": "Bank of Hangzhou Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "002371",
     "name": "NAURA Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ZENTEC",
     "name": "Zen Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "ASTOR.E",
     "name": "Astor Transformator Enerji Turizm Insaat Ve Petrol Sanayi Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "VITROX",
     "name": "ViTrox Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
@@ -23026,15 +23026,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601668",
     "name": "China State Construction Engineering Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2145",
     "name": "Shanghai Chicmax Cosmetic Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23054,8 +23054,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CCL",
     "name": "CCL Products India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -23068,78 +23068,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CTALPEKA",
     "name": "Controladora Alpek SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
     "ticker": "STAR",
     "name": "Strides Pharma Science Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "000725",
     "name": "BOE Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ATT",
     "name": "Attacq Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Poland",
     "weight": 0.01
   },
   {
     "ticker": "DMC",
     "name": "DMCI Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "VNET",
     "name": "Vnet Group Inc. ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CMSINFO",
     "name": "CMS Info Systems Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "000617",
     "name": "CNPC Capital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601360",
     "name": "360 Security Technology Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "2381",
     "name": "Arabian Drilling Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "2393",
     "name": "Everlight Electronics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -23152,36 +23152,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "HRHO",
     "name": "EFG Holding S.A.E.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Egypt",
     "weight": 0.01
   },
   {
     "ticker": "4766",
     "name": "Nan Pao Resins Chemical Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "000063",
     "name": "ZTE Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ENTEL",
     "name": "Empresa Nacional de Telecomunicaciones SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "3563",
     "name": "Machvision Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -23194,15 +23194,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600547",
     "name": "Shandong Gold Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601169",
     "name": "Bank of Beijing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23215,8 +23215,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "HEIM",
     "name": "Heineken Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
@@ -23229,78 +23229,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601872",
     "name": "China Merchants Energy Shipping Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "VGUARD",
     "name": "V-Guard Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600887",
     "name": "Inner Mongolia Yili Industrial Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ODPV3",
     "name": "Odontoprev SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "600019",
     "name": "Baoshan Iron & Steel Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "ECL",
     "name": "Engie Energia Chile SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Chile",
     "weight": 0.01
   },
   {
     "ticker": "JSE",
     "name": "JSE Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "ARTO",
     "name": "Bank Jago Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "3714",
     "name": "Ennostar Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "MDIA3",
     "name": "M Dias Branco SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
     "ticker": "TI",
     "name": "Tilaknagar Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -23313,8 +23313,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6606",
     "name": "New Horizon Health Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23327,29 +23327,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3040",
     "name": "Qassim Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "2441",
     "name": "Greatek Electronics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "8422",
     "name": "Cleanaway Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "9933",
     "name": "CTCI Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -23362,43 +23362,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MAVI.E",
     "name": "Mavi Giyim Sanayi Ve Ticaret AS Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "4071",
     "name": "Arabian Contracting Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "4743",
     "name": "Oneness Biotech Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "3014",
     "name": "ITE Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "600028",
     "name": "China Petroleum & Chemical Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601390",
     "name": "China Railway Group Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23425,15 +23425,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600104",
     "name": "SAIC Motor Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "300207",
     "name": "Sunwoda Electronic Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23453,15 +23453,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6188",
     "name": "Quanta Storage Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "ENGINERSIN",
     "name": "Engineers India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -23474,43 +23474,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "LTFOODS",
     "name": "LT Foods Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "2515",
     "name": "BES Engineering Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "KRDMD.E",
     "name": "Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "3899",
     "name": "CIMC Enric Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "TOWR",
     "name": "Sarana Menara Nusantara Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
     "ticker": "6196",
     "name": "Marketech International Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -23530,50 +23530,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6269",
     "name": "FLEXium Interconnect Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "IRCON",
     "name": "IRCON International Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "PGOLD",
     "name": "Puregold Price Club Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
     "ticker": "8454",
     "name": "momo.com Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "1321",
     "name": "East Pipes Integrated Co. for Industry",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "603501",
     "name": "OmniVision Integrated Circuits Group Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "002714",
     "name": "Muyuan Foods Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23593,8 +23593,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000725",
     "name": "BOE Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23607,22 +23607,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2201",
     "name": "Yulon Motor Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.01
   },
   {
     "ticker": "6887",
     "name": "Sunshine Lake Pharma Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "MAPI",
     "name": "Mitra Adiperkasa Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -23649,8 +23649,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6535",
     "name": "Lumosa Therapeutics Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -23663,15 +23663,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "8150",
     "name": "ChipMOS Technologies Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "4123",
     "name": "Center Laboratories Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
@@ -23691,8 +23691,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GMAT3",
     "name": "Grupo Mateus SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -23705,8 +23705,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688396",
     "name": "China Resources Microelectronics Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23719,15 +23719,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SPSETIA",
     "name": "SP Setia Bhd Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.01
   },
   {
     "ticker": "MWC",
     "name": "Manila Water Co. Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Philippines",
     "weight": 0.01
   },
   {
@@ -23740,57 +23740,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "297",
     "name": "Sinofert Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600436",
     "name": "Zhangzhou Pientzehuang Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "7200",
     "name": "Al Moammar Information Systems Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "002050",
     "name": "Zhejiang Sanhua Intelligent Controls Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "BALRAMCHIN",
     "name": "Balrampur Chini Mills Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "MTARTECH",
     "name": "MTAR Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "300999",
     "name": "Yihai Kerry Arawana Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "CIEINDIA",
     "name": "CIE Automotive India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -23810,8 +23810,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601012",
     "name": "LONGi Green Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23824,8 +23824,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NY1",
     "name": "Ninety One Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
@@ -23838,8 +23838,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GOKEX",
     "name": "Gokaldas Exports Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -23852,15 +23852,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SRE",
     "name": "Salhia Real Estate Co. KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Kuwait",
     "weight": 0.01
   },
   {
     "ticker": "VOLARA",
     "name": "Controladora Vuela Cia de Aviacion SAB de CV Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Mexico",
     "weight": 0.01
   },
   {
@@ -23873,15 +23873,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2211",
     "name": "EVERGREEN Steel Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.01
   },
   {
     "ticker": "JPFA",
     "name": "Japfa Comfeed Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.01
   },
   {
@@ -23901,8 +23901,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002532",
     "name": "Tianshan Aluminum Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23915,8 +23915,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "001965",
     "name": "China Merchants Expressway Network & Technology Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23929,8 +23929,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1610",
     "name": "COFCO Joycome Foods Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -23950,8 +23950,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6526",
     "name": "Airoha Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.01
   },
   {
@@ -23964,36 +23964,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "METROPOLIS",
     "name": "Metropolis Healthcare Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "603296",
     "name": "Huaqin Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "4220",
     "name": "Emaar Economic City",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "6078",
     "name": "Hygeia Healthcare Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "NEWGEN",
     "name": "Newgen Software Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -24006,8 +24006,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MGLU3",
     "name": "Magazine Luiza SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.01
   },
   {
@@ -24020,43 +24020,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MEDPLUS",
     "name": "Medplus Health Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "JKLAKSHMI",
     "name": "JK Lakshmi Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GUBRF.E",
     "name": "Gubre Fabrikalari TAS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.01
   },
   {
     "ticker": "6185",
     "name": "CanSino Biologics Inc. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "EMBDL",
     "name": "Embassy Developments Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "AEGN",
     "name": "Aegean Airlines SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Greece",
     "weight": 0.01
   },
   {
@@ -24069,15 +24069,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "APLLTD",
     "name": "Alembic Pharmaceuticals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "SKFINDIA",
     "name": "SKF India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -24097,29 +24097,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "UJJIVANSFB",
     "name": "Ujjivan Small Finance Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "600958",
     "name": "Orient Securities Co. Ltd./China Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "6017",
     "name": "Jahez International Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "SYRMA",
     "name": "Syrma SGS Technology Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.01
   },
   {
@@ -24139,8 +24139,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600489",
     "name": "Zhongjin Gold Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -24153,29 +24153,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002709",
     "name": "Guangzhou Tinci Materials Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "600048",
     "name": "Poly Developments and Holdings Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "4009",
     "name": "Middle East Healthcare Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.01
   },
   {
     "ticker": "600111",
     "name": "China Northern Rare Earth Group High-Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.01
   },
   {
@@ -24188,36 +24188,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BASF",
     "name": "BASF India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.01
   },
   {
     "ticker": "GND",
     "name": "Grindrod Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "South Africa",
     "weight": 0.01
   },
   {
     "ticker": "000100",
     "name": "TCL Technology Group Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.01
   },
   {
     "ticker": "601111",
     "name": "Air China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600150",
     "name": "China CSSC Holdings Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24230,36 +24230,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600745",
     "name": "Wingtech Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "MPI",
     "name": "Malaysian Pacific Industries Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "FINCABLES",
     "name": "Finolex Cables Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600221",
     "name": "Hainan Airlines Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "TURSG.E",
     "name": "Turkiye Sigorta AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -24272,22 +24272,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BPAN4",
     "name": "Banco Pan SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "KPROJ",
     "name": "Kuwait Projects Co. Holding KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Kuwait",
     "weight": 0.0
   },
   {
     "ticker": "NSLNISP",
     "name": "NMDC Steel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24300,22 +24300,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MRVE3",
     "name": "MRV Engenharia e Participacoes SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "1083",
     "name": "Towngas Smart Energy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ISMEN.E",
     "name": "Is Yatirim Menkul Degerler AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -24328,57 +24328,57 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1513",
     "name": "Livzon Pharmaceutical Group Inc. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "2273",
     "name": "Gushengtang Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "CNVRG",
     "name": "Converge Information and Communications Technology Solutions Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Philippines",
     "weight": 0.0
   },
   {
     "ticker": "CARLSBG",
     "name": "Carlsberg Brewery Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "2367",
     "name": "Unitech Printed Circuit Board Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "CLEAN",
     "name": "Clean Science & Technology Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "301269",
     "name": "Empyrean Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "KANSAINER",
     "name": "Kansai Nerolac Paints Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24391,8 +24391,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAKPROP",
     "name": "RAK Properties PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "United Arab Emirates",
     "weight": 0.0
   },
   {
@@ -24405,15 +24405,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1808",
     "name": "Run Long Construction Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "SLCE3",
     "name": "SLC Agricola SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -24426,22 +24426,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600362",
     "name": "Jiangxi Copper Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "FINPIPE",
     "name": "Finolex Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "ASTRAMICRO",
     "name": "Astra Microwave Products Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24454,43 +24454,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603986",
     "name": "GigaDevice Semiconductor Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "TGA",
     "name": "Thungela Resources Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "South Africa",
     "weight": 0.0
   },
   {
     "ticker": "SARDAEN",
     "name": "Sarda Energy & Minerals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "SUNTV",
     "name": "Sun TV Network Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "300866",
     "name": "Anker Innovations Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ULKER.E",
     "name": "Ulker Biskuvi Sanayi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -24517,8 +24517,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002050",
     "name": "Zhejiang Sanhua Intelligent Controls Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24531,8 +24531,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ENERY.E",
     "name": "Enerya Enerji AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -24545,43 +24545,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RATNAMANI",
     "name": "Ratnamani Metals & Tubes Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "SOUTHBANK",
     "name": "South Indian Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "3583",
     "name": "Scientech Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "RLO",
     "name": "Reunert Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "South Africa",
     "weight": 0.0
   },
   {
     "ticker": "IRBR3",
     "name": "IRB-Brasil Resseguros SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "SAFARI",
     "name": "Safari Industries India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24594,8 +24594,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CHENNPETRO",
     "name": "Chennai Petroleum Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24615,8 +24615,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AFE",
     "name": "AECI Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "South Africa",
     "weight": 0.0
   },
   {
@@ -24636,15 +24636,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2903",
     "name": "Far Eastern Department Stores Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "600893",
     "name": "AECC Aviation Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24664,36 +24664,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600089",
     "name": "TBEA Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "LACOMERUBC",
     "name": "La Comer SAB de CV",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Mexico",
     "weight": 0.0
   },
   {
     "ticker": "600919",
     "name": "Bank of Jiangsu Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "PGHL",
     "name": "Procter & Gamble Health Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601319",
     "name": "People's Insurance Co. Group of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24713,85 +24713,85 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CENTURYPLY",
     "name": "Century Plyboards India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "HEG",
     "name": "HEG Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "KIRLOSBROS",
     "name": "Kirloskar Brothers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "000596",
     "name": "Anhui Gujing Distillery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600096",
     "name": "Yunnan Yuntianhua Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ARVIND",
     "name": "Arvind Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "ETEL",
     "name": "Telecom Egypt Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Egypt",
     "weight": 0.0
   },
   {
     "ticker": "000831",
     "name": "China Rare Earth Resources And Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600219",
     "name": "Shandong Nanshan Aluminum Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "TARIL",
     "name": "Transformers & Rectifiers India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "2128",
     "name": "China Lesso Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600016",
     "name": "China Minsheng Banking Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24804,8 +24804,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600009",
     "name": "Shanghai International Airport Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -24818,8 +24818,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PLUS",
     "name": "DigiPlus Interactive Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Philippines",
     "weight": 0.0
   },
   {
@@ -24832,15 +24832,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SMGR",
     "name": "Semen Indonesia Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "2101",
     "name": "Nan Kang Rubber Tire Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -24853,15 +24853,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002202",
     "name": "Xinjiang Goldwind Science & Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "JKTYRE",
     "name": "JK Tyre & Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24874,22 +24874,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OLAELEC",
     "name": "Ola Electric Mobility Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "2467",
     "name": "C Sun Manufacturing Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "ASTRAZEN",
     "name": "AstraZeneca Pharma India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -24902,36 +24902,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SPACE42",
     "name": "Space42 plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "United Arab Emirates",
     "weight": 0.0
   },
   {
     "ticker": "601390",
     "name": "China Railway Group Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2392",
     "name": "Cheng Uei Precision Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "000938",
     "name": "Unisplendour Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "PETKM.E",
     "name": "Petkim Petrokimya Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -24944,8 +24944,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ECOR3",
     "name": "EcoRodovias Infraestrutura e Logistica SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -24972,29 +24972,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4020",
     "name": "Saudi Real Estate Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "601838",
     "name": "Bank of Chengdu Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002049",
     "name": "Unigroup Guoxin Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1448",
     "name": "Fu Shou Yuan International Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25021,15 +25021,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1773",
     "name": "Shiny Chemical Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "MEDC",
     "name": "Medco Energi Internasional Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -25042,8 +25042,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BRSR6",
     "name": "Banco do Estado do Rio Grande do Sul SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -25056,15 +25056,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "USIM5",
     "name": "Usinas Siderurgicas de Minas Gerais SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "300316",
     "name": "Zhejiang Jingsheng Mechanical & Electrical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25077,15 +25077,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VINATIORGA",
     "name": "Vinati Organics Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "002294",
     "name": "Shenzhen Salubris Pharmaceuticals Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25105,22 +25105,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4105",
     "name": "TTY Biopharm Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "7040",
     "name": "Etihad Atheeb Telecommunication Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "RRKABEL",
     "name": "RR Kabel Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -25133,8 +25133,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3010",
     "name": "Wah Lee Industrial Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -25147,15 +25147,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MFCB",
     "name": "Mega First Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "SMU",
     "name": "SMU SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Chile",
     "weight": 0.0
   },
   {
@@ -25168,8 +25168,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002001",
     "name": "Zhejiang NHU Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25196,22 +25196,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OYAKC.E",
     "name": "Oyak Cimento Fabrikalari AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "ARL",
     "name": "Astral Foods Ltd.",
-    "sector": "Unknown",
+    "sector": "Real Estate",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "CONCHATORO",
     "name": "Vina Concha y Toro SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Chile",
     "weight": 0.0
   },
   {
@@ -25224,15 +25224,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "M",
     "name": "MED Life SA",
-    "sector": "Unknown",
+    "sector": "Consumer Discretionary",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "605117",
     "name": "Ningbo Deye Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25245,8 +25245,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TKIM",
     "name": "Pabrik Kertas Tjiwi Kimia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -25259,50 +25259,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300347",
     "name": "Hangzhou Tigermed Consulting Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ABFRL",
     "name": "Aditya Birla Fashion and Retail Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601077",
     "name": "Chongqing Rural Commercial Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1409",
     "name": "Shinkong Synthetic Fibers Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "GPPL",
     "name": "Gujarat Pipavav Port Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "002414",
     "name": "Wuhan Guide Infrared Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3983",
     "name": "China BlueChemical Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25315,36 +25315,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SCI",
     "name": "Shipping Corp. of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "ELECON",
     "name": "Elecon Engineering Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "SCIENTX",
     "name": "Scientex Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "600029",
     "name": "China Southern Airlines Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600585",
     "name": "Anhui Conch Cement Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25378,29 +25378,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VTL",
     "name": "Vardhman Textiles Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601868",
     "name": "China Energy Engineering Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "GNFC",
     "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "000988",
     "name": "Huagong Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25413,15 +25413,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SCC",
     "name": "Semirara Mining & Power Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Philippines",
     "weight": 0.0
   },
   {
     "ticker": "2727",
     "name": "Wowprime Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -25434,22 +25434,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BUKA",
     "name": "Bukalapak.com PT Tbk",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "3592",
     "name": "Raydium Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "000001",
     "name": "Ping An Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25462,29 +25462,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AKTR",
     "name": "Aktor SA Holding Company Technical And Energy Projects",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Greece",
     "weight": 0.0
   },
   {
     "ticker": "2838",
     "name": "Union Bank Of Taiwan",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "601816",
     "name": "Beijing-Shanghai High Speed Railway Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "AZAD",
     "name": "Azad Engineering Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -25497,8 +25497,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "8081",
     "name": "Global Mixed Mode Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -25511,15 +25511,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "5009",
     "name": "Gloria Material Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "000568",
     "name": "Luzhou Laojiao Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25539,22 +25539,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "FWRY",
     "name": "Fawry for Banking & Payment Technology Services SAE",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Egypt",
     "weight": 0.0
   },
   {
     "ticker": "000002",
     "name": "China Vanke Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "NUVOCO",
     "name": "Nuvoco Vistas Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -25567,29 +25567,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "8086",
     "name": "Advanced Wireless Semiconductor Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "ENJSA.E",
     "name": "Enerjisa Enerji AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "600600",
     "name": "Tsingtao Brewery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2070",
     "name": "Saudi Pharmaceutical Industries & Medical Appliances Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -25602,43 +25602,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688303",
     "name": "Xinjiang Daqo New Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "GSFC",
     "name": "Gujarat State Fertilizers & Chemicals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "J&KBANK",
     "name": "Jammu & Kashmir Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "4163",
     "name": "Al-Dawaa Medical Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "600795",
     "name": "GD Power Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2005",
     "name": "SSY Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25651,8 +25651,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600346",
     "name": "Hengli Petrochemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25665,8 +25665,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "301236",
     "name": "Isoftstone Information Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25679,22 +25679,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AARTIPHARM",
     "name": "Aarti Pharmalabs Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601169",
     "name": "Bank of Beijing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "VOLTAMP",
     "name": "Voltamp Transformers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -25707,8 +25707,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002236",
     "name": "Zhejiang Dahua Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25721,8 +25721,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PTBA",
     "name": "Bukit Asam Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -25735,78 +25735,78 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "IFCI",
     "name": "IFCI Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "SANOFI",
     "name": "Sanofi India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "GASMSIA",
     "name": "Gas Malaysia Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "VESUVIUS",
     "name": "Vesuvius India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "2469",
     "name": "Fenbi Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000630",
     "name": "Tongling Nonferrous Metals Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6808",
     "name": "Sun Art Retail Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2204",
     "name": "China Motor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "688120",
     "name": "Hwatsing Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "UDCD",
     "name": "United Development Co. QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Qatar",
     "weight": 0.0
   },
   {
     "ticker": "688122",
     "name": "Western Superconducting Technologies Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25819,29 +25819,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1302",
     "name": "Bawan Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ACE",
     "name": "Action Construction Equipment Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "300122",
     "name": "Chongqing Zhifei Biological Products Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "826",
     "name": "Tiangong International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25861,43 +25861,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601117",
     "name": "China National Chemical Engineering Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600115",
     "name": "China Eastern Airlines Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2359",
     "name": "Solomon Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300251",
     "name": "Beijing Enlight Media Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1313",
     "name": "China Resources Building Materials Technology Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000066",
     "name": "China Greatwall Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -25910,8 +25910,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KSB",
     "name": "KSB Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -25931,29 +25931,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600066",
     "name": "Yutong Bus Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600893",
     "name": "AECC Aviation Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000625",
     "name": "Chongqing Changan Automobile Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "INLOT",
     "name": "Intralot SA-Integrated Information Systems & Gaming Services",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
     "weight": 0.0
   },
   {
@@ -25973,29 +25973,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KIRLPNU",
     "name": "Kirloskar Pneumatic Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "JINDALSAW",
     "name": "Jindal Saw Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "GHCL",
     "name": "GHCL Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "5522",
     "name": "Farglory Land Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26008,36 +26008,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000625",
     "name": "Chongqing Changan Automobile Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "119",
     "name": "Poly Property Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600183",
     "name": "Shengyi Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2208",
     "name": "CSBC Corp. Taiwan",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "3515",
     "name": "ASROCK Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26050,15 +26050,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "PRAJIND",
     "name": "Praj Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "81",
     "name": "China Overseas Grand Oceans Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26071,36 +26071,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9938",
     "name": "Taiwan Paiho Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "000999",
     "name": "China Resources Sanjiu Medical & Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "TANLA",
     "name": "Tanla Platforms Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "TEJASNET",
     "name": "Tejas Networks Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "HAPPSTMNDS",
     "name": "Happiest Minds Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26120,8 +26120,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601818",
     "name": "China Everbright Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26134,8 +26134,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "934",
     "name": "Sinopec Kantons Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26148,8 +26148,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1675",
     "name": "AsiaInfo Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26162,29 +26162,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CTRA",
     "name": "Ciputra Development Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "1536",
     "name": "Hota Industrial Manufacturing Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "GRAPHITE",
     "name": "Graphite India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "4147",
     "name": "TaiMed Biologics Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26204,8 +26204,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6491",
     "name": "Pegavision Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26218,15 +26218,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GREATEC",
     "name": "Greatech Technology Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "3078",
     "name": "Channel Well Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26239,8 +26239,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3306",
     "name": "JNBY Design Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26253,36 +26253,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002736",
     "name": "Guosen Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "4961",
     "name": "Fitipower Integrated Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "AKRA",
     "name": "AKR Corporindo Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "2607",
     "name": "Evergreen International Storage & Transport Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "HCC",
     "name": "Hindustan Construction Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26295,8 +26295,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600489",
     "name": "Zhongjin Gold Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26309,36 +26309,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "327",
     "name": "PAX Global Technology Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Hong Kong",
     "weight": 0.0
   },
   {
     "ticker": "600926",
     "name": "Bank of Hangzhou Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601688",
     "name": "Huatai Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "4114",
     "name": "Synmosa Biopharma Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "5534",
     "name": "Chong Hong Construction Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26351,22 +26351,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AJMANBANK",
     "name": "Ajman Bank PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.0
   },
   {
     "ticker": "002422",
     "name": "Sichuan Kelun Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "CONCORDBIO",
     "name": "Concord Biotech Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26379,22 +26379,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BECTORFOOD",
     "name": "Mrs Bectors Food Specialities Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "HONASA",
     "name": "Honasa Consumer Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "2158",
     "name": "Yidu Tech Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26407,43 +26407,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2486",
     "name": "I-Chiun Precision Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "JYOTHYLAB",
     "name": "Jyothy Labs Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "6116",
     "name": "HannStar Display Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "4161",
     "name": "BinDawood Holding Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "PTC",
     "name": "PTC India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "KOZAL.E",
     "name": "Turk Altin Isletmeleri AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -26463,15 +26463,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600845",
     "name": "Shanghai Baosight Software Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2106",
     "name": "Kenda Rubber Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26484,36 +26484,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600176",
     "name": "China Jushi Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300413",
     "name": "Mango Excellent Media Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300661",
     "name": "SG Micro Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6605",
     "name": "Depo Auto Parts Ind Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "MANYAVAR",
     "name": "Vedant Fashions Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26533,15 +26533,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601901",
     "name": "Founder Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600089",
     "name": "TBEA Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26554,50 +26554,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9802",
     "name": "Fulgent Sun International Holding Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "2388",
     "name": "Via Technologies Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Hong Kong",
     "weight": 0.0
   },
   {
     "ticker": "000807",
     "name": "Yunnan Aluminium Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603392",
     "name": "Beijing Wantai Biological Pharmacy Enterprise Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "AMANAT",
     "name": "Amanat Holdings PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "United Arab Emirates",
     "weight": 0.0
   },
   {
     "ticker": "IAM",
     "name": "Inversiones Aguas Metropolitanas SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Chile",
     "weight": 0.0
   },
   {
     "ticker": "WELSPUNLIV",
     "name": "Welspun Living Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26617,8 +26617,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000975",
     "name": "Yintai Gold Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26638,15 +26638,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MARKSANS",
     "name": "Marksans Pharma Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "MAHLIFE",
     "name": "Mahindra Lifespace Developers Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26659,15 +26659,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AHGAZ.E",
     "name": "Ahlatci Dogal Gaz Dagitim Enerji VE Yatirim AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "603606",
     "name": "Ningbo Orient Wires & Cables Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26687,15 +26687,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1707",
     "name": "Grape King Bio Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "HARTA",
     "name": "Hartalega Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -26722,36 +26722,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KOZAA.E",
     "name": "Koza Anadolu Metal Madencilik Isletmeleri AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "002252",
     "name": "Shanghai RAAS Blood Products Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1440",
     "name": "Tainan Spinning Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "600436",
     "name": "Zhangzhou Pientzehuang Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "BLUEDART",
     "name": "Blue Dart Express Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -26771,29 +26771,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4536",
     "name": "Topkey Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "MBSB",
     "name": "MBSB Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "688126",
     "name": "National Silicon Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1904",
     "name": "Cheng Loong Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26813,15 +26813,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6699",
     "name": "Angelalign Technology Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2428",
     "name": "Thinking Electronic Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26834,22 +26834,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "667",
     "name": "China East Education Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6125",
     "name": "Kenmec Mechanical Engineering Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "2501",
     "name": "Cathay Real Estate Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -26862,15 +26862,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002459",
     "name": "JA Solar Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1736",
     "name": "Johnson Health Tech Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -26890,22 +26890,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MPARK.E",
     "name": "MLP Saglik Hizmetleri AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "601456",
     "name": "Guolian Minsheng Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "506",
     "name": "China Foods Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26918,8 +26918,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AKSA.E",
     "name": "Aksa Akrilik Kimya Sanayii AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -26932,50 +26932,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601009",
     "name": "Bank of Nanjing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3050",
     "name": "Southern Province Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "601633",
     "name": "Great Wall Motor Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1227",
     "name": "Standard Foods Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "600795",
     "name": "GD Power Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6412",
     "name": "Chicony Power Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "601216",
     "name": "Inner Mongolia Junzheng Energy & Chemical Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -26995,15 +26995,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9911",
     "name": "Taiwan Sakura Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ACI",
     "name": "Archean Chemical Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -27023,15 +27023,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600487",
     "name": "Hengtong Optic-electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2314",
     "name": "Lee & Man Paper Manufacturing Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27044,8 +27044,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ADMIE",
     "name": "Holding Co. ADMIE IPTO SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Greece",
     "weight": 0.0
   },
   {
@@ -27058,15 +27058,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2014",
     "name": "Chung Hung Steel Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "2362",
     "name": "Clevo Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27093,8 +27093,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002920",
     "name": "Huizhou Desay Sv Automotive Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27121,15 +27121,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ABCB4",
     "name": "Banco ABC Brasil SA Prior Pfd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "9997",
     "name": "Kangji Medical Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27142,36 +27142,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601788",
     "name": "Everbright Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6146",
     "name": "Sporton International Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "JWL",
     "name": "Jupiter Wagons Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600585",
     "name": "Anhui Conch Cement Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "9907",
     "name": "Ton Yi Industrial Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -27198,8 +27198,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000661",
     "name": "Changchun High & New Technology Industry Group Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27212,29 +27212,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688608",
     "name": "Bestechnic Shanghai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "SAR",
     "name": "Sarantis SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Cash and/or Derivatives",
+    "country": "Greece",
     "weight": 0.0
   },
   {
     "ticker": "002938",
     "name": "Avary Holding Shenzhen Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2897",
     "name": "O-Bank Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -27268,15 +27268,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601377",
     "name": "Industrial Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "754",
     "name": "Hopson Development Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27289,8 +27289,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600839",
     "name": "Sichuan Changhong Electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27303,8 +27303,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MERS",
     "name": "Al Meera Consumer Goods Co. QSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Qatar",
     "weight": 0.0
   },
   {
@@ -27317,22 +27317,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1789",
     "name": "AK Medical Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "688169",
     "name": "Beijing Roborock Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "OTKAR.E",
     "name": "Otokar Otomotiv Ve Savunma Sanayi A.S.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -27345,36 +27345,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2255",
     "name": "Haichang Ocean Park Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300223",
     "name": "Ingenic Semiconductor Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "WESTLIFE",
     "name": "Westlife Foodworld Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600999",
     "name": "China Merchants Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "CTOS",
     "name": "CTOS Digital Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -27387,8 +27387,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "38",
     "name": "First Tractor Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27422,29 +27422,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CIMSA.E",
     "name": "Cimsa Cimento Sanayi VE Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "002601",
     "name": "Lomon Billions Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002074",
     "name": "Gotion High-tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600233",
     "name": "YTO Express Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27464,64 +27464,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TRIDENT",
     "name": "Trident Ltd./India",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "DXCO3",
     "name": "Dexco SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "6178",
     "name": "Everbright Securities Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "600674",
     "name": "Sichuan Chuantou Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600918",
     "name": "Zhongtai Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "INTP",
     "name": "Indocement Tunggal Prakarsa Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "6589",
     "name": "EirGenix Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "RLC",
     "name": "Robinsons Land Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Philippines",
     "weight": 0.0
   },
   {
     "ticker": "839",
     "name": "China Education Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27541,36 +27541,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6592",
     "name": "Hotai Finance Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "600039",
     "name": "Sichuan Road and Bridge Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000783",
     "name": "Changjiang Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2520",
     "name": "Kindom Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "1723",
     "name": "China Steel Chemical Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -27590,8 +27590,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1811",
     "name": "CGN New Energy Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27604,8 +27604,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300765",
     "name": "CSPC Innovation Pharmaceutical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27632,8 +27632,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2040",
     "name": "Saudi Ceramic Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -27646,22 +27646,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002475",
     "name": "Luxshare Precision Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000425",
     "name": "XCMG Construction Machinery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000157",
     "name": "Zoomlion Heavy Industry Science and Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27674,8 +27674,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2023",
     "name": "Yieh Phui Enterprise Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -27702,29 +27702,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9699",
     "name": "Hangzhou SF Intra-City Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "MASTEK",
     "name": "Mastek Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "KOSSAN",
     "name": "Kossan Rubber Industries Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "4919",
     "name": "Nuvoton Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -27751,8 +27751,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6890",
     "name": "Lai Yih Footwear Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -27765,29 +27765,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601319",
     "name": "People's Insurance Co. Group of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "7204",
     "name": "Perfect Presentation For Commercial Services Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "002230",
     "name": "Iflytek Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600584",
     "name": "JCET Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27800,8 +27800,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1666",
     "name": "Tong Ren Tang Technologies Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27821,36 +27821,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6279",
     "name": "Hu Lane Associate Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "002074",
     "name": "Gotion High-tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3545",
     "name": "FocalTech Systems Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "SMTO3",
     "name": "Sao Martinho S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "603288",
     "name": "Foshan Haitian Flavouring & Food Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27863,8 +27863,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600803",
     "name": "ENN Natural Gas Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27884,22 +27884,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601878",
     "name": "Zheshang Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300628",
     "name": "Yealink Network Technology Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "GMMPFAUDLR",
     "name": "GMM Pfaudler Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -27919,22 +27919,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600426",
     "name": "Shandong Hualu Hengsheng Chemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6533",
     "name": "Andes Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "RITES",
     "name": "RITES Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -27954,8 +27954,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1515",
     "name": "China Resources Medical Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -27968,15 +27968,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "777",
     "name": "NetDragon Websoft Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600011",
     "name": "Huaneng Power International Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28003,8 +28003,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300782",
     "name": "Maxscend Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28017,15 +28017,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TSKB.E",
     "name": "Turkiye Sinai Kalkinma Bankasi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "600536",
     "name": "China National Software & Service Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28045,36 +28045,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JUBLINGREA",
     "name": "Jubilant Ingrevia Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "1052",
     "name": "Yuexiu Transport Infrastructure Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601727",
     "name": "Shanghai Electric Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1773",
     "name": "Tianli International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "FINEORG",
     "name": "Fine Organic Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28087,15 +28087,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JAZEERA",
     "name": "Jazeera Airways Co. KSCP",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Kuwait",
     "weight": 0.0
   },
   {
     "ticker": "600703",
     "name": "Sanan Optoelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28108,50 +28108,50 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3617",
     "name": "CyberPower Systems Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "1117",
     "name": "China Modern Dairy Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ACEN",
     "name": "ACEN Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Philippines",
     "weight": 0.0
   },
   {
     "ticker": "NUHCM.E",
     "name": "Nuh Cimento Sanayi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "600115",
     "name": "China Eastern Airlines Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2707",
     "name": "Formosa International Hotels Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "688188",
     "name": "Shanghai BOCHU Electronic Technology Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28171,15 +28171,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GENUSPOWER",
     "name": "Genus Power Infrastructures Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600875",
     "name": "Dongfang Electric Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28192,22 +28192,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BBTN",
     "name": "Bank Tabungan Negara Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "CAP",
     "name": "CAP SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Chile",
     "weight": 0.0
   },
   {
     "ticker": "600733",
     "name": "BAIC BluePark New Energy Technology Co. Ltd. Class Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28234,36 +28234,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6456",
     "name": "General Interface Solution GIS Holding Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "KTKBANK",
     "name": "Karnataka Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "PWON",
     "name": "Pakuwon Jati Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "909",
     "name": "Ming Yuan Cloud Group Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "8415",
     "name": "Brighton-Best International Taiwan Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -28276,29 +28276,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688777",
     "name": "SUPCON Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "688099",
     "name": "Amlogic Shanghai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601696",
     "name": "BOC International China Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600196",
     "name": "Shanghai Fosun Pharmaceutical Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28311,8 +28311,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600570",
     "name": "Hundsun Technologies Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28325,8 +28325,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAILTEL",
     "name": "Railtel Corp. of India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28339,29 +28339,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VMART",
     "name": "V-Mart Retail Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "300418",
     "name": "Kunlun Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "DOAS.E",
     "name": "Dogus Otomotiv Servis ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "RELAXO",
     "name": "Relaxo Footwears Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28381,8 +28381,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601111",
     "name": "Air China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28395,8 +28395,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JSMR",
     "name": "Jasa Marga Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -28409,63 +28409,63 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EQUITASBNK",
     "name": "Equitas Small Finance Bank Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "BIRLACORPN",
     "name": "Birla Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "002736",
     "name": "Guosen Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000301",
     "name": "Jiangsu Eastern Shenghong Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1477",
     "name": "Ocumension Therapeutics",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "4770",
     "name": "Allied Supreme Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "ANSGR.E",
     "name": "Anadolu Anonim Turk Sigorta Sirketi",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "600886",
     "name": "SDIC Power Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "SUI",
     "name": "Sun International Ltd./South Africa",
-    "sector": "Unknown",
+    "sector": "Real Estate",
     "country": "United States",
     "weight": 0.0
   },
@@ -28486,8 +28486,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "FINV",
     "name": "FinVolution Group ADR",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28507,15 +28507,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BLS",
     "name": "BLS International Services Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "000933",
     "name": "Henan Shenhuo Coal Industry & Electricity Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28542,64 +28542,64 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2540",
     "name": "JSL Construction & Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "STLTECH",
     "name": "Sterlite Technologies Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "1434",
     "name": "Formosa Taffeta Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "601607",
     "name": "Shanghai Pharmaceuticals Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "RHIM",
     "name": "Rhi Magnesita India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600741",
     "name": "Huayu Automotive Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600418",
     "name": "Anhui Jianghuai Automobile Group Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603659",
     "name": "Shanghai Putailai New Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300832",
     "name": "Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28619,8 +28619,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6719",
     "name": "UPI Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -28675,8 +28675,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002281",
     "name": "Accelink Technologies Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28689,15 +28689,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BORORENEW",
     "name": "Borosil Renewables Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "300896",
     "name": "Imeik Technology Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28738,8 +28738,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002185",
     "name": "Tianshui Huatian Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28759,8 +28759,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6189",
     "name": "Promate Electronic Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -28780,8 +28780,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NETWORK18",
     "name": "Network18 Media & Investments Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28794,22 +28794,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600346",
     "name": "Hengli Petrochemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "HEKTS.E",
     "name": "Hektas Ticaret TAS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "601618",
     "name": "Metallurgical Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28829,8 +28829,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "DBREALTY",
     "name": "Valor Estate Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28850,29 +28850,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600895",
     "name": "Shanghai Zhangjiang High-Tech Park Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600023",
     "name": "Zhejiang Zheneng Electric Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6550",
     "name": "Polaris Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "002156",
     "name": "TongFu Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28892,8 +28892,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1896",
     "name": "Maoyan Entertainment",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -28913,22 +28913,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002939",
     "name": "China Great Wall Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "1112",
     "name": "Health & Happiness H&H International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Hong Kong",
     "weight": 0.0
   },
   {
     "ticker": "JKPAPER",
     "name": "JK Paper Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -28955,43 +28955,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603486",
     "name": "Ecovacs Robotics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "RTNPOWER",
     "name": "RattanIndia Power Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "RECV3",
     "name": "Petroreconcavo S/A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "600584",
     "name": "JCET Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600460",
     "name": "Hangzhou Silan Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ELECTCAST",
     "name": "Electrosteel Castings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -29025,8 +29025,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300759",
     "name": "Pharmaron Beijing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29046,8 +29046,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VS",
     "name": "VS Industry Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -29060,8 +29060,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601021",
     "name": "Spring Airlines Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29088,29 +29088,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601988",
     "name": "Bank of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "SAREGAMA",
     "name": "Saregama India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "600809",
     "name": "Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "6643",
     "name": "M31 Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -29158,8 +29158,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002648",
     "name": "Zhejiang Satellite Petrochemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29172,8 +29172,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600588",
     "name": "Yonyou Network Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29186,8 +29186,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3060",
     "name": "Yanbu Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -29207,22 +29207,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601211",
     "name": "Guotai Haitong Securities Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "900908",
     "name": "Shanghai Chlor-Alkali Chemical Co. Ltd. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "751",
     "name": "Skyworth Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29235,8 +29235,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600895",
     "name": "Shanghai Zhangjiang High-Tech Park Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29249,8 +29249,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "INFIBEAM",
     "name": "Infibeam Avenues Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -29263,8 +29263,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1907",
     "name": "China Risun Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29277,29 +29277,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BFIN",
     "name": "BFI Finance Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "002142",
     "name": "Bank of Ningbo Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2285",
     "name": "Chervon Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600010",
     "name": "Inner Mongolia BaoTou Steel Union Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29326,15 +29326,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000807",
     "name": "Yunnan Aluminium Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "AGTHIA",
     "name": "Agthia Group PJSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "United Arab Emirates",
     "weight": 0.0
   },
   {
@@ -29347,8 +29347,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SOKM.E",
     "name": "Sok Marketler Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -29361,15 +29361,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002152",
     "name": "GRG Banking Equipment Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601916",
     "name": "China Zheshang Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29382,15 +29382,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601877",
     "name": "Zhejiang Chint Electrics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600011",
     "name": "Huaneng Power International Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29403,8 +29403,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "272",
     "name": "Shui On Land Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29417,29 +29417,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6561",
     "name": "Chief Telecom Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "VIPIND",
     "name": "VIP Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601868",
     "name": "China Energy Engineering Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601857",
     "name": "PetroChina Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29452,29 +29452,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601168",
     "name": "Western Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002353",
     "name": "Yantai Jereh Oilfield Services Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601881",
     "name": "China Galaxy Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600029",
     "name": "China Southern Airlines Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29515,15 +29515,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ALPA4",
     "name": "Alpargatas SA Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "2820",
     "name": "China Bills Finance Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -29536,15 +29536,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601916",
     "name": "China Zheshang Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "EYDAP",
     "name": "Athens Water Supply & Sewage Co. SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "Greece",
     "weight": 0.0
   },
   {
@@ -29578,15 +29578,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAYMONDLSL",
     "name": "Raymond Lifestyle Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "200012",
     "name": "CSG Holding Co. Ltd. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29599,8 +29599,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "WBO",
     "name": "Wilson Bayly Holmes-Ovcon Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "South Africa",
     "weight": 0.0
   },
   {
@@ -29620,8 +29620,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600061",
     "name": "SDIC Capital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29669,43 +29669,43 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "DOHOL.E",
     "name": "Dogan Sirketler Grubu Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "AVANTIFEED",
     "name": "Avanti Feeds Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "TTML",
     "name": "Tata Teleservices Maharashtra Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "4128",
     "name": "Microbio Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "SPG",
     "name": "Super Group Ltd./South Africa",
-    "sector": "Unknown",
+    "sector": "Real Estate",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "TEXRAIL",
     "name": "Texmaco Rail & Engineering Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -29753,8 +29753,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300919",
     "name": "CNGR Advanced Material Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29774,15 +29774,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688538",
     "name": "Everdisplay Optronics Shanghai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2877",
     "name": "China Shineway Pharmaceutical Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29795,8 +29795,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600703",
     "name": "Sanan Optoelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29809,8 +29809,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JBMA",
     "name": "JBM Auto Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -29837,8 +29837,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "357",
     "name": "Hainan Meilan International Airport Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29858,8 +29858,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RBA",
     "name": "Restaurant Brands Asia Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Canada",
     "weight": 0.0
   },
   {
@@ -29893,8 +29893,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SWSOLAR",
     "name": "Sterling and Wilson Renewable",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -29928,15 +29928,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6235",
     "name": "Waffer Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "603939",
     "name": "Yifeng Pharmacy Chain Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29949,15 +29949,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000538",
     "name": "Yunnan Baiyao Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603369",
     "name": "Jiangsu King's Luck Brewery JSC Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29977,8 +29977,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600674",
     "name": "Sichuan Chuantou Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -29991,8 +29991,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2103",
     "name": "TSRC Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -30019,8 +30019,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1516",
     "name": "Sunac Services Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30040,8 +30040,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603596",
     "name": "Bethel Automotive Safety Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30054,8 +30054,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601229",
     "name": "Bank of Shanghai Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30082,8 +30082,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002156",
     "name": "TongFu Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30103,15 +30103,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1202",
     "name": "Middle East Paper Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
     "ticker": "RAIN",
     "name": "Rain Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -30145,15 +30145,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6806",
     "name": "Shinfox Energy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "601198",
     "name": "Dongxing Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30166,15 +30166,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TRGYO.E",
     "name": "Torunlar Gayrimenkul Yatirim Ortakligi AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "601958",
     "name": "Jinduicheng Molybdenum Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30208,15 +30208,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ALKYLAMINE",
     "name": "Alkyl Amines Chemicals",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601238",
     "name": "Guangzhou Automobile Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30229,36 +30229,36 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601108",
     "name": "Caitong Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600515",
     "name": "Hainan Airport Infrastructure Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "INDIACEM",
     "name": "India Cements Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "000876",
     "name": "New Hope Liuhe Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603195",
     "name": "Goneo Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30271,8 +30271,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SFL",
     "name": "Sheela Foam Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -30292,8 +30292,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GRND3",
     "name": "Grendene SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -30334,8 +30334,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688223",
     "name": "Jinko Solar Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30355,8 +30355,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601058",
     "name": "Sailun Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30369,15 +30369,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6104",
     "name": "Genesys Logic Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "4162",
     "name": "Almunajem Foods Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -30390,8 +30390,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BTCIM.E",
     "name": "Baticim Bati Anadolu Cimento Sanayii AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -30411,8 +30411,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601788",
     "name": "Everbright Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30425,8 +30425,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NRE",
     "name": "National Real Estate Co. KPSC",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Kuwait",
     "weight": 0.0
   },
   {
@@ -30439,8 +30439,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3080",
     "name": "Eastern Province Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -30453,8 +30453,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600985",
     "name": "Huaibei Mining Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30481,8 +30481,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600177",
     "name": "Youngor Fashion Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30495,8 +30495,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000728",
     "name": "Guoyuan Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30523,8 +30523,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600438",
     "name": "Tongwei Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30537,8 +30537,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "Z25",
     "name": "Yanlord Land Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Singapore",
     "weight": 0.0
   },
   {
@@ -30558,15 +30558,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601555",
     "name": "SooChow Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ASHOKA",
     "name": "Ashoka Buildcon Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -30579,8 +30579,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "405",
     "name": "Yuexiu REIT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30593,8 +30593,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NATGATE",
     "name": "Nationgate Holdings Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -30607,8 +30607,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600015",
     "name": "Huaxia Bank Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30656,15 +30656,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600958",
     "name": "Orient Securities Co. Ltd./China Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603160",
     "name": "Shenzhen Goodix Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30684,8 +30684,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688728",
     "name": "GalaxyCore Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30712,8 +30712,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002007",
     "name": "Hualan Biological Engineering Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30726,8 +30726,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601689",
     "name": "Ningbo Tuopu Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30754,22 +30754,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "6469",
     "name": "Great Tree Pharmacy Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "6547",
     "name": "Medigen Vaccine Biologics Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "002463",
     "name": "WUS Printed Circuit Kunshan Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30782,22 +30782,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601799",
     "name": "Changzhou Xingyu Automotive Lighting Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ORIENTELEC",
     "name": "Orient Electric Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "603568",
     "name": "Zhejiang Weiming Environment Protection Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30810,15 +30810,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EGEEN.E",
     "name": "EGE Endustri VE Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "SIMH3",
     "name": "SIMPAR SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -30831,29 +30831,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TABGD.E",
     "name": "TAB Gida Sanayi Ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "688223",
     "name": "Jinko Solar Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600522",
     "name": "Jiangsu Zhongtian Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3703",
     "name": "Continental Holdings Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -30873,8 +30873,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "OTOEL",
     "name": "Autohellas Tourist and Trading SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Greece",
     "weight": 0.0
   },
   {
@@ -30887,8 +30887,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "003816",
     "name": "CGN Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30901,29 +30901,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ITMG",
     "name": "Indo Tambangraya Megah Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
     "ticker": "RENUKA",
     "name": "Shree Renuka Sugars Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "ALARK.E",
     "name": "Alarko Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "600109",
     "name": "Sinolink Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30936,15 +30936,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TKFEN.E",
     "name": "Tekfen Holding AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
     "ticker": "002241",
     "name": "GoerTek Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -30978,8 +30978,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TTKPRESTIG",
     "name": "TTK Prestige Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -31027,15 +31027,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600522",
     "name": "Jiangsu Zhongtian Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603260",
     "name": "Hoshine Silicon Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31069,8 +31069,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600741",
     "name": "Huayu Automotive Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31111,22 +31111,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000988",
     "name": "Huagong Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600048",
     "name": "Poly Developments and Holdings Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002648",
     "name": "Satellite Chemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31139,8 +31139,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688082",
     "name": "ACM Research Shanghai Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31174,8 +31174,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BAJAJELEC",
     "name": "Bajaj Electricals Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -31223,8 +31223,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002555",
     "name": "Wuhu Sanqi Interactive Entertainment Network Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31244,15 +31244,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "NIITMTS",
     "name": "NIIT Learning Systems Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "MAHSEAMLES",
     "name": "Maharashtra Seamless Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -31272,8 +31272,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000100",
     "name": "TCL Technology Group Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31293,8 +31293,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600027",
     "name": "Huadian Power International Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31307,8 +31307,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "182",
     "name": "Concord New Energy Group Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31342,8 +31342,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3010",
     "name": "Arabian Cement Co./Saudi Arabia",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -31377,8 +31377,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600161",
     "name": "Beijing Tiantan Biological Products Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31405,8 +31405,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "710",
     "name": "BOE Varitronix Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31419,15 +31419,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600009",
     "name": "Shanghai International Airport Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3362",
     "name": "Ability Opto-Electronics Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -31440,8 +31440,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "003816",
     "name": "CGN Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31454,8 +31454,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601633",
     "name": "Great Wall Motor Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31496,8 +31496,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "VAMO3",
     "name": "Vamos Locacao de Caminhoes Maquinas e Equipamentos SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
@@ -31517,8 +31517,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2192",
     "name": "Medlive Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31531,8 +31531,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "604",
     "name": "Shenzhen Investment Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31580,8 +31580,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2031",
     "name": "Hsin Kuang Steel Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -31594,8 +31594,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ESSA",
     "name": "ESSA Industries Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -31629,22 +31629,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "FESA4",
     "name": "Cia Ferro Ligas da Bahia - Ferbasa Preference Shares",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "600515",
     "name": "Hainan Airport Infrastructure Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601699",
     "name": "Shanxi Lu'an Environmental Energy Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31678,8 +31678,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603659",
     "name": "Shanghai Putailai New Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31692,8 +31692,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601006",
     "name": "Daqin Railway Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31776,8 +31776,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601168",
     "name": "Western Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -31825,15 +31825,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600085",
     "name": "Beijing Tong Ren Tang Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "ALOKINDS",
     "name": "Alok Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -31846,8 +31846,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3003",
     "name": "City Cement Co.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -31874,8 +31874,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "UEMS",
     "name": "UEM Sunrise Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -31993,8 +31993,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "WSKT",
     "name": "Waskita Karya Persero Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -32021,8 +32021,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RALLIS",
     "name": "Rallis India Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -32042,8 +32042,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601567",
     "name": "Ningbo Sanxing Medical Electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32056,15 +32056,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MRCB",
     "name": "Malaysian Resources Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "2121",
     "name": "AInnovation Technology Group Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -32077,8 +32077,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600332",
     "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32147,8 +32147,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601658",
     "name": "Postal Savings Bank of China Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32161,8 +32161,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002311",
     "name": "Guangdong Haid Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32217,8 +32217,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2704",
     "name": "Ambassador Hotel",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -32231,8 +32231,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BSDE",
     "name": "Bumi Serpong Damai Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -32266,15 +32266,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601877",
     "name": "Zhejiang Chint Electrics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000166",
     "name": "Shenwan Hongyuan Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32301,8 +32301,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "MEG",
     "name": "Megaworld Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.0
   },
   {
@@ -32364,8 +32364,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600256",
     "name": "Guanghui Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32392,15 +32392,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688599",
     "name": "Trina Solar Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "KSCL",
     "name": "Kaveri Seed Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -32434,8 +32434,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3319",
     "name": "A-Living Services Co. Ltd. Class H",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32448,8 +32448,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "688082",
     "name": "ACM Research Shanghai Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32525,15 +32525,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1313",
     "name": "UPC Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600570",
     "name": "Hundsun Technologies Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32567,8 +32567,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600153",
     "name": "Xiamen C & D Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32595,8 +32595,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "605499",
     "name": "Eastroc Beverage Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32651,8 +32651,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2010",
     "name": "Chun Yuan Steel Industry Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -32672,8 +32672,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600066",
     "name": "Yutong Bus Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32693,15 +32693,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601865",
     "name": "Flat Glass Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002456",
     "name": "OFILM Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32721,8 +32721,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600196",
     "name": "Shanghai Fosun Pharmaceutical Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32735,15 +32735,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1691",
     "name": "JS Global Lifestyle Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Hong Kong",
     "weight": 0.0
   },
   {
     "ticker": "002673",
     "name": "Western Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32756,8 +32756,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002064",
     "name": "Huafon Chemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32770,8 +32770,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601901",
     "name": "Founder Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32805,15 +32805,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAYMOND",
     "name": "Raymond Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "2587",
     "name": "HealthyWay Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -32938,8 +32938,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002493",
     "name": "Rongsheng Petro Chemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -32959,8 +32959,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000408",
     "name": "Zangge Mining Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33022,8 +33022,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002555",
     "name": "37 Interactive Entertainment Network Technology Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33036,8 +33036,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000301",
     "name": "Jiangsu Eastern Shenghong Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33071,8 +33071,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002223",
     "name": "Jiangsu Yuyue Medical Equipment & Supply Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33099,8 +33099,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002920",
     "name": "Huizhou Desay Sv Automotive Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33120,8 +33120,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2836",
     "name": "Bank of Kaohsiung Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -33246,8 +33246,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000786",
     "name": "Beijing New Building Materials plc Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33267,8 +33267,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600332",
     "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33295,15 +33295,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "8341",
     "name": "Sunny Friend Environmental Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
     "ticker": "600085",
     "name": "Beijing Tong Ren Tang Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33323,8 +33323,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002129",
     "name": "Tianjin Zhonghuan Semiconductor Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33393,8 +33393,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3532",
     "name": "Formosa Sumco Technology Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -33421,8 +33421,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2349",
     "name": "Ritek Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -33449,15 +33449,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603799",
     "name": "Zhejiang Huayou Cobalt Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600875",
     "name": "Dongfang Electric Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33491,8 +33491,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002001",
     "name": "Zhejiang NHU Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33568,15 +33568,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000938",
     "name": "Unisplendour Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000983",
     "name": "Shanxi Xishan Coal & Electricity Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33624,8 +33624,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600369",
     "name": "Southwest Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33666,22 +33666,22 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600415",
     "name": "Zhejiang China Commodities City Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601555",
     "name": "SooChow Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603806",
     "name": "Hangzhou First Applied Material Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33701,15 +33701,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000932",
     "name": "Hunan Valin Steel Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "JAIBALAJI",
     "name": "Jai Balaji Industries Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -33806,8 +33806,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4162",
     "name": "PharmaEngine Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -33855,8 +33855,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601618",
     "name": "Metallurgical Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33939,8 +33939,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300418",
     "name": "Kunlun Tech Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33953,8 +33953,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1458",
     "name": "Zhou Hei Ya International Holdings Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -33981,8 +33981,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SIDO",
     "name": "Industri Jamu Dan Farmasi Sido Muncul Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -34044,8 +34044,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002064",
     "name": "Zhejiang Huafeng Spandex Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34058,8 +34058,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "900901",
     "name": "INESA Intelligent Tech Inc. Class B",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34079,8 +34079,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603806",
     "name": "Hangzhou First Applied Material Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34114,8 +34114,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600027",
     "name": "Huadian Power International Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34142,15 +34142,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600079",
     "name": "Humanwell Healthcare Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "5508",
     "name": "Yungshin Construction & Development Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -34163,8 +34163,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9922",
     "name": "Jiumaojiu International Holdings Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34198,15 +34198,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000983",
     "name": "Shanxi Coking Coal Energy Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601377",
     "name": "Industrial Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34219,15 +34219,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "INTB3",
     "name": "Intelbras SA Industria de Telecomunicacao Eletronica Brasileira",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Brazil",
     "weight": 0.0
   },
   {
     "ticker": "600026",
     "name": "COSCO SHIPPING Energy Transportation Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34247,8 +34247,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ACES",
     "name": "Aspirasi Hidup Indonesia Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -34268,8 +34268,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600176",
     "name": "China Jushi Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34282,8 +34282,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603833",
     "name": "Oppein Home Group Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34303,15 +34303,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300759",
     "name": "Pharmaron Beijing Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "601669",
     "name": "Power Construction Corp. of China Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34324,8 +34324,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600588",
     "name": "Yonyou Network Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34464,8 +34464,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SUPERMX",
     "name": "Supermax Corp. Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
@@ -34492,15 +34492,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002353",
     "name": "Yantai Jereh Oilfield Services Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600460",
     "name": "Hangzhou Silan Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34527,8 +34527,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600362",
     "name": "Jiangxi Copper Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34583,29 +34583,29 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603486",
     "name": "Ecovacs Robotics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "688599",
     "name": "Trina Solar Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "3218",
     "name": "Universal Vision Biotechnology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
     "ticker": "AALI",
     "name": "Astra Agro Lestari Tbk PT",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Indonesia",
     "weight": 0.0
   },
   {
@@ -34653,8 +34653,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600160",
     "name": "Zhejiang Juhua Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34667,8 +34667,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002600",
     "name": "Lingyi iTech Guangdong Co. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34681,8 +34681,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2331",
     "name": "Elitegroup Computer Systems Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34730,8 +34730,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002236",
     "name": "Zhejiang Dahua Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34751,8 +34751,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002027",
     "name": "Focus Media Information Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34786,8 +34786,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "9940",
     "name": "Sinyi Realty Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -34814,8 +34814,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601058",
     "name": "Sailun Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34856,8 +34856,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "SYMPHONY",
     "name": "Symphony Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -34870,8 +34870,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "DNL",
     "name": "D&L Industries Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Australia",
     "weight": 0.0
   },
   {
@@ -34891,8 +34891,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "QUESS",
     "name": "Quess Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -34926,8 +34926,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600905",
     "name": "China Three Gorges Renewables Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34940,8 +34940,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002180",
     "name": "Ninestar Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -34989,8 +34989,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "5478",
     "name": "Soft-World International Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -35010,15 +35010,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "BALAMINES",
     "name": "Balaji Amines Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "000933",
     "name": "Henan Shenhuo Coal Industry & Electricity Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35101,8 +35101,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002304",
     "name": "Jiangsu Yanghe Distillery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35136,8 +35136,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600690",
     "name": "Haier Smart Home Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35157,8 +35157,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000786",
     "name": "Beijing New Building Materials plc Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35185,8 +35185,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "JUSTDIAL",
     "name": "Just Dial Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -35318,15 +35318,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002456",
     "name": "OFILM Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "2723",
     "name": "Gourmet Master Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Taiwan",
     "weight": 0.0
   },
   {
@@ -35353,8 +35353,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000977",
     "name": "IEIT Systems Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35416,8 +35416,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601699",
     "name": "Shanxi Lu'an Environmental Energy Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35465,8 +35465,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1234",
     "name": "China Lilang Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35500,15 +35500,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "RAJESHEXPO",
     "name": "Rajesh Exports Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "India",
     "weight": 0.0
   },
   {
     "ticker": "601838",
     "name": "Bank of Chengdu Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35528,8 +35528,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000617",
     "name": "CNPC Capital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35549,15 +35549,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600233",
     "name": "YTO Express Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002709",
     "name": "Guangzhou Tinci Materials Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35640,15 +35640,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1789",
     "name": "ScinoPharm Taiwan Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "300394",
     "name": "Suzhou TFC Optical Communication Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35717,8 +35717,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000932",
     "name": "Hunan Valin Steel Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35738,8 +35738,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000630",
     "name": "Tongling Nonferrous Metals Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35801,15 +35801,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600803",
     "name": "ENN Natural Gas Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "688126",
     "name": "National Silicon Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35836,8 +35836,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601021",
     "name": "Spring Airlines Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -35955,8 +35955,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600221",
     "name": "Hainan Airlines Holding Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36165,8 +36165,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601888",
     "name": "China Tourism Group Duty Free Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36242,8 +36242,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4164",
     "name": "CHC Healthcare Group",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Saudi Arabia",
     "weight": 0.0
   },
   {
@@ -36340,8 +36340,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600061",
     "name": "SDIC Capital Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36382,15 +36382,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002049",
     "name": "Unigroup Guoxin Microelectronics Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "603369",
     "name": "Jiangsu King's Luck Brewery JSC Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36494,8 +36494,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "TRP",
     "name": "Teraplast SA",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.0
   },
   {
@@ -36578,8 +36578,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600426",
     "name": "Shandong Hualu Hengsheng Chemical Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36592,15 +36592,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002465",
     "name": "Guangzhou Haige Communications Group Inc. Co. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600398",
     "name": "HLA Group Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36627,15 +36627,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2338",
     "name": "Taiwan Mask Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600188",
     "name": "Yankuang Energy Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36648,8 +36648,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000975",
     "name": "Shanjin International Gold Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36690,15 +36690,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000157",
     "name": "Zoomlion Heavy Industry Science and Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "000423",
     "name": "Dong-E-E-Jiao Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36725,8 +36725,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600079",
     "name": "Humanwell Healthcare Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -36767,8 +36767,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600039",
     "name": "Sichuan Road and Bridge Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37026,15 +37026,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002673",
     "name": "Western Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "002129",
     "name": "TCL Zhonghuan Renewable Energy Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37075,8 +37075,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2228",
     "name": "Iron Force Industrial Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37152,8 +37152,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "EUPWR.E",
     "name": "Europower Enerji VE Otomasyon Teknolojileri Sanayi Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -37264,8 +37264,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "4927",
     "name": "Apex International Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -37313,8 +37313,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "GESAN.E",
     "name": "Girsim Elektrik Sanayi Taahut Ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -37327,8 +37327,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "ORIENTCEM",
     "name": "Orient Cement Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "India",
     "weight": 0.0
   },
   {
@@ -37341,8 +37341,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000423",
     "name": "Dong-E-E-Jiao Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37789,15 +37789,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1308",
     "name": "Asia Polymer Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Hong Kong",
     "weight": 0.0
   },
   {
     "ticker": "5471",
     "name": "Sonix Technology Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -37817,8 +37817,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601360",
     "name": "360 Security Technology Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37901,8 +37901,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000783",
     "name": "Changjiang Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -37922,8 +37922,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "2601",
     "name": "First Steamship Co. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38062,8 +38062,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "KCAER.E",
     "name": "Kocaer Celik Sanayi Ve Ticaret AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -38076,8 +38076,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002281",
     "name": "Accelink Technologies Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38090,8 +38090,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002223",
     "name": "Jiangsu Yuyue Medical Equipment & Supply Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38139,15 +38139,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600487",
     "name": "Hengtong Optic-electric Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600256",
     "name": "Guanghui Energy Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38160,8 +38160,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "AKCNS.E",
     "name": "Akcansa Cimento AS",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Turkey",
     "weight": 0.0
   },
   {
@@ -38286,8 +38286,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000876",
     "name": "New Hope Liuhe Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38342,8 +38342,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "605117",
     "name": "Ningbo Deye Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38510,8 +38510,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002465",
     "name": "Guangzhou Haige Communications Group Inc. Co. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38587,8 +38587,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601928",
     "name": "Jiangsu Phoenix Publishing & Media Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38720,15 +38720,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600398",
     "name": "HLA Group Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
     "ticker": "600026",
     "name": "COSCO SHIPPING Energy Transportation Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38825,8 +38825,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "1515",
     "name": "Rexon Industrial Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38895,8 +38895,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "535",
     "name": "Gemdale Properties & Investment Corp. Ltd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -38965,8 +38965,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601958",
     "name": "Jinduicheng Molybdenum Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39126,8 +39126,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002180",
     "name": "Ninestar Corp. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39154,8 +39154,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600660",
     "name": "Fuyao Glass Industry Group Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39175,8 +39175,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002294",
     "name": "Shenzhen Salubris Pharmaceuticals Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39637,8 +39637,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601766",
     "name": "CRRC Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39728,8 +39728,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601878",
     "name": "Zheshang Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39826,8 +39826,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "601928",
     "name": "Jiangsu Phoenix Publishing & Media Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39889,8 +39889,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002939",
     "name": "China Great Wall Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39959,8 +39959,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600536",
     "name": "China National Software & Service Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -39987,8 +39987,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300832",
     "name": "Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40043,8 +40043,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300896",
     "name": "Imeik Technology Development Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40162,8 +40162,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000596",
     "name": "Anhui Gujing Distillery Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40288,8 +40288,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600161",
     "name": "Beijing Tiantan Biological Products Corp. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40407,8 +40407,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "600023",
     "name": "Zhejiang Zheneng Electric Power Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Utilities",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40666,8 +40666,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "000728",
     "name": "Guoyuan Securities Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40848,15 +40848,15 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "CHINHIN",
     "name": "Chin Hin Group Bhd.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Malaysia",
     "weight": 0.0
   },
   {
     "ticker": "688728",
     "name": "GalaxyCore Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -40904,8 +40904,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603160",
     "name": "Shenzhen Goodix Technology Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -41156,8 +41156,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "3141",
     "name": "Ultra Chip Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Staples",
+    "country": "Japan",
     "weight": 0.0
   },
   {
@@ -41268,8 +41268,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "603260",
     "name": "Hoshine Silicon Industry Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -41485,8 +41485,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "001979",
     "name": "China Merchants Shekou Industrial Zone Holdings Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Real Estate",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -41674,8 +41674,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300413",
     "name": "Mango Excellent Media Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -42038,8 +42038,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "300919",
     "name": "CNGR Advanced Material Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {
@@ -42073,8 +42073,8 @@ window.ETF_HOLDINGS['VWO'] = [
   {
     "ticker": "002625",
     "name": "Kuang-Chi Technologies Co. Ltd. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "China",
     "weight": 0.0
   },
   {

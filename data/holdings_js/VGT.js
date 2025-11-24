@@ -3,1043 +3,1043 @@ window.ETF_HOLDINGS['VGT'] = [
   {
     "ticker": "NVDA",
     "name": "NVIDIA Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 18.18
   },
   {
     "ticker": "AAPL",
     "name": "Apple Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 14.29
   },
   {
     "ticker": "MSFT",
     "name": "Microsoft Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 12.93
   },
   {
     "ticker": "AVGO",
     "name": "Broadcom Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 4.48
   },
   {
     "ticker": "PLTR",
     "name": "Palantir Technologies Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 2.09
   },
   {
     "ticker": "ORCL",
     "name": "Oracle Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 2.05
   },
   {
     "ticker": "AMD",
     "name": "Advanced Micro Devices Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 1.97
   },
   {
     "ticker": "CSCO",
     "name": "Cisco Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 1.38
   },
   {
     "ticker": "IBM",
     "name": "International Business Machines Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 1.36
   },
   {
     "ticker": "MU",
     "name": "Micron Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 1.21
   },
   {
     "ticker": "CRM",
     "name": "salesforce.com Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 1.18
   },
   {
     "ticker": "LRCX",
     "name": "Lam Research Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.99
   },
   {
     "ticker": "QCOM",
     "name": "QUALCOMM Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.95
   },
   {
     "ticker": "AMAT",
     "name": "Applied Materials Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.92
   },
   {
     "ticker": "NOW",
     "name": "ServiceNow Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.92
   },
   {
     "ticker": "INTU",
     "name": "Intuit Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.9
   },
   {
     "ticker": "INTC",
     "name": "Intel Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.87
   },
   {
     "ticker": "APH",
     "name": "Amphenol Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Industrials",
     "country": "United States",
     "weight": 0.83
   },
   {
     "ticker": "ANET",
     "name": "Arista Networks Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.82
   },
   {
     "ticker": "KLAC",
     "name": "KLA Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.79
   },
   {
     "ticker": "ACN",
     "name": "Accenture plc Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.76
   },
   {
     "ticker": "PANW",
     "name": "Palo Alto Networks Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.73
   },
   {
     "ticker": "APP",
     "name": "AppLovin Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.72
   },
   {
     "ticker": "TXN",
     "name": "Texas Instruments Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.71
   },
   {
     "ticker": "ADBE",
     "name": "Adobe Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.71
   },
   {
     "ticker": "CRWD",
     "name": "Crowdstrike Holdings Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.68
   },
   {
     "ticker": "ADI",
     "name": "Analog Devices Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.58
   },
   {
     "ticker": "CDNS",
     "name": "Cadence Design Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.47
   },
   {
     "ticker": "SNOW",
     "name": "Snowflake Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.47
   },
   {
     "ticker": "MRVL",
     "name": "Marvell Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.44
   },
   {
     "ticker": "SNPS",
     "name": "Synopsys Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.44
   },
   {
     "ticker": "NET",
     "name": "Cloudflare Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.43
   },
   {
     "ticker": "TEL",
     "name": "TE Connectivity plc",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "Norway",
     "weight": 0.4
   },
   {
     "ticker": "GLW",
     "name": "Corning Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.4
   },
   {
     "ticker": "MSI",
     "name": "Motorola Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.36
   },
   {
     "ticker": "ADSK",
     "name": "Autodesk Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.35
   },
   {
     "ticker": "MSTR",
     "name": "MicroStrategy Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.34
   },
   {
     "ticker": "WDC",
     "name": "Western Digital Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.33
   },
   {
     "ticker": "FTNT",
     "name": "Fortinet Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.32
   },
   {
     "ticker": "STX",
     "name": "Seagate Technology Holdings plc",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.32
   },
   {
     "ticker": "DELL",
     "name": "Dell Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.31
   },
   {
     "ticker": "WDAY",
     "name": "Workday Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.3
   },
   {
     "ticker": "NXPI",
     "name": "NXP Semiconductors NV",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.3
   },
   {
     "ticker": "MPWR",
     "name": "Monolithic Power Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.29
   },
   {
     "ticker": "DDOG",
     "name": "Datadog Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.29
   },
   {
     "ticker": "ROP",
     "name": "Roper Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.27
   },
   {
     "ticker": "FICO",
     "name": "Fair Isaac Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.26
   },
   {
     "ticker": "SNDK",
     "name": "Sandisk Corp./DE",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.25
   },
   {
     "ticker": "CTSH",
     "name": "Cognizant Technology Solutions Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.23
   },
   {
     "ticker": "TER",
     "name": "Teradyne Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.23
   },
   {
     "ticker": "ZS",
     "name": "Zscaler Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.22
   },
   {
     "ticker": "MCHP",
     "name": "Microchip Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.21
   },
   {
     "ticker": "PSTG",
     "name": "Pure Storage Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.21
   },
   {
     "ticker": "CIEN",
     "name": "Ciena Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.21
   },
   {
     "ticker": "KEYS",
     "name": "Keysight Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.21
   },
   {
     "ticker": "HPE",
     "name": "Hewlett Packard Enterprise Co.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.21
   },
   {
     "ticker": "MDB",
     "name": "MongoDB Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.2
   },
   {
     "ticker": "FSLR",
     "name": "First Solar Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.2
   },
   {
     "ticker": "CRDO",
     "name": "Credo Technology Group Holding Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.2
   },
   {
     "ticker": "SMCI",
     "name": "Super Micro Computer Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.19
   },
   {
     "ticker": "TEAM",
     "name": "Atlassian Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.19
   },
   {
     "ticker": "HPQ",
     "name": "HP Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.18
   },
   {
     "ticker": "TWLO",
     "name": "Twilio Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.18
   },
   {
     "ticker": "FLEX",
     "name": "Flex Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.17
   },
   {
     "ticker": "HUBS",
     "name": "HubSpot Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.17
   },
   {
     "ticker": "TDY",
     "name": "Teledyne Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.17
   },
   {
     "ticker": "JBL",
     "name": "Jabil Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.17
   },
   {
     "ticker": "PTC",
     "name": "PTC Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "India",
     "weight": 0.17
   },
   {
     "ticker": "RGTI",
     "name": "Rigetti Computing Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.17
   },
   {
     "ticker": "ZM",
     "name": "Zoom Video Communications Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.16
   },
   {
     "ticker": "NTAP",
     "name": "NetApp Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.16
   },
   {
     "ticker": "ALAB",
     "name": "Astera Labs Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.16
   },
   {
     "ticker": "CDW",
     "name": "CDW Corp./DE",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.16
   },
   {
     "ticker": "COHR",
     "name": "Coherent Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.16
   },
   {
     "ticker": "ON",
     "name": "ON Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Italy",
     "weight": 0.16
   },
   {
     "ticker": "IT",
     "name": "Gartner Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "TYL",
     "name": "Tyler Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "TRMB",
     "name": "Trimble Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "VRSN",
     "name": "VeriSign Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "GWRE",
     "name": "Guidewire Software Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "FN",
     "name": "Fabrinet",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "GDDY",
     "name": "GoDaddy Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.15
   },
   {
     "ticker": "NTNX",
     "name": "Nutanix Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.14
   },
   {
     "ticker": "QBTS",
     "name": "D-Wave Quantum Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.14
   },
   {
     "ticker": "LITE",
     "name": "Lumentum Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.14
   },
   {
     "ticker": "DT",
     "name": "Dynatrace Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.14
   },
   {
     "ticker": "OKTA",
     "name": "Okta Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.13
   },
   {
     "ticker": "IONQ",
     "name": "IonQ Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.13
   },
   {
     "ticker": "ENTG",
     "name": "Entegris Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.13
   },
   {
     "ticker": "APLD",
     "name": "Applied Digital Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "DOCU",
     "name": "DocuSign Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "SNX",
     "name": "SYNNEX Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "GEN",
     "name": "NortonLifeLock Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "United Kingdom",
     "weight": 0.12
   },
   {
     "ticker": "MTSI",
     "name": "MACOM Technology Solutions Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "SWKS",
     "name": "Skyworks Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "IOT",
     "name": "Samsara Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "ZBRA",
     "name": "Zebra Technologies Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "MKSI",
     "name": "MKS Instruments Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "FFIV",
     "name": "F5 Networks Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "RMBS",
     "name": "Rambus Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "TTMI",
     "name": "TTM Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "PATH",
     "name": "UiPath Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.12
   },
   {
     "ticker": "AKAM",
     "name": "Akamai Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "IDCC",
     "name": "InterDigital Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "LSCC",
     "name": "Lattice Semiconductor Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "AEIS",
     "name": "Advanced Energy Industries Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "EPAM",
     "name": "EPAM Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "CORZ",
     "name": "Core Scientific Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "SANM",
     "name": "Sanmina Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "MIR",
     "name": "Mirion Technologies Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "U",
     "name": "Unity Software Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "QRVO",
     "name": "Qorvo Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.11
   },
   {
     "ticker": "CFLT",
     "name": "Confluent Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "PCOR",
     "name": "Procore Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "MANH",
     "name": "Manhattan Associates Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "RIOT",
     "name": "Riot Blockchain Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "CRUS",
     "name": "Cirrus Logic Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "ONTO",
     "name": "Onto Innovation Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "ESTC",
     "name": "Elastic NV",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "RBRK",
     "name": "Rubrik Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "SOUN",
     "name": "SoundHound AI Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "BSY",
     "name": "Bentley Systems Inc. Class B",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "SMTC",
     "name": "Semtech Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "OLED",
     "name": "Universal Display Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "PEGA",
     "name": "Pegasystems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.1
   },
   {
     "ticker": "LIF",
     "name": "Life360 Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Canada",
     "weight": 0.1
   },
   {
     "ticker": "MARA",
     "name": "MARA Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "GTLB",
     "name": "Gitlab Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "PI",
     "name": "Impinj Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "KD",
     "name": "Kyndryl Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "CGNX",
     "name": "Cognex Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "BMI",
     "name": "Badger Meter Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "SITM",
     "name": "SiTime Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "HUT",
     "name": "Hut 8 Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "CLSK",
     "name": "Cleanspark Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "LFUS",
     "name": "Littelfuse Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "DBX",
     "name": "Dropbox Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "RAL",
     "name": "Ralliant Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "ARW",
     "name": "Arrow Electronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "CIFR",
     "name": "Cipher Mining Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "S",
     "name": "SentinelOne Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.09
   },
   {
     "ticker": "APPF",
     "name": "Appfolio Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "WULF",
     "name": "Terawulf Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "VNT",
     "name": "Vontier Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Industrials",
+    "country": "Australia",
     "weight": 0.08
   },
   {
     "ticker": "BILL",
     "name": "Bill.Com Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "Sweden",
     "weight": 0.08
   },
   {
     "ticker": "ACIW",
     "name": "ACI Worldwide Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "CWAN",
     "name": "Clearwater Analytics Holdings Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "BDC",
     "name": "Belden Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "BOX",
     "name": "Box Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
@@ -1053,1127 +1053,1127 @@ window.ETF_HOLDINGS['VGT'] = [
   {
     "ticker": "CRCL",
     "name": "Circle Internet Group Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "NOVT",
     "name": "Novanta Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "QLYS",
     "name": "Qualys Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "AUR",
     "name": "Aurora Innovation Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "OSIS",
     "name": "OSI Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "CCC",
     "name": "CCC Intelligent Solutions Holdings Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Poland",
     "weight": 0.08
   },
   {
     "ticker": "SLAB",
     "name": "Silicon Laboratories Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "FORM",
     "name": "FormFactor Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.08
   },
   {
     "ticker": "ITRI",
     "name": "Itron Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "CVLT",
     "name": "CommVault Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "CALX",
     "name": "Calix Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "WK",
     "name": "Workiva Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "VSAT",
     "name": "ViaSat Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "DLB",
     "name": "Dolby Laboratories Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "AVT",
     "name": "Avnet Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "AMKR",
     "name": "Amkor Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "VIAV",
     "name": "Viavi Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "ENPH",
     "name": "Enphase Energy Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "ALGM",
     "name": "Allegro MicroSystems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "QTWO",
     "name": "Q2 Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "PLXS",
     "name": "Plexus Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.07
   },
   {
     "ticker": "COMM",
     "name": "CommScope Holding Co. Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "TENB",
     "name": "Tenable Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "AMBA",
     "name": "Ambarella Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "QUBT",
     "name": "Quantum Computing Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "AGYS",
     "name": "Agilysys Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "CXT",
     "name": "Crane NXT Co.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "VRNS",
     "name": "Varonis Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "ZETA",
     "name": "Zeta Global Holdings Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "SPSC",
     "name": "SPS Commerce Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.06
   },
   {
     "ticker": "BL",
     "name": "Blackline Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "INFA",
     "name": "Informatica Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "NSIT",
     "name": "Insight Enterprises Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "NCNO",
     "name": "nCino Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "DOCN",
     "name": "DigitalOcean Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "SYNA",
     "name": "Synaptics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "KVYO",
     "name": "Klaviyo Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "DXC",
     "name": "DXC Technology Co.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "ACLS",
     "name": "Axcelis Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.05
   },
   {
     "ticker": "EXTR",
     "name": "Extreme Networks Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "BLKB",
     "name": "Blackbaud Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "DIOD",
     "name": "Diodes Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "YOU",
     "name": "Clear Secure Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Communication Services",
+    "country": "United Kingdom",
     "weight": 0.04
   },
   {
     "ticker": "POWI",
     "name": "Power Integrations Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "ALRM",
     "name": "Alarm.com Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "ACMR",
     "name": "ACM Research Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "AI",
     "name": "C3.ai Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "France",
     "weight": 0.04
   },
   {
     "ticker": "INTA",
     "name": "Intapp Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "IPGP",
     "name": "IPG Photonics Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "RNG",
     "name": "RingCentral Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "FRSH",
     "name": "Freshworks Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "KLIC",
     "name": "Kulicke & Soffa Industries Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "BRZE",
     "name": "Braze Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "SEDG",
     "name": "SolarEdge Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "KN",
     "name": "Knowles Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "BBAI",
     "name": "BigBear.ai Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "ARLO",
     "name": "Arlo Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "NTCT",
     "name": "NetScout Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.04
   },
   {
     "ticker": "ASGN",
     "name": "ASGN Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "PLUS",
     "name": "ePlus Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Consumer Discretionary",
+    "country": "Philippines",
     "weight": 0.03
   },
   {
     "ticker": "NVTS",
     "name": "Navitas Semiconductor Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "AAOI",
     "name": "Applied Optoelectronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "VSH",
     "name": "Vishay Intertechnology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "ADEA",
     "name": "Adeia Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "PRGS",
     "name": "Progress Software Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "RAMP",
     "name": "LiveRamp Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "TDC",
     "name": "Teradata Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "FIVN",
     "name": "Five9 Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "VECO",
     "name": "Veeco Instruments Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "AVPT",
     "name": "AvePoint Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "OUST",
     "name": "Ouster Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "VERX",
     "name": "Vertex Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "BELFB",
     "name": "Bel Fuse Inc. Class B",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "BHE",
     "name": "Benchmark Electronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "NSSC",
     "name": "Napco Security Technologies Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "LASR",
     "name": "nLight Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "VYX",
     "name": "NCR Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "ALKT",
     "name": "Alkami Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "ROG",
     "name": "Rogers Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Health Care",
+    "country": "Switzerland",
     "weight": 0.03
   },
   {
     "ticker": "PLAB",
     "name": "Photronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "PAR",
     "name": "PAR Technology Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.03
   },
   {
     "ticker": "PD",
     "name": "PagerDuty Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Energy",
+    "country": "Canada",
     "weight": 0.02
   },
   {
     "ticker": "DGII",
     "name": "Digi International Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "ATEN",
     "name": "A10 Networks Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "OS",
     "name": "Onestream Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "PGY",
     "name": "Pagaya Technologies Ltd. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "MXL",
     "name": "MaxLinear Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "UCTT",
     "name": "Ultra Clean Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "VRNT",
     "name": "Verint Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "HLIT",
     "name": "Harmonic Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "ASAN",
     "name": "Asana Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "CTS",
     "name": "CTS Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "FSLY",
     "name": "Fastly Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "PENG",
     "name": "Penguin Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "COHU",
     "name": "Cohu Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "RPD",
     "name": "Rapid7 Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "INDI",
     "name": "indie Semiconductor Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "PRCH",
     "name": "Porch Group Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "PRO",
     "name": "PROS Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "NN",
     "name": "NextNav Inc.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Financials",
+    "country": "Netherlands",
     "weight": 0.02
   },
   {
     "ticker": "APPN",
     "name": "Appian Corp. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "NTGR",
     "name": "NETGEAR Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "CXM",
     "name": "Sprinklr Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "JAMF",
     "name": "Jamf Holding Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "SCSC",
     "name": "ScanSource Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "CMPO",
     "name": "CompoSecure Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "PDFS",
     "name": "PDF Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "AMPL",
     "name": "Amplitude Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "DBD",
     "name": "Diebold Nixdorf Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "YEXT",
     "name": "Yext Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.02
   },
   {
     "ticker": "EVLV",
     "name": "Evolv Technologies Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "ICHR",
     "name": "Ichor Holdings Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "ADTN",
     "name": "ADTRAN Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "DAKT",
     "name": "Daktronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "AEHR",
     "name": "Aehr Test Systems",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "IIIV",
     "name": "I3 Verticals Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "AOSL",
     "name": "Alpha & Omega Semiconductor Ltd.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "KE",
     "name": "Kimball Electronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CNXN",
     "name": "PC Connection Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "BLND",
     "name": "Blend Labs Inc. Class A",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Information Technology",
+    "country": "United Kingdom",
     "weight": 0.01
   },
   {
     "ticker": "CEVA",
     "name": "CEVA Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "APPS",
     "name": "Digital Turbine Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "GDYN",
     "name": "Grid Dynamics Holdings Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "AIOT",
     "name": "Powerfleet Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "RDVT",
     "name": "Red Violet Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "NABL",
     "name": "N-able Inc./US",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "LWLG",
     "name": "Lightwave Logic Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CCSI",
     "name": "Consensus Cloud Solutions Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "SPT",
     "name": "Sprout Social Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "DJCO",
     "name": "Daily Journal Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "VPG",
     "name": "Vishay Precision Group Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "DOMO",
     "name": "Domo Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "HCKT",
     "name": "Hackett Group Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "WEAV",
     "name": "Weave Communications Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CRNC",
     "name": "Cerence Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "MITK",
     "name": "Mitek Systems Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CLFD",
     "name": "Clearfield Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "OSPN",
     "name": "OneSpan Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "XRX",
     "name": "Xerox Holdings Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "KODK",
     "name": "Eastman Kodak Co.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CRSR",
     "name": "Corsair Gaming Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "NVEC",
     "name": "NVE Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "RBBN",
     "name": "Ribbon Communications Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "SEMR",
     "name": "SEMrush Holdings Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "CMRC",
     "name": "Commerce.com Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "MVIS",
     "name": "MicroVision Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.01
   },
   {
     "ticker": "XPER",
     "name": "Xperi Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "UIS",
     "name": "Unisys Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "MEI",
     "name": "Methode Electronics Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "SMRT",
     "name": "SmartRent Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "EGHT",
     "name": "8x8 Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "BELFA",
     "name": "Bel Fuse Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "RMNI",
     "name": "Rimini Street Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "DMRC",
     "name": "Digimarc Corp.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "LAW",
     "name": "CS Disco Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "ONTF",
     "name": "ON24 Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "EXOD",
     "name": "Exodus Movement Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "RXT",
     "name": "Rackspace Technology Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "EXFY",
     "name": "Expensify Inc. Class A",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },
   {
     "ticker": "MX",
     "name": "Magnachip Semiconductor Corp.",
-    "sector": "Unknown",
-    "country": "United States",
+    "sector": "Materials",
+    "country": "Canada",
     "weight": 0.0
   },
   {
     "ticker": "PMTS",
     "name": "CPI Card Group Inc.",
-    "sector": "Unknown",
+    "sector": "Information Technology",
     "country": "United States",
     "weight": 0.0
   },

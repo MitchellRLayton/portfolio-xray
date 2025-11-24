@@ -1,0 +1,25 @@
+{
+  "ticker": "IVV",
+  "holdings_count": 508,
+  "total_weight": 99.92,
+  "sector_allocation": {
+    "Information Technology": 34.81,
+    "Financials": 13.02,
+    "Communication Services": 10.27,
+    "Consumer Discretionary": 10.06,
+    "Health Care": 9.79,
+    "Industrials": 8.02,
+    "Consumer Staples": 4.87,
+    "Energy": 2.96,
+    "Utilities": 2.42,
+    "Real Estate": 1.9,
+    "Materials": 1.65,
+    "Cash and/or Derivatives": 0.23
+  },
+  "country_allocation": {
+    "United States": 100.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}

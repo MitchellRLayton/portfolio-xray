@@ -1,0 +1,26 @@
+{
+  "ticker": "USMV",
+  "holdings_count": 175,
+  "total_weight": 99.95,
+  "sector_allocation": {
+    "Information Technology": 28.06,
+    "Health Care": 15.99,
+    "Financials": 14.62,
+    "Consumer Staples": 9.64,
+    "Utilities": 7.35,
+    "Industrials": 7.02,
+    "Consumer Discretionary": 6.33,
+    "Communication Services": 5.65,
+    "Energy": 3.21,
+    "Materials": 1.06,
+    "Real Estate": 0.72,
+    "Cash and/or Derivatives": 0.33
+  },
+  "country_allocation": {
+    "United States": 100.0,
+    "-": 0.0,
+    "Unknown": 0.0
+  },
+  "sector_coverage_pct": 100,
+  "country_coverage_pct": 100.0
+}
